@@ -23,3 +23,9 @@
 2026-04-22T16:36:39+0000 INFO Skipped (district Spandau not in allowlist): ID 16086
 2026-04-22T16:36:39+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16087
 2026-04-22T16:36:39+0000 INFO Skipped (district Spandau not in allowlist): ID 16088
+2026-04-22T17:38:51+0000 INFO Fetched page: 203 total IDs, 10 rendered details
+2026-04-22T17:38:51+0000 INFO 1 new offer(s) found
+2026-04-22T17:38:51+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Teic
+2026-04-22T17:38:51+0000 INFO Notified: ID 16089 — Teichgräberzeile 1, 13627 Charlottenburg-Wilmersdorf
