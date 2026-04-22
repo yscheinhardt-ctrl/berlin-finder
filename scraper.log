@@ -18,3 +18,8 @@
 
 📍 Joachimstraße 
 2026-04-22T15:22:29+0000 INFO Notified: ID 16084 — Joachimstraße 6, 12555 Treptow-Köpenick
+2026-04-22T16:36:39+0000 INFO Fetched page: 203 total IDs, 10 rendered details
+2026-04-22T16:36:39+0000 INFO 3 new offer(s) found
+2026-04-22T16:36:39+0000 INFO Skipped (district Spandau not in allowlist): ID 16086
+2026-04-22T16:36:39+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16087
+2026-04-22T16:36:39+0000 INFO Skipped (district Spandau not in allowlist): ID 16088
