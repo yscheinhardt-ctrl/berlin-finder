@@ -1,2 +1,20 @@
 2026-04-22T14:01:25+0000 INFO Fetched page: 198 total IDs, 10 rendered details
 2026-04-22T14:01:25+0000 INFO 0 new offer(s) found
+2026-04-22T15:22:27+0000 INFO Fetched page: 201 total IDs, 10 rendered details
+2026-04-22T15:22:27+0000 INFO 4 new offer(s) found
+2026-04-22T15:22:28+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Reinickendorf
+
+📍 Roedernallee 118C
+2026-04-22T15:22:28+0000 INFO Notified: ID 16081 — Roedernallee 118C, 13437 Reinickendorf
+2026-04-22T15:22:28+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Treptow-Köpenick
+
+📍 Salvador-Allen
+2026-04-22T15:22:28+0000 INFO Notified: ID 16082 — Salvador-Allende-Straße 68, 12559 Treptow-Köpenick
+2026-04-22T15:22:29+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Spandau
+
+📍 Asnièresstraße 1, 13587
+2026-04-22T15:22:29+0000 INFO Notified: ID 16083 — Asnièresstraße 1, 13587 Spandau
+2026-04-22T15:22:29+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Treptow-Köpenick
+
+📍 Joachimstraße 
+2026-04-22T15:22:29+0000 INFO Notified: ID 16084 — Joachimstraße 6, 12555 Treptow-Köpenick
