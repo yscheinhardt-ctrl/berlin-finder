@@ -1,6 +1,6 @@
 {
   "initialized": true,
-  "districts": [],
+  "districts": ["Mitte", "Friedrichshain-Kreuzberg", "Charlottenburg-Wilmersdorf", "Tempelhof-Schöneberg", "Neukölln"],
   "seen_ids": [
     239,
     325,
