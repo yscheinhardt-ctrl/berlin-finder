@@ -112,3 +112,23 @@
 2026-04-23T11:17:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16115
 2026-04-23T11:17:10+0000 INFO Skipped (district Spandau not in allowlist): ID 16117
 2026-04-23T11:17:10+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16118
+2026-04-23T12:11:22+0000 INFO Fetched page: 212 total IDs, 10 rendered details
+2026-04-23T12:11:22+0000 INFO 6 new offer(s) found
+2026-04-23T12:11:22+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Greizer St
+2026-04-23T12:11:22+0000 INFO Notified: ID 16119 — Greizer Straße 30, 12279 Tempelhof-Schöneberg
+2026-04-23T12:11:22+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Mühlendamm 1, 10179 Mitte
+2026-04-23T12:11:22+0000 INFO Notified: ID 16120 — Mühlendamm 1, 10179 Mitte
+2026-04-23T12:11:22+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16121
+2026-04-23T12:11:23+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Am Mühlenb
+2026-04-23T12:11:23+0000 INFO Notified: ID 16122 — Am Mühlenberg 5, 10825 Tempelhof-Schöneberg
+2026-04-23T12:11:23+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16123
+2026-04-23T12:11:23+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Am Mühlenb
+2026-04-23T12:11:23+0000 INFO Notified: ID 16124 — Am Mühlenberg 5, 10825 Tempelhof-Schöneberg
