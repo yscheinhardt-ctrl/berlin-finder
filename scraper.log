@@ -132,3 +132,36 @@
 
 📍 Am Mühlenb
 2026-04-23T12:11:23+0000 INFO Notified: ID 16124 — Am Mühlenberg 5, 10825 Tempelhof-Schöneberg
+2026-04-23T14:12:36+0000 INFO Fetched page: 216 total IDs, 10 rendered details
+2026-04-23T14:12:36+0000 INFO 12 new offer(s) found
+2026-04-23T14:12:36+0000 WARNING ID 16125 not in top-10 details (>10 new in one window?)
+2026-04-23T14:12:37+0000 INFO Telegram sent: 🏠 New offer (ID 16125) — details not rendered, see site:
+🔗 h
+2026-04-23T14:12:37+0000 WARNING ID 16126 not in top-10 details (>10 new in one window?)
+2026-04-23T14:12:37+0000 INFO Telegram sent: 🏠 New offer (ID 16126) — details not rendered, see site:
+🔗 h
+2026-04-23T14:12:37+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16127
+2026-04-23T14:12:37+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16128
+2026-04-23T14:12:37+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16129
+2026-04-23T14:12:38+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Marian
+2026-04-23T14:12:38+0000 INFO Notified: ID 16130 — Mariannenstraße 53, 10997 Friedrichshain-Kreuzberg
+2026-04-23T14:12:38+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Intzestraß
+2026-04-23T14:12:38+0000 INFO Notified: ID 16131 — Intzestraße 21, 12277 Tempelhof-Schöneberg
+2026-04-23T14:12:38+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Reinickendorfer Straße 31
+2026-04-23T14:12:38+0000 INFO Notified: ID 16132 — Reinickendorfer Straße 31, 13347 Mitte
+2026-04-23T14:12:39+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Krum
+2026-04-23T14:12:39+0000 INFO Notified: ID 16133 — Krumme Straße 77, 10585 Charlottenburg-Wilmersdorf
+2026-04-23T14:12:39+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Großbe
+2026-04-23T14:12:39+0000 INFO Notified: ID 16135 — Großbeerenstraße 3, 10963 Friedrichshain-Kreuzberg
+2026-04-23T14:12:39+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16136
+2026-04-23T14:12:39+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16137
