@@ -50,3 +50,42 @@
 2026-04-23T06:21:30+0000 INFO Skipped (district Pankow not in allowlist): ID 16090
 2026-04-23T06:21:30+0000 INFO Skipped (district Pankow not in allowlist): ID 16091
 2026-04-23T06:21:30+0000 INFO Skipped (district Pankow not in allowlist): ID 16092
+2026-04-23T08:15:24+0000 INFO Fetched page: 207 total IDs, 10 rendered details
+2026-04-23T08:15:24+0000 INFO 11 new offer(s) found
+2026-04-23T08:15:24+0000 WARNING ID 16094 not in top-10 details (>10 new in one window?)
+2026-04-23T08:15:25+0000 INFO Telegram sent: 🏠 New offer (ID 16094) — details not rendered, see site:
+🔗 h
+2026-04-23T08:15:25+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Bruno-Taut-Ring 11B, 1
+2026-04-23T08:15:25+0000 INFO Notified: ID 16095 — Bruno-Taut-Ring 11B, 12359 Neukölln
+2026-04-23T08:15:26+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Bruno-Taut-Ring 17A, 1
+2026-04-23T08:15:26+0000 INFO Notified: ID 16096 — Bruno-Taut-Ring 17A, 12359 Neukölln
+2026-04-23T08:15:26+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Bruno-Taut-Ring 17A, 1
+2026-04-23T08:15:26+0000 INFO Notified: ID 16097 — Bruno-Taut-Ring 17A, 12359 Neukölln
+2026-04-23T08:15:27+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Bruno-Taut-Ring 15A, 1
+2026-04-23T08:15:27+0000 INFO Notified: ID 16098 — Bruno-Taut-Ring 15A, 12359 Neukölln
+2026-04-23T08:15:27+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Glasower Straße 4, 120
+2026-04-23T08:15:27+0000 INFO Notified: ID 16099 — Glasower Straße 4, 12051 Neukölln
+2026-04-23T08:15:27+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16100
+2026-04-23T08:15:28+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Marienfelder Chaussee 
+2026-04-23T08:15:28+0000 INFO Notified: ID 16101 — Marienfelder Chaussee 122, 12349 Neukölln
+2026-04-23T08:15:28+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Am Mühlanger 13, 12349
+2026-04-23T08:15:28+0000 INFO Notified: ID 16102 — Am Mühlanger 13, 12349 Neukölln
+2026-04-23T08:15:28+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16103
+2026-04-23T08:15:29+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Knyphausenweg 4, 12349
+2026-04-23T08:15:29+0000 INFO Notified: ID 16104 — Knyphausenweg 4, 12349 Neukölln
