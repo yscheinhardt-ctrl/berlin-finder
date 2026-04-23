@@ -104,3 +104,11 @@
 
 📍 Martin-Lut
 2026-04-23T09:59:22+0000 INFO Notified: ID 16111 — Martin-Luther-Straße 25, 10777 Tempelhof-Schöneberg
+2026-04-23T11:17:10+0000 INFO Fetched page: 209 total IDs, 10 rendered details
+2026-04-23T11:17:10+0000 INFO 6 new offer(s) found
+2026-04-23T11:17:10+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16112
+2026-04-23T11:17:10+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16113
+2026-04-23T11:17:10+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16114
+2026-04-23T11:17:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16115
+2026-04-23T11:17:10+0000 INFO Skipped (district Spandau not in allowlist): ID 16117
+2026-04-23T11:17:10+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16118
