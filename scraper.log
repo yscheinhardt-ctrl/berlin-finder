@@ -89,3 +89,18 @@
 
 📍 Knyphausenweg 4, 12349
 2026-04-23T08:15:29+0000 INFO Notified: ID 16104 — Knyphausenweg 4, 12349 Neukölln
+2026-04-23T09:59:21+0000 INFO Fetched page: 207 total IDs, 10 rendered details
+2026-04-23T09:59:21+0000 INFO 7 new offer(s) found
+2026-04-23T09:59:21+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16105
+2026-04-23T09:59:21+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16106
+2026-04-23T09:59:21+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16107
+2026-04-23T09:59:21+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16108
+2026-04-23T09:59:22+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Soldiner Straße 71, 13359
+2026-04-23T09:59:22+0000 INFO Notified: ID 16109 — Soldiner Straße 71, 13359 Mitte
+2026-04-23T09:59:22+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16110
+2026-04-23T09:59:22+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Martin-Lut
+2026-04-23T09:59:22+0000 INFO Notified: ID 16111 — Martin-Luther-Straße 25, 10777 Tempelhof-Schöneberg
