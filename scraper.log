@@ -165,3 +165,15 @@
 2026-04-23T14:12:39+0000 INFO Notified: ID 16135 — Großbeerenstraße 3, 10963 Friedrichshain-Kreuzberg
 2026-04-23T14:12:39+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16136
 2026-04-23T14:12:39+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16137
+2026-04-23T17:45:36+0000 INFO Fetched page: 215 total IDs, 10 rendered details
+2026-04-23T17:45:36+0000 INFO 7 new offer(s) found
+2026-04-23T17:45:36+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16138
+2026-04-23T17:45:36+0000 INFO Skipped (district Pankow not in allowlist): ID 16140
+2026-04-23T17:45:36+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16141
+2026-04-23T17:45:36+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16142
+2026-04-23T17:45:36+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16143
+2026-04-23T17:45:36+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16144
+2026-04-23T17:45:36+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Barnetstra
+2026-04-23T17:45:36+0000 INFO Notified: ID 16146 — Barnetstraße 81, 12305 Tempelhof-Schöneberg
