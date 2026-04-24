@@ -193,3 +193,21 @@
 2026-04-24T01:10:45+0000 INFO 0 new offer(s) found
 2026-04-24T04:26:59+0000 INFO Fetched page: 207 total IDs, 10 rendered details
 2026-04-24T04:26:59+0000 INFO 0 new offer(s) found
+2026-04-24T06:26:16+0000 INFO Fetched page: 209 total IDs, 10 rendered details
+2026-04-24T06:26:16+0000 INFO 11 new offer(s) found
+2026-04-24T06:26:16+0000 WARNING ID 16147 not in top-10 details (>10 new in one window?)
+2026-04-24T06:26:16+0000 INFO Telegram sent: 🏠 New offer (ID 16147) — details not rendered, see site:
+🔗 h
+2026-04-24T06:26:16+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16148
+2026-04-24T06:26:17+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Soldiner Straße 71, 13359
+2026-04-24T06:26:17+0000 INFO Notified: ID 16149 — Soldiner Straße 71, 13359 Mitte
+2026-04-24T06:26:17+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16150
+2026-04-24T06:26:17+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16151
+2026-04-24T06:26:17+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16152
+2026-04-24T06:26:17+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16153
+2026-04-24T06:26:17+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16154
+2026-04-24T06:26:17+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16155
+2026-04-24T06:26:17+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16156
+2026-04-24T06:26:17+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16157
