@@ -259,3 +259,21 @@
 
 📍 Stralsunder Straße 61, 13
 2026-04-24T08:31:53+0000 INFO Notified: ID 16176 — Stralsunder Straße 61, 13355 Mitte
+2026-04-24T10:10:07+0000 INFO Fetched page: 216 total IDs, 10 rendered details
+2026-04-24T10:10:07+0000 INFO 10 new offer(s) found
+2026-04-24T10:10:08+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Hildburgha
+2026-04-24T10:10:08+0000 INFO Notified: ID 16177 — Hildburghauser Straße 29A, 12279 Tempelhof-Schöneberg
+2026-04-24T10:10:08+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16178
+2026-04-24T10:10:08+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16179
+2026-04-24T10:10:08+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16180
+2026-04-24T10:10:08+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Gensweg 10, 12349 Neuk
+2026-04-24T10:10:08+0000 INFO Notified: ID 16181 — Gensweg 10, 12349 Neukölln
+2026-04-24T10:10:08+0000 INFO Skipped (district Pankow not in allowlist): ID 16182
+2026-04-24T10:10:08+0000 INFO Skipped (district Pankow not in allowlist): ID 16183
+2026-04-24T10:10:08+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16184
+2026-04-24T10:10:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16185
+2026-04-24T10:10:08+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 16186
