@@ -198,14 +198,15 @@ def send_telegram(text: str) -> None:
         log.error("Telegram send failed: %s", exc)
 
 
-def format_message(info: dict) -> str:
+def format_message(info: dict, apt_id: int) -> str:
     district_label = info["district"] if info["district"] else "unbekannter Bezirk"
+    link = f"{FINDER_URL}#apartment-{apt_id}"
     return (
         f"🏠 Neues Wohnungsangebot — {district_label}\n\n"
         f"📍 {info['address']}\n"
         f"📐 {info['area']} m²   🛏 {info['rooms']} Zimmer\n"
         f"💶 {info['price']} € Kaltmiete\n\n"
-        f"🔗 {FINDER_URL}"
+        f"🔗 {link}"
     )
 
 
@@ -268,7 +269,7 @@ def main() -> None:
             continue
 
         if district_allowed(info["district"], state["districts"]):
-            send_telegram(format_message(info))
+            send_telegram(format_message(info, nid))
             log.info("Notified: ID %d — %s", nid, info["address"])
         else:
             log.info("Skipped (district %s not in allowlist): ID %d", info["district"], nid)
