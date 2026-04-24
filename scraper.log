@@ -277,3 +277,14 @@
 2026-04-24T10:10:08+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16184
 2026-04-24T10:10:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16185
 2026-04-24T10:10:08+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 16186
+2026-04-24T11:34:13+0000 INFO Fetched page: 219 total IDs, 10 rendered details
+2026-04-24T11:34:13+0000 INFO 6 new offer(s) found
+2026-04-24T11:34:13+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16188
+2026-04-24T11:34:14+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Frauenfelder Weg 9, 13407
+2026-04-24T11:34:14+0000 INFO Notified: ID 16189 — Frauenfelder Weg 9, 13407 Mitte
+2026-04-24T11:34:14+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16191
+2026-04-24T11:34:14+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16192
+2026-04-24T11:34:14+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16193
+2026-04-24T11:34:14+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16195
