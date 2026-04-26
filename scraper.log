@@ -408,3 +408,9 @@
 2026-04-26T16:52:47+0000 INFO 0 new offer(s) found
 2026-04-26T17:33:02+0000 INFO Fetched page: 215 total IDs, 10 rendered details
 2026-04-26T17:33:02+0000 INFO 0 new offer(s) found
+2026-04-26T18:08:33+0000 INFO Fetched page: 215 total IDs, 10 rendered details
+2026-04-26T18:08:33+0000 INFO 1 new offer(s) found
+2026-04-26T18:08:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Forddamm 4
+2026-04-26T18:08:34+0000 INFO Notified: ID 16213 — Forddamm 4, 12107 Tempelhof-Schöneberg
