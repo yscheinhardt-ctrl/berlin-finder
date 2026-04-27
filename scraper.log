@@ -440,3 +440,27 @@
 📍 Theodor-Loos-Weg 1, 12
 2026-04-27T06:37:01+0000 INFO Notified: ID 16215 — Theodor-Loos-Weg 1, 12353 Neukölln
 2026-04-27T06:37:01+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16216
+2026-04-27T09:07:38+0000 INFO Fetched page: 213 total IDs, 10 rendered details
+2026-04-27T09:07:38+0000 INFO 11 new offer(s) found
+2026-04-27T09:07:38+0000 WARNING ID 16217 not in top-10 details (>10 new in one window?)
+2026-04-27T09:07:38+0000 INFO Telegram sent: 🏠 New offer (ID 16217) — details not rendered, see site:
+🔗 h
+2026-04-27T09:07:38+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16218
+2026-04-27T09:07:39+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Klara-Franke-Straße 6, 10
+2026-04-27T09:07:39+0000 INFO Notified: ID 16219 — Klara-Franke-Straße 6, 10557 Mitte
+2026-04-27T09:07:39+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16220
+2026-04-27T09:07:39+0000 INFO Skipped (district Pankow not in allowlist): ID 16221
+2026-04-27T09:07:39+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16222
+2026-04-27T09:07:39+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16223
+2026-04-27T09:07:39+0000 INFO Skipped (district Pankow not in allowlist): ID 16224
+2026-04-27T09:07:39+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Liebig
+2026-04-27T09:07:39+0000 INFO Notified: ID 16225 — Liebigstraße 2, 10247 Friedrichshain-Kreuzberg
+2026-04-27T09:07:39+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Aroser Allee 30, 13407 Mi
+2026-04-27T09:07:39+0000 INFO Notified: ID 16226 — Aroser Allee 30, 13407 Mitte
+2026-04-27T09:07:39+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16227
