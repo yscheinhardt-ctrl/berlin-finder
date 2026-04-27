@@ -521,3 +521,21 @@
 
 📍 Soldiner Straße 71, 13359
 2026-04-27T12:54:47+0000 INFO Notified: ID 16251 — Soldiner Straße 71, 13359 Mitte
+2026-04-27T15:06:28+0000 INFO Fetched page: 213 total IDs, 10 rendered details
+2026-04-27T15:06:28+0000 INFO 7 new offer(s) found
+2026-04-27T15:06:28+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Soldiner Straße 71, 13359
+2026-04-27T15:06:28+0000 INFO Notified: ID 16252 — Soldiner Straße 71, 13359 Mitte
+2026-04-27T15:06:28+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Armenische Straße 7, 1334
+2026-04-27T15:06:28+0000 INFO Notified: ID 16253 — Armenische Straße 7, 13349 Mitte
+2026-04-27T15:06:29+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Wilhel
+2026-04-27T15:06:29+0000 INFO Notified: ID 16255 — Wilhelmstraße 3, 10963 Friedrichshain-Kreuzberg
+2026-04-27T15:06:29+0000 INFO Skipped (district Spandau not in allowlist): ID 16256
+2026-04-27T15:06:29+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16258
+2026-04-27T15:06:29+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16259
+2026-04-27T15:06:29+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16260
