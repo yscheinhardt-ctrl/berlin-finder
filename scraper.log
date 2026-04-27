@@ -464,3 +464,18 @@
 📍 Aroser Allee 30, 13407 Mi
 2026-04-27T09:07:39+0000 INFO Notified: ID 16226 — Aroser Allee 30, 13407 Mitte
 2026-04-27T09:07:39+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16227
+2026-04-27T11:16:49+0000 INFO Fetched page: 210 total IDs, 10 rendered details
+2026-04-27T11:16:49+0000 INFO 7 new offer(s) found
+2026-04-27T11:16:49+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16228
+2026-04-27T11:16:49+0000 INFO Skipped (district Pankow not in allowlist): ID 16229
+2026-04-27T11:16:49+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Iranische Straße 4B, 1334
+2026-04-27T11:16:49+0000 INFO Notified: ID 16230 — Iranische Straße 4B, 13347 Mitte
+2026-04-27T11:16:49+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16231
+2026-04-27T11:16:49+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16232
+2026-04-27T11:16:49+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16233
+2026-04-27T11:16:50+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Heck
+2026-04-27T11:16:50+0000 INFO Notified: ID 16234 — Heckerdamm 217, 13627 Charlottenburg-Wilmersdorf
