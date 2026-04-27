@@ -479,3 +479,45 @@
 
 📍 Heck
 2026-04-27T11:16:50+0000 INFO Notified: ID 16234 — Heckerdamm 217, 13627 Charlottenburg-Wilmersdorf
+2026-04-27T12:54:44+0000 INFO Fetched page: 217 total IDs, 10 rendered details
+2026-04-27T12:54:44+0000 INFO 16 new offer(s) found
+2026-04-27T12:54:44+0000 WARNING ID 16235 not in top-10 details (>10 new in one window?)
+2026-04-27T12:54:44+0000 INFO Telegram sent: 🏠 New offer (ID 16235) — details not rendered, see site:
+🔗 h
+2026-04-27T12:54:44+0000 WARNING ID 16236 not in top-10 details (>10 new in one window?)
+2026-04-27T12:54:45+0000 INFO Telegram sent: 🏠 New offer (ID 16236) — details not rendered, see site:
+🔗 h
+2026-04-27T12:54:45+0000 WARNING ID 16237 not in top-10 details (>10 new in one window?)
+2026-04-27T12:54:45+0000 INFO Telegram sent: 🏠 New offer (ID 16237) — details not rendered, see site:
+🔗 h
+2026-04-27T12:54:45+0000 WARNING ID 16239 not in top-10 details (>10 new in one window?)
+2026-04-27T12:54:45+0000 INFO Telegram sent: 🏠 New offer (ID 16239) — details not rendered, see site:
+🔗 h
+2026-04-27T12:54:45+0000 WARNING ID 16240 not in top-10 details (>10 new in one window?)
+2026-04-27T12:54:46+0000 INFO Telegram sent: 🏠 New offer (ID 16240) — details not rendered, see site:
+🔗 h
+2026-04-27T12:54:46+0000 WARNING ID 16241 not in top-10 details (>10 new in one window?)
+2026-04-27T12:54:46+0000 INFO Telegram sent: 🏠 New offer (ID 16241) — details not rendered, see site:
+🔗 h
+2026-04-27T12:54:46+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16242
+2026-04-27T12:54:46+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16243
+2026-04-27T12:54:46+0000 INFO Skipped (district Pankow not in allowlist): ID 16244
+2026-04-27T12:54:46+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Kiss
+2026-04-27T12:54:46+0000 INFO Notified: ID 16245 — Kissinger Straße 25, 14199 Charlottenburg-Wilmersdorf
+2026-04-27T12:54:47+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Soldiner Straße 71, 13359
+2026-04-27T12:54:47+0000 INFO Notified: ID 16246 — Soldiner Straße 71, 13359 Mitte
+2026-04-27T12:54:47+0000 INFO Skipped (district Pankow not in allowlist): ID 16247
+2026-04-27T12:54:47+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16248
+2026-04-27T12:54:47+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Soldiner Straße 71, 13359
+2026-04-27T12:54:47+0000 INFO Notified: ID 16249 — Soldiner Straße 71, 13359 Mitte
+2026-04-27T12:54:47+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16250
+2026-04-27T12:54:47+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Soldiner Straße 71, 13359
+2026-04-27T12:54:47+0000 INFO Notified: ID 16251 — Soldiner Straße 71, 13359 Mitte
