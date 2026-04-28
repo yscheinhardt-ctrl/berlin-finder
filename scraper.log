@@ -669,3 +669,13 @@
 2026-04-28T13:14:58+0000 INFO Notified: ID 16307 — Karl-Liebknecht-Straße 11, 10178 Mitte
 2026-04-28T13:14:58+0000 INFO Skipped (district Spandau not in allowlist): ID 16308
 2026-04-28T13:14:58+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16309
+2026-04-28T15:39:54+0000 INFO Fetched page: 217 total IDs, 10 rendered details
+2026-04-28T15:39:54+0000 INFO 5 new offer(s) found
+2026-04-28T15:39:54+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16310
+2026-04-28T15:39:54+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16311
+2026-04-28T15:39:54+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Gensweg 10, 12349 Neuk
+2026-04-28T15:39:54+0000 INFO Notified: ID 16312 — Gensweg 10, 12349 Neukölln
+2026-04-28T15:39:54+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16313
+2026-04-28T15:39:54+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16314
