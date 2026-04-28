@@ -559,3 +559,42 @@
 2026-04-28T01:18:37+0000 INFO 0 new offer(s) found
 2026-04-28T04:47:08+0000 INFO Fetched page: 197 total IDs, 10 rendered details
 2026-04-28T04:47:08+0000 INFO 0 new offer(s) found
+2026-04-28T07:22:38+0000 INFO Fetched page: 203 total IDs, 10 rendered details
+2026-04-28T07:22:38+0000 INFO 12 new offer(s) found
+2026-04-28T07:22:38+0000 WARNING ID 16264 not in top-10 details (>10 new in one window?)
+2026-04-28T07:22:38+0000 INFO Telegram sent: 🏠 New offer (ID 16264) — details not rendered, see site:
+🔗 h
+2026-04-28T07:22:38+0000 WARNING ID 16265 not in top-10 details (>10 new in one window?)
+2026-04-28T07:22:39+0000 INFO Telegram sent: 🏠 New offer (ID 16265) — details not rendered, see site:
+🔗 h
+2026-04-28T07:22:39+0000 INFO Skipped (district Pankow not in allowlist): ID 16266
+2026-04-28T07:22:39+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Wilhel
+2026-04-28T07:22:39+0000 INFO Notified: ID 16267 — Wilhelmstraße 3, 10963 Friedrichshain-Kreuzberg
+2026-04-28T07:22:39+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Wutzkyallee 47, 12353 
+2026-04-28T07:22:39+0000 INFO Notified: ID 16268 — Wutzkyallee 47, 12353 Neukölln
+2026-04-28T07:22:40+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Lichtenberger Straße 11, 
+2026-04-28T07:22:40+0000 INFO Notified: ID 16269 — Lichtenberger Straße 11, 10178 Mitte
+2026-04-28T07:22:40+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Karl-Liebknecht-Straße 7,
+2026-04-28T07:22:40+0000 INFO Notified: ID 16270 — Karl-Liebknecht-Straße 7, 10178 Mitte
+2026-04-28T07:22:40+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Caue
+2026-04-28T07:22:40+0000 INFO Notified: ID 16271 — Cauerstraße 6, 10587 Charlottenburg-Wilmersdorf
+2026-04-28T07:22:41+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Wilhel
+2026-04-28T07:22:41+0000 INFO Notified: ID 16272 — Wilhelmstraße 2, 10963 Friedrichshain-Kreuzberg
+2026-04-28T07:22:41+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Wilhel
+2026-04-28T07:22:41+0000 INFO Notified: ID 16273 — Wilhelmstraße 3, 10963 Friedrichshain-Kreuzberg
+2026-04-28T07:22:41+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16274
+2026-04-28T07:22:41+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16275
