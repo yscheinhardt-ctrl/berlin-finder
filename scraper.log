@@ -679,3 +679,6 @@
 2026-04-28T15:39:54+0000 INFO Notified: ID 16312 — Gensweg 10, 12349 Neukölln
 2026-04-28T15:39:54+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16313
 2026-04-28T15:39:54+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16314
+2026-04-28T17:21:12+0000 INFO Fetched page: 215 total IDs, 10 rendered details
+2026-04-28T17:21:12+0000 INFO 1 new offer(s) found
+2026-04-28T17:21:12+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16315
