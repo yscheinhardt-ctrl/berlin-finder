@@ -598,3 +598,48 @@
 2026-04-28T07:22:41+0000 INFO Notified: ID 16273 — Wilhelmstraße 3, 10963 Friedrichshain-Kreuzberg
 2026-04-28T07:22:41+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16274
 2026-04-28T07:22:41+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16275
+2026-04-28T09:39:30+0000 INFO Fetched page: 210 total IDs, 10 rendered details
+2026-04-28T09:39:30+0000 INFO 17 new offer(s) found
+2026-04-28T09:39:30+0000 WARNING ID 16277 not in top-10 details (>10 new in one window?)
+2026-04-28T09:39:30+0000 INFO Telegram sent: 🏠 New offer (ID 16277) — details not rendered, see site:
+🔗 h
+2026-04-28T09:39:30+0000 WARNING ID 16278 not in top-10 details (>10 new in one window?)
+2026-04-28T09:39:31+0000 INFO Telegram sent: 🏠 New offer (ID 16278) — details not rendered, see site:
+🔗 h
+2026-04-28T09:39:31+0000 WARNING ID 16279 not in top-10 details (>10 new in one window?)
+2026-04-28T09:39:31+0000 INFO Telegram sent: 🏠 New offer (ID 16279) — details not rendered, see site:
+🔗 h
+2026-04-28T09:39:31+0000 WARNING ID 16280 not in top-10 details (>10 new in one window?)
+2026-04-28T09:39:31+0000 INFO Telegram sent: 🏠 New offer (ID 16280) — details not rendered, see site:
+🔗 h
+2026-04-28T09:39:31+0000 WARNING ID 16281 not in top-10 details (>10 new in one window?)
+2026-04-28T09:39:32+0000 INFO Telegram sent: 🏠 New offer (ID 16281) — details not rendered, see site:
+🔗 h
+2026-04-28T09:39:32+0000 WARNING ID 16282 not in top-10 details (>10 new in one window?)
+2026-04-28T09:39:32+0000 INFO Telegram sent: 🏠 New offer (ID 16282) — details not rendered, see site:
+🔗 h
+2026-04-28T09:39:32+0000 WARNING ID 16283 not in top-10 details (>10 new in one window?)
+2026-04-28T09:39:32+0000 INFO Telegram sent: 🏠 New offer (ID 16283) — details not rendered, see site:
+🔗 h
+2026-04-28T09:39:32+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16284
+2026-04-28T09:39:33+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Parchimer Allee 34, 12
+2026-04-28T09:39:33+0000 INFO Notified: ID 16285 — Parchimer Allee 34, 12359 Neukölln
+2026-04-28T09:39:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16286
+2026-04-28T09:39:33+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Westphalwe
+2026-04-28T09:39:33+0000 INFO Notified: ID 16287 — Westphalweg 7, 12109 Tempelhof-Schöneberg
+2026-04-28T09:39:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Luitpoldst
+2026-04-28T09:39:34+0000 INFO Notified: ID 16288 — Luitpoldstraße 28, 10777 Tempelhof-Schöneberg
+2026-04-28T09:39:34+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16289
+2026-04-28T09:39:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Iranische Straße 4B, 1334
+2026-04-28T09:39:34+0000 INFO Notified: ID 16290 — Iranische Straße 4B, 13347 Mitte
+2026-04-28T09:39:34+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16291
+2026-04-28T09:39:34+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16292
+2026-04-28T09:39:34+0000 INFO Skipped (district Pankow not in allowlist): ID 16293
