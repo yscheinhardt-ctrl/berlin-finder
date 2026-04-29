@@ -720,3 +720,16 @@
 
 📍 Soldiner Straße 70, 13359
 2026-04-29T09:25:54+0000 INFO Notified: ID 16327 — Soldiner Straße 70, 13359 Mitte
+2026-04-29T11:14:50+0000 INFO Fetched page: 206 total IDs, 10 rendered details
+2026-04-29T11:14:50+0000 INFO 8 new offer(s) found
+2026-04-29T11:14:50+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16328
+2026-04-29T11:14:50+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16329
+2026-04-29T11:14:50+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16330
+2026-04-29T11:14:50+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16331
+2026-04-29T11:14:50+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Kühnemannstraße 50A, 1340
+2026-04-29T11:14:50+0000 INFO Notified: ID 16332 — Kühnemannstraße 50A, 13409 Mitte
+2026-04-29T11:14:50+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 16333
+2026-04-29T11:14:50+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16334
+2026-04-29T11:14:50+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16335
