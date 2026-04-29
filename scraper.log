@@ -733,3 +733,69 @@
 2026-04-29T11:14:50+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 16333
 2026-04-29T11:14:50+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16334
 2026-04-29T11:14:50+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16335
+2026-04-29T12:57:07+0000 INFO Fetched page: 223 total IDs, 10 rendered details
+2026-04-29T12:57:07+0000 INFO 25 new offer(s) found
+2026-04-29T12:57:07+0000 WARNING ID 16336 not in top-10 details (>10 new in one window?)
+2026-04-29T12:57:08+0000 INFO Telegram sent: 🏠 New offer (ID 16336) — details not rendered, see site:
+🔗 h
+2026-04-29T12:57:08+0000 WARNING ID 16337 not in top-10 details (>10 new in one window?)
+2026-04-29T12:57:08+0000 INFO Telegram sent: 🏠 New offer (ID 16337) — details not rendered, see site:
+🔗 h
+2026-04-29T12:57:08+0000 WARNING ID 16338 not in top-10 details (>10 new in one window?)
+2026-04-29T12:57:09+0000 INFO Telegram sent: 🏠 New offer (ID 16338) — details not rendered, see site:
+🔗 h
+2026-04-29T12:57:09+0000 WARNING ID 16339 not in top-10 details (>10 new in one window?)
+2026-04-29T12:57:09+0000 INFO Telegram sent: 🏠 New offer (ID 16339) — details not rendered, see site:
+🔗 h
+2026-04-29T12:57:09+0000 WARNING ID 16340 not in top-10 details (>10 new in one window?)
+2026-04-29T12:57:10+0000 INFO Telegram sent: 🏠 New offer (ID 16340) — details not rendered, see site:
+🔗 h
+2026-04-29T12:57:10+0000 WARNING ID 16342 not in top-10 details (>10 new in one window?)
+2026-04-29T12:57:10+0000 INFO Telegram sent: 🏠 New offer (ID 16342) — details not rendered, see site:
+🔗 h
+2026-04-29T12:57:10+0000 WARNING ID 16343 not in top-10 details (>10 new in one window?)
+2026-04-29T12:57:11+0000 INFO Telegram sent: 🏠 New offer (ID 16343) — details not rendered, see site:
+🔗 h
+2026-04-29T12:57:11+0000 WARNING ID 16344 not in top-10 details (>10 new in one window?)
+2026-04-29T12:57:11+0000 INFO Telegram sent: 🏠 New offer (ID 16344) — details not rendered, see site:
+🔗 h
+2026-04-29T12:57:11+0000 WARNING ID 16345 not in top-10 details (>10 new in one window?)
+2026-04-29T12:57:12+0000 INFO Telegram sent: 🏠 New offer (ID 16345) — details not rendered, see site:
+🔗 h
+2026-04-29T12:57:12+0000 WARNING ID 16346 not in top-10 details (>10 new in one window?)
+2026-04-29T12:57:12+0000 INFO Telegram sent: 🏠 New offer (ID 16346) — details not rendered, see site:
+🔗 h
+2026-04-29T12:57:12+0000 WARNING ID 16347 not in top-10 details (>10 new in one window?)
+2026-04-29T12:57:13+0000 INFO Telegram sent: 🏠 New offer (ID 16347) — details not rendered, see site:
+🔗 h
+2026-04-29T12:57:13+0000 WARNING ID 16348 not in top-10 details (>10 new in one window?)
+2026-04-29T12:57:13+0000 INFO Telegram sent: 🏠 New offer (ID 16348) — details not rendered, see site:
+🔗 h
+2026-04-29T12:57:13+0000 WARNING ID 16349 not in top-10 details (>10 new in one window?)
+2026-04-29T12:57:14+0000 INFO Telegram sent: 🏠 New offer (ID 16349) — details not rendered, see site:
+🔗 h
+2026-04-29T12:57:14+0000 WARNING ID 16350 not in top-10 details (>10 new in one window?)
+2026-04-29T12:57:14+0000 INFO Telegram sent: 🏠 New offer (ID 16350) — details not rendered, see site:
+🔗 h
+2026-04-29T12:57:14+0000 WARNING ID 16351 not in top-10 details (>10 new in one window?)
+2026-04-29T12:57:15+0000 INFO Telegram sent: 🏠 New offer (ID 16351) — details not rendered, see site:
+🔗 h
+2026-04-29T12:57:15+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 16352
+2026-04-29T12:57:15+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Singer
+2026-04-29T12:57:15+0000 INFO Notified: ID 16353 — Singerstraße 77, 10243 Friedrichshain-Kreuzberg
+2026-04-29T12:57:16+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Koppen
+2026-04-29T12:57:16+0000 INFO Notified: ID 16354 — Koppenstraße 18, 10243 Friedrichshain-Kreuzberg
+2026-04-29T12:57:16+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Koppen
+2026-04-29T12:57:16+0000 INFO Notified: ID 16355 — Koppenstraße 19, 10243 Friedrichshain-Kreuzberg
+2026-04-29T12:57:16+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16356
+2026-04-29T12:57:16+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16357
+2026-04-29T12:57:16+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16358
+2026-04-29T12:57:16+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16359
+2026-04-29T12:57:16+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16360
+2026-04-29T12:57:16+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16361
