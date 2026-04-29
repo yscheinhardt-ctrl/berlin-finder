@@ -696,3 +696,11 @@
 2026-04-29T01:21:37+0000 INFO 0 new offer(s) found
 2026-04-29T04:44:37+0000 INFO Fetched page: 207 total IDs, 10 rendered details
 2026-04-29T04:44:37+0000 INFO 0 new offer(s) found
+2026-04-29T07:12:17+0000 INFO Fetched page: 202 total IDs, 10 rendered details
+2026-04-29T07:12:17+0000 INFO 3 new offer(s) found
+2026-04-29T07:12:17+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16316
+2026-04-29T07:12:17+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16318
+2026-04-29T07:12:17+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Soldiner Straße 70, 13359
+2026-04-29T07:12:17+0000 INFO Notified: ID 16319 — Soldiner Straße 70, 13359 Mitte
