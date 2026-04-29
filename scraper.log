@@ -704,3 +704,19 @@
 
 📍 Soldiner Straße 70, 13359
 2026-04-29T07:12:17+0000 INFO Notified: ID 16319 — Soldiner Straße 70, 13359 Mitte
+2026-04-29T09:25:54+0000 INFO Fetched page: 205 total IDs, 10 rendered details
+2026-04-29T09:25:54+0000 INFO 8 new offer(s) found
+2026-04-29T09:25:54+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16320
+2026-04-29T09:25:54+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Soldiner Straße 70, 13359
+2026-04-29T09:25:54+0000 INFO Notified: ID 16321 — Soldiner Straße 70, 13359 Mitte
+2026-04-29T09:25:54+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16322
+2026-04-29T09:25:54+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16323
+2026-04-29T09:25:54+0000 INFO Skipped (district Spandau not in allowlist): ID 16324
+2026-04-29T09:25:54+0000 INFO Skipped (district Spandau not in allowlist): ID 16325
+2026-04-29T09:25:54+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16326
+2026-04-29T09:25:54+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Soldiner Straße 70, 13359
+2026-04-29T09:25:54+0000 INFO Notified: ID 16327 — Soldiner Straße 70, 13359 Mitte
