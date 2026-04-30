@@ -916,3 +916,21 @@
 📍 Parchimer Allee 40/42,
 2026-04-30T09:01:05+0000 INFO Notified: ID 16394 — Parchimer Allee 40/42, 12359 Neukölln
 2026-04-30T09:01:05+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16395
+2026-04-30T11:01:17+0000 INFO Fetched page: 222 total IDs, 10 rendered details
+2026-04-30T11:01:17+0000 INFO 11 new offer(s) found
+2026-04-30T11:01:17+0000 WARNING ID 16396 not in top-10 details (>10 new in one window?)
+2026-04-30T11:01:19+0000 INFO Telegram sent: 🏠 New offer (ID 16396) — details not rendered, see site:
+🔗 h
+2026-04-30T11:01:19+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16397
+2026-04-30T11:01:19+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16398
+2026-04-30T11:01:19+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16399
+2026-04-30T11:01:19+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16401
+2026-04-30T11:01:19+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16402
+2026-04-30T11:01:19+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16403
+2026-04-30T11:01:21+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Karl-Marx-Allee 44, 10178
+2026-04-30T11:01:21+0000 INFO Notified: ID 16404 — Karl-Marx-Allee 44, 10178 Mitte
+2026-04-30T11:01:21+0000 INFO Skipped (district Spandau not in allowlist): ID 16405
+2026-04-30T11:01:21+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16406
+2026-04-30T11:01:21+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16407
