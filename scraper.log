@@ -971,3 +971,5 @@
 2026-04-30T21:16:37+0000 INFO Skipped (district Spandau not in allowlist): ID 16422
 2026-04-30T22:13:08+0000 INFO Fetched page: 204 total IDs, 10 rendered details
 2026-04-30T22:13:08+0000 INFO 0 new offer(s) found
+2026-04-30T23:11:53+0000 INFO Fetched page: 204 total IDs, 10 rendered details
+2026-04-30T23:11:53+0000 INFO 0 new offer(s) found
