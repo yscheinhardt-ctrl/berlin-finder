@@ -826,3 +826,39 @@
 2026-04-30T00:07:51+0000 INFO 0 new offer(s) found
 2026-04-30T04:02:15+0000 INFO Fetched page: 209 total IDs, 10 rendered details
 2026-04-30T04:02:15+0000 INFO 0 new offer(s) found
+2026-04-30T06:37:12+0000 INFO Fetched page: 216 total IDs, 10 rendered details
+2026-04-30T06:37:12+0000 INFO 10 new offer(s) found
+2026-04-30T06:37:12+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16371
+2026-04-30T06:37:13+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Waldsassen
+2026-04-30T06:37:13+0000 INFO Notified: ID 16372 — Waldsassener Straße 33, 12279 Tempelhof-Schöneberg
+2026-04-30T06:37:13+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Waldsassen
+2026-04-30T06:37:13+0000 INFO Notified: ID 16373 — Waldsassener Straße 23, 12279 Tempelhof-Schöneberg
+2026-04-30T06:37:13+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Waldsassen
+2026-04-30T06:37:13+0000 INFO Notified: ID 16374 — Waldsassener Straße 35, 12279 Tempelhof-Schöneberg
+2026-04-30T06:37:14+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Waldsassen
+2026-04-30T06:37:14+0000 INFO Notified: ID 16375 — Waldsassener Straße 36, 12279 Tempelhof-Schöneberg
+2026-04-30T06:37:14+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16376
+2026-04-30T06:37:14+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Waldsassen
+2026-04-30T06:37:14+0000 INFO Notified: ID 16377 — Waldsassener Straße 38, 12279 Tempelhof-Schöneberg
+2026-04-30T06:37:14+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-04-30T06:37:14+0000 INFO Notified: ID 16378 — Tirschenreuther Ring 13, 12279 Tempelhof-Schöneberg
+2026-04-30T06:37:15+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-04-30T06:37:15+0000 INFO Notified: ID 16379 — Tirschenreuther Ring 16, 12279 Tempelhof-Schöneberg
+2026-04-30T06:37:15+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Waldsassen
+2026-04-30T06:37:15+0000 INFO Notified: ID 16380 — Waldsassener Straße 43, 12279 Tempelhof-Schöneberg
