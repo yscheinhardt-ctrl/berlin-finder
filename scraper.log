@@ -934,3 +934,12 @@
 2026-04-30T11:01:21+0000 INFO Skipped (district Spandau not in allowlist): ID 16405
 2026-04-30T11:01:21+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16406
 2026-04-30T11:01:21+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16407
+2026-04-30T12:20:32+0000 INFO Fetched page: 218 total IDs, 10 rendered details
+2026-04-30T12:20:32+0000 INFO 4 new offer(s) found
+2026-04-30T12:20:32+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Demminer Straße 3, 13355 
+2026-04-30T12:20:32+0000 INFO Notified: ID 16408 — Demminer Straße 3, 13355 Mitte
+2026-04-30T12:20:32+0000 INFO Skipped (district Spandau not in allowlist): ID 16409
+2026-04-30T12:20:32+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16410
+2026-04-30T12:20:32+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16411
