@@ -862,3 +862,57 @@
 
 📍 Waldsassen
 2026-04-30T06:37:15+0000 INFO Notified: ID 16380 — Waldsassener Straße 43, 12279 Tempelhof-Schöneberg
+2026-04-30T09:00:58+0000 INFO Fetched page: 215 total IDs, 10 rendered details
+2026-04-30T09:00:58+0000 INFO 15 new offer(s) found
+2026-04-30T09:00:58+0000 WARNING ID 16381 not in top-10 details (>10 new in one window?)
+2026-04-30T09:00:59+0000 INFO Telegram sent: 🏠 New offer (ID 16381) — details not rendered, see site:
+🔗 h
+2026-04-30T09:00:59+0000 WARNING ID 16382 not in top-10 details (>10 new in one window?)
+2026-04-30T09:00:59+0000 INFO Telegram sent: 🏠 New offer (ID 16382) — details not rendered, see site:
+🔗 h
+2026-04-30T09:00:59+0000 WARNING ID 16383 not in top-10 details (>10 new in one window?)
+2026-04-30T09:01:00+0000 INFO Telegram sent: 🏠 New offer (ID 16383) — details not rendered, see site:
+🔗 h
+2026-04-30T09:01:00+0000 WARNING ID 16384 not in top-10 details (>10 new in one window?)
+2026-04-30T09:01:00+0000 INFO Telegram sent: 🏠 New offer (ID 16384) — details not rendered, see site:
+🔗 h
+2026-04-30T09:01:00+0000 WARNING ID 16385 not in top-10 details (>10 new in one window?)
+2026-04-30T09:01:00+0000 INFO Telegram sent: 🏠 New offer (ID 16385) — details not rendered, see site:
+🔗 h
+2026-04-30T09:01:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Parchimer Allee 36/38,
+2026-04-30T09:01:01+0000 INFO Notified: ID 16386 — Parchimer Allee 36/38, 12359 Neukölln
+2026-04-30T09:01:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Parchimer Allee 36/38,
+2026-04-30T09:01:01+0000 INFO Notified: ID 16387 — Parchimer Allee 36/38, 12359 Neukölln
+2026-04-30T09:01:02+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Parchimer Allee 36/38,
+2026-04-30T09:01:02+0000 INFO Notified: ID 16388 — Parchimer Allee 36/38, 12359 Neukölln
+2026-04-30T09:01:02+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Parchimer Allee 36/38,
+2026-04-30T09:01:02+0000 INFO Notified: ID 16389 — Parchimer Allee 36/38, 12359 Neukölln
+2026-04-30T09:01:03+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Parchimer Allee 40/42,
+2026-04-30T09:01:03+0000 INFO Notified: ID 16390 — Parchimer Allee 40/42, 12359 Neukölln
+2026-04-30T09:01:03+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Parchimer Allee 40/42,
+2026-04-30T09:01:03+0000 INFO Notified: ID 16391 — Parchimer Allee 40/42, 12359 Neukölln
+2026-04-30T09:01:04+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Parchimer Allee 40/42,
+2026-04-30T09:01:04+0000 INFO Notified: ID 16392 — Parchimer Allee 40/42, 12359 Neukölln
+2026-04-30T09:01:04+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Parchimer Allee 40/42,
+2026-04-30T09:01:04+0000 INFO Notified: ID 16393 — Parchimer Allee 40/42, 12359 Neukölln
+2026-04-30T09:01:05+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Parchimer Allee 40/42,
+2026-04-30T09:01:05+0000 INFO Notified: ID 16394 — Parchimer Allee 40/42, 12359 Neukölln
+2026-04-30T09:01:05+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16395
