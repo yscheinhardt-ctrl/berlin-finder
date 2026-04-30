@@ -965,3 +965,7 @@
 2026-04-30T18:58:02+0000 INFO 0 new offer(s) found
 2026-04-30T20:13:32+0000 INFO Fetched page: 204 total IDs, 10 rendered details
 2026-04-30T20:13:32+0000 INFO 0 new offer(s) found
+2026-04-30T21:16:37+0000 INFO Fetched page: 206 total IDs, 10 rendered details
+2026-04-30T21:16:37+0000 INFO 2 new offer(s) found
+2026-04-30T21:16:37+0000 INFO Skipped (district Spandau not in allowlist): ID 16421
+2026-04-30T21:16:37+0000 INFO Skipped (district Spandau not in allowlist): ID 16422
