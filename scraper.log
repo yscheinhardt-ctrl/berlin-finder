@@ -1265,3 +1265,30 @@
 2026-05-04T15:15:34+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16497
 2026-05-04T15:15:34+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16498
 2026-05-04T15:15:34+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16499
+2026-05-04T17:03:13+0000 INFO Fetched page: 210 total IDs, 10 rendered details
+2026-05-04T17:03:13+0000 INFO 7 new offer(s) found
+2026-05-04T17:03:13+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16500
+2026-05-04T17:03:13+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Alt-Britz 107,107A, 12
+2026-05-04T17:03:13+0000 INFO Notified: ID 16501 — Alt-Britz 107,107A, 12359 Neukölln
+2026-05-04T17:03:14+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Alt-Britz 107,107A, 12
+2026-05-04T17:03:14+0000 INFO Notified: ID 16502 — Alt-Britz 107,107A, 12359 Neukölln
+2026-05-04T17:03:14+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Alt-Britz 107,107A, 12
+2026-05-04T17:03:14+0000 INFO Notified: ID 16503 — Alt-Britz 107,107A, 12359 Neukölln
+2026-05-04T17:03:14+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Alt-Britz 107,107A, 12
+2026-05-04T17:03:14+0000 INFO Notified: ID 16504 — Alt-Britz 107,107A, 12359 Neukölln
+2026-05-04T17:03:15+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Alt-Britz 107,107A, 12
+2026-05-04T17:03:15+0000 INFO Notified: ID 16505 — Alt-Britz 107,107A, 12359 Neukölln
+2026-05-04T17:03:15+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Alt-Britz 107,107A, 12
+2026-05-04T17:03:15+0000 INFO Notified: ID 16506 — Alt-Britz 107,107A, 12359 Neukölln
