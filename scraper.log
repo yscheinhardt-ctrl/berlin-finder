@@ -1187,3 +1187,42 @@
 2026-05-04T11:17:58+0000 INFO Notified: ID 16460 — Fritzi-Massary-Straße 14, 12057 Neukölln
 2026-05-04T11:17:58+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16461
 2026-05-04T11:17:58+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16462
+2026-05-04T13:00:02+0000 INFO Fetched page: 202 total IDs, 10 rendered details
+2026-05-04T13:00:02+0000 INFO 16 new offer(s) found
+2026-05-04T13:00:02+0000 WARNING ID 16463 not in top-10 details (>10 new in one window?)
+2026-05-04T13:00:03+0000 INFO Telegram sent: 🏠 New offer (ID 16463) — details not rendered, see site:
+🔗 h
+2026-05-04T13:00:03+0000 WARNING ID 16464 not in top-10 details (>10 new in one window?)
+2026-05-04T13:00:04+0000 INFO Telegram sent: 🏠 New offer (ID 16464) — details not rendered, see site:
+🔗 h
+2026-05-04T13:00:04+0000 WARNING ID 16465 not in top-10 details (>10 new in one window?)
+2026-05-04T13:00:04+0000 INFO Telegram sent: 🏠 New offer (ID 16465) — details not rendered, see site:
+🔗 h
+2026-05-04T13:00:04+0000 WARNING ID 16466 not in top-10 details (>10 new in one window?)
+2026-05-04T13:00:05+0000 INFO Telegram sent: 🏠 New offer (ID 16466) — details not rendered, see site:
+🔗 h
+2026-05-04T13:00:05+0000 WARNING ID 16468 not in top-10 details (>10 new in one window?)
+2026-05-04T13:00:05+0000 INFO Telegram sent: 🏠 New offer (ID 16468) — details not rendered, see site:
+🔗 h
+2026-05-04T13:00:05+0000 WARNING ID 16469 not in top-10 details (>10 new in one window?)
+2026-05-04T13:00:06+0000 INFO Telegram sent: 🏠 New offer (ID 16469) — details not rendered, see site:
+🔗 h
+2026-05-04T13:00:06+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Ritter
+2026-05-04T13:00:06+0000 INFO Notified: ID 16470 — Ritterstraße 40A, 10969 Friedrichshain-Kreuzberg
+2026-05-04T13:00:06+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16472
+2026-05-04T13:00:06+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16473
+2026-05-04T13:00:06+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16474
+2026-05-04T13:00:06+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16475
+2026-05-04T13:00:06+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16476
+2026-05-04T13:00:07+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Werner-Voß
+2026-05-04T13:00:07+0000 INFO Notified: ID 16477 — Werner-Voß-Damm 31, 12101 Tempelhof-Schöneberg
+2026-05-04T13:00:07+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Werner-Voß
+2026-05-04T13:00:07+0000 INFO Notified: ID 16478 — Werner-Voß-Damm 33, 12101 Tempelhof-Schöneberg
+2026-05-04T13:00:07+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16479
+2026-05-04T13:00:07+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16480
