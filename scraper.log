@@ -1142,3 +1142,48 @@
 
 📍 Alt-Britz 107,107A, 12
 2026-05-04T09:10:41+0000 INFO Notified: ID 16442 — Alt-Britz 107,107A, 12359 Neukölln
+2026-05-04T11:17:51+0000 INFO Fetched page: 197 total IDs, 10 rendered details
+2026-05-04T11:17:51+0000 INFO 17 new offer(s) found
+2026-05-04T11:17:51+0000 WARNING ID 16443 not in top-10 details (>10 new in one window?)
+2026-05-04T11:17:51+0000 INFO Telegram sent: 🏠 New offer (ID 16443) — details not rendered, see site:
+🔗 h
+2026-05-04T11:17:51+0000 WARNING ID 16444 not in top-10 details (>10 new in one window?)
+2026-05-04T11:17:52+0000 INFO Telegram sent: 🏠 New offer (ID 16444) — details not rendered, see site:
+🔗 h
+2026-05-04T11:17:52+0000 WARNING ID 16445 not in top-10 details (>10 new in one window?)
+2026-05-04T11:17:52+0000 INFO Telegram sent: 🏠 New offer (ID 16445) — details not rendered, see site:
+🔗 h
+2026-05-04T11:17:52+0000 WARNING ID 16446 not in top-10 details (>10 new in one window?)
+2026-05-04T11:17:53+0000 INFO Telegram sent: 🏠 New offer (ID 16446) — details not rendered, see site:
+🔗 h
+2026-05-04T11:17:53+0000 WARNING ID 16447 not in top-10 details (>10 new in one window?)
+2026-05-04T11:17:54+0000 INFO Telegram sent: 🏠 New offer (ID 16447) — details not rendered, see site:
+🔗 h
+2026-05-04T11:17:54+0000 WARNING ID 16448 not in top-10 details (>10 new in one window?)
+2026-05-04T11:17:55+0000 INFO Telegram sent: 🏠 New offer (ID 16448) — details not rendered, see site:
+🔗 h
+2026-05-04T11:17:55+0000 WARNING ID 16449 not in top-10 details (>10 new in one window?)
+2026-05-04T11:17:55+0000 INFO Telegram sent: 🏠 New offer (ID 16449) — details not rendered, see site:
+🔗 h
+2026-05-04T11:17:55+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 16453
+2026-05-04T11:17:56+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Mollnerweg 33, 12353 N
+2026-05-04T11:17:56+0000 INFO Notified: ID 16454 — Mollnerweg 33, 12353 Neukölln
+2026-05-04T11:17:56+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Wiener
+2026-05-04T11:17:56+0000 INFO Notified: ID 16455 — Wiener Straße 58, 10999 Friedrichshain-Kreuzberg
+2026-05-04T11:17:56+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16456
+2026-05-04T11:17:56+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16457
+2026-05-04T11:17:56+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16458
+2026-05-04T11:17:57+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Fritzi-Massary-Straße 
+2026-05-04T11:17:57+0000 INFO Notified: ID 16459 — Fritzi-Massary-Straße 8, 12057 Neukölln
+2026-05-04T11:17:58+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Fritzi-Massary-Straße 
+2026-05-04T11:17:58+0000 INFO Notified: ID 16460 — Fritzi-Massary-Straße 14, 12057 Neukölln
+2026-05-04T11:17:58+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16461
+2026-05-04T11:17:58+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16462
