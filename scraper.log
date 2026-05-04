@@ -1226,3 +1226,42 @@
 2026-05-04T13:00:07+0000 INFO Notified: ID 16478 — Werner-Voß-Damm 33, 12101 Tempelhof-Schöneberg
 2026-05-04T13:00:07+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16479
 2026-05-04T13:00:07+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16480
+2026-05-04T15:15:31+0000 INFO Fetched page: 204 total IDs, 10 rendered details
+2026-05-04T15:15:31+0000 INFO 19 new offer(s) found
+2026-05-04T15:15:31+0000 WARNING ID 16481 not in top-10 details (>10 new in one window?)
+2026-05-04T15:15:31+0000 INFO Telegram sent: 🏠 New offer (ID 16481) — details not rendered, see site:
+🔗 h
+2026-05-04T15:15:31+0000 WARNING ID 16482 not in top-10 details (>10 new in one window?)
+2026-05-04T15:15:32+0000 INFO Telegram sent: 🏠 New offer (ID 16482) — details not rendered, see site:
+🔗 h
+2026-05-04T15:15:32+0000 WARNING ID 16483 not in top-10 details (>10 new in one window?)
+2026-05-04T15:15:32+0000 INFO Telegram sent: 🏠 New offer (ID 16483) — details not rendered, see site:
+🔗 h
+2026-05-04T15:15:32+0000 WARNING ID 16484 not in top-10 details (>10 new in one window?)
+2026-05-04T15:15:32+0000 INFO Telegram sent: 🏠 New offer (ID 16484) — details not rendered, see site:
+🔗 h
+2026-05-04T15:15:32+0000 WARNING ID 16485 not in top-10 details (>10 new in one window?)
+2026-05-04T15:15:33+0000 INFO Telegram sent: 🏠 New offer (ID 16485) — details not rendered, see site:
+🔗 h
+2026-05-04T15:15:33+0000 WARNING ID 16486 not in top-10 details (>10 new in one window?)
+2026-05-04T15:15:33+0000 INFO Telegram sent: 🏠 New offer (ID 16486) — details not rendered, see site:
+🔗 h
+2026-05-04T15:15:33+0000 WARNING ID 16487 not in top-10 details (>10 new in one window?)
+2026-05-04T15:15:33+0000 INFO Telegram sent: 🏠 New offer (ID 16487) — details not rendered, see site:
+🔗 h
+2026-05-04T15:15:33+0000 WARNING ID 16488 not in top-10 details (>10 new in one window?)
+2026-05-04T15:15:34+0000 INFO Telegram sent: 🏠 New offer (ID 16488) — details not rendered, see site:
+🔗 h
+2026-05-04T15:15:34+0000 WARNING ID 16489 not in top-10 details (>10 new in one window?)
+2026-05-04T15:15:34+0000 INFO Telegram sent: 🏠 New offer (ID 16489) — details not rendered, see site:
+🔗 h
+2026-05-04T15:15:34+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16490
+2026-05-04T15:15:34+0000 INFO Skipped (district Spandau not in allowlist): ID 16491
+2026-05-04T15:15:34+0000 INFO Skipped (district Spandau not in allowlist): ID 16492
+2026-05-04T15:15:34+0000 INFO Skipped (district Spandau not in allowlist): ID 16493
+2026-05-04T15:15:34+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16494
+2026-05-04T15:15:34+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16495
+2026-05-04T15:15:34+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16496
+2026-05-04T15:15:34+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16497
+2026-05-04T15:15:34+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16498
+2026-05-04T15:15:34+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16499
