@@ -1094,3 +1094,51 @@
 2026-05-04T06:51:11+0000 INFO Fetched page: 190 total IDs, 10 rendered details
 2026-05-04T06:51:11+0000 INFO 1 new offer(s) found
 2026-05-04T06:51:11+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16423
+2026-05-04T09:10:37+0000 INFO Fetched page: 192 total IDs, 10 rendered details
+2026-05-04T09:10:37+0000 INFO 16 new offer(s) found
+2026-05-04T09:10:37+0000 WARNING ID 16424 not in top-10 details (>10 new in one window?)
+2026-05-04T09:10:37+0000 INFO Telegram sent: 🏠 New offer (ID 16424) — details not rendered, see site:
+🔗 h
+2026-05-04T09:10:37+0000 WARNING ID 16425 not in top-10 details (>10 new in one window?)
+2026-05-04T09:10:38+0000 INFO Telegram sent: 🏠 New offer (ID 16425) — details not rendered, see site:
+🔗 h
+2026-05-04T09:10:38+0000 WARNING ID 16426 not in top-10 details (>10 new in one window?)
+2026-05-04T09:10:38+0000 INFO Telegram sent: 🏠 New offer (ID 16426) — details not rendered, see site:
+🔗 h
+2026-05-04T09:10:38+0000 WARNING ID 16428 not in top-10 details (>10 new in one window?)
+2026-05-04T09:10:39+0000 INFO Telegram sent: 🏠 New offer (ID 16428) — details not rendered, see site:
+🔗 h
+2026-05-04T09:10:39+0000 WARNING ID 16429 not in top-10 details (>10 new in one window?)
+2026-05-04T09:10:39+0000 INFO Telegram sent: 🏠 New offer (ID 16429) — details not rendered, see site:
+🔗 h
+2026-05-04T09:10:39+0000 WARNING ID 16431 not in top-10 details (>10 new in one window?)
+2026-05-04T09:10:39+0000 INFO Telegram sent: 🏠 New offer (ID 16431) — details not rendered, see site:
+🔗 h
+2026-05-04T09:10:39+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 16432
+2026-05-04T09:10:39+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16434
+2026-05-04T09:10:39+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16435
+2026-05-04T09:10:39+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 16436
+2026-05-04T09:10:39+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Alt-Britz 107,107A, 12
+2026-05-04T09:10:39+0000 INFO Notified: ID 16437 — Alt-Britz 107,107A, 12359 Neukölln
+2026-05-04T09:10:40+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Alt-Britz 107,107A, 12
+2026-05-04T09:10:40+0000 INFO Notified: ID 16438 — Alt-Britz 107,107A, 12359 Neukölln
+2026-05-04T09:10:40+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Alt-Britz 107,107A, 12
+2026-05-04T09:10:40+0000 INFO Notified: ID 16439 — Alt-Britz 107,107A, 12359 Neukölln
+2026-05-04T09:10:40+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Alt-Britz 107,107A, 12
+2026-05-04T09:10:40+0000 INFO Notified: ID 16440 — Alt-Britz 107,107A, 12359 Neukölln
+2026-05-04T09:10:41+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Alt-Britz 107,107A, 12
+2026-05-04T09:10:41+0000 INFO Notified: ID 16441 — Alt-Britz 107,107A, 12359 Neukölln
+2026-05-04T09:10:41+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Alt-Britz 107,107A, 12
+2026-05-04T09:10:41+0000 INFO Notified: ID 16442 — Alt-Britz 107,107A, 12359 Neukölln
