@@ -1384,3 +1384,15 @@
 2026-05-05T12:59:56+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16542
 2026-05-05T12:59:56+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16543
 2026-05-05T12:59:56+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16544
+2026-05-05T16:58:10+0000 INFO Fetched page: 200 total IDs, 10 rendered details
+2026-05-05T16:58:10+0000 INFO 4 new offer(s) found
+2026-05-05T16:58:10+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Hussitenstraße 54, 13355 
+2026-05-05T16:58:10+0000 INFO Notified: ID 16545 — Hussitenstraße 54, 13355 Mitte
+2026-05-05T16:58:10+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16547
+2026-05-05T16:58:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16548
+2026-05-05T16:58:11+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Bülowstraß
+2026-05-05T16:58:11+0000 INFO Notified: ID 16549 — Bülowstraße 30, 10783 Tempelhof-Schöneberg
