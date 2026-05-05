@@ -1306,3 +1306,16 @@
 2026-05-05T01:12:38+0000 INFO 0 new offer(s) found
 2026-05-05T04:27:33+0000 INFO Fetched page: 195 total IDs, 10 rendered details
 2026-05-05T04:27:33+0000 INFO 0 new offer(s) found
+2026-05-05T06:34:46+0000 INFO Fetched page: 197 total IDs, 10 rendered details
+2026-05-05T06:34:46+0000 INFO 5 new offer(s) found
+2026-05-05T06:34:46+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16507
+2026-05-05T06:34:46+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16508
+2026-05-05T06:34:47+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Fritz-Erler-Allee 190,
+2026-05-05T06:34:47+0000 INFO Notified: ID 16509 — Fritz-Erler-Allee 190, 12353 Neukölln
+2026-05-05T06:34:47+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16510
+2026-05-05T06:34:48+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Käthe-Dorsch-Ring 23, 
+2026-05-05T06:34:48+0000 INFO Notified: ID 16511 — Käthe-Dorsch-Ring 23, 12353 Neukölln
