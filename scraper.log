@@ -1319,3 +1319,33 @@
 
 📍 Käthe-Dorsch-Ring 23, 
 2026-05-05T06:34:48+0000 INFO Notified: ID 16511 — Käthe-Dorsch-Ring 23, 12353 Neukölln
+2026-05-05T08:37:14+0000 INFO Fetched page: 201 total IDs, 10 rendered details
+2026-05-05T08:37:14+0000 INFO 12 new offer(s) found
+2026-05-05T08:37:14+0000 WARNING ID 16512 not in top-10 details (>10 new in one window?)
+2026-05-05T08:37:14+0000 INFO Telegram sent: 🏠 New offer (ID 16512) — details not rendered, see site:
+🔗 h
+2026-05-05T08:37:14+0000 WARNING ID 16513 not in top-10 details (>10 new in one window?)
+2026-05-05T08:37:15+0000 INFO Telegram sent: 🏠 New offer (ID 16513) — details not rendered, see site:
+🔗 h
+2026-05-05T08:37:15+0000 INFO Skipped (district Spandau not in allowlist): ID 16514
+2026-05-05T08:37:15+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-05-05T08:37:15+0000 INFO Notified: ID 16515 — Tirschenreuther Ring 8, 12279 Tempelhof-Schöneberg
+2026-05-05T08:37:15+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16516
+2026-05-05T08:37:15+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16517
+2026-05-05T08:37:15+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16518
+2026-05-05T08:37:15+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16519
+2026-05-05T08:37:16+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Ella-Barow
+2026-05-05T08:37:16+0000 INFO Notified: ID 16520 — Ella-Barowsky-Straße 29, 10829 Tempelhof-Schöneberg
+2026-05-05T08:37:16+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Zwickauer Damm 12, 123
+2026-05-05T08:37:16+0000 INFO Notified: ID 16521 — Zwickauer Damm 12, 12353 Neukölln
+2026-05-05T08:37:16+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16522
+2026-05-05T08:37:17+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Friedrich-Kayßler-Weg 
+2026-05-05T08:37:17+0000 INFO Notified: ID 16523 — Friedrich-Kayßler-Weg 1, 12353 Neukölln
