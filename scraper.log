@@ -1474,3 +1474,23 @@
 2026-05-06T11:18:34+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16575
 2026-05-06T11:18:34+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16576
 2026-05-06T11:18:34+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16577
+2026-05-06T13:03:29+0000 INFO Fetched page: 215 total IDs, 10 rendered details
+2026-05-06T13:03:29+0000 INFO 9 new offer(s) found
+2026-05-06T13:03:29+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16578
+2026-05-06T13:03:29+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16579
+2026-05-06T13:03:30+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Reic
+2026-05-06T13:03:30+0000 INFO Notified: ID 16580 — Reichenhaller Straße 51, 14199 Charlottenburg-Wilmersdorf
+2026-05-06T13:03:30+0000 INFO Skipped (district Spandau not in allowlist): ID 16581
+2026-05-06T13:03:30+0000 INFO Skipped (district Spandau not in allowlist): ID 16582
+2026-05-06T13:03:30+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Amrumer Straße 36, 13353 
+2026-05-06T13:03:30+0000 INFO Notified: ID 16583 — Amrumer Straße 36, 13353 Mitte
+2026-05-06T13:03:30+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16584
+2026-05-06T13:03:31+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Wirm
+2026-05-06T13:03:31+0000 INFO Notified: ID 16585 — Wirmerzeile 1, 13627 Charlottenburg-Wilmersdorf
+2026-05-06T13:03:31+0000 INFO Skipped (district Pankow not in allowlist): ID 16586
