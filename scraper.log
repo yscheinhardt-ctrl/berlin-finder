@@ -1426,3 +1426,51 @@
 2026-05-06T09:07:33+0000 INFO Notified: ID 16553 — Gersdorfstraße 83, 12105 Tempelhof-Schöneberg
 2026-05-06T09:07:33+0000 INFO Skipped (district Pankow not in allowlist): ID 16554
 2026-05-06T09:07:33+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16555
+2026-05-06T11:18:30+0000 INFO Fetched page: 210 total IDs, 10 rendered details
+2026-05-06T11:18:30+0000 INFO 21 new offer(s) found
+2026-05-06T11:18:30+0000 WARNING ID 16556 not in top-10 details (>10 new in one window?)
+2026-05-06T11:18:30+0000 INFO Telegram sent: 🏠 New offer (ID 16556) — details not rendered, see site:
+🔗 h
+2026-05-06T11:18:30+0000 WARNING ID 16557 not in top-10 details (>10 new in one window?)
+2026-05-06T11:18:30+0000 INFO Telegram sent: 🏠 New offer (ID 16557) — details not rendered, see site:
+🔗 h
+2026-05-06T11:18:30+0000 WARNING ID 16559 not in top-10 details (>10 new in one window?)
+2026-05-06T11:18:31+0000 INFO Telegram sent: 🏠 New offer (ID 16559) — details not rendered, see site:
+🔗 h
+2026-05-06T11:18:31+0000 WARNING ID 16560 not in top-10 details (>10 new in one window?)
+2026-05-06T11:18:31+0000 INFO Telegram sent: 🏠 New offer (ID 16560) — details not rendered, see site:
+🔗 h
+2026-05-06T11:18:31+0000 WARNING ID 16561 not in top-10 details (>10 new in one window?)
+2026-05-06T11:18:31+0000 INFO Telegram sent: 🏠 New offer (ID 16561) — details not rendered, see site:
+🔗 h
+2026-05-06T11:18:31+0000 WARNING ID 16562 not in top-10 details (>10 new in one window?)
+2026-05-06T11:18:32+0000 INFO Telegram sent: 🏠 New offer (ID 16562) — details not rendered, see site:
+🔗 h
+2026-05-06T11:18:32+0000 WARNING ID 16563 not in top-10 details (>10 new in one window?)
+2026-05-06T11:18:32+0000 INFO Telegram sent: 🏠 New offer (ID 16563) — details not rendered, see site:
+🔗 h
+2026-05-06T11:18:32+0000 WARNING ID 16564 not in top-10 details (>10 new in one window?)
+2026-05-06T11:18:32+0000 INFO Telegram sent: 🏠 New offer (ID 16564) — details not rendered, see site:
+🔗 h
+2026-05-06T11:18:32+0000 WARNING ID 16565 not in top-10 details (>10 new in one window?)
+2026-05-06T11:18:33+0000 INFO Telegram sent: 🏠 New offer (ID 16565) — details not rendered, see site:
+🔗 h
+2026-05-06T11:18:33+0000 WARNING ID 16566 not in top-10 details (>10 new in one window?)
+2026-05-06T11:18:33+0000 INFO Telegram sent: 🏠 New offer (ID 16566) — details not rendered, see site:
+🔗 h
+2026-05-06T11:18:33+0000 WARNING ID 16567 not in top-10 details (>10 new in one window?)
+2026-05-06T11:18:33+0000 INFO Telegram sent: 🏠 New offer (ID 16567) — details not rendered, see site:
+🔗 h
+2026-05-06T11:18:33+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16568
+2026-05-06T11:18:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Linienstraße 193, 10119 M
+2026-05-06T11:18:34+0000 INFO Notified: ID 16569 — Linienstraße 193, 10119 Mitte
+2026-05-06T11:18:34+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16570
+2026-05-06T11:18:34+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16571
+2026-05-06T11:18:34+0000 INFO Skipped (district Spandau not in allowlist): ID 16572
+2026-05-06T11:18:34+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16573
+2026-05-06T11:18:34+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16574
+2026-05-06T11:18:34+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16575
+2026-05-06T11:18:34+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16576
+2026-05-06T11:18:34+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16577
