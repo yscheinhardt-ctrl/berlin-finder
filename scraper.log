@@ -1412,3 +1412,17 @@
 2026-05-06T03:59:26+0000 INFO 0 new offer(s) found
 2026-05-06T06:38:41+0000 INFO Fetched page: 196 total IDs, 10 rendered details
 2026-05-06T06:38:41+0000 INFO 0 new offer(s) found
+2026-05-06T09:07:32+0000 INFO Fetched page: 194 total IDs, 10 rendered details
+2026-05-06T09:07:32+0000 INFO 6 new offer(s) found
+2026-05-06T09:07:32+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16550
+2026-05-06T09:07:32+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16551
+2026-05-06T09:07:32+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Bornsdorfer Straße 37B
+2026-05-06T09:07:32+0000 INFO Notified: ID 16552 — Bornsdorfer Straße 37B, 12053 Neukölln
+2026-05-06T09:07:33+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Gersdorfst
+2026-05-06T09:07:33+0000 INFO Notified: ID 16553 — Gersdorfstraße 83, 12105 Tempelhof-Schöneberg
+2026-05-06T09:07:33+0000 INFO Skipped (district Pankow not in allowlist): ID 16554
+2026-05-06T09:07:33+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16555
