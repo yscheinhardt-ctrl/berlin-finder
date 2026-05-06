@@ -1494,3 +1494,21 @@
 📍 Wirm
 2026-05-06T13:03:31+0000 INFO Notified: ID 16585 — Wirmerzeile 1, 13627 Charlottenburg-Wilmersdorf
 2026-05-06T13:03:31+0000 INFO Skipped (district Pankow not in allowlist): ID 16586
+2026-05-06T15:33:22+0000 INFO Fetched page: 211 total IDs, 10 rendered details
+2026-05-06T15:33:22+0000 INFO 7 new offer(s) found
+2026-05-06T15:33:22+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16589
+2026-05-06T15:33:23+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Potsdamer 
+2026-05-06T15:33:23+0000 INFO Notified: ID 16590 — Potsdamer Straße 177, 10783 Tempelhof-Schöneberg
+2026-05-06T15:33:23+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16591
+2026-05-06T15:33:23+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Maienstraß
+2026-05-06T15:33:23+0000 INFO Notified: ID 16592 — Maienstraße 2, 10787 Tempelhof-Schöneberg
+2026-05-06T15:33:23+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16594
+2026-05-06T15:33:23+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16595
+2026-05-06T15:33:23+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Leipziger Straße 56, 1011
+2026-05-06T15:33:23+0000 INFO Notified: ID 16596 — Leipziger Straße 56, 10117 Mitte
