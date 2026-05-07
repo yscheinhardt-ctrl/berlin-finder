@@ -1705,3 +1705,10 @@
 2026-05-07T14:43:39+0000 INFO Skipped (district Spandau not in allowlist): ID 16667
 2026-05-07T14:43:39+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16668
 2026-05-07T14:43:39+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16669
+2026-05-07T16:28:01+0000 INFO Fetched page: 227 total IDs, 10 rendered details
+2026-05-07T16:28:01+0000 INFO 5 new offer(s) found
+2026-05-07T16:28:01+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16670
+2026-05-07T16:28:01+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16671
+2026-05-07T16:28:01+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16672
+2026-05-07T16:28:01+0000 INFO Skipped (district Spandau not in allowlist): ID 16673
+2026-05-07T16:28:01+0000 INFO Skipped (district Spandau not in allowlist): ID 16674
