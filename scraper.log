@@ -1546,3 +1546,72 @@
 2026-05-07T07:34:14+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16601
 2026-05-07T07:34:14+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16602
 2026-05-07T07:34:14+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16603
+2026-05-07T10:04:21+0000 INFO Fetched page: 214 total IDs, 10 rendered details
+2026-05-07T10:04:21+0000 INFO 28 new offer(s) found
+2026-05-07T10:04:21+0000 WARNING ID 16604 not in top-10 details (>10 new in one window?)
+2026-05-07T10:04:21+0000 INFO Telegram sent: 🏠 New offer (ID 16604) — details not rendered, see site:
+🔗 h
+2026-05-07T10:04:21+0000 WARNING ID 16606 not in top-10 details (>10 new in one window?)
+2026-05-07T10:04:22+0000 INFO Telegram sent: 🏠 New offer (ID 16606) — details not rendered, see site:
+🔗 h
+2026-05-07T10:04:22+0000 WARNING ID 16607 not in top-10 details (>10 new in one window?)
+2026-05-07T10:04:22+0000 INFO Telegram sent: 🏠 New offer (ID 16607) — details not rendered, see site:
+🔗 h
+2026-05-07T10:04:22+0000 WARNING ID 16608 not in top-10 details (>10 new in one window?)
+2026-05-07T10:04:23+0000 INFO Telegram sent: 🏠 New offer (ID 16608) — details not rendered, see site:
+🔗 h
+2026-05-07T10:04:23+0000 WARNING ID 16609 not in top-10 details (>10 new in one window?)
+2026-05-07T10:04:23+0000 INFO Telegram sent: 🏠 New offer (ID 16609) — details not rendered, see site:
+🔗 h
+2026-05-07T10:04:23+0000 WARNING ID 16610 not in top-10 details (>10 new in one window?)
+2026-05-07T10:04:24+0000 INFO Telegram sent: 🏠 New offer (ID 16610) — details not rendered, see site:
+🔗 h
+2026-05-07T10:04:24+0000 WARNING ID 16611 not in top-10 details (>10 new in one window?)
+2026-05-07T10:04:24+0000 INFO Telegram sent: 🏠 New offer (ID 16611) — details not rendered, see site:
+🔗 h
+2026-05-07T10:04:24+0000 WARNING ID 16612 not in top-10 details (>10 new in one window?)
+2026-05-07T10:04:24+0000 INFO Telegram sent: 🏠 New offer (ID 16612) — details not rendered, see site:
+🔗 h
+2026-05-07T10:04:24+0000 WARNING ID 16613 not in top-10 details (>10 new in one window?)
+2026-05-07T10:04:25+0000 INFO Telegram sent: 🏠 New offer (ID 16613) — details not rendered, see site:
+🔗 h
+2026-05-07T10:04:25+0000 WARNING ID 16614 not in top-10 details (>10 new in one window?)
+2026-05-07T10:04:25+0000 INFO Telegram sent: 🏠 New offer (ID 16614) — details not rendered, see site:
+🔗 h
+2026-05-07T10:04:25+0000 WARNING ID 16615 not in top-10 details (>10 new in one window?)
+2026-05-07T10:04:26+0000 INFO Telegram sent: 🏠 New offer (ID 16615) — details not rendered, see site:
+🔗 h
+2026-05-07T10:04:26+0000 WARNING ID 16616 not in top-10 details (>10 new in one window?)
+2026-05-07T10:04:26+0000 INFO Telegram sent: 🏠 New offer (ID 16616) — details not rendered, see site:
+🔗 h
+2026-05-07T10:04:26+0000 WARNING ID 16617 not in top-10 details (>10 new in one window?)
+2026-05-07T10:04:27+0000 INFO Telegram sent: 🏠 New offer (ID 16617) — details not rendered, see site:
+🔗 h
+2026-05-07T10:04:27+0000 WARNING ID 16618 not in top-10 details (>10 new in one window?)
+2026-05-07T10:04:27+0000 INFO Telegram sent: 🏠 New offer (ID 16618) — details not rendered, see site:
+🔗 h
+2026-05-07T10:04:27+0000 WARNING ID 16619 not in top-10 details (>10 new in one window?)
+2026-05-07T10:04:28+0000 INFO Telegram sent: 🏠 New offer (ID 16619) — details not rendered, see site:
+🔗 h
+2026-05-07T10:04:28+0000 WARNING ID 16620 not in top-10 details (>10 new in one window?)
+2026-05-07T10:04:28+0000 INFO Telegram sent: 🏠 New offer (ID 16620) — details not rendered, see site:
+🔗 h
+2026-05-07T10:04:28+0000 WARNING ID 16621 not in top-10 details (>10 new in one window?)
+2026-05-07T10:04:28+0000 INFO Telegram sent: 🏠 New offer (ID 16621) — details not rendered, see site:
+🔗 h
+2026-05-07T10:04:28+0000 WARNING ID 16622 not in top-10 details (>10 new in one window?)
+2026-05-07T10:04:29+0000 INFO Telegram sent: 🏠 New offer (ID 16622) — details not rendered, see site:
+🔗 h
+2026-05-07T10:04:29+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16624
+2026-05-07T10:04:29+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16625
+2026-05-07T10:04:29+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16626
+2026-05-07T10:04:29+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16627
+2026-05-07T10:04:29+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16628
+2026-05-07T10:04:29+0000 INFO Skipped (district Pankow not in allowlist): ID 16629
+2026-05-07T10:04:29+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Klau
+2026-05-07T10:04:29+0000 INFO Notified: ID 16630 — Klausingring 13, 13627 Charlottenburg-Wilmersdorf
+2026-05-07T10:04:29+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 16631
+2026-05-07T10:04:29+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16632
+2026-05-07T10:04:29+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16633
