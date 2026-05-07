@@ -1615,3 +1615,27 @@
 2026-05-07T10:04:29+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 16631
 2026-05-07T10:04:29+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16632
 2026-05-07T10:04:29+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16633
+2026-05-07T12:01:56+0000 INFO Fetched page: 219 total IDs, 10 rendered details
+2026-05-07T12:01:56+0000 INFO 11 new offer(s) found
+2026-05-07T12:01:56+0000 WARNING ID 16634 not in top-10 details (>10 new in one window?)
+2026-05-07T12:01:56+0000 INFO Telegram sent: 🏠 New offer (ID 16634) — details not rendered, see site:
+🔗 h
+2026-05-07T12:01:57+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 West
+2026-05-07T12:01:57+0000 INFO Notified: ID 16635 — Westfälische Straße 79, 10709 Charlottenburg-Wilmersdorf
+2026-05-07T12:01:57+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16636
+2026-05-07T12:01:57+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16637
+2026-05-07T12:01:57+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16638
+2026-05-07T12:01:57+0000 INFO Skipped (district Pankow not in allowlist): ID 16639
+2026-05-07T12:01:57+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16640
+2026-05-07T12:01:57+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Seydelstraße 31, 10117 Mi
+2026-05-07T12:01:57+0000 INFO Notified: ID 16641 — Seydelstraße 31, 10117 Mitte
+2026-05-07T12:01:58+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Böckle
+2026-05-07T12:01:58+0000 INFO Notified: ID 16642 — Böcklerstraße 2, 10969 Friedrichshain-Kreuzberg
+2026-05-07T12:01:58+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16643
+2026-05-07T12:01:58+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16644
