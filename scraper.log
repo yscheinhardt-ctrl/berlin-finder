@@ -1639,3 +1639,69 @@
 2026-05-07T12:01:58+0000 INFO Notified: ID 16642 — Böcklerstraße 2, 10969 Friedrichshain-Kreuzberg
 2026-05-07T12:01:58+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16643
 2026-05-07T12:01:58+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16644
+2026-05-07T14:43:30+0000 INFO Fetched page: 228 total IDs, 10 rendered details
+2026-05-07T14:43:30+0000 INFO 23 new offer(s) found
+2026-05-07T14:43:30+0000 WARNING ID 16645 not in top-10 details (>10 new in one window?)
+2026-05-07T14:43:30+0000 INFO Telegram sent: 🏠 New offer (ID 16645) — details not rendered, see site:
+🔗 h
+2026-05-07T14:43:30+0000 WARNING ID 16646 not in top-10 details (>10 new in one window?)
+2026-05-07T14:43:31+0000 INFO Telegram sent: 🏠 New offer (ID 16646) — details not rendered, see site:
+🔗 h
+2026-05-07T14:43:31+0000 WARNING ID 16647 not in top-10 details (>10 new in one window?)
+2026-05-07T14:43:31+0000 INFO Telegram sent: 🏠 New offer (ID 16647) — details not rendered, see site:
+🔗 h
+2026-05-07T14:43:31+0000 WARNING ID 16648 not in top-10 details (>10 new in one window?)
+2026-05-07T14:43:32+0000 INFO Telegram sent: 🏠 New offer (ID 16648) — details not rendered, see site:
+🔗 h
+2026-05-07T14:43:32+0000 WARNING ID 16650 not in top-10 details (>10 new in one window?)
+2026-05-07T14:43:32+0000 INFO Telegram sent: 🏠 New offer (ID 16650) — details not rendered, see site:
+🔗 h
+2026-05-07T14:43:32+0000 WARNING ID 16651 not in top-10 details (>10 new in one window?)
+2026-05-07T14:43:33+0000 INFO Telegram sent: 🏠 New offer (ID 16651) — details not rendered, see site:
+🔗 h
+2026-05-07T14:43:33+0000 WARNING ID 16652 not in top-10 details (>10 new in one window?)
+2026-05-07T14:43:33+0000 INFO Telegram sent: 🏠 New offer (ID 16652) — details not rendered, see site:
+🔗 h
+2026-05-07T14:43:33+0000 WARNING ID 16653 not in top-10 details (>10 new in one window?)
+2026-05-07T14:43:34+0000 INFO Telegram sent: 🏠 New offer (ID 16653) — details not rendered, see site:
+🔗 h
+2026-05-07T14:43:34+0000 WARNING ID 16654 not in top-10 details (>10 new in one window?)
+2026-05-07T14:43:34+0000 INFO Telegram sent: 🏠 New offer (ID 16654) — details not rendered, see site:
+🔗 h
+2026-05-07T14:43:34+0000 WARNING ID 16655 not in top-10 details (>10 new in one window?)
+2026-05-07T14:43:35+0000 INFO Telegram sent: 🏠 New offer (ID 16655) — details not rendered, see site:
+🔗 h
+2026-05-07T14:43:35+0000 WARNING ID 16656 not in top-10 details (>10 new in one window?)
+2026-05-07T14:43:35+0000 INFO Telegram sent: 🏠 New offer (ID 16656) — details not rendered, see site:
+🔗 h
+2026-05-07T14:43:35+0000 WARNING ID 16657 not in top-10 details (>10 new in one window?)
+2026-05-07T14:43:36+0000 INFO Telegram sent: 🏠 New offer (ID 16657) — details not rendered, see site:
+🔗 h
+2026-05-07T14:43:36+0000 WARNING ID 16659 not in top-10 details (>10 new in one window?)
+2026-05-07T14:43:36+0000 INFO Telegram sent: 🏠 New offer (ID 16659) — details not rendered, see site:
+🔗 h
+2026-05-07T14:43:37+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Singer
+2026-05-07T14:43:37+0000 INFO Notified: ID 16660 — Singerstraße 83, 10243 Friedrichshain-Kreuzberg
+2026-05-07T14:43:37+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Singer
+2026-05-07T14:43:37+0000 INFO Notified: ID 16661 — Singerstraße 83, 10243 Friedrichshain-Kreuzberg
+2026-05-07T14:43:38+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Wiclefstraße 65, 10551 Mi
+2026-05-07T14:43:38+0000 INFO Notified: ID 16662 — Wiclefstraße 65, 10551 Mitte
+2026-05-07T14:43:38+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Wiclefstraße 65, 10551 Mi
+2026-05-07T14:43:38+0000 INFO Notified: ID 16663 — Wiclefstraße 65, 10551 Mitte
+2026-05-07T14:43:39+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Wiclefstraße 65, 10551 Mi
+2026-05-07T14:43:39+0000 INFO Notified: ID 16664 — Wiclefstraße 65, 10551 Mitte
+2026-05-07T14:43:39+0000 INFO Skipped (district Spandau not in allowlist): ID 16665
+2026-05-07T14:43:39+0000 INFO Skipped (district Spandau not in allowlist): ID 16666
+2026-05-07T14:43:39+0000 INFO Skipped (district Spandau not in allowlist): ID 16667
+2026-05-07T14:43:39+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16668
+2026-05-07T14:43:39+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16669
