@@ -1712,3 +1712,18 @@
 2026-05-07T16:28:01+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16672
 2026-05-07T16:28:01+0000 INFO Skipped (district Spandau not in allowlist): ID 16673
 2026-05-07T16:28:01+0000 INFO Skipped (district Spandau not in allowlist): ID 16674
+2026-05-07T18:08:59+0000 INFO Fetched page: 223 total IDs, 10 rendered details
+2026-05-07T18:08:59+0000 INFO 4 new offer(s) found
+2026-05-07T18:08:59+0000 INFO Skipped (district Spandau not in allowlist): ID 16675
+2026-05-07T18:09:00+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Löwest
+2026-05-07T18:09:00+0000 INFO Notified: ID 16676 — Löwestraße 29, 10249 Friedrichshain-Kreuzberg
+2026-05-07T18:09:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Löwest
+2026-05-07T18:09:01+0000 INFO Notified: ID 16677 — Löwestraße 29, 10249 Friedrichshain-Kreuzberg
+2026-05-07T18:09:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Kleine
+2026-05-07T18:09:01+0000 INFO Notified: ID 16678 — Kleine Markusstraße 5, 10243 Friedrichshain-Kreuzberg
