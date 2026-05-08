@@ -1739,3 +1739,7 @@
 2026-05-08T00:07:15+0000 INFO 0 new offer(s) found
 2026-05-08T03:51:33+0000 INFO Fetched page: 215 total IDs, 10 rendered details
 2026-05-08T03:51:33+0000 INFO 0 new offer(s) found
+2026-05-08T05:50:03+0000 INFO Fetched page: 212 total IDs, 10 rendered details
+2026-05-08T05:50:03+0000 INFO 2 new offer(s) found
+2026-05-08T05:50:03+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16680
+2026-05-08T05:50:03+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16681
