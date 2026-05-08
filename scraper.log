@@ -1860,3 +1860,13 @@
 2026-05-08T17:51:08+0000 INFO Fetched page: 223 total IDs, 10 rendered details
 2026-05-08T17:51:08+0000 INFO 1 new offer(s) found
 2026-05-08T17:51:08+0000 INFO Skipped (district Spandau not in allowlist): ID 16731
+2026-05-08T19:00:25+0000 INFO Fetched page: 225 total IDs, 10 rendered details
+2026-05-08T19:00:25+0000 INFO 2 new offer(s) found
+2026-05-08T19:00:26+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Platz 
+2026-05-08T19:00:26+0000 INFO Notified: ID 16732 — Platz der Vereinten Nationen 32, 10249 Friedrichshain-Kreuzberg
+2026-05-08T19:00:26+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Straus
+2026-05-08T19:00:26+0000 INFO Notified: ID 16734 — Strausberger Straße 8A, 10243 Friedrichshain-Kreuzberg
