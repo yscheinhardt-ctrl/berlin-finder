@@ -1783,3 +1783,22 @@
 📍 Grüntenstr
 2026-05-08T08:49:53+0000 INFO Notified: ID 16696 — Grüntenstraße 76, 12107 Tempelhof-Schöneberg
 2026-05-08T08:49:53+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16697
+2026-05-08T10:12:19+0000 INFO Fetched page: 217 total IDs, 10 rendered details
+2026-05-08T10:12:19+0000 INFO 8 new offer(s) found
+2026-05-08T10:12:19+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16698
+2026-05-08T10:12:19+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Schl
+2026-05-08T10:12:19+0000 INFO Notified: ID 16699 — Schlangenbader Straße 29C, 14197 Charlottenburg-Wilmersdorf
+2026-05-08T10:12:19+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Heinrich-Schlusnus-Str
+2026-05-08T10:12:19+0000 INFO Notified: ID 16701 — Heinrich-Schlusnus-Straße 8, 12057 Neukölln
+2026-05-08T10:12:19+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16703
+2026-05-08T10:12:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Delphinstraße 4, 12057
+2026-05-08T10:12:20+0000 INFO Notified: ID 16704 — Delphinstraße 4, 12057 Neukölln
+2026-05-08T10:12:20+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16705
+2026-05-08T10:12:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16706
+2026-05-08T10:12:20+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16707
