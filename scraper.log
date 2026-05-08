@@ -1743,3 +1743,20 @@
 2026-05-08T05:50:03+0000 INFO 2 new offer(s) found
 2026-05-08T05:50:03+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16680
 2026-05-08T05:50:03+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16681
+2026-05-08T07:11:27+0000 INFO Fetched page: 209 total IDs, 10 rendered details
+2026-05-08T07:11:27+0000 INFO 6 new offer(s) found
+2026-05-08T07:11:27+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16682
+2026-05-08T07:11:27+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16683
+2026-05-08T07:11:27+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16684
+2026-05-08T07:11:27+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Neuköllner Straße 276A
+2026-05-08T07:11:27+0000 INFO Notified: ID 16685 — Neuköllner Straße 276A, 12357 Neukölln
+2026-05-08T07:11:28+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Agnes-Straub-Weg 1, 12
+2026-05-08T07:11:28+0000 INFO Notified: ID 16686 — Agnes-Straub-Weg 1, 12353 Neukölln
+2026-05-08T07:11:28+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Rudower Straße 52, 123
+2026-05-08T07:11:28+0000 INFO Notified: ID 16687 — Rudower Straße 52, 12351 Neukölln
