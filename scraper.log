@@ -1825,3 +1825,30 @@
 📍 Waldsassen
 2026-05-08T13:00:49+0000 INFO Notified: ID 16716 — Waldsassener Straße 34, 12279 Tempelhof-Schöneberg
 2026-05-08T13:00:49+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16717
+2026-05-08T15:00:16+0000 INFO Fetched page: 221 total IDs, 10 rendered details
+2026-05-08T15:00:16+0000 INFO 10 new offer(s) found
+2026-05-08T15:00:16+0000 INFO Skipped (district Pankow not in allowlist): ID 16718
+2026-05-08T15:00:16+0000 INFO Skipped (district Pankow not in allowlist): ID 16719
+2026-05-08T15:00:16+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Dill
+2026-05-08T15:00:16+0000 INFO Notified: ID 16720 — Dillenburger Straße 54, 14199 Charlottenburg-Wilmersdorf
+2026-05-08T15:00:16+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16721
+2026-05-08T15:00:16+0000 INFO Skipped (district Pankow not in allowlist): ID 16722
+2026-05-08T15:00:17+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Geit
+2026-05-08T15:00:17+0000 INFO Notified: ID 16723 — Geitelsteig 19, 13627 Charlottenburg-Wilmersdorf
+2026-05-08T15:00:17+0000 INFO Skipped (district Pankow not in allowlist): ID 16724
+2026-05-08T15:00:17+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Schl
+2026-05-08T15:00:17+0000 INFO Notified: ID 16725 — Schlangenbader Straße 32B, 14197 Charlottenburg-Wilmersdorf
+2026-05-08T15:00:17+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Schl
+2026-05-08T15:00:17+0000 INFO Notified: ID 16726 — Schlangenbader Straße 15C, 14197 Charlottenburg-Wilmersdorf
+2026-05-08T15:00:18+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Schl
+2026-05-08T15:00:18+0000 INFO Notified: ID 16727 — Schlangenbader Straße 11, 14197 Charlottenburg-Wilmersdorf
