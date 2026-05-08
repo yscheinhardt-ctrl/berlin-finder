@@ -1812,3 +1812,16 @@
 📍 Walter-Franck-Zeile 3A
 2026-05-08T11:46:36+0000 INFO Notified: ID 16711 — Walter-Franck-Zeile 3A, 12353 Neukölln
 2026-05-08T11:46:36+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16712
+2026-05-08T13:00:48+0000 INFO Fetched page: 214 total IDs, 10 rendered details
+2026-05-08T13:00:48+0000 INFO 5 new offer(s) found
+2026-05-08T13:00:48+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16713
+2026-05-08T13:00:48+0000 INFO Skipped (district Pankow not in allowlist): ID 16714
+2026-05-08T13:00:49+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Fritz-Erler-Allee 36, 
+2026-05-08T13:00:49+0000 INFO Notified: ID 16715 — Fritz-Erler-Allee 36, 12351 Neukölln
+2026-05-08T13:00:49+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Waldsassen
+2026-05-08T13:00:49+0000 INFO Notified: ID 16716 — Waldsassener Straße 34, 12279 Tempelhof-Schöneberg
+2026-05-08T13:00:49+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16717
