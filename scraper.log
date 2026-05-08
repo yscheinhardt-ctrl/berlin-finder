@@ -1760,3 +1760,26 @@
 
 📍 Rudower Straße 52, 123
 2026-05-08T07:11:28+0000 INFO Notified: ID 16687 — Rudower Straße 52, 12351 Neukölln
+2026-05-08T08:49:51+0000 INFO Fetched page: 214 total IDs, 10 rendered details
+2026-05-08T08:49:51+0000 INFO 9 new offer(s) found
+2026-05-08T08:49:51+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16688
+2026-05-08T08:49:52+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Heubuder Straße 5, 13359 
+2026-05-08T08:49:52+0000 INFO Notified: ID 16689 — Heubuder Straße 5, 13359 Mitte
+2026-05-08T08:49:52+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16690
+2026-05-08T08:49:52+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Frauenfelder Weg 1B, 1340
+2026-05-08T08:49:52+0000 INFO Notified: ID 16692 — Frauenfelder Weg 1B, 13407 Mitte
+2026-05-08T08:49:52+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16693
+2026-05-08T08:49:52+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16694
+2026-05-08T08:49:53+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Westphalwe
+2026-05-08T08:49:53+0000 INFO Notified: ID 16695 — Westphalweg 7, 12109 Tempelhof-Schöneberg
+2026-05-08T08:49:53+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Grüntenstr
+2026-05-08T08:49:53+0000 INFO Notified: ID 16696 — Grüntenstraße 76, 12107 Tempelhof-Schöneberg
+2026-05-08T08:49:53+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16697
