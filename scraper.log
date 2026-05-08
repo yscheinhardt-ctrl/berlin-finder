@@ -1857,3 +1857,6 @@
 2026-05-08T16:23:40+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16728
 2026-05-08T16:23:40+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16729
 2026-05-08T16:23:40+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16730
+2026-05-08T17:51:08+0000 INFO Fetched page: 223 total IDs, 10 rendered details
+2026-05-08T17:51:08+0000 INFO 1 new offer(s) found
+2026-05-08T17:51:08+0000 INFO Skipped (district Spandau not in allowlist): ID 16731
