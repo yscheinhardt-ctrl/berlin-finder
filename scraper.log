@@ -1852,3 +1852,8 @@
 
 📍 Schl
 2026-05-08T15:00:18+0000 INFO Notified: ID 16727 — Schlangenbader Straße 11, 14197 Charlottenburg-Wilmersdorf
+2026-05-08T16:23:40+0000 INFO Fetched page: 223 total IDs, 10 rendered details
+2026-05-08T16:23:40+0000 INFO 3 new offer(s) found
+2026-05-08T16:23:40+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16728
+2026-05-08T16:23:40+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16729
+2026-05-08T16:23:40+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16730
