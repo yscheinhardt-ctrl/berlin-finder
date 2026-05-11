@@ -2032,3 +2032,60 @@
 
 📍 Colbes
 2026-05-11T11:22:32+0000 INFO Notified: ID 16770 — Colbestraße 5, 10247 Friedrichshain-Kreuzberg
+2026-05-11T14:02:19+0000 INFO Fetched page: 221 total IDs, 10 rendered details
+2026-05-11T14:02:19+0000 INFO 17 new offer(s) found
+2026-05-11T14:02:19+0000 WARNING ID 16771 not in top-10 details (>10 new in one window?)
+2026-05-11T14:02:19+0000 INFO Telegram sent: 🏠 New offer (ID 16771) — details not rendered, see site:
+🔗 h
+2026-05-11T14:02:19+0000 WARNING ID 16772 not in top-10 details (>10 new in one window?)
+2026-05-11T14:02:20+0000 INFO Telegram sent: 🏠 New offer (ID 16772) — details not rendered, see site:
+🔗 h
+2026-05-11T14:02:20+0000 WARNING ID 16773 not in top-10 details (>10 new in one window?)
+2026-05-11T14:02:20+0000 INFO Telegram sent: 🏠 New offer (ID 16773) — details not rendered, see site:
+🔗 h
+2026-05-11T14:02:20+0000 WARNING ID 16774 not in top-10 details (>10 new in one window?)
+2026-05-11T14:02:21+0000 INFO Telegram sent: 🏠 New offer (ID 16774) — details not rendered, see site:
+🔗 h
+2026-05-11T14:02:21+0000 WARNING ID 16775 not in top-10 details (>10 new in one window?)
+2026-05-11T14:02:21+0000 INFO Telegram sent: 🏠 New offer (ID 16775) — details not rendered, see site:
+🔗 h
+2026-05-11T14:02:21+0000 WARNING ID 16778 not in top-10 details (>10 new in one window?)
+2026-05-11T14:02:22+0000 INFO Telegram sent: 🏠 New offer (ID 16778) — details not rendered, see site:
+🔗 h
+2026-05-11T14:02:22+0000 WARNING ID 16779 not in top-10 details (>10 new in one window?)
+2026-05-11T14:02:22+0000 INFO Telegram sent: 🏠 New offer (ID 16779) — details not rendered, see site:
+🔗 h
+2026-05-11T14:02:23+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 In den Bauerngärten 12
+2026-05-11T14:02:23+0000 INFO Notified: ID 16780 — In den Bauerngärten 12, 12349 Neukölln
+2026-05-11T14:02:23+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 In den Bauerngärten 12
+2026-05-11T14:02:23+0000 INFO Notified: ID 16781 — In den Bauerngärten 12, 12349 Neukölln
+2026-05-11T14:02:24+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Kopern
+2026-05-11T14:02:24+0000 INFO Notified: ID 16782 — Kopernikusstraße 29, 10245 Friedrichshain-Kreuzberg
+2026-05-11T14:02:24+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Finows
+2026-05-11T14:02:24+0000 INFO Notified: ID 16783 — Finowstraße 36, 10247 Friedrichshain-Kreuzberg
+2026-05-11T14:02:25+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Weichs
+2026-05-11T14:02:25+0000 INFO Notified: ID 16784 — Weichselstraße 2, 10247 Friedrichshain-Kreuzberg
+2026-05-11T14:02:25+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Sonnta
+2026-05-11T14:02:25+0000 INFO Notified: ID 16785 — Sonntagstraße 10, 10245 Friedrichshain-Kreuzberg
+2026-05-11T14:02:25+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16786
+2026-05-11T14:02:26+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Müllerstraße 89B, 13349 M
+2026-05-11T14:02:26+0000 INFO Notified: ID 16787 — Müllerstraße 89B, 13349 Mitte
+2026-05-11T14:02:26+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Soldiner Straße 102, 1335
+2026-05-11T14:02:26+0000 INFO Notified: ID 16788 — Soldiner Straße 102, 13359 Mitte
+2026-05-11T14:02:26+0000 INFO Skipped (district Spandau not in allowlist): ID 16789
