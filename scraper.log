@@ -1972,3 +1972,63 @@
 
 📍 Lortzingstraße 15, 13355 
 2026-05-11T07:55:56+0000 INFO Notified: ID 16745 — Lortzingstraße 15, 13355 Mitte
+2026-05-11T11:22:26+0000 INFO Fetched page: 214 total IDs, 10 rendered details
+2026-05-11T11:22:26+0000 INFO 23 new offer(s) found
+2026-05-11T11:22:26+0000 WARNING ID 16746 not in top-10 details (>10 new in one window?)
+2026-05-11T11:22:26+0000 INFO Telegram sent: 🏠 New offer (ID 16746) — details not rendered, see site:
+🔗 h
+2026-05-11T11:22:26+0000 WARNING ID 16747 not in top-10 details (>10 new in one window?)
+2026-05-11T11:22:27+0000 INFO Telegram sent: 🏠 New offer (ID 16747) — details not rendered, see site:
+🔗 h
+2026-05-11T11:22:27+0000 WARNING ID 16748 not in top-10 details (>10 new in one window?)
+2026-05-11T11:22:27+0000 INFO Telegram sent: 🏠 New offer (ID 16748) — details not rendered, see site:
+🔗 h
+2026-05-11T11:22:27+0000 WARNING ID 16749 not in top-10 details (>10 new in one window?)
+2026-05-11T11:22:27+0000 INFO Telegram sent: 🏠 New offer (ID 16749) — details not rendered, see site:
+🔗 h
+2026-05-11T11:22:27+0000 WARNING ID 16750 not in top-10 details (>10 new in one window?)
+2026-05-11T11:22:28+0000 INFO Telegram sent: 🏠 New offer (ID 16750) — details not rendered, see site:
+🔗 h
+2026-05-11T11:22:28+0000 WARNING ID 16751 not in top-10 details (>10 new in one window?)
+2026-05-11T11:22:28+0000 INFO Telegram sent: 🏠 New offer (ID 16751) — details not rendered, see site:
+🔗 h
+2026-05-11T11:22:28+0000 WARNING ID 16753 not in top-10 details (>10 new in one window?)
+2026-05-11T11:22:29+0000 INFO Telegram sent: 🏠 New offer (ID 16753) — details not rendered, see site:
+🔗 h
+2026-05-11T11:22:29+0000 WARNING ID 16754 not in top-10 details (>10 new in one window?)
+2026-05-11T11:22:29+0000 INFO Telegram sent: 🏠 New offer (ID 16754) — details not rendered, see site:
+🔗 h
+2026-05-11T11:22:29+0000 WARNING ID 16755 not in top-10 details (>10 new in one window?)
+2026-05-11T11:22:29+0000 INFO Telegram sent: 🏠 New offer (ID 16755) — details not rendered, see site:
+🔗 h
+2026-05-11T11:22:29+0000 WARNING ID 16756 not in top-10 details (>10 new in one window?)
+2026-05-11T11:22:30+0000 INFO Telegram sent: 🏠 New offer (ID 16756) — details not rendered, see site:
+🔗 h
+2026-05-11T11:22:30+0000 WARNING ID 16757 not in top-10 details (>10 new in one window?)
+2026-05-11T11:22:30+0000 INFO Telegram sent: 🏠 New offer (ID 16757) — details not rendered, see site:
+🔗 h
+2026-05-11T11:22:30+0000 WARNING ID 16759 not in top-10 details (>10 new in one window?)
+2026-05-11T11:22:31+0000 INFO Telegram sent: 🏠 New offer (ID 16759) — details not rendered, see site:
+🔗 h
+2026-05-11T11:22:31+0000 WARNING ID 16760 not in top-10 details (>10 new in one window?)
+2026-05-11T11:22:31+0000 INFO Telegram sent: 🏠 New offer (ID 16760) — details not rendered, see site:
+🔗 h
+2026-05-11T11:22:31+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16761
+2026-05-11T11:22:31+0000 INFO Skipped (district Pankow not in allowlist): ID 16762
+2026-05-11T11:22:31+0000 INFO Skipped (district Spandau not in allowlist): ID 16763
+2026-05-11T11:22:31+0000 INFO Skipped (district Spandau not in allowlist): ID 16764
+2026-05-11T11:22:31+0000 INFO Skipped (district Spandau not in allowlist): ID 16765
+2026-05-11T11:22:31+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Krauts
+2026-05-11T11:22:31+0000 INFO Notified: ID 16766 — Krautstraße 12, 10243 Friedrichshain-Kreuzberg
+2026-05-11T11:22:32+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Lichte
+2026-05-11T11:22:32+0000 INFO Notified: ID 16767 — Lichtenberger Straße 25, 10179 Friedrichshain-Kreuzberg
+2026-05-11T11:22:32+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16768
+2026-05-11T11:22:32+0000 INFO Skipped (district Spandau not in allowlist): ID 16769
+2026-05-11T11:22:32+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Colbes
+2026-05-11T11:22:32+0000 INFO Notified: ID 16770 — Colbestraße 5, 10247 Friedrichshain-Kreuzberg
