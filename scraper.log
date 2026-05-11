@@ -1956,3 +1956,19 @@
 2026-05-11T00:00:14+0000 INFO 0 new offer(s) found
 2026-05-11T04:16:51+0000 INFO Fetched page: 210 total IDs, 10 rendered details
 2026-05-11T04:16:51+0000 INFO 0 new offer(s) found
+2026-05-11T07:55:55+0000 INFO Fetched page: 205 total IDs, 10 rendered details
+2026-05-11T07:55:55+0000 INFO 8 new offer(s) found
+2026-05-11T07:55:56+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Neudecker Weg 121, 123
+2026-05-11T07:55:56+0000 INFO Notified: ID 16737 — Neudecker Weg 121, 12355 Neukölln
+2026-05-11T07:55:56+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16738
+2026-05-11T07:55:56+0000 INFO Skipped (district Spandau not in allowlist): ID 16740
+2026-05-11T07:55:56+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 16741
+2026-05-11T07:55:56+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16742
+2026-05-11T07:55:56+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16743
+2026-05-11T07:55:56+0000 INFO Skipped (district Pankow not in allowlist): ID 16744
+2026-05-11T07:55:56+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Lortzingstraße 15, 13355 
+2026-05-11T07:55:56+0000 INFO Notified: ID 16745 — Lortzingstraße 15, 13355 Mitte
