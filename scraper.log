@@ -2290,3 +2290,17 @@
 
 📍 Heck
 2026-05-12T17:26:20+0000 INFO Notified: ID 16863 — Heckerdamm 215, 13627 Charlottenburg-Wilmersdorf
+2026-05-12T19:18:15+0000 INFO Fetched page: 222 total IDs, 10 rendered details
+2026-05-12T19:18:15+0000 INFO 3 new offer(s) found
+2026-05-12T19:18:16+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Reic
+2026-05-12T19:18:16+0000 INFO Notified: ID 16864 — Reichweindamm 16, 13627 Charlottenburg-Wilmersdorf
+2026-05-12T19:18:16+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Iranische Straße 4B, 1334
+2026-05-12T19:18:16+0000 INFO Notified: ID 16865 — Iranische Straße 4B, 13347 Mitte
+2026-05-12T19:18:17+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Iranische Straße 4B, 1334
+2026-05-12T19:18:17+0000 INFO Notified: ID 16866 — Iranische Straße 4B, 13347 Mitte
