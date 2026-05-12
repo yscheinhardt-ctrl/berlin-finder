@@ -2282,3 +2282,11 @@
 
 📍 Amrumer Straße 36, 13353 
 2026-05-12T15:17:02+0000 INFO Notified: ID 16860 — Amrumer Straße 36, 13353 Mitte
+2026-05-12T17:26:20+0000 INFO Fetched page: 228 total IDs, 10 rendered details
+2026-05-12T17:26:20+0000 INFO 3 new offer(s) found
+2026-05-12T17:26:20+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16861
+2026-05-12T17:26:20+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16862
+2026-05-12T17:26:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Heck
+2026-05-12T17:26:20+0000 INFO Notified: ID 16863 — Heckerdamm 215, 13627 Charlottenburg-Wilmersdorf
