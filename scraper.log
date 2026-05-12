@@ -2146,3 +2146,60 @@
 2026-05-12T04:58:32+0000 INFO Fetched page: 206 total IDs, 10 rendered details
 2026-05-12T04:58:32+0000 INFO 1 new offer(s) found
 2026-05-12T04:58:32+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16803
+2026-05-12T07:48:35+0000 INFO Fetched page: 219 total IDs, 10 rendered details
+2026-05-12T07:48:35+0000 INFO 17 new offer(s) found
+2026-05-12T07:48:35+0000 WARNING ID 16804 not in top-10 details (>10 new in one window?)
+2026-05-12T07:48:35+0000 INFO Telegram sent: 🏠 New offer (ID 16804) — details not rendered, see site:
+🔗 h
+2026-05-12T07:48:35+0000 WARNING ID 16805 not in top-10 details (>10 new in one window?)
+2026-05-12T07:48:36+0000 INFO Telegram sent: 🏠 New offer (ID 16805) — details not rendered, see site:
+🔗 h
+2026-05-12T07:48:36+0000 WARNING ID 16806 not in top-10 details (>10 new in one window?)
+2026-05-12T07:48:36+0000 INFO Telegram sent: 🏠 New offer (ID 16806) — details not rendered, see site:
+🔗 h
+2026-05-12T07:48:36+0000 WARNING ID 16807 not in top-10 details (>10 new in one window?)
+2026-05-12T07:48:37+0000 INFO Telegram sent: 🏠 New offer (ID 16807) — details not rendered, see site:
+🔗 h
+2026-05-12T07:48:37+0000 WARNING ID 16808 not in top-10 details (>10 new in one window?)
+2026-05-12T07:48:37+0000 INFO Telegram sent: 🏠 New offer (ID 16808) — details not rendered, see site:
+🔗 h
+2026-05-12T07:48:37+0000 WARNING ID 16809 not in top-10 details (>10 new in one window?)
+2026-05-12T07:48:38+0000 INFO Telegram sent: 🏠 New offer (ID 16809) — details not rendered, see site:
+🔗 h
+2026-05-12T07:48:38+0000 WARNING ID 16810 not in top-10 details (>10 new in one window?)
+2026-05-12T07:48:38+0000 INFO Telegram sent: 🏠 New offer (ID 16810) — details not rendered, see site:
+🔗 h
+2026-05-12T07:48:38+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 109, 10
+2026-05-12T07:48:38+0000 INFO Notified: ID 16811 — Köpenicker Straße 109, 10179 Mitte
+2026-05-12T07:48:39+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 120, 10
+2026-05-12T07:48:39+0000 INFO Notified: ID 16812 — Köpenicker Straße 120, 10179 Mitte
+2026-05-12T07:48:39+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 120, 10
+2026-05-12T07:48:39+0000 INFO Notified: ID 16813 — Köpenicker Straße 120, 10179 Mitte
+2026-05-12T07:48:40+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 120, 10
+2026-05-12T07:48:40+0000 INFO Notified: ID 16814 — Köpenicker Straße 120, 10179 Mitte
+2026-05-12T07:48:40+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 120, 10
+2026-05-12T07:48:40+0000 INFO Notified: ID 16815 — Köpenicker Straße 120, 10179 Mitte
+2026-05-12T07:48:41+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Joachim-Gottschalk-Weg
+2026-05-12T07:48:41+0000 INFO Notified: ID 16816 — Joachim-Gottschalk-Weg 1, 12353 Neukölln
+2026-05-12T07:48:41+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16817
+2026-05-12T07:48:41+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Sandsteinweg 21A, 1234
+2026-05-12T07:48:41+0000 INFO Notified: ID 16818 — Sandsteinweg 21A, 12349 Neukölln
+2026-05-12T07:48:42+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Theodor-Loos-Weg 33, 1
+2026-05-12T07:48:42+0000 INFO Notified: ID 16819 — Theodor-Loos-Weg 33, 12353 Neukölln
+2026-05-12T07:48:42+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16820
