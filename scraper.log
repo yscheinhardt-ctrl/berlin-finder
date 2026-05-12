@@ -2237,3 +2237,48 @@
 2026-05-12T12:21:43+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16839
 2026-05-12T12:21:43+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 16840
 2026-05-12T12:21:43+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16841
+2026-05-12T15:16:59+0000 INFO Fetched page: 226 total IDs, 10 rendered details
+2026-05-12T15:16:59+0000 INFO 18 new offer(s) found
+2026-05-12T15:16:59+0000 WARNING ID 16843 not in top-10 details (>10 new in one window?)
+2026-05-12T15:16:59+0000 INFO Telegram sent: 🏠 New offer (ID 16843) — details not rendered, see site:
+🔗 h
+2026-05-12T15:16:59+0000 WARNING ID 16844 not in top-10 details (>10 new in one window?)
+2026-05-12T15:16:59+0000 INFO Telegram sent: 🏠 New offer (ID 16844) — details not rendered, see site:
+🔗 h
+2026-05-12T15:16:59+0000 WARNING ID 16845 not in top-10 details (>10 new in one window?)
+2026-05-12T15:17:00+0000 INFO Telegram sent: 🏠 New offer (ID 16845) — details not rendered, see site:
+🔗 h
+2026-05-12T15:17:00+0000 WARNING ID 16846 not in top-10 details (>10 new in one window?)
+2026-05-12T15:17:00+0000 INFO Telegram sent: 🏠 New offer (ID 16846) — details not rendered, see site:
+🔗 h
+2026-05-12T15:17:00+0000 WARNING ID 16847 not in top-10 details (>10 new in one window?)
+2026-05-12T15:17:00+0000 INFO Telegram sent: 🏠 New offer (ID 16847) — details not rendered, see site:
+🔗 h
+2026-05-12T15:17:00+0000 WARNING ID 16848 not in top-10 details (>10 new in one window?)
+2026-05-12T15:17:01+0000 INFO Telegram sent: 🏠 New offer (ID 16848) — details not rendered, see site:
+🔗 h
+2026-05-12T15:17:01+0000 WARNING ID 16849 not in top-10 details (>10 new in one window?)
+2026-05-12T15:17:01+0000 INFO Telegram sent: 🏠 New offer (ID 16849) — details not rendered, see site:
+🔗 h
+2026-05-12T15:17:01+0000 WARNING ID 16850 not in top-10 details (>10 new in one window?)
+2026-05-12T15:17:01+0000 INFO Telegram sent: 🏠 New offer (ID 16850) — details not rendered, see site:
+🔗 h
+2026-05-12T15:17:01+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16851
+2026-05-12T15:17:01+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16852
+2026-05-12T15:17:01+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16853
+2026-05-12T15:17:01+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16854
+2026-05-12T15:17:01+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16855
+2026-05-12T15:17:01+0000 INFO Skipped (district Spandau not in allowlist): ID 16856
+2026-05-12T15:17:01+0000 INFO Skipped (district Spandau not in allowlist): ID 16857
+2026-05-12T15:17:02+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Lauterplat
+2026-05-12T15:17:02+0000 INFO Notified: ID 16858 — Lauterplatz 9, 12159 Tempelhof-Schöneberg
+2026-05-12T15:17:02+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Waldsassen
+2026-05-12T15:17:02+0000 INFO Notified: ID 16859 — Waldsassener Straße 29, 12279 Tempelhof-Schöneberg
+2026-05-12T15:17:02+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Amrumer Straße 36, 13353 
+2026-05-12T15:17:02+0000 INFO Notified: ID 16860 — Amrumer Straße 36, 13353 Mitte
