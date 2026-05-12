@@ -2203,3 +2203,24 @@
 📍 Theodor-Loos-Weg 33, 1
 2026-05-12T07:48:42+0000 INFO Notified: ID 16819 — Theodor-Loos-Weg 33, 12353 Neukölln
 2026-05-12T07:48:42+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16820
+2026-05-12T10:16:43+0000 INFO Fetched page: 222 total IDs, 10 rendered details
+2026-05-12T10:16:43+0000 INFO 11 new offer(s) found
+2026-05-12T10:16:43+0000 WARNING ID 16821 not in top-10 details (>10 new in one window?)
+2026-05-12T10:16:44+0000 INFO Telegram sent: 🏠 New offer (ID 16821) — details not rendered, see site:
+🔗 h
+2026-05-12T10:16:44+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16822
+2026-05-12T10:16:44+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16823
+2026-05-12T10:16:44+0000 INFO Skipped (district Pankow not in allowlist): ID 16824
+2026-05-12T10:16:44+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16825
+2026-05-12T10:16:44+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 16826
+2026-05-12T10:16:44+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Schirpitzer Weg 46, 12
+2026-05-12T10:16:44+0000 INFO Notified: ID 16827 — Schirpitzer Weg 46, 12355 Neukölln
+2026-05-12T10:16:44+0000 INFO Skipped (district Pankow not in allowlist): ID 16829
+2026-05-12T10:16:44+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16830
+2026-05-12T10:16:45+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Almstadtstraße 55, 10119 
+2026-05-12T10:16:45+0000 INFO Notified: ID 16831 — Almstadtstraße 55, 10119 Mitte
+2026-05-12T10:16:45+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16832
