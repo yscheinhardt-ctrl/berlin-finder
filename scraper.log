@@ -2410,3 +2410,22 @@
 2026-05-13T12:22:40+0000 INFO Skipped (district Pankow not in allowlist): ID 16909
 2026-05-13T12:22:40+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16910
 2026-05-13T12:22:40+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16911
+2026-05-13T15:20:22+0000 INFO Fetched page: 224 total IDs, 10 rendered details
+2026-05-13T15:20:22+0000 INFO 8 new offer(s) found
+2026-05-13T15:20:22+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16912
+2026-05-13T15:20:22+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16913
+2026-05-13T15:20:22+0000 INFO Skipped (district Pankow not in allowlist): ID 16914
+2026-05-13T15:20:22+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16915
+2026-05-13T15:20:22+0000 INFO Skipped (district Pankow not in allowlist): ID 16916
+2026-05-13T15:20:23+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Ringslebenstraße 2B, 1
+2026-05-13T15:20:23+0000 INFO Notified: ID 16917 — Ringslebenstraße 2B, 12353 Neukölln
+2026-05-13T15:20:23+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Heiden
+2026-05-13T15:20:23+0000 INFO Notified: ID 16918 — Heidenfeldstraße 5, 10249 Friedrichshain-Kreuzberg
+2026-05-13T15:20:24+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Ebelin
+2026-05-13T15:20:24+0000 INFO Notified: ID 16919 — Ebelingstraße 13A, 10249 Friedrichshain-Kreuzberg
