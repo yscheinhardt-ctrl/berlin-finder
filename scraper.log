@@ -2429,3 +2429,9 @@
 
 📍 Ebelin
 2026-05-13T15:20:24+0000 INFO Notified: ID 16919 — Ebelingstraße 13A, 10249 Friedrichshain-Kreuzberg
+2026-05-13T17:29:46+0000 INFO Fetched page: 224 total IDs, 10 rendered details
+2026-05-13T17:29:46+0000 INFO 4 new offer(s) found
+2026-05-13T17:29:46+0000 INFO Skipped (district Spandau not in allowlist): ID 16920
+2026-05-13T17:29:46+0000 INFO Skipped (district Spandau not in allowlist): ID 16921
+2026-05-13T17:29:46+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16922
+2026-05-13T17:29:46+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16923
