@@ -2357,3 +2357,42 @@
 📍 Bärbel-Bohley-Ring 24, 13
 2026-05-13T07:30:48+0000 INFO Notified: ID 16883 — Bärbel-Bohley-Ring 24, 13355 Mitte
 2026-05-13T07:30:48+0000 INFO Skipped (district Spandau not in allowlist): ID 16884
+2026-05-13T10:06:31+0000 INFO Fetched page: 223 total IDs, 10 rendered details
+2026-05-13T10:06:31+0000 INFO 13 new offer(s) found
+2026-05-13T10:06:31+0000 WARNING ID 16885 not in top-10 details (>10 new in one window?)
+2026-05-13T10:06:31+0000 INFO Telegram sent: 🏠 New offer (ID 16885) — details not rendered, see site:
+🔗 h
+2026-05-13T10:06:31+0000 WARNING ID 16886 not in top-10 details (>10 new in one window?)
+2026-05-13T10:06:32+0000 INFO Telegram sent: 🏠 New offer (ID 16886) — details not rendered, see site:
+🔗 h
+2026-05-13T10:06:32+0000 WARNING ID 16887 not in top-10 details (>10 new in one window?)
+2026-05-13T10:06:32+0000 INFO Telegram sent: 🏠 New offer (ID 16887) — details not rendered, see site:
+🔗 h
+2026-05-13T10:06:33+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Leo-Slezak-Straße 10, 
+2026-05-13T10:06:33+0000 INFO Notified: ID 16888 — Leo-Slezak-Straße 10, 12057 Neukölln
+2026-05-13T10:06:33+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Heinrich-Schlusnus-Str
+2026-05-13T10:06:33+0000 INFO Notified: ID 16889 — Heinrich-Schlusnus-Straße 2, 12057 Neukölln
+2026-05-13T10:06:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Schichauwe
+2026-05-13T10:06:34+0000 INFO Notified: ID 16890 — Schichauweg 31, 12307 Tempelhof-Schöneberg
+2026-05-13T10:06:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Osloer Straße 107, 13359 
+2026-05-13T10:06:34+0000 INFO Notified: ID 16891 — Osloer Straße 107, 13359 Mitte
+2026-05-13T10:06:34+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16892
+2026-05-13T10:06:34+0000 INFO Skipped (district Pankow not in allowlist): ID 16893
+2026-05-13T10:06:34+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16894
+2026-05-13T10:06:35+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Selgenauer Weg 38, 123
+2026-05-13T10:06:35+0000 INFO Notified: ID 16895 — Selgenauer Weg 38, 12355 Neukölln
+2026-05-13T10:06:35+0000 INFO Skipped (district Pankow not in allowlist): ID 16896
+2026-05-13T10:06:35+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Mühlendamm 1, 10179 Mitte
+2026-05-13T10:06:35+0000 INFO Notified: ID 16897 — Mühlendamm 1, 10179 Mitte
