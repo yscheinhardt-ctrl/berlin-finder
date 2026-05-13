@@ -2318,3 +2318,42 @@
 
 📍 Iranische Straße 4B, 1334
 2026-05-13T04:16:07+0000 INFO Notified: ID 16867 — Iranische Straße 4B, 13347 Mitte
+2026-05-13T07:30:44+0000 INFO Fetched page: 223 total IDs, 10 rendered details
+2026-05-13T07:30:44+0000 INFO 17 new offer(s) found
+2026-05-13T07:30:44+0000 WARNING ID 16868 not in top-10 details (>10 new in one window?)
+2026-05-13T07:30:44+0000 INFO Telegram sent: 🏠 New offer (ID 16868) — details not rendered, see site:
+🔗 h
+2026-05-13T07:30:44+0000 WARNING ID 16869 not in top-10 details (>10 new in one window?)
+2026-05-13T07:30:45+0000 INFO Telegram sent: 🏠 New offer (ID 16869) — details not rendered, see site:
+🔗 h
+2026-05-13T07:30:45+0000 WARNING ID 16870 not in top-10 details (>10 new in one window?)
+2026-05-13T07:30:45+0000 INFO Telegram sent: 🏠 New offer (ID 16870) — details not rendered, see site:
+🔗 h
+2026-05-13T07:30:45+0000 WARNING ID 16871 not in top-10 details (>10 new in one window?)
+2026-05-13T07:30:46+0000 INFO Telegram sent: 🏠 New offer (ID 16871) — details not rendered, see site:
+🔗 h
+2026-05-13T07:30:46+0000 WARNING ID 16872 not in top-10 details (>10 new in one window?)
+2026-05-13T07:30:46+0000 INFO Telegram sent: 🏠 New offer (ID 16872) — details not rendered, see site:
+🔗 h
+2026-05-13T07:30:46+0000 WARNING ID 16873 not in top-10 details (>10 new in one window?)
+2026-05-13T07:30:46+0000 INFO Telegram sent: 🏠 New offer (ID 16873) — details not rendered, see site:
+🔗 h
+2026-05-13T07:30:46+0000 WARNING ID 16874 not in top-10 details (>10 new in one window?)
+2026-05-13T07:30:47+0000 INFO Telegram sent: 🏠 New offer (ID 16874) — details not rendered, see site:
+🔗 h
+2026-05-13T07:30:47+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16875
+2026-05-13T07:30:47+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Teterower Straße 7, 12
+2026-05-13T07:30:47+0000 INFO Notified: ID 16876 — Teterower Straße 7, 12359 Neukölln
+2026-05-13T07:30:47+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16877
+2026-05-13T07:30:47+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16878
+2026-05-13T07:30:47+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16879
+2026-05-13T07:30:47+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16880
+2026-05-13T07:30:47+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16881
+2026-05-13T07:30:47+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16882
+2026-05-13T07:30:48+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Bärbel-Bohley-Ring 24, 13
+2026-05-13T07:30:48+0000 INFO Notified: ID 16883 — Bärbel-Bohley-Ring 24, 13355 Mitte
+2026-05-13T07:30:48+0000 INFO Skipped (district Spandau not in allowlist): ID 16884
