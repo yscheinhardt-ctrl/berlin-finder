@@ -2396,3 +2396,17 @@
 
 📍 Mühlendamm 1, 10179 Mitte
 2026-05-13T10:06:35+0000 INFO Notified: ID 16897 — Mühlendamm 1, 10179 Mitte
+2026-05-13T12:22:39+0000 INFO Fetched page: 225 total IDs, 10 rendered details
+2026-05-13T12:22:39+0000 INFO 9 new offer(s) found
+2026-05-13T12:22:39+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16899
+2026-05-13T12:22:39+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16902
+2026-05-13T12:22:40+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Teic
+2026-05-13T12:22:40+0000 INFO Notified: ID 16905 — Teichgräberzeile 5, 13627 Charlottenburg-Wilmersdorf
+2026-05-13T12:22:40+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16906
+2026-05-13T12:22:40+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16907
+2026-05-13T12:22:40+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16908
+2026-05-13T12:22:40+0000 INFO Skipped (district Pankow not in allowlist): ID 16909
+2026-05-13T12:22:40+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16910
+2026-05-13T12:22:40+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16911
