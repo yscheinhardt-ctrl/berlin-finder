@@ -2473,3 +2473,15 @@
 2026-05-15T01:29:09+0000 INFO 0 new offer(s) found
 2026-05-15T05:34:44+0000 INFO Fetched page: 210 total IDs, 10 rendered details
 2026-05-15T05:34:44+0000 INFO 0 new offer(s) found
+2026-05-15T08:25:36+0000 INFO Fetched page: 207 total IDs, 10 rendered details
+2026-05-15T08:25:36+0000 INFO 7 new offer(s) found
+2026-05-15T08:25:37+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Käthe-Dorsch-Ring 23, 
+2026-05-15T08:25:37+0000 INFO Notified: ID 16927 — Käthe-Dorsch-Ring 23, 12353 Neukölln
+2026-05-15T08:25:37+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16928
+2026-05-15T08:25:37+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16929
+2026-05-15T08:25:37+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 16930
+2026-05-15T08:25:37+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16931
+2026-05-15T08:25:37+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16932
+2026-05-15T08:25:37+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16933
