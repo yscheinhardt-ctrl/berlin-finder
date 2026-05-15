@@ -2485,3 +2485,36 @@
 2026-05-15T08:25:37+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16931
 2026-05-15T08:25:37+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 16932
 2026-05-15T08:25:37+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16933
+2026-05-15T10:57:47+0000 INFO Fetched page: 218 total IDs, 10 rendered details
+2026-05-15T10:57:47+0000 INFO 13 new offer(s) found
+2026-05-15T10:57:47+0000 WARNING ID 16934 not in top-10 details (>10 new in one window?)
+2026-05-15T10:57:47+0000 INFO Telegram sent: 🏠 New offer (ID 16934) — details not rendered, see site:
+🔗 h
+2026-05-15T10:57:47+0000 WARNING ID 16935 not in top-10 details (>10 new in one window?)
+2026-05-15T10:57:48+0000 INFO Telegram sent: 🏠 New offer (ID 16935) — details not rendered, see site:
+🔗 h
+2026-05-15T10:57:48+0000 WARNING ID 16936 not in top-10 details (>10 new in one window?)
+2026-05-15T10:57:48+0000 INFO Telegram sent: 🏠 New offer (ID 16936) — details not rendered, see site:
+🔗 h
+2026-05-15T10:57:48+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Bayernring
+2026-05-15T10:57:48+0000 INFO Notified: ID 16937 — Bayernring 18C, 12101 Tempelhof-Schöneberg
+2026-05-15T10:57:48+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16938
+2026-05-15T10:57:49+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Höhndorfst
+2026-05-15T10:57:49+0000 INFO Notified: ID 16939 — Höhndorfstraße 17, 12101 Tempelhof-Schöneberg
+2026-05-15T10:57:49+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Höhndorfst
+2026-05-15T10:57:49+0000 INFO Notified: ID 16940 — Höhndorfstraße 17, 12101 Tempelhof-Schöneberg
+2026-05-15T10:57:49+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Bayernring
+2026-05-15T10:57:49+0000 INFO Notified: ID 16941 — Bayernring 18E, 12101 Tempelhof-Schöneberg
+2026-05-15T10:57:49+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16942
+2026-05-15T10:57:49+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16943
+2026-05-15T10:57:49+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16944
+2026-05-15T10:57:49+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16945
+2026-05-15T10:57:49+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16946
