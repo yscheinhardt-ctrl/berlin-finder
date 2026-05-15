@@ -2518,3 +2518,23 @@
 2026-05-15T10:57:49+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16944
 2026-05-15T10:57:49+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 16945
 2026-05-15T10:57:49+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16946
+2026-05-15T12:58:27+0000 INFO Fetched page: 223 total IDs, 10 rendered details
+2026-05-15T12:58:27+0000 INFO 9 new offer(s) found
+2026-05-15T12:58:27+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16947
+2026-05-15T12:58:27+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16948
+2026-05-15T12:58:27+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16949
+2026-05-15T12:58:27+0000 INFO Skipped (district Spandau not in allowlist): ID 16950
+2026-05-15T12:58:27+0000 INFO Skipped (district Spandau not in allowlist): ID 16951
+2026-05-15T12:58:27+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 16952
+2026-05-15T12:58:27+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Fidici
+2026-05-15T12:58:27+0000 INFO Notified: ID 16953 — Fidicinstraße 1A, 10965 Friedrichshain-Kreuzberg
+2026-05-15T12:58:27+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Hohenstauf
+2026-05-15T12:58:27+0000 INFO Notified: ID 16954 — Hohenstaufenstraße 31, 10779 Tempelhof-Schöneberg
+2026-05-15T12:58:28+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Bülowstraß
+2026-05-15T12:58:28+0000 INFO Notified: ID 16955 — Bülowstraße 89, 10783 Tempelhof-Schöneberg
