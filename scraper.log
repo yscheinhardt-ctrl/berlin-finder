@@ -2540,3 +2540,9 @@
 2026-05-15T12:58:28+0000 INFO Notified: ID 16955 — Bülowstraße 89, 10783 Tempelhof-Schöneberg
 2026-05-15T15:21:54+0000 INFO Fetched page: 222 total IDs, 10 rendered details
 2026-05-15T15:21:54+0000 INFO 0 new offer(s) found
+2026-05-15T17:07:05+0000 INFO Fetched page: 215 total IDs, 10 rendered details
+2026-05-15T17:07:05+0000 INFO 1 new offer(s) found
+2026-05-15T17:07:06+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Loewenhard
+2026-05-15T17:07:06+0000 INFO Notified: ID 16956 — Loewenhardtdamm 9, 12101 Tempelhof-Schöneberg
