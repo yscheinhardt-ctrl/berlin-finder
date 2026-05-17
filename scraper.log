@@ -2622,3 +2622,17 @@
 2026-05-17T11:49:22+0000 INFO 0 new offer(s) found
 2026-05-17T12:44:20+0000 INFO Fetched page: 217 total IDs, 10 rendered details
 2026-05-17T12:44:20+0000 INFO 0 new offer(s) found
+2026-05-17T14:14:29+0000 INFO Fetched page: 220 total IDs, 10 rendered details
+2026-05-17T14:14:29+0000 INFO 3 new offer(s) found
+2026-05-17T14:14:30+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Sonnenallee 42, 12045 
+2026-05-17T14:14:30+0000 INFO Notified: ID 16967 — Sonnenallee 42, 12045 Neukölln
+2026-05-17T14:14:30+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Hertastraße 14, 12051 
+2026-05-17T14:14:30+0000 INFO Notified: ID 16968 — Hertastraße 14, 12051 Neukölln
+2026-05-17T14:14:30+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Ilsestraße 16, 12053 N
+2026-05-17T14:14:30+0000 INFO Notified: ID 16969 — Ilsestraße 16, 12053 Neukölln
