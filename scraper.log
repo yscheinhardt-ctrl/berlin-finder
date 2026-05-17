@@ -2616,3 +2616,5 @@
 2026-05-17T07:42:58+0000 INFO Skipped (district Pankow not in allowlist): ID 16966
 2026-05-17T09:24:06+0000 INFO Fetched page: 217 total IDs, 10 rendered details
 2026-05-17T09:24:06+0000 INFO 0 new offer(s) found
+2026-05-17T10:49:02+0000 INFO Fetched page: 217 total IDs, 10 rendered details
+2026-05-17T10:49:02+0000 INFO 0 new offer(s) found
