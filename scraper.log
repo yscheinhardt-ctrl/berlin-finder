@@ -2817,3 +2817,5 @@
 2026-05-18T18:17:42+0000 INFO Notified: ID 17033 — Lindenstraße 79, 10969 Friedrichshain-Kreuzberg
 2026-05-18T18:17:42+0000 INFO Skipped (district Spandau not in allowlist): ID 17034
 2026-05-18T18:17:42+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17035
+2026-05-18T20:05:59+0000 INFO Fetched page: 234 total IDs, 10 rendered details
+2026-05-18T20:05:59+0000 INFO 0 new offer(s) found
