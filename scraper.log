@@ -2805,3 +2805,15 @@
 2026-05-18T16:23:50+0000 INFO Skipped (district Spandau not in allowlist): ID 17029
 2026-05-18T16:23:50+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17030
 2026-05-18T16:23:50+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17031
+2026-05-18T18:17:41+0000 INFO Fetched page: 236 total IDs, 10 rendered details
+2026-05-18T18:17:41+0000 INFO 4 new offer(s) found
+2026-05-18T18:17:41+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Mehrin
+2026-05-18T18:17:41+0000 INFO Notified: ID 17032 — Mehringplatz 9, 10969 Friedrichshain-Kreuzberg
+2026-05-18T18:17:42+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Linden
+2026-05-18T18:17:42+0000 INFO Notified: ID 17033 — Lindenstraße 79, 10969 Friedrichshain-Kreuzberg
+2026-05-18T18:17:42+0000 INFO Skipped (district Spandau not in allowlist): ID 17034
+2026-05-18T18:17:42+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17035
