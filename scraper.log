@@ -2656,3 +2656,9 @@
 2026-05-17T23:33:49+0000 INFO 0 new offer(s) found
 2026-05-18T01:31:41+0000 INFO Fetched page: 220 total IDs, 10 rendered details
 2026-05-18T01:31:41+0000 INFO 0 new offer(s) found
+2026-05-18T05:51:48+0000 INFO Fetched page: 219 total IDs, 10 rendered details
+2026-05-18T05:51:48+0000 INFO 1 new offer(s) found
+2026-05-18T05:51:48+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Koppen
+2026-05-18T05:51:48+0000 INFO Notified: ID 16970 — Koppenstraße 19, 10243 Friedrichshain-Kreuzberg
