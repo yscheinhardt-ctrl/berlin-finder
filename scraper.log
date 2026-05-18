@@ -2743,3 +2743,54 @@
 
 📍 Wilhelm-Kuhr-Straße 50, 1
 2026-05-18T09:38:33+0000 INFO Notified: ID 17002 — Wilhelm-Kuhr-Straße 50, 13359 Mitte
+2026-05-18T12:55:36+0000 INFO Fetched page: 232 total IDs, 10 rendered details
+2026-05-18T12:55:36+0000 INFO 21 new offer(s) found
+2026-05-18T12:55:36+0000 WARNING ID 17004 not in top-10 details (>10 new in one window?)
+2026-05-18T12:55:36+0000 INFO Telegram sent: 🏠 New offer (ID 17004) — details not rendered, see site:
+🔗 h
+2026-05-18T12:55:36+0000 WARNING ID 17006 not in top-10 details (>10 new in one window?)
+2026-05-18T12:55:37+0000 INFO Telegram sent: 🏠 New offer (ID 17006) — details not rendered, see site:
+🔗 h
+2026-05-18T12:55:37+0000 WARNING ID 17007 not in top-10 details (>10 new in one window?)
+2026-05-18T12:55:37+0000 INFO Telegram sent: 🏠 New offer (ID 17007) — details not rendered, see site:
+🔗 h
+2026-05-18T12:55:37+0000 WARNING ID 17008 not in top-10 details (>10 new in one window?)
+2026-05-18T12:55:37+0000 INFO Telegram sent: 🏠 New offer (ID 17008) — details not rendered, see site:
+🔗 h
+2026-05-18T12:55:37+0000 WARNING ID 17009 not in top-10 details (>10 new in one window?)
+2026-05-18T12:55:38+0000 INFO Telegram sent: 🏠 New offer (ID 17009) — details not rendered, see site:
+🔗 h
+2026-05-18T12:55:38+0000 WARNING ID 17010 not in top-10 details (>10 new in one window?)
+2026-05-18T12:55:38+0000 INFO Telegram sent: 🏠 New offer (ID 17010) — details not rendered, see site:
+🔗 h
+2026-05-18T12:55:38+0000 WARNING ID 17011 not in top-10 details (>10 new in one window?)
+2026-05-18T12:55:38+0000 INFO Telegram sent: 🏠 New offer (ID 17011) — details not rendered, see site:
+🔗 h
+2026-05-18T12:55:38+0000 WARNING ID 17012 not in top-10 details (>10 new in one window?)
+2026-05-18T12:55:39+0000 INFO Telegram sent: 🏠 New offer (ID 17012) — details not rendered, see site:
+🔗 h
+2026-05-18T12:55:39+0000 WARNING ID 17013 not in top-10 details (>10 new in one window?)
+2026-05-18T12:55:39+0000 INFO Telegram sent: 🏠 New offer (ID 17013) — details not rendered, see site:
+🔗 h
+2026-05-18T12:55:39+0000 WARNING ID 17014 not in top-10 details (>10 new in one window?)
+2026-05-18T12:55:39+0000 INFO Telegram sent: 🏠 New offer (ID 17014) — details not rendered, see site:
+🔗 h
+2026-05-18T12:55:39+0000 WARNING ID 17015 not in top-10 details (>10 new in one window?)
+2026-05-18T12:55:40+0000 INFO Telegram sent: 🏠 New offer (ID 17015) — details not rendered, see site:
+🔗 h
+2026-05-18T12:55:40+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17016
+2026-05-18T12:55:40+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17017
+2026-05-18T12:55:40+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17018
+2026-05-18T12:55:40+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17019
+2026-05-18T12:55:40+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17020
+2026-05-18T12:55:40+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Pfal
+2026-05-18T12:55:40+0000 INFO Notified: ID 17021 — Pfalzburger Straße 26, 10717 Charlottenburg-Wilmersdorf
+2026-05-18T12:55:40+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Friedrich-
+2026-05-18T12:55:40+0000 INFO Notified: ID 17022 — Friedrich-Wilhelm-Straße 92, 12099 Tempelhof-Schöneberg
+2026-05-18T12:55:40+0000 INFO Skipped (district Spandau not in allowlist): ID 17023
+2026-05-18T12:55:40+0000 INFO Skipped (district Spandau not in allowlist): ID 17024
+2026-05-18T12:55:40+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17025
