@@ -2794,3 +2794,14 @@
 2026-05-18T12:55:40+0000 INFO Skipped (district Spandau not in allowlist): ID 17023
 2026-05-18T12:55:40+0000 INFO Skipped (district Spandau not in allowlist): ID 17024
 2026-05-18T12:55:40+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17025
+2026-05-18T16:23:50+0000 INFO Fetched page: 234 total IDs, 10 rendered details
+2026-05-18T16:23:50+0000 INFO 6 new offer(s) found
+2026-05-18T16:23:50+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17026
+2026-05-18T16:23:50+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Zwickauer Damm 12, 123
+2026-05-18T16:23:50+0000 INFO Notified: ID 17027 — Zwickauer Damm 12, 12353 Neukölln
+2026-05-18T16:23:50+0000 INFO Skipped (district Spandau not in allowlist): ID 17028
+2026-05-18T16:23:50+0000 INFO Skipped (district Spandau not in allowlist): ID 17029
+2026-05-18T16:23:50+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17030
+2026-05-18T16:23:50+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17031
