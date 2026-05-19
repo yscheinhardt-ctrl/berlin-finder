@@ -2860,3 +2860,30 @@
 2026-05-19T11:53:06+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17051
 2026-05-19T11:53:06+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17052
 2026-05-19T11:53:06+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17053
+2026-05-19T14:43:16+0000 INFO Fetched page: 233 total IDs, 10 rendered details
+2026-05-19T14:43:16+0000 INFO 10 new offer(s) found
+2026-05-19T14:43:17+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Delphinstraße 12, 1205
+2026-05-19T14:43:17+0000 INFO Notified: ID 17054 — Delphinstraße 12, 12057 Neukölln
+2026-05-19T14:43:17+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17055
+2026-05-19T14:43:17+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17056
+2026-05-19T14:43:17+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17057
+2026-05-19T14:43:17+0000 INFO Skipped (district Spandau not in allowlist): ID 17058
+2026-05-19T14:43:17+0000 INFO Skipped (district Spandau not in allowlist): ID 17059
+2026-05-19T14:43:17+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Grünbe
+2026-05-19T14:43:17+0000 INFO Notified: ID 17060 — Grünberger Straße 51, 10245 Friedrichshain-Kreuzberg
+2026-05-19T14:43:18+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Colbes
+2026-05-19T14:43:18+0000 INFO Notified: ID 17061 — Colbestraße 34, 10247 Friedrichshain-Kreuzberg
+2026-05-19T14:43:18+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Weichs
+2026-05-19T14:43:18+0000 INFO Notified: ID 17062 — Weichselstraße 3, 10247 Friedrichshain-Kreuzberg
+2026-05-19T14:43:19+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Stadtilmer
+2026-05-19T14:43:19+0000 INFO Notified: ID 17063 — Stadtilmer Weg 15, 12279 Tempelhof-Schöneberg
