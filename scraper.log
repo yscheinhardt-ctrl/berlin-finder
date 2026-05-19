@@ -2847,3 +2847,16 @@
 2026-05-19T08:51:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17043
 2026-05-19T08:51:20+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 17044
 2026-05-19T08:51:20+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 17045
+2026-05-19T11:53:05+0000 INFO Fetched page: 229 total IDs, 10 rendered details
+2026-05-19T11:53:05+0000 INFO 8 new offer(s) found
+2026-05-19T11:53:05+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17046
+2026-05-19T11:53:06+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Käthe-Dorsch-Ring 1, 1
+2026-05-19T11:53:06+0000 INFO Notified: ID 17047 — Käthe-Dorsch-Ring 1, 12353 Neukölln
+2026-05-19T11:53:06+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17048
+2026-05-19T11:53:06+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17049
+2026-05-19T11:53:06+0000 INFO Skipped (district Spandau not in allowlist): ID 17050
+2026-05-19T11:53:06+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17051
+2026-05-19T11:53:06+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17052
+2026-05-19T11:53:06+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17053
