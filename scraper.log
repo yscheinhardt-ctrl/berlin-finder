@@ -2829,3 +2829,21 @@
 2026-05-19T01:34:44+0000 INFO 0 new offer(s) found
 2026-05-19T05:48:18+0000 INFO Fetched page: 230 total IDs, 10 rendered details
 2026-05-19T05:48:18+0000 INFO 0 new offer(s) found
+2026-05-19T08:51:19+0000 INFO Fetched page: 226 total IDs, 10 rendered details
+2026-05-19T08:51:19+0000 INFO 10 new offer(s) found
+2026-05-19T08:51:19+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17036
+2026-05-19T08:51:19+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Bahrfe
+2026-05-19T08:51:19+0000 INFO Notified: ID 17037 — Bahrfeldtstraße 33, 10245 Friedrichshain-Kreuzberg
+2026-05-19T08:51:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Cice
+2026-05-19T08:51:20+0000 INFO Notified: ID 17038 — Cicerostraße 44, 10709 Charlottenburg-Wilmersdorf
+2026-05-19T08:51:20+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17039
+2026-05-19T08:51:20+0000 INFO Skipped (district Pankow not in allowlist): ID 17040
+2026-05-19T08:51:20+0000 INFO Skipped (district Pankow not in allowlist): ID 17041
+2026-05-19T08:51:20+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17042
+2026-05-19T08:51:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17043
+2026-05-19T08:51:20+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 17044
+2026-05-19T08:51:20+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 17045
