@@ -2887,3 +2887,21 @@
 
 📍 Stadtilmer
 2026-05-19T14:43:19+0000 INFO Notified: ID 17063 — Stadtilmer Weg 15, 12279 Tempelhof-Schöneberg
+2026-05-19T17:30:00+0000 INFO Fetched page: 231 total IDs, 10 rendered details
+2026-05-19T17:30:00+0000 INFO 7 new offer(s) found
+2026-05-19T17:30:00+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Ahrensdorf
+2026-05-19T17:30:00+0000 INFO Notified: ID 17064 — Ahrensdorfer Straße 31, 12279 Tempelhof-Schöneberg
+2026-05-19T17:30:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-05-19T17:30:01+0000 INFO Notified: ID 17069 — Tirschenreuther Ring 12, 12279 Tempelhof-Schöneberg
+2026-05-19T17:30:01+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17070
+2026-05-19T17:30:01+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17071
+2026-05-19T17:30:01+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17072
+2026-05-19T17:30:01+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17073
+2026-05-19T17:30:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Schl
+2026-05-19T17:30:01+0000 INFO Notified: ID 17074 — Schlangenbader Straße 38, 14197 Charlottenburg-Wilmersdorf
