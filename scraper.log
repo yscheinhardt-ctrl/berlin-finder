@@ -2922,3 +2922,22 @@
 📍 Buschkrugallee 144A, 1
 2026-05-20T05:49:46+0000 INFO Notified: ID 17075 — Buschkrugallee 144A, 12359 Neukölln
 2026-05-20T05:49:46+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17076
+2026-05-20T08:47:06+0000 INFO Fetched page: 223 total IDs, 10 rendered details
+2026-05-20T08:47:06+0000 INFO 8 new offer(s) found
+2026-05-20T08:47:06+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 17077
+2026-05-20T08:47:06+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17078
+2026-05-20T08:47:06+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17079
+2026-05-20T08:47:07+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Waldsassen
+2026-05-20T08:47:07+0000 INFO Notified: ID 17080 — Waldsassener Straße 38, 12279 Tempelhof-Schöneberg
+2026-05-20T08:47:07+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-05-20T08:47:07+0000 INFO Notified: ID 17081 — Tirschenreuther Ring 13, 12279 Tempelhof-Schöneberg
+2026-05-20T08:47:08+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-05-20T08:47:08+0000 INFO Notified: ID 17082 — Tirschenreuther Ring 15, 12279 Tempelhof-Schöneberg
+2026-05-20T08:47:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17084
+2026-05-20T08:47:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17085
