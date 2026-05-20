@@ -2950,3 +2950,24 @@
 2026-05-20T11:37:49+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17089
 2026-05-20T11:37:49+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17090
 2026-05-20T11:37:49+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17091
+2026-05-20T14:16:34+0000 INFO Fetched page: 224 total IDs, 10 rendered details
+2026-05-20T14:16:34+0000 INFO 10 new offer(s) found
+2026-05-20T14:16:34+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 17092
+2026-05-20T14:16:34+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17093
+2026-05-20T14:16:34+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17095
+2026-05-20T14:16:34+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 17096
+2026-05-20T14:16:34+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17097
+2026-05-20T14:16:34+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 17098
+2026-05-20T14:16:34+0000 INFO Skipped (district Spandau not in allowlist): ID 17099
+2026-05-20T14:16:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Yorckstraß
+2026-05-20T14:16:34+0000 INFO Notified: ID 17100 — Yorckstraße 52, 10965 Tempelhof-Schöneberg
+2026-05-20T14:16:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Kulmer Str
+2026-05-20T14:16:34+0000 INFO Notified: ID 17101 — Kulmer Straße 24, 10783 Tempelhof-Schöneberg
+2026-05-20T14:16:35+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Blumenthal
+2026-05-20T14:16:35+0000 INFO Notified: ID 17102 — Blumenthalstraße 14, 10783 Tempelhof-Schöneberg
