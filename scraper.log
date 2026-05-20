@@ -2941,3 +2941,12 @@
 2026-05-20T08:47:08+0000 INFO Notified: ID 17082 — Tirschenreuther Ring 15, 12279 Tempelhof-Schöneberg
 2026-05-20T08:47:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17084
 2026-05-20T08:47:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17085
+2026-05-20T11:37:49+0000 INFO Fetched page: 220 total IDs, 10 rendered details
+2026-05-20T11:37:49+0000 INFO 4 new offer(s) found
+2026-05-20T11:37:49+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Am Straßenbahnhof 50C,
+2026-05-20T11:37:49+0000 INFO Notified: ID 17086 — Am Straßenbahnhof 50C, 12347 Neukölln
+2026-05-20T11:37:49+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17089
+2026-05-20T11:37:49+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17090
+2026-05-20T11:37:49+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17091
