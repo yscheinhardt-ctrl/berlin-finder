@@ -3021,3 +3021,54 @@
 2026-05-21T08:24:24+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17120
 2026-05-21T08:24:24+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17121
 2026-05-21T08:24:24+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17122
+2026-05-21T11:44:31+0000 INFO Fetched page: 245 total IDs, 10 rendered details
+2026-05-21T11:44:31+0000 INFO 21 new offer(s) found
+2026-05-21T11:44:31+0000 WARNING ID 17123 not in top-10 details (>10 new in one window?)
+2026-05-21T11:44:31+0000 INFO Telegram sent: 🏠 New offer (ID 17123) — details not rendered, see site:
+🔗 h
+2026-05-21T11:44:31+0000 WARNING ID 17125 not in top-10 details (>10 new in one window?)
+2026-05-21T11:44:32+0000 INFO Telegram sent: 🏠 New offer (ID 17125) — details not rendered, see site:
+🔗 h
+2026-05-21T11:44:32+0000 WARNING ID 17126 not in top-10 details (>10 new in one window?)
+2026-05-21T11:44:32+0000 INFO Telegram sent: 🏠 New offer (ID 17126) — details not rendered, see site:
+🔗 h
+2026-05-21T11:44:32+0000 WARNING ID 17127 not in top-10 details (>10 new in one window?)
+2026-05-21T11:44:33+0000 INFO Telegram sent: 🏠 New offer (ID 17127) — details not rendered, see site:
+🔗 h
+2026-05-21T11:44:33+0000 WARNING ID 17128 not in top-10 details (>10 new in one window?)
+2026-05-21T11:44:33+0000 INFO Telegram sent: 🏠 New offer (ID 17128) — details not rendered, see site:
+🔗 h
+2026-05-21T11:44:33+0000 WARNING ID 17129 not in top-10 details (>10 new in one window?)
+2026-05-21T11:44:34+0000 INFO Telegram sent: 🏠 New offer (ID 17129) — details not rendered, see site:
+🔗 h
+2026-05-21T11:44:34+0000 WARNING ID 17130 not in top-10 details (>10 new in one window?)
+2026-05-21T11:44:34+0000 INFO Telegram sent: 🏠 New offer (ID 17130) — details not rendered, see site:
+🔗 h
+2026-05-21T11:44:34+0000 WARNING ID 17131 not in top-10 details (>10 new in one window?)
+2026-05-21T11:44:35+0000 INFO Telegram sent: 🏠 New offer (ID 17131) — details not rendered, see site:
+🔗 h
+2026-05-21T11:44:35+0000 WARNING ID 17132 not in top-10 details (>10 new in one window?)
+2026-05-21T11:44:35+0000 INFO Telegram sent: 🏠 New offer (ID 17132) — details not rendered, see site:
+🔗 h
+2026-05-21T11:44:35+0000 WARNING ID 17133 not in top-10 details (>10 new in one window?)
+2026-05-21T11:44:35+0000 INFO Telegram sent: 🏠 New offer (ID 17133) — details not rendered, see site:
+🔗 h
+2026-05-21T11:44:36+0000 WARNING ID 17134 not in top-10 details (>10 new in one window?)
+2026-05-21T11:44:36+0000 INFO Telegram sent: 🏠 New offer (ID 17134) — details not rendered, see site:
+🔗 h
+2026-05-21T11:44:36+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Am Straßenbahnhof 61, 
+2026-05-21T11:44:36+0000 INFO Notified: ID 17135 — Am Straßenbahnhof 61, 12347 Neukölln
+2026-05-21T11:44:36+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17136
+2026-05-21T11:44:36+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17137
+2026-05-21T11:44:36+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17138
+2026-05-21T11:44:36+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17139
+2026-05-21T11:44:36+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17140
+2026-05-21T11:44:36+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17141
+2026-05-21T11:44:37+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Iranische Straße 4B, 1334
+2026-05-21T11:44:37+0000 INFO Notified: ID 17142 — Iranische Straße 4B, 13347 Mitte
+2026-05-21T11:44:37+0000 INFO Skipped (district Spandau not in allowlist): ID 17143
+2026-05-21T11:44:37+0000 INFO Skipped (district Spandau not in allowlist): ID 17144
