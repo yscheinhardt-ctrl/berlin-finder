@@ -2985,3 +2985,39 @@
 2026-05-21T00:14:41+0000 INFO 0 new offer(s) found
 2026-05-21T04:47:45+0000 INFO Fetched page: 217 total IDs, 10 rendered details
 2026-05-21T04:47:45+0000 INFO 0 new offer(s) found
+2026-05-21T08:24:20+0000 INFO Fetched page: 231 total IDs, 10 rendered details
+2026-05-21T08:24:20+0000 INFO 17 new offer(s) found
+2026-05-21T08:24:20+0000 WARNING ID 17106 not in top-10 details (>10 new in one window?)
+2026-05-21T08:24:21+0000 INFO Telegram sent: 🏠 New offer (ID 17106) — details not rendered, see site:
+🔗 h
+2026-05-21T08:24:21+0000 WARNING ID 17107 not in top-10 details (>10 new in one window?)
+2026-05-21T08:24:21+0000 INFO Telegram sent: 🏠 New offer (ID 17107) — details not rendered, see site:
+🔗 h
+2026-05-21T08:24:21+0000 WARNING ID 17108 not in top-10 details (>10 new in one window?)
+2026-05-21T08:24:22+0000 INFO Telegram sent: 🏠 New offer (ID 17108) — details not rendered, see site:
+🔗 h
+2026-05-21T08:24:22+0000 WARNING ID 17109 not in top-10 details (>10 new in one window?)
+2026-05-21T08:24:22+0000 INFO Telegram sent: 🏠 New offer (ID 17109) — details not rendered, see site:
+🔗 h
+2026-05-21T08:24:22+0000 WARNING ID 17110 not in top-10 details (>10 new in one window?)
+2026-05-21T08:24:23+0000 INFO Telegram sent: 🏠 New offer (ID 17110) — details not rendered, see site:
+🔗 h
+2026-05-21T08:24:23+0000 WARNING ID 17111 not in top-10 details (>10 new in one window?)
+2026-05-21T08:24:23+0000 INFO Telegram sent: 🏠 New offer (ID 17111) — details not rendered, see site:
+🔗 h
+2026-05-21T08:24:23+0000 WARNING ID 17112 not in top-10 details (>10 new in one window?)
+2026-05-21T08:24:24+0000 INFO Telegram sent: 🏠 New offer (ID 17112) — details not rendered, see site:
+🔗 h
+2026-05-21T08:24:24+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Waldsassen
+2026-05-21T08:24:24+0000 INFO Notified: ID 17113 — Waldsassener Straße 22, 12279 Tempelhof-Schöneberg
+2026-05-21T08:24:24+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17114
+2026-05-21T08:24:24+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17115
+2026-05-21T08:24:24+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17116
+2026-05-21T08:24:24+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17117
+2026-05-21T08:24:24+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17118
+2026-05-21T08:24:24+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17119
+2026-05-21T08:24:24+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17120
+2026-05-21T08:24:24+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17121
+2026-05-21T08:24:24+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17122
