@@ -3072,3 +3072,21 @@
 2026-05-21T11:44:37+0000 INFO Notified: ID 17142 — Iranische Straße 4B, 13347 Mitte
 2026-05-21T11:44:37+0000 INFO Skipped (district Spandau not in allowlist): ID 17143
 2026-05-21T11:44:37+0000 INFO Skipped (district Spandau not in allowlist): ID 17144
+2026-05-21T14:27:46+0000 INFO Fetched page: 249 total IDs, 10 rendered details
+2026-05-21T14:27:46+0000 INFO 10 new offer(s) found
+2026-05-21T14:27:46+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17146
+2026-05-21T14:27:46+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17147
+2026-05-21T14:27:46+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17148
+2026-05-21T14:27:46+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17149
+2026-05-21T14:27:47+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Grüntenstr
+2026-05-21T14:27:47+0000 INFO Notified: ID 17150 — Grüntenstraße 82, 12107 Tempelhof-Schöneberg
+2026-05-21T14:27:47+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17151
+2026-05-21T14:27:47+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17152
+2026-05-21T14:27:47+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17153
+2026-05-21T14:27:47+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17154
+2026-05-21T14:27:47+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Wilhel
+2026-05-21T14:27:47+0000 INFO Notified: ID 17155 — Wilhelmstraße 130, 10963 Friedrichshain-Kreuzberg
