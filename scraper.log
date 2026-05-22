@@ -3169,3 +3169,21 @@
 📍 Klau
 2026-05-22T11:32:53+0000 INFO Notified: ID 17186 — Klausingring 5, 13627 Charlottenburg-Wilmersdorf
 2026-05-22T11:32:53+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17187
+2026-05-22T13:57:36+0000 INFO Fetched page: 246 total IDs, 10 rendered details
+2026-05-22T13:57:36+0000 INFO 7 new offer(s) found
+2026-05-22T13:57:36+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17188
+2026-05-22T13:57:36+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17189
+2026-05-22T13:57:37+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Alt-Britz 107,107A, 12
+2026-05-22T13:57:37+0000 INFO Notified: ID 17190 — Alt-Britz 107,107A, 12359 Neukölln
+2026-05-22T13:57:37+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Alt-Britz 107,107A, 12
+2026-05-22T13:57:37+0000 INFO Notified: ID 17191 — Alt-Britz 107,107A, 12359 Neukölln
+2026-05-22T13:57:38+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Kurfürstenstraße 10, 1078
+2026-05-22T13:57:38+0000 INFO Notified: ID 17192 — Kurfürstenstraße 10, 10785 Mitte
+2026-05-22T13:57:38+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17193
+2026-05-22T13:57:38+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17194
