@@ -3187,3 +3187,9 @@
 2026-05-22T13:57:38+0000 INFO Notified: ID 17192 — Kurfürstenstraße 10, 10785 Mitte
 2026-05-22T13:57:38+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17193
 2026-05-22T13:57:38+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17194
+2026-05-22T16:29:32+0000 INFO Fetched page: 243 total IDs, 10 rendered details
+2026-05-22T16:29:32+0000 INFO 1 new offer(s) found
+2026-05-22T16:29:33+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 John-Locke
+2026-05-22T16:29:33+0000 INFO Notified: ID 17195 — John-Locke-Straße 21, 12305 Tempelhof-Schöneberg
