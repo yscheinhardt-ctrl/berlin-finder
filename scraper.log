@@ -3133,3 +3133,39 @@
 
 📍 Schichauwe
 2026-05-22T08:42:12+0000 INFO Notified: ID 17171 — Schichauweg 31, 12307 Tempelhof-Schöneberg
+2026-05-22T11:32:49+0000 INFO Fetched page: 248 total IDs, 10 rendered details
+2026-05-22T11:32:49+0000 INFO 16 new offer(s) found
+2026-05-22T11:32:49+0000 WARNING ID 17172 not in top-10 details (>10 new in one window?)
+2026-05-22T11:32:50+0000 INFO Telegram sent: 🏠 New offer (ID 17172) — details not rendered, see site:
+🔗 h
+2026-05-22T11:32:50+0000 WARNING ID 17173 not in top-10 details (>10 new in one window?)
+2026-05-22T11:32:50+0000 INFO Telegram sent: 🏠 New offer (ID 17173) — details not rendered, see site:
+🔗 h
+2026-05-22T11:32:50+0000 WARNING ID 17174 not in top-10 details (>10 new in one window?)
+2026-05-22T11:32:51+0000 INFO Telegram sent: 🏠 New offer (ID 17174) — details not rendered, see site:
+🔗 h
+2026-05-22T11:32:51+0000 WARNING ID 17175 not in top-10 details (>10 new in one window?)
+2026-05-22T11:32:51+0000 INFO Telegram sent: 🏠 New offer (ID 17175) — details not rendered, see site:
+🔗 h
+2026-05-22T11:32:51+0000 WARNING ID 17176 not in top-10 details (>10 new in one window?)
+2026-05-22T11:32:52+0000 INFO Telegram sent: 🏠 New offer (ID 17176) — details not rendered, see site:
+🔗 h
+2026-05-22T11:32:52+0000 WARNING ID 17177 not in top-10 details (>10 new in one window?)
+2026-05-22T11:32:52+0000 INFO Telegram sent: 🏠 New offer (ID 17177) — details not rendered, see site:
+🔗 h
+2026-05-22T11:32:52+0000 INFO Skipped (district Spandau not in allowlist): ID 17178
+2026-05-22T11:32:52+0000 INFO Skipped (district Spandau not in allowlist): ID 17179
+2026-05-22T11:32:52+0000 INFO Skipped (district Pankow not in allowlist): ID 17180
+2026-05-22T11:32:52+0000 INFO Skipped (district Pankow not in allowlist): ID 17181
+2026-05-22T11:32:52+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 17182
+2026-05-22T11:32:52+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17183
+2026-05-22T11:32:52+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17184
+2026-05-22T11:32:53+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-05-22T11:32:53+0000 INFO Notified: ID 17185 — Tirschenreuther Ring 22, 12279 Tempelhof-Schöneberg
+2026-05-22T11:32:53+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Klau
+2026-05-22T11:32:53+0000 INFO Notified: ID 17186 — Klausingring 5, 13627 Charlottenburg-Wilmersdorf
+2026-05-22T11:32:53+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17187
