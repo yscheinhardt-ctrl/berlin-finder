@@ -3109,3 +3109,27 @@
 2026-05-22T01:35:06+0000 INFO 0 new offer(s) found
 2026-05-22T05:48:21+0000 INFO Fetched page: 242 total IDs, 10 rendered details
 2026-05-22T05:48:21+0000 INFO 0 new offer(s) found
+2026-05-22T08:42:11+0000 INFO Fetched page: 241 total IDs, 10 rendered details
+2026-05-22T08:42:11+0000 INFO 13 new offer(s) found
+2026-05-22T08:42:11+0000 WARNING ID 17159 not in top-10 details (>10 new in one window?)
+2026-05-22T08:42:11+0000 INFO Telegram sent: 🏠 New offer (ID 17159) — details not rendered, see site:
+🔗 h
+2026-05-22T08:42:11+0000 WARNING ID 17160 not in top-10 details (>10 new in one window?)
+2026-05-22T08:42:11+0000 INFO Telegram sent: 🏠 New offer (ID 17160) — details not rendered, see site:
+🔗 h
+2026-05-22T08:42:11+0000 WARNING ID 17161 not in top-10 details (>10 new in one window?)
+2026-05-22T08:42:12+0000 INFO Telegram sent: 🏠 New offer (ID 17161) — details not rendered, see site:
+🔗 h
+2026-05-22T08:42:12+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17162
+2026-05-22T08:42:12+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17163
+2026-05-22T08:42:12+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17164
+2026-05-22T08:42:12+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17165
+2026-05-22T08:42:12+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17166
+2026-05-22T08:42:12+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17167
+2026-05-22T08:42:12+0000 INFO Skipped (district Spandau not in allowlist): ID 17168
+2026-05-22T08:42:12+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17169
+2026-05-22T08:42:12+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17170
+2026-05-22T08:42:12+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Schichauwe
+2026-05-22T08:42:12+0000 INFO Notified: ID 17171 — Schichauweg 31, 12307 Tempelhof-Schöneberg
