@@ -3193,3 +3193,7 @@
 
 📍 John-Locke
 2026-05-22T16:29:33+0000 INFO Notified: ID 17195 — John-Locke-Straße 21, 12305 Tempelhof-Schöneberg
+2026-05-22T18:18:05+0000 INFO Fetched page: 244 total IDs, 10 rendered details
+2026-05-22T18:18:05+0000 INFO 2 new offer(s) found
+2026-05-22T18:18:05+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17196
+2026-05-22T18:18:05+0000 INFO Skipped (district Spandau not in allowlist): ID 17197
