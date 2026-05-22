@@ -3197,3 +3197,5 @@
 2026-05-22T18:18:05+0000 INFO 2 new offer(s) found
 2026-05-22T18:18:05+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17196
 2026-05-22T18:18:05+0000 INFO Skipped (district Spandau not in allowlist): ID 17197
+2026-05-22T20:14:47+0000 INFO Fetched page: 243 total IDs, 10 rendered details
+2026-05-22T20:14:47+0000 INFO 0 new offer(s) found
