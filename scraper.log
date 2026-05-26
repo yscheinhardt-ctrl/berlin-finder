@@ -3326,3 +3326,66 @@
 
 📍 Naunyn
 2026-05-26T08:57:59+0000 INFO Notified: ID 17211 — Naunynstraße 23, 10997 Friedrichshain-Kreuzberg
+2026-05-26T16:12:02+0000 INFO Fetched page: 245 total IDs, 10 rendered details
+2026-05-26T16:12:02+0000 INFO 25 new offer(s) found
+2026-05-26T16:12:02+0000 WARNING ID 17212 not in top-10 details (>10 new in one window?)
+2026-05-26T16:12:03+0000 INFO Telegram sent: 🏠 New offer (ID 17212) — details not rendered, see site:
+🔗 h
+2026-05-26T16:12:03+0000 WARNING ID 17214 not in top-10 details (>10 new in one window?)
+2026-05-26T16:12:03+0000 INFO Telegram sent: 🏠 New offer (ID 17214) — details not rendered, see site:
+🔗 h
+2026-05-26T16:12:03+0000 WARNING ID 17215 not in top-10 details (>10 new in one window?)
+2026-05-26T16:12:04+0000 INFO Telegram sent: 🏠 New offer (ID 17215) — details not rendered, see site:
+🔗 h
+2026-05-26T16:12:04+0000 WARNING ID 17216 not in top-10 details (>10 new in one window?)
+2026-05-26T16:12:04+0000 INFO Telegram sent: 🏠 New offer (ID 17216) — details not rendered, see site:
+🔗 h
+2026-05-26T16:12:04+0000 WARNING ID 17217 not in top-10 details (>10 new in one window?)
+2026-05-26T16:12:04+0000 INFO Telegram sent: 🏠 New offer (ID 17217) — details not rendered, see site:
+🔗 h
+2026-05-26T16:12:04+0000 WARNING ID 17220 not in top-10 details (>10 new in one window?)
+2026-05-26T16:12:05+0000 INFO Telegram sent: 🏠 New offer (ID 17220) — details not rendered, see site:
+🔗 h
+2026-05-26T16:12:05+0000 WARNING ID 17221 not in top-10 details (>10 new in one window?)
+2026-05-26T16:12:05+0000 INFO Telegram sent: 🏠 New offer (ID 17221) — details not rendered, see site:
+🔗 h
+2026-05-26T16:12:05+0000 WARNING ID 17224 not in top-10 details (>10 new in one window?)
+2026-05-26T16:12:06+0000 INFO Telegram sent: 🏠 New offer (ID 17224) — details not rendered, see site:
+🔗 h
+2026-05-26T16:12:06+0000 WARNING ID 17225 not in top-10 details (>10 new in one window?)
+2026-05-26T16:12:06+0000 INFO Telegram sent: 🏠 New offer (ID 17225) — details not rendered, see site:
+🔗 h
+2026-05-26T16:12:06+0000 WARNING ID 17226 not in top-10 details (>10 new in one window?)
+2026-05-26T16:12:07+0000 INFO Telegram sent: 🏠 New offer (ID 17226) — details not rendered, see site:
+🔗 h
+2026-05-26T16:12:07+0000 WARNING ID 17227 not in top-10 details (>10 new in one window?)
+2026-05-26T16:12:07+0000 INFO Telegram sent: 🏠 New offer (ID 17227) — details not rendered, see site:
+🔗 h
+2026-05-26T16:12:07+0000 WARNING ID 17228 not in top-10 details (>10 new in one window?)
+2026-05-26T16:12:08+0000 INFO Telegram sent: 🏠 New offer (ID 17228) — details not rendered, see site:
+🔗 h
+2026-05-26T16:12:08+0000 WARNING ID 17229 not in top-10 details (>10 new in one window?)
+2026-05-26T16:12:08+0000 INFO Telegram sent: 🏠 New offer (ID 17229) — details not rendered, see site:
+🔗 h
+2026-05-26T16:12:08+0000 WARNING ID 17230 not in top-10 details (>10 new in one window?)
+2026-05-26T16:12:09+0000 INFO Telegram sent: 🏠 New offer (ID 17230) — details not rendered, see site:
+🔗 h
+2026-05-26T16:12:09+0000 WARNING ID 17231 not in top-10 details (>10 new in one window?)
+2026-05-26T16:12:09+0000 INFO Telegram sent: 🏠 New offer (ID 17231) — details not rendered, see site:
+🔗 h
+2026-05-26T16:12:09+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 17232
+2026-05-26T16:12:09+0000 INFO Skipped (district Spandau not in allowlist): ID 17233
+2026-05-26T16:12:09+0000 INFO Skipped (district Spandau not in allowlist): ID 17234
+2026-05-26T16:12:09+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17235
+2026-05-26T16:12:10+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Angermünde
+2026-05-26T16:12:10+0000 INFO Notified: ID 17236 — Angermünder Straße 1E, 12305 Tempelhof-Schöneberg
+2026-05-26T16:12:10+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Bernauer S
+2026-05-26T16:12:10+0000 INFO Notified: ID 17237 — Bernauer Straße 125, 12305 Tempelhof-Schöneberg
+2026-05-26T16:12:10+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17238
+2026-05-26T16:12:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17239
+2026-05-26T16:12:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17240
+2026-05-26T16:12:10+0000 INFO Skipped (district Spandau not in allowlist): ID 17241
