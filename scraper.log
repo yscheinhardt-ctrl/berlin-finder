@@ -3389,3 +3389,9 @@
 2026-05-26T16:12:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17239
 2026-05-26T16:12:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17240
 2026-05-26T16:12:10+0000 INFO Skipped (district Spandau not in allowlist): ID 17241
+2026-05-26T18:37:24+0000 INFO Fetched page: 244 total IDs, 10 rendered details
+2026-05-26T18:37:24+0000 INFO 1 new offer(s) found
+2026-05-26T18:37:24+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Iranische Straße 4B, 1334
+2026-05-26T18:37:24+0000 INFO Notified: ID 17242 — Iranische Straße 4B, 13347 Mitte
