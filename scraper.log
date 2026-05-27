@@ -3461,3 +3461,12 @@
 2026-05-27T13:51:09+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17273
 2026-05-27T13:51:09+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17274
 2026-05-27T13:51:09+0000 INFO Skipped (district Spandau not in allowlist): ID 17275
+2026-05-27T16:56:40+0000 INFO Fetched page: 245 total IDs, 10 rendered details
+2026-05-27T16:56:40+0000 INFO 4 new offer(s) found
+2026-05-27T16:56:40+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17277
+2026-05-27T16:56:41+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Delp
+2026-05-27T16:56:41+0000 INFO Notified: ID 17278 — Delpzeile 2, 13627 Charlottenburg-Wilmersdorf
+2026-05-27T16:56:41+0000 INFO Skipped (district Pankow not in allowlist): ID 17279
+2026-05-27T16:56:41+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17280
