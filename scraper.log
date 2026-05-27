@@ -3407,3 +3407,24 @@
 2026-05-27T06:00:35+0000 INFO 2 new offer(s) found
 2026-05-27T06:00:35+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17243
 2026-05-27T06:00:35+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 17244
+2026-05-27T10:14:33+0000 INFO Fetched page: 240 total IDs, 10 rendered details
+2026-05-27T10:14:33+0000 INFO 12 new offer(s) found
+2026-05-27T10:14:33+0000 WARNING ID 17245 not in top-10 details (>10 new in one window?)
+2026-05-27T10:14:34+0000 INFO Telegram sent: 🏠 New offer (ID 17245) — details not rendered, see site:
+🔗 h
+2026-05-27T10:14:34+0000 WARNING ID 17247 not in top-10 details (>10 new in one window?)
+2026-05-27T10:14:34+0000 INFO Telegram sent: 🏠 New offer (ID 17247) — details not rendered, see site:
+🔗 h
+2026-05-27T10:14:34+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17248
+2026-05-27T10:14:34+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17249
+2026-05-27T10:14:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Derfflingerstraße 5, 1078
+2026-05-27T10:14:34+0000 INFO Notified: ID 17251 — Derfflingerstraße 5, 10785 Mitte
+2026-05-27T10:14:34+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 17252
+2026-05-27T10:14:34+0000 INFO Skipped (district Spandau not in allowlist): ID 17253
+2026-05-27T10:14:34+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 17254
+2026-05-27T10:14:34+0000 INFO Skipped (district Spandau not in allowlist): ID 17255
+2026-05-27T10:14:34+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17256
+2026-05-27T10:14:34+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17257
+2026-05-27T10:14:34+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17258
