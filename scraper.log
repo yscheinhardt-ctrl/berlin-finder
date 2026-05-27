@@ -3428,3 +3428,36 @@
 2026-05-27T10:14:34+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17256
 2026-05-27T10:14:34+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17257
 2026-05-27T10:14:34+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17258
+2026-05-27T13:51:06+0000 INFO Fetched page: 243 total IDs, 10 rendered details
+2026-05-27T13:51:06+0000 INFO 15 new offer(s) found
+2026-05-27T13:51:06+0000 WARNING ID 17259 not in top-10 details (>10 new in one window?)
+2026-05-27T13:51:07+0000 INFO Telegram sent: 🏠 New offer (ID 17259) — details not rendered, see site:
+🔗 h
+2026-05-27T13:51:07+0000 WARNING ID 17260 not in top-10 details (>10 new in one window?)
+2026-05-27T13:51:07+0000 INFO Telegram sent: 🏠 New offer (ID 17260) — details not rendered, see site:
+🔗 h
+2026-05-27T13:51:07+0000 WARNING ID 17263 not in top-10 details (>10 new in one window?)
+2026-05-27T13:51:07+0000 INFO Telegram sent: 🏠 New offer (ID 17263) — details not rendered, see site:
+🔗 h
+2026-05-27T13:51:07+0000 WARNING ID 17264 not in top-10 details (>10 new in one window?)
+2026-05-27T13:51:08+0000 INFO Telegram sent: 🏠 New offer (ID 17264) — details not rendered, see site:
+🔗 h
+2026-05-27T13:51:08+0000 WARNING ID 17265 not in top-10 details (>10 new in one window?)
+2026-05-27T13:51:08+0000 INFO Telegram sent: 🏠 New offer (ID 17265) — details not rendered, see site:
+🔗 h
+2026-05-27T13:51:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17266
+2026-05-27T13:51:08+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17267
+2026-05-27T13:51:08+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 In den Bauerngärten 8,
+2026-05-27T13:51:08+0000 INFO Notified: ID 17268 — In den Bauerngärten 8, 12349 Neukölln
+2026-05-27T13:51:08+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17269
+2026-05-27T13:51:09+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 In den Bauerngärten 8,
+2026-05-27T13:51:09+0000 INFO Notified: ID 17270 — In den Bauerngärten 8, 12349 Neukölln
+2026-05-27T13:51:09+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17271
+2026-05-27T13:51:09+0000 INFO Skipped (district Spandau not in allowlist): ID 17272
+2026-05-27T13:51:09+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17273
+2026-05-27T13:51:09+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17274
+2026-05-27T13:51:09+0000 INFO Skipped (district Spandau not in allowlist): ID 17275
