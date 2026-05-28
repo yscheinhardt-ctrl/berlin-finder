@@ -3480,3 +3480,13 @@
 2026-05-27T23:57:06+0000 INFO 0 new offer(s) found
 2026-05-28T03:58:54+0000 INFO Fetched page: 236 total IDs, 10 rendered details
 2026-05-28T03:58:54+0000 INFO 0 new offer(s) found
+2026-05-28T08:07:37+0000 INFO Fetched page: 228 total IDs, 10 rendered details
+2026-05-28T08:07:37+0000 INFO 2 new offer(s) found
+2026-05-28T08:07:37+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Luitpoldst
+2026-05-28T08:07:37+0000 INFO Notified: ID 17281 — Luitpoldstraße 30, 10777 Tempelhof-Schöneberg
+2026-05-28T08:07:38+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Luitpoldst
+2026-05-28T08:07:38+0000 INFO Notified: ID 17282 — Luitpoldstraße 32, 10777 Tempelhof-Schöneberg
