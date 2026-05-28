@@ -3506,3 +3506,12 @@
 
 📍 Demminer Straße 4, 13355 
 2026-05-28T11:49:40+0000 INFO Notified: ID 17291 — Demminer Straße 4, 13355 Mitte
+2026-05-28T14:56:54+0000 INFO Fetched page: 222 total IDs, 10 rendered details
+2026-05-28T14:56:54+0000 INFO 4 new offer(s) found
+2026-05-28T14:56:54+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17295
+2026-05-28T14:56:55+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Nehr
+2026-05-28T14:56:55+0000 INFO Notified: ID 17296 — Nehringstraße 19, 14059 Charlottenburg-Wilmersdorf
+2026-05-28T14:56:55+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17297
+2026-05-28T14:56:55+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17299
