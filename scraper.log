@@ -3490,3 +3490,19 @@
 
 📍 Luitpoldst
 2026-05-28T08:07:38+0000 INFO Notified: ID 17282 — Luitpoldstraße 32, 10777 Tempelhof-Schöneberg
+2026-05-28T11:49:38+0000 INFO Fetched page: 225 total IDs, 10 rendered details
+2026-05-28T11:49:38+0000 INFO 5 new offer(s) found
+2026-05-28T11:49:39+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Lohm
+2026-05-28T11:49:39+0000 INFO Notified: ID 17284 — Lohmeyerstraße 2, 10587 Charlottenburg-Wilmersdorf
+2026-05-28T11:49:39+0000 INFO Skipped (district Spandau not in allowlist): ID 17287
+2026-05-28T11:49:39+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17289
+2026-05-28T11:49:39+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Schl
+2026-05-28T11:49:39+0000 INFO Notified: ID 17290 — Schlangenbader Straße 31, 14197 Charlottenburg-Wilmersdorf
+2026-05-28T11:49:40+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Demminer Straße 4, 13355 
+2026-05-28T11:49:40+0000 INFO Notified: ID 17291 — Demminer Straße 4, 13355 Mitte
