@@ -3599,3 +3599,5 @@
 2026-05-29T16:58:44+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17342
 2026-05-29T16:58:44+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17343
 2026-05-29T16:58:44+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17344
+2026-05-29T19:36:55+0000 INFO Fetched page: 236 total IDs, 10 rendered details
+2026-05-29T19:36:55+0000 INFO 0 new offer(s) found
