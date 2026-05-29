@@ -3528,3 +3528,14 @@
 2026-05-28T23:45:58+0000 INFO 0 new offer(s) found
 2026-05-29T01:48:17+0000 INFO Fetched page: 220 total IDs, 10 rendered details
 2026-05-29T01:48:17+0000 INFO 0 new offer(s) found
+2026-05-29T05:59:13+0000 INFO Fetched page: 223 total IDs, 10 rendered details
+2026-05-29T05:59:13+0000 INFO 3 new offer(s) found
+2026-05-29T05:59:13+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17303
+2026-05-29T05:59:13+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Agnes-Straub-Weg 1, 12
+2026-05-29T05:59:13+0000 INFO Notified: ID 17304 — Agnes-Straub-Weg 1, 12353 Neukölln
+2026-05-29T05:59:14+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-05-29T05:59:14+0000 INFO Notified: ID 17305 — Tirschenreuther Ring 16, 12279 Tempelhof-Schöneberg
