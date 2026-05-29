@@ -3560,3 +3560,18 @@
 
 📍 Maienstraß
 2026-05-29T10:10:02+0000 INFO Notified: ID 17318 — Maienstraße 2, 10787 Tempelhof-Schöneberg
+2026-05-29T13:32:45+0000 INFO Fetched page: 233 total IDs, 10 rendered details
+2026-05-29T13:32:45+0000 INFO 11 new offer(s) found
+2026-05-29T13:32:45+0000 WARNING ID 17319 not in top-10 details (>10 new in one window?)
+2026-05-29T13:32:45+0000 INFO Telegram sent: 🏠 New offer (ID 17319) — details not rendered, see site:
+🔗 h
+2026-05-29T13:32:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17320
+2026-05-29T13:32:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17321
+2026-05-29T13:32:45+0000 INFO Skipped (district Spandau not in allowlist): ID 17323
+2026-05-29T13:32:45+0000 INFO Skipped (district Spandau not in allowlist): ID 17324
+2026-05-29T13:32:45+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17325
+2026-05-29T13:32:45+0000 INFO Skipped (district Spandau not in allowlist): ID 17326
+2026-05-29T13:32:45+0000 INFO Skipped (district Spandau not in allowlist): ID 17327
+2026-05-29T13:32:45+0000 INFO Skipped (district Spandau not in allowlist): ID 17328
+2026-05-29T13:32:45+0000 INFO Skipped (district Spandau not in allowlist): ID 17329
+2026-05-29T13:32:45+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17330
