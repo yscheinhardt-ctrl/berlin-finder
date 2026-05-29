@@ -3539,3 +3539,24 @@
 
 📍 Tirschenre
 2026-05-29T05:59:14+0000 INFO Notified: ID 17305 — Tirschenreuther Ring 16, 12279 Tempelhof-Schöneberg
+2026-05-29T10:10:01+0000 INFO Fetched page: 229 total IDs, 10 rendered details
+2026-05-29T10:10:01+0000 INFO 11 new offer(s) found
+2026-05-29T10:10:01+0000 WARNING ID 17306 not in top-10 details (>10 new in one window?)
+2026-05-29T10:10:01+0000 INFO Telegram sent: 🏠 New offer (ID 17306) — details not rendered, see site:
+🔗 h
+2026-05-29T10:10:01+0000 INFO Skipped (district Spandau not in allowlist): ID 17307
+2026-05-29T10:10:01+0000 INFO Skipped (district Spandau not in allowlist): ID 17308
+2026-05-29T10:10:01+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17309
+2026-05-29T10:10:01+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17312
+2026-05-29T10:10:01+0000 INFO Skipped (district Spandau not in allowlist): ID 17313
+2026-05-29T10:10:01+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 17314
+2026-05-29T10:10:01+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17315
+2026-05-29T10:10:02+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Ringslebenstraße 2B, 1
+2026-05-29T10:10:02+0000 INFO Notified: ID 17316 — Ringslebenstraße 2B, 12353 Neukölln
+2026-05-29T10:10:02+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17317
+2026-05-29T10:10:02+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Maienstraß
+2026-05-29T10:10:02+0000 INFO Notified: ID 17318 — Maienstraße 2, 10787 Tempelhof-Schöneberg
