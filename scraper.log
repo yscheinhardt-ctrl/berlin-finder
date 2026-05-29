@@ -3575,3 +3575,27 @@
 2026-05-29T13:32:45+0000 INFO Skipped (district Spandau not in allowlist): ID 17328
 2026-05-29T13:32:45+0000 INFO Skipped (district Spandau not in allowlist): ID 17329
 2026-05-29T13:32:45+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17330
+2026-05-29T16:58:42+0000 INFO Fetched page: 242 total IDs, 10 rendered details
+2026-05-29T16:58:42+0000 INFO 14 new offer(s) found
+2026-05-29T16:58:42+0000 WARNING ID 17331 not in top-10 details (>10 new in one window?)
+2026-05-29T16:58:43+0000 INFO Telegram sent: 🏠 New offer (ID 17331) — details not rendered, see site:
+🔗 h
+2026-05-29T16:58:43+0000 WARNING ID 17332 not in top-10 details (>10 new in one window?)
+2026-05-29T16:58:43+0000 INFO Telegram sent: 🏠 New offer (ID 17332) — details not rendered, see site:
+🔗 h
+2026-05-29T16:58:43+0000 WARNING ID 17333 not in top-10 details (>10 new in one window?)
+2026-05-29T16:58:43+0000 INFO Telegram sent: 🏠 New offer (ID 17333) — details not rendered, see site:
+🔗 h
+2026-05-29T16:58:43+0000 WARNING ID 17334 not in top-10 details (>10 new in one window?)
+2026-05-29T16:58:44+0000 INFO Telegram sent: 🏠 New offer (ID 17334) — details not rendered, see site:
+🔗 h
+2026-05-29T16:58:44+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17335
+2026-05-29T16:58:44+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17336
+2026-05-29T16:58:44+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17337
+2026-05-29T16:58:44+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17338
+2026-05-29T16:58:44+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17339
+2026-05-29T16:58:44+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17340
+2026-05-29T16:58:44+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17341
+2026-05-29T16:58:44+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17342
+2026-05-29T16:58:44+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17343
+2026-05-29T16:58:44+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17344
