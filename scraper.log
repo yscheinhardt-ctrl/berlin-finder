@@ -3711,3 +3711,39 @@
 2026-06-01T12:40:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17374
 2026-06-01T12:40:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17375
 2026-06-01T12:40:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17376
+2026-06-01T18:28:08+0000 INFO Fetched page: 236 total IDs, 10 rendered details
+2026-06-01T18:28:08+0000 INFO 13 new offer(s) found
+2026-06-01T18:28:08+0000 WARNING ID 17378 not in top-10 details (>10 new in one window?)
+2026-06-01T18:28:09+0000 INFO Telegram sent: 🏠 New offer (ID 17378) — details not rendered, see site:
+🔗 h
+2026-06-01T18:28:09+0000 WARNING ID 17379 not in top-10 details (>10 new in one window?)
+2026-06-01T18:28:10+0000 INFO Telegram sent: 🏠 New offer (ID 17379) — details not rendered, see site:
+🔗 h
+2026-06-01T18:28:10+0000 WARNING ID 17380 not in top-10 details (>10 new in one window?)
+2026-06-01T18:28:10+0000 INFO Telegram sent: 🏠 New offer (ID 17380) — details not rendered, see site:
+🔗 h
+2026-06-01T18:28:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17381
+2026-06-01T18:28:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17382
+2026-06-01T18:28:11+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Gensweg 10, 12349 Neuk
+2026-06-01T18:28:11+0000 INFO Notified: ID 17383 — Gensweg 10, 12349 Neukölln
+2026-06-01T18:28:11+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17386
+2026-06-01T18:28:11+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 105A, 1
+2026-06-01T18:28:11+0000 INFO Notified: ID 17387 — Köpenicker Straße 105A, 10179 Mitte
+2026-06-01T18:28:12+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 105A, 1
+2026-06-01T18:28:12+0000 INFO Notified: ID 17388 — Köpenicker Straße 105A, 10179 Mitte
+2026-06-01T18:28:12+0000 INFO Skipped (district Spandau not in allowlist): ID 17390
+2026-06-01T18:28:12+0000 INFO Skipped (district Spandau not in allowlist): ID 17391
+2026-06-01T18:28:12+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 105A, 1
+2026-06-01T18:28:12+0000 INFO Notified: ID 17394 — Köpenicker Straße 105A, 10179 Mitte
+2026-06-01T18:28:13+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 107, 10
+2026-06-01T18:28:13+0000 INFO Notified: ID 17395 — Köpenicker Straße 107, 10179 Mitte
