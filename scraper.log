@@ -3678,3 +3678,36 @@
 2026-06-01T06:56:55+0000 INFO Skipped (district Spandau not in allowlist): ID 17353
 2026-06-01T06:56:55+0000 INFO Skipped (district Spandau not in allowlist): ID 17354
 2026-06-01T06:56:55+0000 INFO Skipped (district Spandau not in allowlist): ID 17355
+2026-06-01T12:40:43+0000 INFO Fetched page: 227 total IDs, 10 rendered details
+2026-06-01T12:40:43+0000 INFO 15 new offer(s) found
+2026-06-01T12:40:43+0000 WARNING ID 17358 not in top-10 details (>10 new in one window?)
+2026-06-01T12:40:43+0000 INFO Telegram sent: 🏠 New offer (ID 17358) — details not rendered, see site:
+🔗 h
+2026-06-01T12:40:43+0000 WARNING ID 17362 not in top-10 details (>10 new in one window?)
+2026-06-01T12:40:44+0000 INFO Telegram sent: 🏠 New offer (ID 17362) — details not rendered, see site:
+🔗 h
+2026-06-01T12:40:44+0000 WARNING ID 17363 not in top-10 details (>10 new in one window?)
+2026-06-01T12:40:44+0000 INFO Telegram sent: 🏠 New offer (ID 17363) — details not rendered, see site:
+🔗 h
+2026-06-01T12:40:44+0000 WARNING ID 17364 not in top-10 details (>10 new in one window?)
+2026-06-01T12:40:44+0000 INFO Telegram sent: 🏠 New offer (ID 17364) — details not rendered, see site:
+🔗 h
+2026-06-01T12:40:44+0000 WARNING ID 17365 not in top-10 details (>10 new in one window?)
+2026-06-01T12:40:45+0000 INFO Telegram sent: 🏠 New offer (ID 17365) — details not rendered, see site:
+🔗 h
+2026-06-01T12:40:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17366
+2026-06-01T12:40:45+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17367
+2026-06-01T12:40:45+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Hofa
+2026-06-01T12:40:45+0000 INFO Notified: ID 17368 — Hofackerzeile 4, 13627 Charlottenburg-Wilmersdorf
+2026-06-01T12:40:45+0000 INFO Skipped (district Spandau not in allowlist): ID 17369
+2026-06-01T12:40:45+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17371
+2026-06-01T12:40:45+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Bremer Straße 12, 10551 M
+2026-06-01T12:40:45+0000 INFO Notified: ID 17372 — Bremer Straße 12, 10551 Mitte
+2026-06-01T12:40:45+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17373
+2026-06-01T12:40:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17374
+2026-06-01T12:40:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17375
+2026-06-01T12:40:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17376
