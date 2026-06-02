@@ -3802,3 +3802,48 @@
 2026-06-02T11:00:03+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17419
 2026-06-02T11:00:03+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17420
 2026-06-02T11:00:03+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17421
+2026-06-02T15:00:53+0000 INFO Fetched page: 254 total IDs, 10 rendered details
+2026-06-02T15:00:53+0000 INFO 21 new offer(s) found
+2026-06-02T15:00:53+0000 WARNING ID 17424 not in top-10 details (>10 new in one window?)
+2026-06-02T15:00:53+0000 INFO Telegram sent: 🏠 New offer (ID 17424) — details not rendered, see site:
+🔗 h
+2026-06-02T15:00:53+0000 WARNING ID 17425 not in top-10 details (>10 new in one window?)
+2026-06-02T15:00:54+0000 INFO Telegram sent: 🏠 New offer (ID 17425) — details not rendered, see site:
+🔗 h
+2026-06-02T15:00:54+0000 WARNING ID 17426 not in top-10 details (>10 new in one window?)
+2026-06-02T15:00:54+0000 INFO Telegram sent: 🏠 New offer (ID 17426) — details not rendered, see site:
+🔗 h
+2026-06-02T15:00:54+0000 WARNING ID 17427 not in top-10 details (>10 new in one window?)
+2026-06-02T15:00:55+0000 INFO Telegram sent: 🏠 New offer (ID 17427) — details not rendered, see site:
+🔗 h
+2026-06-02T15:00:55+0000 WARNING ID 17428 not in top-10 details (>10 new in one window?)
+2026-06-02T15:00:55+0000 INFO Telegram sent: 🏠 New offer (ID 17428) — details not rendered, see site:
+🔗 h
+2026-06-02T15:00:55+0000 WARNING ID 17429 not in top-10 details (>10 new in one window?)
+2026-06-02T15:00:55+0000 INFO Telegram sent: 🏠 New offer (ID 17429) — details not rendered, see site:
+🔗 h
+2026-06-02T15:00:55+0000 WARNING ID 17430 not in top-10 details (>10 new in one window?)
+2026-06-02T15:00:56+0000 INFO Telegram sent: 🏠 New offer (ID 17430) — details not rendered, see site:
+🔗 h
+2026-06-02T15:00:56+0000 WARNING ID 17431 not in top-10 details (>10 new in one window?)
+2026-06-02T15:00:56+0000 INFO Telegram sent: 🏠 New offer (ID 17431) — details not rendered, see site:
+🔗 h
+2026-06-02T15:00:56+0000 WARNING ID 17432 not in top-10 details (>10 new in one window?)
+2026-06-02T15:00:57+0000 INFO Telegram sent: 🏠 New offer (ID 17432) — details not rendered, see site:
+🔗 h
+2026-06-02T15:00:57+0000 WARNING ID 17433 not in top-10 details (>10 new in one window?)
+2026-06-02T15:00:57+0000 INFO Telegram sent: 🏠 New offer (ID 17433) — details not rendered, see site:
+🔗 h
+2026-06-02T15:00:57+0000 WARNING ID 17434 not in top-10 details (>10 new in one window?)
+2026-06-02T15:00:57+0000 INFO Telegram sent: 🏠 New offer (ID 17434) — details not rendered, see site:
+🔗 h
+2026-06-02T15:00:57+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17435
+2026-06-02T15:00:57+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 17436
+2026-06-02T15:00:57+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 17437
+2026-06-02T15:00:57+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17438
+2026-06-02T15:00:57+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17439
+2026-06-02T15:00:57+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17440
+2026-06-02T15:00:57+0000 INFO Skipped (district Spandau not in allowlist): ID 17441
+2026-06-02T15:00:57+0000 INFO Skipped (district Pankow not in allowlist): ID 17442
+2026-06-02T15:00:57+0000 INFO Skipped (district Pankow not in allowlist): ID 17443
+2026-06-02T15:00:57+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17444
