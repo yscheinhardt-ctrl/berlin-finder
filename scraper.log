@@ -3967,3 +3967,6 @@
 
 📍 Wilhel
 2026-06-03T17:09:56+0000 INFO Notified: ID 17507 — Wilhelmstraße 3, 10963 Friedrichshain-Kreuzberg
+2026-06-03T20:27:11+0000 INFO Fetched page: 249 total IDs, 10 rendered details
+2026-06-03T20:27:11+0000 INFO 1 new offer(s) found
+2026-06-03T20:27:11+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17508
