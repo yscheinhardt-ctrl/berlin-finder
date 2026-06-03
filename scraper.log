@@ -3857,3 +3857,15 @@
 2026-06-02T23:20:12+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17450
 2026-06-03T02:02:46+0000 INFO Fetched page: 251 total IDs, 10 rendered details
 2026-06-03T02:02:46+0000 INFO 0 new offer(s) found
+2026-06-03T07:02:45+0000 INFO Fetched page: 253 total IDs, 10 rendered details
+2026-06-03T07:02:45+0000 INFO 7 new offer(s) found
+2026-06-03T07:02:45+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17451
+2026-06-03T07:02:45+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17452
+2026-06-03T07:02:45+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Fritzi-Massary-Straße 
+2026-06-03T07:02:45+0000 INFO Notified: ID 17453 — Fritzi-Massary-Straße 8, 12057 Neukölln
+2026-06-03T07:02:45+0000 INFO Skipped (district Spandau not in allowlist): ID 17454
+2026-06-03T07:02:45+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17455
+2026-06-03T07:02:45+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17456
+2026-06-03T07:02:45+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17457
