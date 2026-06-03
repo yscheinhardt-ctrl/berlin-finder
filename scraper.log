@@ -3944,3 +3944,26 @@
 2026-06-03T12:03:53+0000 INFO Skipped (district Spandau not in allowlist): ID 17492
 2026-06-03T12:03:53+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17493
 2026-06-03T12:03:53+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17494
+2026-06-03T17:09:54+0000 INFO Fetched page: 255 total IDs, 10 rendered details
+2026-06-03T17:09:54+0000 INFO 9 new offer(s) found
+2026-06-03T17:09:54+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17497
+2026-06-03T17:09:55+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Meraner St
+2026-06-03T17:09:55+0000 INFO Notified: ID 17498 — Meraner Straße 33, 10825 Tempelhof-Schöneberg
+2026-06-03T17:09:55+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Wilhel
+2026-06-03T17:09:55+0000 INFO Notified: ID 17500 — Wilhelmstraße 2, 10963 Friedrichshain-Kreuzberg
+2026-06-03T17:09:55+0000 INFO Skipped (district Spandau not in allowlist): ID 17502
+2026-06-03T17:09:55+0000 INFO Skipped (district Spandau not in allowlist): ID 17503
+2026-06-03T17:09:55+0000 INFO Skipped (district Spandau not in allowlist): ID 17504
+2026-06-03T17:09:56+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Steinacher
+2026-06-03T17:09:56+0000 INFO Notified: ID 17505 — Steinacher Straße 4, 10825 Tempelhof-Schöneberg
+2026-06-03T17:09:56+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17506
+2026-06-03T17:09:56+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Wilhel
+2026-06-03T17:09:56+0000 INFO Notified: ID 17507 — Wilhelmstraße 3, 10963 Friedrichshain-Kreuzberg
