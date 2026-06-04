@@ -4088,3 +4088,6 @@
 2026-06-04T18:02:10+0000 INFO 2 new offer(s) found
 2026-06-04T18:02:10+0000 INFO Skipped (district Spandau not in allowlist): ID 17568
 2026-06-04T18:02:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17569
+2026-06-04T20:18:43+0000 INFO Fetched page: 260 total IDs, 10 rendered details
+2026-06-04T20:18:43+0000 INFO 1 new offer(s) found
+2026-06-04T20:18:43+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17571
