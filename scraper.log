@@ -3997,3 +3997,30 @@
 📍 Am Straßenbahnhof 54, 
 2026-06-04T09:03:20+0000 INFO Notified: ID 17523 — Am Straßenbahnhof 54, 12347 Neukölln
 2026-06-04T09:03:20+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17524
+2026-06-04T12:12:48+0000 INFO Fetched page: 253 total IDs, 10 rendered details
+2026-06-04T12:12:48+0000 INFO 14 new offer(s) found
+2026-06-04T12:12:48+0000 WARNING ID 17526 not in top-10 details (>10 new in one window?)
+2026-06-04T12:12:48+0000 INFO Telegram sent: 🏠 New offer (ID 17526) — details not rendered, see site:
+🔗 h
+2026-06-04T12:12:48+0000 WARNING ID 17527 not in top-10 details (>10 new in one window?)
+2026-06-04T12:12:48+0000 INFO Telegram sent: 🏠 New offer (ID 17527) — details not rendered, see site:
+🔗 h
+2026-06-04T12:12:48+0000 WARNING ID 17528 not in top-10 details (>10 new in one window?)
+2026-06-04T12:12:49+0000 INFO Telegram sent: 🏠 New offer (ID 17528) — details not rendered, see site:
+🔗 h
+2026-06-04T12:12:49+0000 WARNING ID 17529 not in top-10 details (>10 new in one window?)
+2026-06-04T12:12:49+0000 INFO Telegram sent: 🏠 New offer (ID 17529) — details not rendered, see site:
+🔗 h
+2026-06-04T12:12:49+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17531
+2026-06-04T12:12:49+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17532
+2026-06-04T12:12:49+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17533
+2026-06-04T12:12:50+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Schirpitzer Weg 46, 12
+2026-06-04T12:12:50+0000 INFO Notified: ID 17534 — Schirpitzer Weg 46, 12355 Neukölln
+2026-06-04T12:12:50+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17535
+2026-06-04T12:12:50+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17536
+2026-06-04T12:12:50+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17537
+2026-06-04T12:12:50+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17538
+2026-06-04T12:12:50+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17539
+2026-06-04T12:12:50+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17540
