@@ -4447,3 +4447,6 @@
 2026-06-08T18:38:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17705
 2026-06-08T18:38:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17706
 2026-06-08T18:38:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17707
+2026-06-08T21:05:26+0000 INFO Fetched page: 241 total IDs, 10 rendered details
+2026-06-08T21:05:26+0000 INFO 1 new offer(s) found
+2026-06-08T21:05:26+0000 INFO Skipped (district Pankow not in allowlist): ID 17709
