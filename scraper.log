@@ -4362,3 +4362,16 @@
 2026-06-07T23:49:43+0000 INFO 0 new offer(s) found
 2026-06-08T02:05:45+0000 INFO Fetched page: 256 total IDs, 10 rendered details
 2026-06-08T02:05:45+0000 INFO 0 new offer(s) found
+2026-06-08T07:00:09+0000 INFO Fetched page: 249 total IDs, 10 rendered details
+2026-06-08T07:00:09+0000 INFO 5 new offer(s) found
+2026-06-08T07:00:10+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Fritzi-Massary-Straße 
+2026-06-08T07:00:10+0000 INFO Notified: ID 17665 — Fritzi-Massary-Straße 14, 12057 Neukölln
+2026-06-08T07:00:10+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Alboinplat
+2026-06-08T07:00:10+0000 INFO Notified: ID 17666 — Alboinplatz 2, 12105 Tempelhof-Schöneberg
+2026-06-08T07:00:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17667
+2026-06-08T07:00:10+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17668
+2026-06-08T07:00:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17669
