@@ -4414,3 +4414,30 @@
 2026-06-08T12:05:29+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17686
 2026-06-08T12:05:29+0000 INFO Skipped (district Spandau not in allowlist): ID 17687
 2026-06-08T12:05:29+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17688
+2026-06-08T16:15:42+0000 INFO Fetched page: 249 total IDs, 10 rendered details
+2026-06-08T16:15:42+0000 INFO 12 new offer(s) found
+2026-06-08T16:15:42+0000 WARNING ID 17689 not in top-10 details (>10 new in one window?)
+2026-06-08T16:15:43+0000 INFO Telegram sent: 🏠 New offer (ID 17689) — details not rendered, see site:
+🔗 h
+2026-06-08T16:15:43+0000 WARNING ID 17690 not in top-10 details (>10 new in one window?)
+2026-06-08T16:15:43+0000 INFO Telegram sent: 🏠 New offer (ID 17690) — details not rendered, see site:
+🔗 h
+2026-06-08T16:15:43+0000 INFO Skipped (district Pankow not in allowlist): ID 17692
+2026-06-08T16:15:43+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17693
+2026-06-08T16:15:43+0000 INFO Skipped (district Pankow not in allowlist): ID 17694
+2026-06-08T16:15:43+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17695
+2026-06-08T16:15:43+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17696
+2026-06-08T16:15:43+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17698
+2026-06-08T16:15:43+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17700
+2026-06-08T16:15:44+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Alvenslebe
+2026-06-08T16:15:44+0000 INFO Notified: ID 17701 — Alvenslebenstraße 23, 10783 Tempelhof-Schöneberg
+2026-06-08T16:15:44+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Steinmetzs
+2026-06-08T16:15:44+0000 INFO Notified: ID 17702 — Steinmetzstraße 26, 10783 Tempelhof-Schöneberg
+2026-06-08T16:15:44+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Katzlerstr
+2026-06-08T16:15:44+0000 INFO Notified: ID 17703 — Katzlerstraße 5, 10829 Tempelhof-Schöneberg
