@@ -4375,3 +4375,42 @@
 2026-06-08T07:00:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17667
 2026-06-08T07:00:10+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17668
 2026-06-08T07:00:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17669
+2026-06-08T12:05:25+0000 INFO Fetched page: 242 total IDs, 10 rendered details
+2026-06-08T12:05:25+0000 INFO 18 new offer(s) found
+2026-06-08T12:05:25+0000 WARNING ID 17670 not in top-10 details (>10 new in one window?)
+2026-06-08T12:05:26+0000 INFO Telegram sent: 🏠 New offer (ID 17670) — details not rendered, see site:
+🔗 h
+2026-06-08T12:05:26+0000 WARNING ID 17671 not in top-10 details (>10 new in one window?)
+2026-06-08T12:05:26+0000 INFO Telegram sent: 🏠 New offer (ID 17671) — details not rendered, see site:
+🔗 h
+2026-06-08T12:05:26+0000 WARNING ID 17672 not in top-10 details (>10 new in one window?)
+2026-06-08T12:05:27+0000 INFO Telegram sent: 🏠 New offer (ID 17672) — details not rendered, see site:
+🔗 h
+2026-06-08T12:05:27+0000 WARNING ID 17674 not in top-10 details (>10 new in one window?)
+2026-06-08T12:05:27+0000 INFO Telegram sent: 🏠 New offer (ID 17674) — details not rendered, see site:
+🔗 h
+2026-06-08T12:05:27+0000 WARNING ID 17675 not in top-10 details (>10 new in one window?)
+2026-06-08T12:05:28+0000 INFO Telegram sent: 🏠 New offer (ID 17675) — details not rendered, see site:
+🔗 h
+2026-06-08T12:05:28+0000 WARNING ID 17676 not in top-10 details (>10 new in one window?)
+2026-06-08T12:05:28+0000 INFO Telegram sent: 🏠 New offer (ID 17676) — details not rendered, see site:
+🔗 h
+2026-06-08T12:05:28+0000 WARNING ID 17677 not in top-10 details (>10 new in one window?)
+2026-06-08T12:05:29+0000 INFO Telegram sent: 🏠 New offer (ID 17677) — details not rendered, see site:
+🔗 h
+2026-06-08T12:05:29+0000 WARNING ID 17678 not in top-10 details (>10 new in one window?)
+2026-06-08T12:05:29+0000 INFO Telegram sent: 🏠 New offer (ID 17678) — details not rendered, see site:
+🔗 h
+2026-06-08T12:05:29+0000 INFO Skipped (district Pankow not in allowlist): ID 17679
+2026-06-08T12:05:29+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Friedrich-Kayßler-Weg 
+2026-06-08T12:05:29+0000 INFO Notified: ID 17680 — Friedrich-Kayßler-Weg 3, 12353 Neukölln
+2026-06-08T12:05:29+0000 INFO Skipped (district Pankow not in allowlist): ID 17681
+2026-06-08T12:05:29+0000 INFO Skipped (district Pankow not in allowlist): ID 17682
+2026-06-08T12:05:29+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 17683
+2026-06-08T12:05:29+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 17684
+2026-06-08T12:05:29+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 17685
+2026-06-08T12:05:29+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17686
+2026-06-08T12:05:29+0000 INFO Skipped (district Spandau not in allowlist): ID 17687
+2026-06-08T12:05:29+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17688
