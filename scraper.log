@@ -4441,3 +4441,9 @@
 
 📍 Katzlerstr
 2026-06-08T16:15:44+0000 INFO Notified: ID 17703 — Katzlerstraße 5, 10829 Tempelhof-Schöneberg
+2026-06-08T18:38:08+0000 INFO Fetched page: 250 total IDs, 10 rendered details
+2026-06-08T18:38:08+0000 INFO 4 new offer(s) found
+2026-06-08T18:38:08+0000 INFO Skipped (district Spandau not in allowlist): ID 17704
+2026-06-08T18:38:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17705
+2026-06-08T18:38:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17706
+2026-06-08T18:38:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17707
