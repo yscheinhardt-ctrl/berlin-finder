@@ -4553,3 +4553,18 @@
 
 📍 Engeldamm 40, 10179 Mitte
 2026-06-09T13:20:20+0000 INFO Notified: ID 17752 — Engeldamm 40, 10179 Mitte
+2026-06-09T16:14:33+0000 INFO Fetched page: 262 total IDs, 10 rendered details
+2026-06-09T16:14:33+0000 INFO 7 new offer(s) found
+2026-06-09T16:14:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17753
+2026-06-09T16:14:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17754
+2026-06-09T16:14:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17755
+2026-06-09T16:14:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17756
+2026-06-09T16:14:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17758
+2026-06-09T16:14:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Dahr
+2026-06-09T16:14:34+0000 INFO Notified: ID 17759 — Dahrendorfzeile 10, 13627 Charlottenburg-Wilmersdorf
+2026-06-09T16:14:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Hofa
+2026-06-09T16:14:34+0000 INFO Notified: ID 17760 — Hofackerzeile 7B, 13627 Charlottenburg-Wilmersdorf
