@@ -4460,3 +4460,36 @@
 2026-06-09T06:33:21+0000 INFO 2 new offer(s) found
 2026-06-09T06:33:21+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17710
 2026-06-09T06:33:21+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 17711
+2026-06-09T10:21:13+0000 INFO Fetched page: 248 total IDs, 10 rendered details
+2026-06-09T10:21:13+0000 INFO 14 new offer(s) found
+2026-06-09T10:21:13+0000 WARNING ID 17712 not in top-10 details (>10 new in one window?)
+2026-06-09T10:21:14+0000 INFO Telegram sent: 🏠 New offer (ID 17712) — details not rendered, see site:
+🔗 h
+2026-06-09T10:21:14+0000 WARNING ID 17713 not in top-10 details (>10 new in one window?)
+2026-06-09T10:21:14+0000 INFO Telegram sent: 🏠 New offer (ID 17713) — details not rendered, see site:
+🔗 h
+2026-06-09T10:21:14+0000 WARNING ID 17714 not in top-10 details (>10 new in one window?)
+2026-06-09T10:21:15+0000 INFO Telegram sent: 🏠 New offer (ID 17714) — details not rendered, see site:
+🔗 h
+2026-06-09T10:21:15+0000 WARNING ID 17715 not in top-10 details (>10 new in one window?)
+2026-06-09T10:21:15+0000 INFO Telegram sent: 🏠 New offer (ID 17715) — details not rendered, see site:
+🔗 h
+2026-06-09T10:21:15+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17716
+2026-06-09T10:21:16+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Zwickauer Damm 12, 123
+2026-06-09T10:21:16+0000 INFO Notified: ID 17717 — Zwickauer Damm 12, 12353 Neukölln
+2026-06-09T10:21:16+0000 INFO Skipped (district Spandau not in allowlist): ID 17718
+2026-06-09T10:21:16+0000 INFO Skipped (district Spandau not in allowlist): ID 17719
+2026-06-09T10:21:16+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17720
+2026-06-09T10:21:16+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17721
+2026-06-09T10:21:16+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17722
+2026-06-09T10:21:16+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Zossen
+2026-06-09T10:21:16+0000 INFO Notified: ID 17723 — Zossener Straße 18, 10961 Friedrichshain-Kreuzberg
+2026-06-09T10:21:17+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Scharrenstraße 11, 10178 
+2026-06-09T10:21:17+0000 INFO Notified: ID 17724 — Scharrenstraße 11, 10178 Mitte
+2026-06-09T10:21:17+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17725
