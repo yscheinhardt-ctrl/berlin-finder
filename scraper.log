@@ -4493,3 +4493,63 @@
 📍 Scharrenstraße 11, 10178 
 2026-06-09T10:21:17+0000 INFO Notified: ID 17724 — Scharrenstraße 11, 10178 Mitte
 2026-06-09T10:21:17+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17725
+2026-06-09T13:20:15+0000 INFO Fetched page: 261 total IDs, 10 rendered details
+2026-06-09T13:20:15+0000 INFO 23 new offer(s) found
+2026-06-09T13:20:15+0000 WARNING ID 17727 not in top-10 details (>10 new in one window?)
+2026-06-09T13:20:15+0000 INFO Telegram sent: 🏠 New offer (ID 17727) — details not rendered, see site:
+🔗 h
+2026-06-09T13:20:15+0000 WARNING ID 17728 not in top-10 details (>10 new in one window?)
+2026-06-09T13:20:16+0000 INFO Telegram sent: 🏠 New offer (ID 17728) — details not rendered, see site:
+🔗 h
+2026-06-09T13:20:16+0000 WARNING ID 17729 not in top-10 details (>10 new in one window?)
+2026-06-09T13:20:16+0000 INFO Telegram sent: 🏠 New offer (ID 17729) — details not rendered, see site:
+🔗 h
+2026-06-09T13:20:16+0000 WARNING ID 17731 not in top-10 details (>10 new in one window?)
+2026-06-09T13:20:16+0000 INFO Telegram sent: 🏠 New offer (ID 17731) — details not rendered, see site:
+🔗 h
+2026-06-09T13:20:16+0000 WARNING ID 17732 not in top-10 details (>10 new in one window?)
+2026-06-09T13:20:17+0000 INFO Telegram sent: 🏠 New offer (ID 17732) — details not rendered, see site:
+🔗 h
+2026-06-09T13:20:17+0000 WARNING ID 17733 not in top-10 details (>10 new in one window?)
+2026-06-09T13:20:17+0000 INFO Telegram sent: 🏠 New offer (ID 17733) — details not rendered, see site:
+🔗 h
+2026-06-09T13:20:17+0000 WARNING ID 17734 not in top-10 details (>10 new in one window?)
+2026-06-09T13:20:17+0000 INFO Telegram sent: 🏠 New offer (ID 17734) — details not rendered, see site:
+🔗 h
+2026-06-09T13:20:17+0000 WARNING ID 17735 not in top-10 details (>10 new in one window?)
+2026-06-09T13:20:18+0000 INFO Telegram sent: 🏠 New offer (ID 17735) — details not rendered, see site:
+🔗 h
+2026-06-09T13:20:18+0000 WARNING ID 17737 not in top-10 details (>10 new in one window?)
+2026-06-09T13:20:18+0000 INFO Telegram sent: 🏠 New offer (ID 17737) — details not rendered, see site:
+🔗 h
+2026-06-09T13:20:18+0000 WARNING ID 17739 not in top-10 details (>10 new in one window?)
+2026-06-09T13:20:18+0000 INFO Telegram sent: 🏠 New offer (ID 17739) — details not rendered, see site:
+🔗 h
+2026-06-09T13:20:18+0000 WARNING ID 17740 not in top-10 details (>10 new in one window?)
+2026-06-09T13:20:19+0000 INFO Telegram sent: 🏠 New offer (ID 17740) — details not rendered, see site:
+🔗 h
+2026-06-09T13:20:19+0000 WARNING ID 17741 not in top-10 details (>10 new in one window?)
+2026-06-09T13:20:19+0000 INFO Telegram sent: 🏠 New offer (ID 17741) — details not rendered, see site:
+🔗 h
+2026-06-09T13:20:19+0000 WARNING ID 17742 not in top-10 details (>10 new in one window?)
+2026-06-09T13:20:19+0000 INFO Telegram sent: 🏠 New offer (ID 17742) — details not rendered, see site:
+🔗 h
+2026-06-09T13:20:19+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17743
+2026-06-09T13:20:19+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Horstwalde
+2026-06-09T13:20:19+0000 INFO Notified: ID 17744 — Horstwalder Straße 5A, 12307 Tempelhof-Schöneberg
+2026-06-09T13:20:19+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17745
+2026-06-09T13:20:19+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17746
+2026-06-09T13:20:19+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17747
+2026-06-09T13:20:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Lipschitzallee 47, 123
+2026-06-09T13:20:20+0000 INFO Notified: ID 17748 — Lipschitzallee 47, 12353 Neukölln
+2026-06-09T13:20:20+0000 INFO Skipped (district Pankow not in allowlist): ID 17749
+2026-06-09T13:20:20+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17750
+2026-06-09T13:20:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17751
+2026-06-09T13:20:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Engeldamm 40, 10179 Mitte
+2026-06-09T13:20:20+0000 INFO Notified: ID 17752 — Engeldamm 40, 10179 Mitte
