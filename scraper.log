@@ -4568,3 +4568,6 @@
 
 📍 Hofa
 2026-06-09T16:14:34+0000 INFO Notified: ID 17760 — Hofackerzeile 7B, 13627 Charlottenburg-Wilmersdorf
+2026-06-09T18:22:49+0000 INFO Fetched page: 254 total IDs, 10 rendered details
+2026-06-09T18:22:49+0000 INFO 1 new offer(s) found
+2026-06-09T18:22:49+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17761
