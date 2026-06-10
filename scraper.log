@@ -4641,3 +4641,54 @@
 2026-06-10T10:35:03+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17790
 2026-06-10T10:35:03+0000 INFO Skipped (district Spandau not in allowlist): ID 17791
 2026-06-10T10:35:03+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17792
+2026-06-10T13:57:46+0000 INFO Fetched page: 253 total IDs, 10 rendered details
+2026-06-10T13:57:46+0000 INFO 19 new offer(s) found
+2026-06-10T13:57:46+0000 WARNING ID 17793 not in top-10 details (>10 new in one window?)
+2026-06-10T13:57:46+0000 INFO Telegram sent: 🏠 New offer (ID 17793) — details not rendered, see site:
+🔗 h
+2026-06-10T13:57:46+0000 WARNING ID 17794 not in top-10 details (>10 new in one window?)
+2026-06-10T13:57:46+0000 INFO Telegram sent: 🏠 New offer (ID 17794) — details not rendered, see site:
+🔗 h
+2026-06-10T13:57:46+0000 WARNING ID 17798 not in top-10 details (>10 new in one window?)
+2026-06-10T13:57:47+0000 INFO Telegram sent: 🏠 New offer (ID 17798) — details not rendered, see site:
+🔗 h
+2026-06-10T13:57:47+0000 WARNING ID 17799 not in top-10 details (>10 new in one window?)
+2026-06-10T13:57:47+0000 INFO Telegram sent: 🏠 New offer (ID 17799) — details not rendered, see site:
+🔗 h
+2026-06-10T13:57:47+0000 WARNING ID 17800 not in top-10 details (>10 new in one window?)
+2026-06-10T13:57:48+0000 INFO Telegram sent: 🏠 New offer (ID 17800) — details not rendered, see site:
+🔗 h
+2026-06-10T13:57:48+0000 WARNING ID 17801 not in top-10 details (>10 new in one window?)
+2026-06-10T13:57:48+0000 INFO Telegram sent: 🏠 New offer (ID 17801) — details not rendered, see site:
+🔗 h
+2026-06-10T13:57:48+0000 WARNING ID 17802 not in top-10 details (>10 new in one window?)
+2026-06-10T13:57:48+0000 INFO Telegram sent: 🏠 New offer (ID 17802) — details not rendered, see site:
+🔗 h
+2026-06-10T13:57:48+0000 WARNING ID 17803 not in top-10 details (>10 new in one window?)
+2026-06-10T13:57:49+0000 INFO Telegram sent: 🏠 New offer (ID 17803) — details not rendered, see site:
+🔗 h
+2026-06-10T13:57:49+0000 WARNING ID 17804 not in top-10 details (>10 new in one window?)
+2026-06-10T13:57:49+0000 INFO Telegram sent: 🏠 New offer (ID 17804) — details not rendered, see site:
+🔗 h
+2026-06-10T13:57:49+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17805
+2026-06-10T13:57:49+0000 INFO Skipped (district Spandau not in allowlist): ID 17806
+2026-06-10T13:57:49+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Linden
+2026-06-10T13:57:49+0000 INFO Notified: ID 17807 — Lindenstraße 79, 10969 Friedrichshain-Kreuzberg
+2026-06-10T13:57:50+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Linden
+2026-06-10T13:57:50+0000 INFO Notified: ID 17808 — Lindenstraße 116, 10969 Friedrichshain-Kreuzberg
+2026-06-10T13:57:50+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Auguststraße 29C, 10119 M
+2026-06-10T13:57:50+0000 INFO Notified: ID 17810 — Auguststraße 29C, 10119 Mitte
+2026-06-10T13:57:50+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Steinstraße 3, 10119 Mitt
+2026-06-10T13:57:50+0000 INFO Notified: ID 17811 — Steinstraße 3, 10119 Mitte
+2026-06-10T13:57:50+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17812
+2026-06-10T13:57:50+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17813
+2026-06-10T13:57:50+0000 INFO Skipped (district Spandau not in allowlist): ID 17814
+2026-06-10T13:57:50+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 17815
