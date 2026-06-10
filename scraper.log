@@ -4581,3 +4581,63 @@
 2026-06-10T01:52:07+0000 INFO 0 new offer(s) found
 2026-06-10T06:13:54+0000 INFO Fetched page: 241 total IDs, 10 rendered details
 2026-06-10T06:13:54+0000 INFO 0 new offer(s) found
+2026-06-10T10:34:57+0000 INFO Fetched page: 245 total IDs, 10 rendered details
+2026-06-10T10:34:57+0000 INFO 26 new offer(s) found
+2026-06-10T10:34:57+0000 WARNING ID 17764 not in top-10 details (>10 new in one window?)
+2026-06-10T10:34:57+0000 INFO Telegram sent: 🏠 New offer (ID 17764) — details not rendered, see site:
+🔗 h
+2026-06-10T10:34:57+0000 WARNING ID 17766 not in top-10 details (>10 new in one window?)
+2026-06-10T10:34:58+0000 INFO Telegram sent: 🏠 New offer (ID 17766) — details not rendered, see site:
+🔗 h
+2026-06-10T10:34:58+0000 WARNING ID 17767 not in top-10 details (>10 new in one window?)
+2026-06-10T10:34:58+0000 INFO Telegram sent: 🏠 New offer (ID 17767) — details not rendered, see site:
+🔗 h
+2026-06-10T10:34:58+0000 WARNING ID 17768 not in top-10 details (>10 new in one window?)
+2026-06-10T10:34:58+0000 INFO Telegram sent: 🏠 New offer (ID 17768) — details not rendered, see site:
+🔗 h
+2026-06-10T10:34:58+0000 WARNING ID 17769 not in top-10 details (>10 new in one window?)
+2026-06-10T10:34:59+0000 INFO Telegram sent: 🏠 New offer (ID 17769) — details not rendered, see site:
+🔗 h
+2026-06-10T10:34:59+0000 WARNING ID 17771 not in top-10 details (>10 new in one window?)
+2026-06-10T10:34:59+0000 INFO Telegram sent: 🏠 New offer (ID 17771) — details not rendered, see site:
+🔗 h
+2026-06-10T10:34:59+0000 WARNING ID 17772 not in top-10 details (>10 new in one window?)
+2026-06-10T10:35:00+0000 INFO Telegram sent: 🏠 New offer (ID 17772) — details not rendered, see site:
+🔗 h
+2026-06-10T10:35:00+0000 WARNING ID 17773 not in top-10 details (>10 new in one window?)
+2026-06-10T10:35:00+0000 INFO Telegram sent: 🏠 New offer (ID 17773) — details not rendered, see site:
+🔗 h
+2026-06-10T10:35:00+0000 WARNING ID 17774 not in top-10 details (>10 new in one window?)
+2026-06-10T10:35:00+0000 INFO Telegram sent: 🏠 New offer (ID 17774) — details not rendered, see site:
+🔗 h
+2026-06-10T10:35:00+0000 WARNING ID 17775 not in top-10 details (>10 new in one window?)
+2026-06-10T10:35:01+0000 INFO Telegram sent: 🏠 New offer (ID 17775) — details not rendered, see site:
+🔗 h
+2026-06-10T10:35:01+0000 WARNING ID 17776 not in top-10 details (>10 new in one window?)
+2026-06-10T10:35:01+0000 INFO Telegram sent: 🏠 New offer (ID 17776) — details not rendered, see site:
+🔗 h
+2026-06-10T10:35:01+0000 WARNING ID 17777 not in top-10 details (>10 new in one window?)
+2026-06-10T10:35:01+0000 INFO Telegram sent: 🏠 New offer (ID 17777) — details not rendered, see site:
+🔗 h
+2026-06-10T10:35:01+0000 WARNING ID 17778 not in top-10 details (>10 new in one window?)
+2026-06-10T10:35:02+0000 INFO Telegram sent: 🏠 New offer (ID 17778) — details not rendered, see site:
+🔗 h
+2026-06-10T10:35:02+0000 WARNING ID 17779 not in top-10 details (>10 new in one window?)
+2026-06-10T10:35:02+0000 INFO Telegram sent: 🏠 New offer (ID 17779) — details not rendered, see site:
+🔗 h
+2026-06-10T10:35:02+0000 WARNING ID 17780 not in top-10 details (>10 new in one window?)
+2026-06-10T10:35:03+0000 INFO Telegram sent: 🏠 New offer (ID 17780) — details not rendered, see site:
+🔗 h
+2026-06-10T10:35:03+0000 WARNING ID 17781 not in top-10 details (>10 new in one window?)
+2026-06-10T10:35:03+0000 INFO Telegram sent: 🏠 New offer (ID 17781) — details not rendered, see site:
+🔗 h
+2026-06-10T10:35:03+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17782
+2026-06-10T10:35:03+0000 INFO Skipped (district Spandau not in allowlist): ID 17783
+2026-06-10T10:35:03+0000 INFO Skipped (district Spandau not in allowlist): ID 17784
+2026-06-10T10:35:03+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17786
+2026-06-10T10:35:03+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17787
+2026-06-10T10:35:03+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17788
+2026-06-10T10:35:03+0000 INFO Skipped (district Spandau not in allowlist): ID 17789
+2026-06-10T10:35:03+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17790
+2026-06-10T10:35:03+0000 INFO Skipped (district Spandau not in allowlist): ID 17791
+2026-06-10T10:35:03+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17792
