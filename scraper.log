@@ -4707,3 +4707,18 @@
 2026-06-10T23:19:09+0000 INFO 0 new offer(s) found
 2026-06-11T01:43:32+0000 INFO Fetched page: 245 total IDs, 10 rendered details
 2026-06-11T01:43:32+0000 INFO 0 new offer(s) found
+2026-06-11T06:28:10+0000 INFO Fetched page: 240 total IDs, 10 rendered details
+2026-06-11T06:28:10+0000 INFO 4 new offer(s) found
+2026-06-11T06:28:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17825
+2026-06-11T06:28:10+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Iranische Straße 4B, 1334
+2026-06-11T06:28:10+0000 INFO Notified: ID 17826 — Iranische Straße 4B, 13347 Mitte
+2026-06-11T06:28:11+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Gitsch
+2026-06-11T06:28:11+0000 INFO Notified: ID 17827 — Gitschiner Straße 38, 10969 Friedrichshain-Kreuzberg
+2026-06-11T06:28:11+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Gitsch
+2026-06-11T06:28:11+0000 INFO Notified: ID 17828 — Gitschiner Straße 38, 10969 Friedrichshain-Kreuzberg
