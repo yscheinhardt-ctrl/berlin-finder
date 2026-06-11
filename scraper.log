@@ -4811,3 +4811,5 @@
 2026-06-11T18:13:07+0000 INFO Notified: ID 17878 — Kraatzweg 5, 12305 Tempelhof-Schöneberg
 2026-06-11T18:13:07+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17879
 2026-06-11T18:13:07+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17880
+2026-06-11T20:36:52+0000 INFO Fetched page: 245 total IDs, 10 rendered details
+2026-06-11T20:36:52+0000 INFO 0 new offer(s) found
