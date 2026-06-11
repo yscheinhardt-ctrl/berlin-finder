@@ -4761,3 +4761,36 @@
 2026-06-11T11:11:51+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17846
 2026-06-11T11:11:51+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17847
 2026-06-11T11:11:51+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17848
+2026-06-11T14:55:44+0000 INFO Fetched page: 248 total IDs, 10 rendered details
+2026-06-11T14:55:44+0000 INFO 15 new offer(s) found
+2026-06-11T14:55:44+0000 WARNING ID 17849 not in top-10 details (>10 new in one window?)
+2026-06-11T14:55:44+0000 INFO Telegram sent: 🏠 New offer (ID 17849) — details not rendered, see site:
+🔗 h
+2026-06-11T14:55:44+0000 WARNING ID 17851 not in top-10 details (>10 new in one window?)
+2026-06-11T14:55:44+0000 INFO Telegram sent: 🏠 New offer (ID 17851) — details not rendered, see site:
+🔗 h
+2026-06-11T14:55:44+0000 WARNING ID 17852 not in top-10 details (>10 new in one window?)
+2026-06-11T14:55:45+0000 INFO Telegram sent: 🏠 New offer (ID 17852) — details not rendered, see site:
+🔗 h
+2026-06-11T14:55:45+0000 WARNING ID 17853 not in top-10 details (>10 new in one window?)
+2026-06-11T14:55:45+0000 INFO Telegram sent: 🏠 New offer (ID 17853) — details not rendered, see site:
+🔗 h
+2026-06-11T14:55:45+0000 WARNING ID 17857 not in top-10 details (>10 new in one window?)
+2026-06-11T14:55:45+0000 INFO Telegram sent: 🏠 New offer (ID 17857) — details not rendered, see site:
+🔗 h
+2026-06-11T14:55:45+0000 INFO Skipped (district Spandau not in allowlist): ID 17859
+2026-06-11T14:55:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17860
+2026-06-11T14:55:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17861
+2026-06-11T14:55:45+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17864
+2026-06-11T14:55:45+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17865
+2026-06-11T14:55:45+0000 INFO Skipped (district Pankow not in allowlist): ID 17867
+2026-06-11T14:55:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17868
+2026-06-11T14:55:46+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Bremer Straße 12, 10551 M
+2026-06-11T14:55:46+0000 INFO Notified: ID 17869 — Bremer Straße 12, 10551 Mitte
+2026-06-11T14:55:46+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 17870
+2026-06-11T14:55:46+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Bergma
+2026-06-11T14:55:46+0000 INFO Notified: ID 17871 — Bergmannstraße 8, 10961 Friedrichshain-Kreuzberg
