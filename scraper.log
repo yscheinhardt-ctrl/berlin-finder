@@ -4794,3 +4794,20 @@
 
 📍 Bergma
 2026-06-11T14:55:46+0000 INFO Notified: ID 17871 — Bergmannstraße 8, 10961 Friedrichshain-Kreuzberg
+2026-06-11T18:13:06+0000 INFO Fetched page: 249 total IDs, 10 rendered details
+2026-06-11T18:13:06+0000 INFO 9 new offer(s) found
+2026-06-11T18:13:06+0000 INFO Skipped (district Spandau not in allowlist): ID 17872
+2026-06-11T18:13:06+0000 INFO Skipped (district Spandau not in allowlist): ID 17873
+2026-06-11T18:13:06+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17874
+2026-06-11T18:13:06+0000 INFO Skipped (district Spandau not in allowlist): ID 17875
+2026-06-11T18:13:06+0000 INFO Skipped (district Spandau not in allowlist): ID 17876
+2026-06-11T18:13:06+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Kraatzweg 
+2026-06-11T18:13:06+0000 INFO Notified: ID 17877 — Kraatzweg 5, 12305 Tempelhof-Schöneberg
+2026-06-11T18:13:07+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Kraatzweg 
+2026-06-11T18:13:07+0000 INFO Notified: ID 17878 — Kraatzweg 5, 12305 Tempelhof-Schöneberg
+2026-06-11T18:13:07+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17879
+2026-06-11T18:13:07+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17880
