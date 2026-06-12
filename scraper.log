@@ -4868,3 +4868,8 @@
 📍 Strü
 2026-06-12T12:28:15+0000 INFO Notified: ID 17908 — Strünckweg 11, 13627 Charlottenburg-Wilmersdorf
 2026-06-12T12:28:15+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17909
+2026-06-12T15:47:57+0000 INFO Fetched page: 245 total IDs, 10 rendered details
+2026-06-12T15:47:57+0000 INFO 3 new offer(s) found
+2026-06-12T15:47:57+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17910
+2026-06-12T15:47:57+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17911
+2026-06-12T15:47:57+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17913
