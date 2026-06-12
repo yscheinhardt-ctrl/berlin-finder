@@ -4849,3 +4849,22 @@
 2026-06-12T09:04:04+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17895
 2026-06-12T09:04:04+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17896
 2026-06-12T09:04:04+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17897
+2026-06-12T12:28:14+0000 INFO Fetched page: 246 total IDs, 10 rendered details
+2026-06-12T12:28:14+0000 INFO 8 new offer(s) found
+2026-06-12T12:28:14+0000 INFO Skipped (district Spandau not in allowlist): ID 17900
+2026-06-12T12:28:14+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17903
+2026-06-12T12:28:14+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17904
+2026-06-12T12:28:14+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Delp
+2026-06-12T12:28:14+0000 INFO Notified: ID 17905 — Delpzeile 3, 13627 Charlottenburg-Wilmersdorf
+2026-06-12T12:28:14+0000 INFO Skipped (district Spandau not in allowlist): ID 17906
+2026-06-12T12:28:15+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Heck
+2026-06-12T12:28:15+0000 INFO Notified: ID 17907 — Heckerdamm 233, 13627 Charlottenburg-Wilmersdorf
+2026-06-12T12:28:15+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Strü
+2026-06-12T12:28:15+0000 INFO Notified: ID 17908 — Strünckweg 11, 13627 Charlottenburg-Wilmersdorf
+2026-06-12T12:28:15+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17909
