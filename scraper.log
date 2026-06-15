@@ -5022,3 +5022,36 @@
 2026-06-15T11:29:34+0000 INFO Skipped (district Pankow not in allowlist): ID 17957
 2026-06-15T11:29:34+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17958
 2026-06-15T11:29:34+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17959
+2026-06-15T16:27:52+0000 INFO Fetched page: 250 total IDs, 10 rendered details
+2026-06-15T16:27:52+0000 INFO 13 new offer(s) found
+2026-06-15T16:27:52+0000 WARNING ID 17962 not in top-10 details (>10 new in one window?)
+2026-06-15T16:27:52+0000 INFO Telegram sent: 🏠 New offer (ID 17962) — details not rendered, see site:
+🔗 h
+2026-06-15T16:27:52+0000 WARNING ID 17963 not in top-10 details (>10 new in one window?)
+2026-06-15T16:27:53+0000 INFO Telegram sent: 🏠 New offer (ID 17963) — details not rendered, see site:
+🔗 h
+2026-06-15T16:27:53+0000 WARNING ID 17964 not in top-10 details (>10 new in one window?)
+2026-06-15T16:27:53+0000 INFO Telegram sent: 🏠 New offer (ID 17964) — details not rendered, see site:
+🔗 h
+2026-06-15T16:27:53+0000 INFO Skipped (district Pankow not in allowlist): ID 17965
+2026-06-15T16:27:53+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 17966
+2026-06-15T16:27:53+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Alt-Britz 107, 12359 N
+2026-06-15T16:27:53+0000 INFO Notified: ID 17967 — Alt-Britz 107, 12359 Neukölln
+2026-06-15T16:27:54+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Potsdamer 
+2026-06-15T16:27:54+0000 INFO Notified: ID 17968 — Potsdamer Straße 175, 10783 Tempelhof-Schöneberg
+2026-06-15T16:27:54+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Alt-Britz 107A, 12359 
+2026-06-15T16:27:54+0000 INFO Notified: ID 17969 — Alt-Britz 107A, 12359 Neukölln
+2026-06-15T16:27:54+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Alt-Britz 107, 12359 N
+2026-06-15T16:27:54+0000 INFO Notified: ID 17970 — Alt-Britz 107, 12359 Neukölln
+2026-06-15T16:27:54+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17971
+2026-06-15T16:27:54+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17974
+2026-06-15T16:27:54+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17975
+2026-06-15T16:27:54+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17976
