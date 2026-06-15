@@ -4947,3 +4947,78 @@
 2026-06-15T00:09:18+0000 INFO 0 new offer(s) found
 2026-06-15T05:26:39+0000 INFO Fetched page: 236 total IDs, 10 rendered details
 2026-06-15T05:26:39+0000 INFO 0 new offer(s) found
+2026-06-15T11:29:26+0000 INFO Fetched page: 253 total IDs, 10 rendered details
+2026-06-15T11:29:26+0000 INFO 28 new offer(s) found
+2026-06-15T11:29:26+0000 WARNING ID 17924 not in top-10 details (>10 new in one window?)
+2026-06-15T11:29:27+0000 INFO Telegram sent: 🏠 New offer (ID 17924) — details not rendered, see site:
+🔗 h
+2026-06-15T11:29:27+0000 WARNING ID 17925 not in top-10 details (>10 new in one window?)
+2026-06-15T11:29:27+0000 INFO Telegram sent: 🏠 New offer (ID 17925) — details not rendered, see site:
+🔗 h
+2026-06-15T11:29:27+0000 WARNING ID 17926 not in top-10 details (>10 new in one window?)
+2026-06-15T11:29:27+0000 INFO Telegram sent: 🏠 New offer (ID 17926) — details not rendered, see site:
+🔗 h
+2026-06-15T11:29:27+0000 WARNING ID 17928 not in top-10 details (>10 new in one window?)
+2026-06-15T11:29:28+0000 INFO Telegram sent: 🏠 New offer (ID 17928) — details not rendered, see site:
+🔗 h
+2026-06-15T11:29:28+0000 WARNING ID 17930 not in top-10 details (>10 new in one window?)
+2026-06-15T11:29:28+0000 INFO Telegram sent: 🏠 New offer (ID 17930) — details not rendered, see site:
+🔗 h
+2026-06-15T11:29:28+0000 WARNING ID 17932 not in top-10 details (>10 new in one window?)
+2026-06-15T11:29:29+0000 INFO Telegram sent: 🏠 New offer (ID 17932) — details not rendered, see site:
+🔗 h
+2026-06-15T11:29:29+0000 WARNING ID 17933 not in top-10 details (>10 new in one window?)
+2026-06-15T11:29:29+0000 INFO Telegram sent: 🏠 New offer (ID 17933) — details not rendered, see site:
+🔗 h
+2026-06-15T11:29:29+0000 WARNING ID 17935 not in top-10 details (>10 new in one window?)
+2026-06-15T11:29:29+0000 INFO Telegram sent: 🏠 New offer (ID 17935) — details not rendered, see site:
+🔗 h
+2026-06-15T11:29:29+0000 WARNING ID 17936 not in top-10 details (>10 new in one window?)
+2026-06-15T11:29:30+0000 INFO Telegram sent: 🏠 New offer (ID 17936) — details not rendered, see site:
+🔗 h
+2026-06-15T11:29:30+0000 WARNING ID 17938 not in top-10 details (>10 new in one window?)
+2026-06-15T11:29:30+0000 INFO Telegram sent: 🏠 New offer (ID 17938) — details not rendered, see site:
+🔗 h
+2026-06-15T11:29:30+0000 WARNING ID 17939 not in top-10 details (>10 new in one window?)
+2026-06-15T11:29:31+0000 INFO Telegram sent: 🏠 New offer (ID 17939) — details not rendered, see site:
+🔗 h
+2026-06-15T11:29:31+0000 WARNING ID 17940 not in top-10 details (>10 new in one window?)
+2026-06-15T11:29:31+0000 INFO Telegram sent: 🏠 New offer (ID 17940) — details not rendered, see site:
+🔗 h
+2026-06-15T11:29:31+0000 WARNING ID 17941 not in top-10 details (>10 new in one window?)
+2026-06-15T11:29:31+0000 INFO Telegram sent: 🏠 New offer (ID 17941) — details not rendered, see site:
+🔗 h
+2026-06-15T11:29:31+0000 WARNING ID 17942 not in top-10 details (>10 new in one window?)
+2026-06-15T11:29:32+0000 INFO Telegram sent: 🏠 New offer (ID 17942) — details not rendered, see site:
+🔗 h
+2026-06-15T11:29:32+0000 WARNING ID 17943 not in top-10 details (>10 new in one window?)
+2026-06-15T11:29:32+0000 INFO Telegram sent: 🏠 New offer (ID 17943) — details not rendered, see site:
+🔗 h
+2026-06-15T11:29:32+0000 WARNING ID 17944 not in top-10 details (>10 new in one window?)
+2026-06-15T11:29:32+0000 INFO Telegram sent: 🏠 New offer (ID 17944) — details not rendered, see site:
+🔗 h
+2026-06-15T11:29:32+0000 WARNING ID 17946 not in top-10 details (>10 new in one window?)
+2026-06-15T11:29:33+0000 INFO Telegram sent: 🏠 New offer (ID 17946) — details not rendered, see site:
+🔗 h
+2026-06-15T11:29:33+0000 WARNING ID 17947 not in top-10 details (>10 new in one window?)
+2026-06-15T11:29:33+0000 INFO Telegram sent: 🏠 New offer (ID 17947) — details not rendered, see site:
+🔗 h
+2026-06-15T11:29:33+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17948
+2026-06-15T11:29:33+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 17949
+2026-06-15T11:29:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17952
+2026-06-15T11:29:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Meraner St
+2026-06-15T11:29:34+0000 INFO Notified: ID 17953 — Meraner Straße 45, 10825 Tempelhof-Schöneberg
+2026-06-15T11:29:34+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17954
+2026-06-15T11:29:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Werner-Voß
+2026-06-15T11:29:34+0000 INFO Notified: ID 17955 — Werner-Voß-Damm 33, 12101 Tempelhof-Schöneberg
+2026-06-15T11:29:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Hoeppnerst
+2026-06-15T11:29:34+0000 INFO Notified: ID 17956 — Hoeppnerstraße 111, 12101 Tempelhof-Schöneberg
+2026-06-15T11:29:34+0000 INFO Skipped (district Pankow not in allowlist): ID 17957
+2026-06-15T11:29:34+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17958
+2026-06-15T11:29:34+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17959
