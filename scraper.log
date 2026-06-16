@@ -5067,3 +5067,57 @@
 2026-06-16T00:10:50+0000 INFO 0 new offer(s) found
 2026-06-16T05:33:18+0000 INFO Fetched page: 243 total IDs, 10 rendered details
 2026-06-16T05:33:18+0000 INFO 0 new offer(s) found
+2026-06-16T10:28:18+0000 INFO Fetched page: 248 total IDs, 10 rendered details
+2026-06-16T10:28:18+0000 INFO 21 new offer(s) found
+2026-06-16T10:28:18+0000 WARNING ID 17984 not in top-10 details (>10 new in one window?)
+2026-06-16T10:28:18+0000 INFO Telegram sent: 🏠 New offer (ID 17984) — details not rendered, see site:
+🔗 h
+2026-06-16T10:28:18+0000 WARNING ID 17985 not in top-10 details (>10 new in one window?)
+2026-06-16T10:28:19+0000 INFO Telegram sent: 🏠 New offer (ID 17985) — details not rendered, see site:
+🔗 h
+2026-06-16T10:28:19+0000 WARNING ID 17986 not in top-10 details (>10 new in one window?)
+2026-06-16T10:28:19+0000 INFO Telegram sent: 🏠 New offer (ID 17986) — details not rendered, see site:
+🔗 h
+2026-06-16T10:28:19+0000 WARNING ID 17987 not in top-10 details (>10 new in one window?)
+2026-06-16T10:28:19+0000 INFO Telegram sent: 🏠 New offer (ID 17987) — details not rendered, see site:
+🔗 h
+2026-06-16T10:28:19+0000 WARNING ID 17989 not in top-10 details (>10 new in one window?)
+2026-06-16T10:28:20+0000 INFO Telegram sent: 🏠 New offer (ID 17989) — details not rendered, see site:
+🔗 h
+2026-06-16T10:28:20+0000 WARNING ID 17990 not in top-10 details (>10 new in one window?)
+2026-06-16T10:28:20+0000 INFO Telegram sent: 🏠 New offer (ID 17990) — details not rendered, see site:
+🔗 h
+2026-06-16T10:28:20+0000 WARNING ID 17992 not in top-10 details (>10 new in one window?)
+2026-06-16T10:28:20+0000 INFO Telegram sent: 🏠 New offer (ID 17992) — details not rendered, see site:
+🔗 h
+2026-06-16T10:28:20+0000 WARNING ID 17993 not in top-10 details (>10 new in one window?)
+2026-06-16T10:28:21+0000 INFO Telegram sent: 🏠 New offer (ID 17993) — details not rendered, see site:
+🔗 h
+2026-06-16T10:28:21+0000 WARNING ID 17994 not in top-10 details (>10 new in one window?)
+2026-06-16T10:28:21+0000 INFO Telegram sent: 🏠 New offer (ID 17994) — details not rendered, see site:
+🔗 h
+2026-06-16T10:28:21+0000 WARNING ID 17996 not in top-10 details (>10 new in one window?)
+2026-06-16T10:28:21+0000 INFO Telegram sent: 🏠 New offer (ID 17996) — details not rendered, see site:
+🔗 h
+2026-06-16T10:28:21+0000 WARNING ID 17997 not in top-10 details (>10 new in one window?)
+2026-06-16T10:28:21+0000 INFO Telegram sent: 🏠 New offer (ID 17997) — details not rendered, see site:
+🔗 h
+2026-06-16T10:28:21+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 17998
+2026-06-16T10:28:21+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 17999
+2026-06-16T10:28:21+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18000
+2026-06-16T10:28:21+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18001
+2026-06-16T10:28:21+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18003
+2026-06-16T10:28:21+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18004
+2026-06-16T10:28:22+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Ohlaue
+2026-06-16T10:28:22+0000 INFO Notified: ID 18005 — Ohlauer Straße 18, 10999 Friedrichshain-Kreuzberg
+2026-06-16T10:28:22+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18006
+2026-06-16T10:28:22+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Ohlaue
+2026-06-16T10:28:22+0000 INFO Notified: ID 18007 — Ohlauer Straße 18, 10999 Friedrichshain-Kreuzberg
+2026-06-16T10:28:22+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Ohlaue
+2026-06-16T10:28:22+0000 INFO Notified: ID 18008 — Ohlauer Straße 18, 10999 Friedrichshain-Kreuzberg
