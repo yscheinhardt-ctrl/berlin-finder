@@ -5133,3 +5133,10 @@
 2026-06-16T15:28:49+0000 INFO Skipped (district Pankow not in allowlist): ID 18018
 2026-06-16T15:28:49+0000 INFO Skipped (district Pankow not in allowlist): ID 18019
 2026-06-16T15:28:49+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18020
+2026-06-16T19:04:08+0000 INFO Fetched page: 243 total IDs, 10 rendered details
+2026-06-16T19:04:08+0000 INFO 2 new offer(s) found
+2026-06-16T19:04:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18021
+2026-06-16T19:04:08+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Lange 
+2026-06-16T19:04:08+0000 INFO Notified: ID 18024 — Lange Straße 82, 10243 Friedrichshain-Kreuzberg
