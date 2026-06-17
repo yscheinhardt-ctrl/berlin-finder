@@ -5198,3 +5198,60 @@
 
 📍 In den Bauerngärten 8,
 2026-06-17T11:26:21+0000 INFO Notified: ID 18042 — In den Bauerngärten 8, 12349 Neukölln
+2026-06-17T14:37:02+0000 INFO Fetched page: 249 total IDs, 10 rendered details
+2026-06-17T14:37:02+0000 INFO 18 new offer(s) found
+2026-06-17T14:37:02+0000 WARNING ID 18043 not in top-10 details (>10 new in one window?)
+2026-06-17T14:37:03+0000 INFO Telegram sent: 🏠 New offer (ID 18043) — details not rendered, see site:
+🔗 h
+2026-06-17T14:37:03+0000 WARNING ID 18044 not in top-10 details (>10 new in one window?)
+2026-06-17T14:37:03+0000 INFO Telegram sent: 🏠 New offer (ID 18044) — details not rendered, see site:
+🔗 h
+2026-06-17T14:37:03+0000 WARNING ID 18045 not in top-10 details (>10 new in one window?)
+2026-06-17T14:37:03+0000 INFO Telegram sent: 🏠 New offer (ID 18045) — details not rendered, see site:
+🔗 h
+2026-06-17T14:37:03+0000 WARNING ID 18046 not in top-10 details (>10 new in one window?)
+2026-06-17T14:37:04+0000 INFO Telegram sent: 🏠 New offer (ID 18046) — details not rendered, see site:
+🔗 h
+2026-06-17T14:37:04+0000 WARNING ID 18047 not in top-10 details (>10 new in one window?)
+2026-06-17T14:37:04+0000 INFO Telegram sent: 🏠 New offer (ID 18047) — details not rendered, see site:
+🔗 h
+2026-06-17T14:37:04+0000 WARNING ID 18048 not in top-10 details (>10 new in one window?)
+2026-06-17T14:37:04+0000 INFO Telegram sent: 🏠 New offer (ID 18048) — details not rendered, see site:
+🔗 h
+2026-06-17T14:37:04+0000 WARNING ID 18049 not in top-10 details (>10 new in one window?)
+2026-06-17T14:37:05+0000 INFO Telegram sent: 🏠 New offer (ID 18049) — details not rendered, see site:
+🔗 h
+2026-06-17T14:37:05+0000 WARNING ID 18050 not in top-10 details (>10 new in one window?)
+2026-06-17T14:37:05+0000 INFO Telegram sent: 🏠 New offer (ID 18050) — details not rendered, see site:
+🔗 h
+2026-06-17T14:37:05+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Soph
+2026-06-17T14:37:05+0000 INFO Notified: ID 18051 — Sophie-Charlotten-Straße 86, 14059 Charlottenburg-Wilmersdorf
+2026-06-17T14:37:06+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Gard
+2026-06-17T14:37:06+0000 INFO Notified: ID 18052 — Gardes-Du-Corps-Straße 8, 14059 Charlottenburg-Wilmersdorf
+2026-06-17T14:37:06+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Gard
+2026-06-17T14:37:06+0000 INFO Notified: ID 18053 — Gardes-Du-Corps-Straße 11, 14059 Charlottenburg-Wilmersdorf
+2026-06-17T14:37:06+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Span
+2026-06-17T14:37:06+0000 INFO Notified: ID 18054 — Spandauer Damm 69, 14059 Charlottenburg-Wilmersdorf
+2026-06-17T14:37:07+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Schl
+2026-06-17T14:37:07+0000 INFO Notified: ID 18056 — Schloßstraße 2A, 14059 Charlottenburg-Wilmersdorf
+2026-06-17T14:37:07+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18057
+2026-06-17T14:37:07+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Schw
+2026-06-17T14:37:07+0000 INFO Notified: ID 18058 — Schwambzeile 1, 13627 Charlottenburg-Wilmersdorf
+2026-06-17T14:37:07+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Schw
+2026-06-17T14:37:07+0000 INFO Notified: ID 18059 — Schwambzeile 7, 13627 Charlottenburg-Wilmersdorf
+2026-06-17T14:37:07+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18060
+2026-06-17T14:37:07+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18061
