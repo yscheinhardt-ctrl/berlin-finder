@@ -5255,3 +5255,22 @@
 2026-06-17T14:37:07+0000 INFO Notified: ID 18059 — Schwambzeile 7, 13627 Charlottenburg-Wilmersdorf
 2026-06-17T14:37:07+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18060
 2026-06-17T14:37:07+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18061
+2026-06-17T17:36:24+0000 INFO Fetched page: 250 total IDs, 10 rendered details
+2026-06-17T17:36:24+0000 INFO 8 new offer(s) found
+2026-06-17T17:36:24+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Gloe
+2026-06-17T17:36:24+0000 INFO Notified: ID 18062 — Gloedenpfad 4, 13627 Charlottenburg-Wilmersdorf
+2026-06-17T17:36:25+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Jupiterstraße 24, 1205
+2026-06-17T17:36:25+0000 INFO Notified: ID 18063 — Jupiterstraße 24, 12057 Neukölln
+2026-06-17T17:36:25+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Sonnenallee 294B, 1205
+2026-06-17T17:36:25+0000 INFO Notified: ID 18064 — Sonnenallee 294B, 12057 Neukölln
+2026-06-17T17:36:25+0000 INFO Skipped (district Spandau not in allowlist): ID 18065
+2026-06-17T17:36:25+0000 INFO Skipped (district Spandau not in allowlist): ID 18066
+2026-06-17T17:36:25+0000 INFO Skipped (district Spandau not in allowlist): ID 18068
+2026-06-17T17:36:25+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18069
+2026-06-17T17:36:25+0000 INFO Skipped (district Pankow not in allowlist): ID 18071
