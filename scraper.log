@@ -5156,3 +5156,45 @@
 
 📍 Holzmindener Straße 55
 2026-06-17T06:51:31+0000 INFO Notified: ID 18026 — Holzmindener Straße 55, 12347 Neukölln
+2026-06-17T11:26:17+0000 INFO Fetched page: 243 total IDs, 10 rendered details
+2026-06-17T11:26:17+0000 INFO 16 new offer(s) found
+2026-06-17T11:26:17+0000 WARNING ID 18027 not in top-10 details (>10 new in one window?)
+2026-06-17T11:26:18+0000 INFO Telegram sent: 🏠 New offer (ID 18027) — details not rendered, see site:
+🔗 h
+2026-06-17T11:26:18+0000 WARNING ID 18028 not in top-10 details (>10 new in one window?)
+2026-06-17T11:26:18+0000 INFO Telegram sent: 🏠 New offer (ID 18028) — details not rendered, see site:
+🔗 h
+2026-06-17T11:26:18+0000 WARNING ID 18029 not in top-10 details (>10 new in one window?)
+2026-06-17T11:26:18+0000 INFO Telegram sent: 🏠 New offer (ID 18029) — details not rendered, see site:
+🔗 h
+2026-06-17T11:26:18+0000 WARNING ID 18030 not in top-10 details (>10 new in one window?)
+2026-06-17T11:26:19+0000 INFO Telegram sent: 🏠 New offer (ID 18030) — details not rendered, see site:
+🔗 h
+2026-06-17T11:26:19+0000 WARNING ID 18031 not in top-10 details (>10 new in one window?)
+2026-06-17T11:26:19+0000 INFO Telegram sent: 🏠 New offer (ID 18031) — details not rendered, see site:
+🔗 h
+2026-06-17T11:26:19+0000 WARNING ID 18032 not in top-10 details (>10 new in one window?)
+2026-06-17T11:26:19+0000 INFO Telegram sent: 🏠 New offer (ID 18032) — details not rendered, see site:
+🔗 h
+2026-06-17T11:26:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Müllerstraße 70C, 13349 M
+2026-06-17T11:26:20+0000 INFO Notified: ID 18033 — Müllerstraße 70C, 13349 Mitte
+2026-06-17T11:26:20+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18034
+2026-06-17T11:26:20+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18035
+2026-06-17T11:26:20+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18036
+2026-06-17T11:26:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Bruno-Taut-Ring 16A, 1
+2026-06-17T11:26:20+0000 INFO Notified: ID 18037 — Bruno-Taut-Ring 16A, 12359 Neukölln
+2026-06-17T11:26:20+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18038
+2026-06-17T11:26:20+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18039
+2026-06-17T11:26:20+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18040
+2026-06-17T11:26:21+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 In den Bauerngärten 8,
+2026-06-17T11:26:21+0000 INFO Notified: ID 18041 — In den Bauerngärten 8, 12349 Neukölln
+2026-06-17T11:26:21+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 In den Bauerngärten 8,
+2026-06-17T11:26:21+0000 INFO Notified: ID 18042 — In den Bauerngärten 8, 12349 Neukölln
