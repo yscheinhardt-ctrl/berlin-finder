@@ -5287,3 +5287,17 @@
 2026-06-18T06:29:01+0000 INFO Fetched page: 242 total IDs, 10 rendered details
 2026-06-18T06:29:01+0000 INFO 1 new offer(s) found
 2026-06-18T06:29:01+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18074
+2026-06-18T10:56:16+0000 INFO Fetched page: 242 total IDs, 10 rendered details
+2026-06-18T10:56:16+0000 INFO 9 new offer(s) found
+2026-06-18T10:56:16+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 18075
+2026-06-18T10:56:16+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18076
+2026-06-18T10:56:17+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Friedrich-Kayßler-Weg 
+2026-06-18T10:56:17+0000 INFO Notified: ID 18077 — Friedrich-Kayßler-Weg 3, 12353 Neukölln
+2026-06-18T10:56:17+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18079
+2026-06-18T10:56:17+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18080
+2026-06-18T10:56:17+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18081
+2026-06-18T10:56:17+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18082
+2026-06-18T10:56:17+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18083
+2026-06-18T10:56:17+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18084
