@@ -5546,3 +5546,7 @@
 2026-06-19T17:01:52+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18201
 2026-06-19T17:01:52+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18202
 2026-06-19T17:01:52+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18203
+2026-06-19T19:04:32+0000 INFO Fetched page: 278 total IDs, 10 rendered details
+2026-06-19T19:04:32+0000 INFO 2 new offer(s) found
+2026-06-19T19:04:32+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18204
+2026-06-19T19:04:32+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18205
