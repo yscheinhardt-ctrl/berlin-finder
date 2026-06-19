@@ -5537,3 +5537,12 @@
 2026-06-19T14:35:38+0000 INFO Notified: ID 18194 — Alt-Britz 107A, 12359 Neukölln
 2026-06-19T14:35:38+0000 INFO Skipped (district Spandau not in allowlist): ID 18195
 2026-06-19T14:35:38+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18196
+2026-06-19T17:01:52+0000 INFO Fetched page: 278 total IDs, 10 rendered details
+2026-06-19T17:01:52+0000 INFO 7 new offer(s) found
+2026-06-19T17:01:52+0000 INFO Skipped (district Pankow not in allowlist): ID 18197
+2026-06-19T17:01:52+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18198
+2026-06-19T17:01:52+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18199
+2026-06-19T17:01:52+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18200
+2026-06-19T17:01:52+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18201
+2026-06-19T17:01:52+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18202
+2026-06-19T17:01:52+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18203
