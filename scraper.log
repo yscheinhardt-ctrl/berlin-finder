@@ -5504,3 +5504,36 @@
 
 📍 Selgenauer Weg 36, 123
 2026-06-19T11:51:22+0000 INFO Notified: ID 18184 — Selgenauer Weg 36, 12355 Neukölln
+2026-06-19T14:35:35+0000 INFO Fetched page: 278 total IDs, 10 rendered details
+2026-06-19T14:35:35+0000 INFO 12 new offer(s) found
+2026-06-19T14:35:35+0000 WARNING ID 18185 not in top-10 details (>10 new in one window?)
+2026-06-19T14:35:35+0000 INFO Telegram sent: 🏠 New offer (ID 18185) — details not rendered, see site:
+🔗 h
+2026-06-19T14:35:35+0000 WARNING ID 18186 not in top-10 details (>10 new in one window?)
+2026-06-19T14:35:36+0000 INFO Telegram sent: 🏠 New offer (ID 18186) — details not rendered, see site:
+🔗 h
+2026-06-19T14:35:36+0000 INFO Skipped (district Pankow not in allowlist): ID 18187
+2026-06-19T14:35:36+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18188
+2026-06-19T14:35:36+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Bremer Straße 11, 10551 M
+2026-06-19T14:35:36+0000 INFO Notified: ID 18189 — Bremer Straße 11, 10551 Mitte
+2026-06-19T14:35:36+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18190
+2026-06-19T14:35:37+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Motz
+2026-06-19T14:35:37+0000 INFO Notified: ID 18191 — Motzstraße 84, 10779 Charlottenburg-Wilmersdorf
+2026-06-19T14:35:37+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Alt-Britz 107A, 12359 
+2026-06-19T14:35:37+0000 INFO Notified: ID 18192 — Alt-Britz 107A, 12359 Neukölln
+2026-06-19T14:35:37+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Alt-Britz 107A, 12359 
+2026-06-19T14:35:37+0000 INFO Notified: ID 18193 — Alt-Britz 107A, 12359 Neukölln
+2026-06-19T14:35:38+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Alt-Britz 107A, 12359 
+2026-06-19T14:35:38+0000 INFO Notified: ID 18194 — Alt-Britz 107A, 12359 Neukölln
+2026-06-19T14:35:38+0000 INFO Skipped (district Spandau not in allowlist): ID 18195
+2026-06-19T14:35:38+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18196
