@@ -5405,3 +5405,27 @@
 2026-06-18T23:25:59+0000 INFO 0 new offer(s) found
 2026-06-19T02:17:18+0000 INFO Fetched page: 267 total IDs, 10 rendered details
 2026-06-19T02:17:18+0000 INFO 0 new offer(s) found
+2026-06-19T07:32:50+0000 INFO Fetched page: 269 total IDs, 10 rendered details
+2026-06-19T07:32:50+0000 INFO 10 new offer(s) found
+2026-06-19T07:32:51+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Joseph-Schmidt-Straße 
+2026-06-19T07:32:51+0000 INFO Notified: ID 18127 — Joseph-Schmidt-Straße 23, 12057 Neukölln
+2026-06-19T07:32:51+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18128
+2026-06-19T07:32:51+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18129
+2026-06-19T07:32:51+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18131
+2026-06-19T07:32:51+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18132
+2026-06-19T07:32:51+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18133
+2026-06-19T07:32:51+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Wutzkyallee 55, 12353 
+2026-06-19T07:32:51+0000 INFO Notified: ID 18134 — Wutzkyallee 55, 12353 Neukölln
+2026-06-19T07:32:51+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Waldsassen
+2026-06-19T07:32:51+0000 INFO Notified: ID 18135 — Waldsassener Straße 52, 12279 Tempelhof-Schöneberg
+2026-06-19T07:32:52+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-06-19T07:32:52+0000 INFO Notified: ID 18136 — Tirschenreuther Ring 18, 12279 Tempelhof-Schöneberg
+2026-06-19T07:32:52+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18137
