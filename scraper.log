@@ -5611,3 +5611,39 @@
 2026-06-22T00:00:07+0000 INFO 0 new offer(s) found
 2026-06-22T05:22:41+0000 INFO Fetched page: 272 total IDs, 10 rendered details
 2026-06-22T05:22:41+0000 INFO 0 new offer(s) found
+2026-06-22T11:11:08+0000 INFO Fetched page: 257 total IDs, 10 rendered details
+2026-06-22T11:11:08+0000 INFO 15 new offer(s) found
+2026-06-22T11:11:08+0000 WARNING ID 18212 not in top-10 details (>10 new in one window?)
+2026-06-22T11:11:08+0000 INFO Telegram sent: 🏠 New offer (ID 18212) — details not rendered, see site:
+🔗 h
+2026-06-22T11:11:08+0000 WARNING ID 18214 not in top-10 details (>10 new in one window?)
+2026-06-22T11:11:09+0000 INFO Telegram sent: 🏠 New offer (ID 18214) — details not rendered, see site:
+🔗 h
+2026-06-22T11:11:09+0000 WARNING ID 18215 not in top-10 details (>10 new in one window?)
+2026-06-22T11:11:09+0000 INFO Telegram sent: 🏠 New offer (ID 18215) — details not rendered, see site:
+🔗 h
+2026-06-22T11:11:09+0000 WARNING ID 18216 not in top-10 details (>10 new in one window?)
+2026-06-22T11:11:10+0000 INFO Telegram sent: 🏠 New offer (ID 18216) — details not rendered, see site:
+🔗 h
+2026-06-22T11:11:10+0000 WARNING ID 18218 not in top-10 details (>10 new in one window?)
+2026-06-22T11:11:10+0000 INFO Telegram sent: 🏠 New offer (ID 18218) — details not rendered, see site:
+🔗 h
+2026-06-22T11:11:10+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18219
+2026-06-22T11:11:11+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Gensweg 10, 12349 Neuk
+2026-06-22T11:11:11+0000 INFO Notified: ID 18220 — Gensweg 10, 12349 Neukölln
+2026-06-22T11:11:11+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Mainze
+2026-06-22T11:11:11+0000 INFO Notified: ID 18221 — Mainzer Straße 25, 10247 Friedrichshain-Kreuzberg
+2026-06-22T11:11:11+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18222
+2026-06-22T11:11:12+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Neuköllner Straße 312,
+2026-06-22T11:11:12+0000 INFO Notified: ID 18223 — Neuköllner Straße 312, 12357 Neukölln
+2026-06-22T11:11:12+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18224
+2026-06-22T11:11:12+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18225
+2026-06-22T11:11:12+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18226
+2026-06-22T11:11:12+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18227
+2026-06-22T11:11:12+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18228
