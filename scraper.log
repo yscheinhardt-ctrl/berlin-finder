@@ -5725,3 +5725,7 @@
 
 📍 Platz 
 2026-06-22T16:00:49+0000 INFO Notified: ID 18255 — Platz der Vereinten Nationen 7, 10249 Friedrichshain-Kreuzberg
+2026-06-22T19:37:50+0000 INFO Fetched page: 254 total IDs, 10 rendered details
+2026-06-22T19:37:50+0000 INFO 2 new offer(s) found
+2026-06-22T19:37:50+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18256
+2026-06-22T19:37:50+0000 INFO Skipped (district Spandau not in allowlist): ID 18257
