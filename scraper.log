@@ -5647,3 +5647,81 @@
 2026-06-22T11:11:12+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18226
 2026-06-22T11:11:12+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18227
 2026-06-22T11:11:12+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18228
+2026-06-22T16:00:42+0000 INFO Fetched page: 266 total IDs, 10 rendered details
+2026-06-22T16:00:42+0000 INFO 26 new offer(s) found
+2026-06-22T16:00:42+0000 WARNING ID 18230 not in top-10 details (>10 new in one window?)
+2026-06-22T16:00:42+0000 INFO Telegram sent: 🏠 New offer (ID 18230) — details not rendered, see site:
+🔗 h
+2026-06-22T16:00:42+0000 WARNING ID 18231 not in top-10 details (>10 new in one window?)
+2026-06-22T16:00:43+0000 INFO Telegram sent: 🏠 New offer (ID 18231) — details not rendered, see site:
+🔗 h
+2026-06-22T16:00:43+0000 WARNING ID 18232 not in top-10 details (>10 new in one window?)
+2026-06-22T16:00:43+0000 INFO Telegram sent: 🏠 New offer (ID 18232) — details not rendered, see site:
+🔗 h
+2026-06-22T16:00:43+0000 WARNING ID 18233 not in top-10 details (>10 new in one window?)
+2026-06-22T16:00:43+0000 INFO Telegram sent: 🏠 New offer (ID 18233) — details not rendered, see site:
+🔗 h
+2026-06-22T16:00:43+0000 WARNING ID 18234 not in top-10 details (>10 new in one window?)
+2026-06-22T16:00:44+0000 INFO Telegram sent: 🏠 New offer (ID 18234) — details not rendered, see site:
+🔗 h
+2026-06-22T16:00:44+0000 WARNING ID 18235 not in top-10 details (>10 new in one window?)
+2026-06-22T16:00:44+0000 INFO Telegram sent: 🏠 New offer (ID 18235) — details not rendered, see site:
+🔗 h
+2026-06-22T16:00:44+0000 WARNING ID 18236 not in top-10 details (>10 new in one window?)
+2026-06-22T16:00:44+0000 INFO Telegram sent: 🏠 New offer (ID 18236) — details not rendered, see site:
+🔗 h
+2026-06-22T16:00:44+0000 WARNING ID 18237 not in top-10 details (>10 new in one window?)
+2026-06-22T16:00:45+0000 INFO Telegram sent: 🏠 New offer (ID 18237) — details not rendered, see site:
+🔗 h
+2026-06-22T16:00:45+0000 WARNING ID 18238 not in top-10 details (>10 new in one window?)
+2026-06-22T16:00:45+0000 INFO Telegram sent: 🏠 New offer (ID 18238) — details not rendered, see site:
+🔗 h
+2026-06-22T16:00:45+0000 WARNING ID 18239 not in top-10 details (>10 new in one window?)
+2026-06-22T16:00:45+0000 INFO Telegram sent: 🏠 New offer (ID 18239) — details not rendered, see site:
+🔗 h
+2026-06-22T16:00:45+0000 WARNING ID 18240 not in top-10 details (>10 new in one window?)
+2026-06-22T16:00:46+0000 INFO Telegram sent: 🏠 New offer (ID 18240) — details not rendered, see site:
+🔗 h
+2026-06-22T16:00:46+0000 WARNING ID 18241 not in top-10 details (>10 new in one window?)
+2026-06-22T16:00:46+0000 INFO Telegram sent: 🏠 New offer (ID 18241) — details not rendered, see site:
+🔗 h
+2026-06-22T16:00:46+0000 WARNING ID 18242 not in top-10 details (>10 new in one window?)
+2026-06-22T16:00:46+0000 INFO Telegram sent: 🏠 New offer (ID 18242) — details not rendered, see site:
+🔗 h
+2026-06-22T16:00:46+0000 WARNING ID 18243 not in top-10 details (>10 new in one window?)
+2026-06-22T16:00:47+0000 INFO Telegram sent: 🏠 New offer (ID 18243) — details not rendered, see site:
+🔗 h
+2026-06-22T16:00:47+0000 WARNING ID 18244 not in top-10 details (>10 new in one window?)
+2026-06-22T16:00:47+0000 INFO Telegram sent: 🏠 New offer (ID 18244) — details not rendered, see site:
+🔗 h
+2026-06-22T16:00:47+0000 WARNING ID 18245 not in top-10 details (>10 new in one window?)
+2026-06-22T16:00:47+0000 INFO Telegram sent: 🏠 New offer (ID 18245) — details not rendered, see site:
+🔗 h
+2026-06-22T16:00:47+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18246
+2026-06-22T16:00:48+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Otto
+2026-06-22T16:00:48+0000 INFO Notified: ID 18247 — Otto-Suhr-Allee 91, 10585 Charlottenburg-Wilmersdorf
+2026-06-22T16:00:48+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Krum
+2026-06-22T16:00:48+0000 INFO Notified: ID 18248 — Krumme Straße 90, 10585 Charlottenburg-Wilmersdorf
+2026-06-22T16:00:48+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 18249
+2026-06-22T16:00:48+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18250
+2026-06-22T16:00:48+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Kant
+2026-06-22T16:00:48+0000 INFO Notified: ID 18251 — Kantstraße 16, 10623 Charlottenburg-Wilmersdorf
+2026-06-22T16:00:48+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18252
+2026-06-22T16:00:49+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 George
+2026-06-22T16:00:49+0000 INFO Notified: ID 18253 — Georgenkirchstraße 10, 10249 Friedrichshain-Kreuzberg
+2026-06-22T16:00:49+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Weinst
+2026-06-22T16:00:49+0000 INFO Notified: ID 18254 — Weinstraße 11, 10249 Friedrichshain-Kreuzberg
+2026-06-22T16:00:49+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Platz 
+2026-06-22T16:00:49+0000 INFO Notified: ID 18255 — Platz der Vereinten Nationen 7, 10249 Friedrichshain-Kreuzberg
