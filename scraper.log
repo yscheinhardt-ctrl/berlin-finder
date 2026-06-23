@@ -5749,3 +5749,30 @@
 
 📍 Angermünde
 2026-06-23T08:07:09+0000 INFO Notified: ID 18264 — Angermünder Straße 1E, 12305 Tempelhof-Schöneberg
+2026-06-23T11:28:59+0000 INFO Fetched page: 255 total IDs, 10 rendered details
+2026-06-23T11:28:59+0000 INFO 14 new offer(s) found
+2026-06-23T11:28:59+0000 WARNING ID 18265 not in top-10 details (>10 new in one window?)
+2026-06-23T11:29:00+0000 INFO Telegram sent: 🏠 New offer (ID 18265) — details not rendered, see site:
+🔗 h
+2026-06-23T11:29:00+0000 WARNING ID 18266 not in top-10 details (>10 new in one window?)
+2026-06-23T11:29:00+0000 INFO Telegram sent: 🏠 New offer (ID 18266) — details not rendered, see site:
+🔗 h
+2026-06-23T11:29:00+0000 WARNING ID 18267 not in top-10 details (>10 new in one window?)
+2026-06-23T11:29:01+0000 INFO Telegram sent: 🏠 New offer (ID 18267) — details not rendered, see site:
+🔗 h
+2026-06-23T11:29:01+0000 WARNING ID 18269 not in top-10 details (>10 new in one window?)
+2026-06-23T11:29:01+0000 INFO Telegram sent: 🏠 New offer (ID 18269) — details not rendered, see site:
+🔗 h
+2026-06-23T11:29:01+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18270
+2026-06-23T11:29:01+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18271
+2026-06-23T11:29:01+0000 INFO Skipped (district Spandau not in allowlist): ID 18272
+2026-06-23T11:29:01+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18273
+2026-06-23T11:29:02+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-06-23T11:29:02+0000 INFO Notified: ID 18274 — Tirschenreuther Ring 34, 12279 Tempelhof-Schöneberg
+2026-06-23T11:29:02+0000 INFO Skipped (district Spandau not in allowlist): ID 18275
+2026-06-23T11:29:02+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18276
+2026-06-23T11:29:02+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18277
+2026-06-23T11:29:02+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18278
+2026-06-23T11:29:02+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18279
