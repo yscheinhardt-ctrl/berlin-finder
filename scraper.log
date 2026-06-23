@@ -5737,3 +5737,15 @@
 2026-06-23T00:19:07+0000 INFO 0 new offer(s) found
 2026-06-23T04:34:44+0000 INFO Fetched page: 253 total IDs, 10 rendered details
 2026-06-23T04:34:44+0000 INFO 0 new offer(s) found
+2026-06-23T08:07:08+0000 INFO Fetched page: 249 total IDs, 10 rendered details
+2026-06-23T08:07:08+0000 INFO 7 new offer(s) found
+2026-06-23T08:07:08+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18258
+2026-06-23T08:07:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18259
+2026-06-23T08:07:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18260
+2026-06-23T08:07:08+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18261
+2026-06-23T08:07:08+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18262
+2026-06-23T08:07:08+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18263
+2026-06-23T08:07:09+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Angermünde
+2026-06-23T08:07:09+0000 INFO Notified: ID 18264 — Angermünder Straße 1E, 12305 Tempelhof-Schöneberg
