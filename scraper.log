@@ -5794,3 +5794,11 @@
 2026-06-23T14:00:42+0000 INFO Skipped (district Pankow not in allowlist): ID 18289
 2026-06-23T14:00:42+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18290
 2026-06-23T14:00:42+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18291
+2026-06-23T16:32:16+0000 INFO Fetched page: 259 total IDs, 10 rendered details
+2026-06-23T16:32:16+0000 INFO 3 new offer(s) found
+2026-06-23T16:32:17+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 An den Weiden 9, 12349
+2026-06-23T16:32:17+0000 INFO Notified: ID 18292 — An den Weiden 9, 12349 Neukölln
+2026-06-23T16:32:17+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18293
+2026-06-23T16:32:17+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18294
