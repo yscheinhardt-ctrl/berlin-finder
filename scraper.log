@@ -5973,3 +5973,7 @@
 
 📍 Auguststraße 38, 10119 Mi
 2026-06-24T15:54:21+0000 INFO Notified: ID 18370 — Auguststraße 38, 10119 Mitte
+2026-06-24T17:50:23+0000 INFO Fetched page: 279 total IDs, 10 rendered details
+2026-06-24T17:50:23+0000 INFO 2 new offer(s) found
+2026-06-24T17:50:23+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18371
+2026-06-24T17:50:23+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18373
