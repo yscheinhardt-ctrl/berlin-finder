@@ -5815,3 +5815,27 @@
 2026-06-24T00:13:36+0000 INFO 0 new offer(s) found
 2026-06-24T04:38:31+0000 INFO Fetched page: 256 total IDs, 10 rendered details
 2026-06-24T04:38:31+0000 INFO 0 new offer(s) found
+2026-06-24T08:02:53+0000 INFO Fetched page: 264 total IDs, 10 rendered details
+2026-06-24T08:02:53+0000 INFO 13 new offer(s) found
+2026-06-24T08:02:53+0000 WARNING ID 18297 not in top-10 details (>10 new in one window?)
+2026-06-24T08:02:54+0000 INFO Telegram sent: 🏠 New offer (ID 18297) — details not rendered, see site:
+🔗 h
+2026-06-24T08:02:54+0000 WARNING ID 18298 not in top-10 details (>10 new in one window?)
+2026-06-24T08:02:54+0000 INFO Telegram sent: 🏠 New offer (ID 18298) — details not rendered, see site:
+🔗 h
+2026-06-24T08:02:54+0000 WARNING ID 18299 not in top-10 details (>10 new in one window?)
+2026-06-24T08:02:55+0000 INFO Telegram sent: 🏠 New offer (ID 18299) — details not rendered, see site:
+🔗 h
+2026-06-24T08:02:55+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18300
+2026-06-24T08:02:55+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Swinemünder Straße 95, 13
+2026-06-24T08:02:55+0000 INFO Notified: ID 18301 — Swinemünder Straße 95, 13355 Mitte
+2026-06-24T08:02:55+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18302
+2026-06-24T08:02:55+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18303
+2026-06-24T08:02:55+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18304
+2026-06-24T08:02:55+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18305
+2026-06-24T08:02:55+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18306
+2026-06-24T08:02:55+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18307
+2026-06-24T08:02:55+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18308
+2026-06-24T08:02:55+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18309
