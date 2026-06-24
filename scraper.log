@@ -5953,3 +5953,23 @@
 2026-06-24T13:29:29+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18358
 2026-06-24T13:29:29+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18359
 2026-06-24T13:29:29+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18360
+2026-06-24T15:54:20+0000 INFO Fetched page: 286 total IDs, 10 rendered details
+2026-06-24T15:54:20+0000 INFO 9 new offer(s) found
+2026-06-24T15:54:20+0000 INFO Skipped (district Spandau not in allowlist): ID 18361
+2026-06-24T15:54:20+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18362
+2026-06-24T15:54:20+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18363
+2026-06-24T15:54:20+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18364
+2026-06-24T15:54:20+0000 INFO Skipped (district Pankow not in allowlist): ID 18366
+2026-06-24T15:54:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18367
+2026-06-24T15:54:21+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Platz 
+2026-06-24T15:54:21+0000 INFO Notified: ID 18368 — Platz der Vereinten Nationen 1, 10249 Friedrichshain-Kreuzberg
+2026-06-24T15:54:21+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Friede
+2026-06-24T15:54:21+0000 INFO Notified: ID 18369 — Friedenstraße 66, 10249 Friedrichshain-Kreuzberg
+2026-06-24T15:54:21+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Auguststraße 38, 10119 Mi
+2026-06-24T15:54:21+0000 INFO Notified: ID 18370 — Auguststraße 38, 10119 Mitte
