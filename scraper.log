@@ -6000,3 +6000,19 @@
 2026-06-25T09:33:52+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18381
 2026-06-25T09:33:52+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18382
 2026-06-25T09:33:52+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18383
+2026-06-25T12:03:34+0000 INFO Fetched page: 264 total IDs, 10 rendered details
+2026-06-25T12:03:34+0000 INFO 8 new offer(s) found
+2026-06-25T12:03:34+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18384
+2026-06-25T12:03:34+0000 INFO Skipped (district Pankow not in allowlist): ID 18385
+2026-06-25T12:03:34+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18386
+2026-06-25T12:03:34+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18387
+2026-06-25T12:03:34+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18388
+2026-06-25T12:03:34+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18389
+2026-06-25T12:03:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Agnes-Straub-Weg 20, 1
+2026-06-25T12:03:34+0000 INFO Notified: ID 18390 — Agnes-Straub-Weg 20, 12353 Neukölln
+2026-06-25T12:03:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Zwickauer Damm 12, 123
+2026-06-25T12:03:34+0000 INFO Notified: ID 18391 — Zwickauer Damm 12, 12353 Neukölln
