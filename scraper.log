@@ -6034,3 +6034,20 @@
 
 📍 Mühlendamm 1, 10179 Mitte
 2026-06-25T14:50:33+0000 INFO Notified: ID 18398 — Mühlendamm 1, 10179 Mitte
+2026-06-25T17:00:13+0000 INFO Fetched page: 266 total IDs, 10 rendered details
+2026-06-25T17:00:13+0000 INFO 6 new offer(s) found
+2026-06-25T17:00:14+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Berolinastraße 11, 10178 
+2026-06-25T17:00:14+0000 INFO Notified: ID 18399 — Berolinastraße 11, 10178 Mitte
+2026-06-25T17:00:14+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Neue Blumenstraße 14, 101
+2026-06-25T17:00:14+0000 INFO Notified: ID 18400 — Neue Blumenstraße 14, 10179 Mitte
+2026-06-25T17:00:15+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Höchst
+2026-06-25T17:00:15+0000 INFO Notified: ID 18401 — Höchste Straße 6, 10249 Friedrichshain-Kreuzberg
+2026-06-25T17:00:15+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18402
+2026-06-25T17:00:15+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18403
+2026-06-25T17:00:15+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18404
