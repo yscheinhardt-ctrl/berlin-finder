@@ -6016,3 +6016,21 @@
 
 📍 Zwickauer Damm 12, 123
 2026-06-25T12:03:34+0000 INFO Notified: ID 18391 — Zwickauer Damm 12, 12353 Neukölln
+2026-06-25T14:50:32+0000 INFO Fetched page: 261 total IDs, 10 rendered details
+2026-06-25T14:50:32+0000 INFO 7 new offer(s) found
+2026-06-25T14:50:33+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Selgenauer Weg 30, 123
+2026-06-25T14:50:33+0000 INFO Notified: ID 18392 — Selgenauer Weg 30, 12355 Neukölln
+2026-06-25T14:50:33+0000 INFO Skipped (district Spandau not in allowlist): ID 18393
+2026-06-25T14:50:33+0000 INFO Skipped (district Spandau not in allowlist): ID 18394
+2026-06-25T14:50:33+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Mühlendamm 1, 10179 Mitte
+2026-06-25T14:50:33+0000 INFO Notified: ID 18395 — Mühlendamm 1, 10179 Mitte
+2026-06-25T14:50:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18396
+2026-06-25T14:50:33+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 18397
+2026-06-25T14:50:33+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Mühlendamm 1, 10179 Mitte
+2026-06-25T14:50:33+0000 INFO Notified: ID 18398 — Mühlendamm 1, 10179 Mitte
