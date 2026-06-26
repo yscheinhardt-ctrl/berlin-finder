@@ -6120,3 +6120,21 @@
 2026-06-26T17:19:51+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18436
 2026-06-26T19:12:00+0000 INFO Fetched page: 257 total IDs, 10 rendered details
 2026-06-26T19:12:00+0000 INFO 0 new offer(s) found
+2026-06-26T20:55:30+0000 INFO Fetched page: 259 total IDs, 10 rendered details
+2026-06-26T20:55:30+0000 INFO 4 new offer(s) found
+2026-06-26T20:55:30+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Monbijoustraße 4A, 10117 
+2026-06-26T20:55:30+0000 INFO Notified: ID 18437 — Monbijoustraße 4A, 10117 Mitte
+2026-06-26T20:55:30+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Koppen
+2026-06-26T20:55:30+0000 INFO Notified: ID 18438 — Koppenstraße 62, 10243 Friedrichshain-Kreuzberg
+2026-06-26T20:55:31+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Linienstraße 81, 10119 Mi
+2026-06-26T20:55:31+0000 INFO Notified: ID 18439 — Linienstraße 81, 10119 Mitte
+2026-06-26T20:55:31+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Almstadtstraße 55, 10119 
+2026-06-26T20:55:31+0000 INFO Notified: ID 18440 — Almstadtstraße 55, 10119 Mitte
