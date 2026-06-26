@@ -6097,3 +6097,15 @@
 2026-06-26T11:12:43+0000 INFO Skipped (district Pankow not in allowlist): ID 18421
 2026-06-26T11:12:43+0000 INFO Skipped (district Pankow not in allowlist): ID 18422
 2026-06-26T11:12:43+0000 INFO Skipped (district Pankow not in allowlist): ID 18423
+2026-06-26T13:21:40+0000 INFO Fetched page: 257 total IDs, 10 rendered details
+2026-06-26T13:21:40+0000 INFO 7 new offer(s) found
+2026-06-26T13:21:40+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18424
+2026-06-26T13:21:40+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18425
+2026-06-26T13:21:40+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18427
+2026-06-26T13:21:40+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18428
+2026-06-26T13:21:40+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18429
+2026-06-26T13:21:41+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Biesentaler Straße 23, 13
+2026-06-26T13:21:41+0000 INFO Notified: ID 18430 — Biesentaler Straße 23, 13359 Mitte
+2026-06-26T13:21:41+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18431
