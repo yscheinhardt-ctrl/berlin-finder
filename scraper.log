@@ -6063,3 +6063,19 @@
 2026-06-25T23:58:28+0000 INFO 0 new offer(s) found
 2026-06-26T04:21:48+0000 INFO Fetched page: 260 total IDs, 10 rendered details
 2026-06-26T04:21:48+0000 INFO 0 new offer(s) found
+2026-06-26T08:05:51+0000 INFO Fetched page: 261 total IDs, 10 rendered details
+2026-06-26T08:05:51+0000 INFO 5 new offer(s) found
+2026-06-26T08:05:51+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18407
+2026-06-26T08:05:51+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18408
+2026-06-26T08:05:52+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Karl-M
+2026-06-26T08:05:52+0000 INFO Notified: ID 18409 — Karl-Marx-Allee 82, 10243 Friedrichshain-Kreuzberg
+2026-06-26T08:05:52+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Demminer Straße 6, 13355 
+2026-06-26T08:05:52+0000 INFO Notified: ID 18410 — Demminer Straße 6, 13355 Mitte
+2026-06-26T08:05:52+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Bienwaldring 29, 12349
+2026-06-26T08:05:52+0000 INFO Notified: ID 18411 — Bienwaldring 29, 12349 Neukölln
