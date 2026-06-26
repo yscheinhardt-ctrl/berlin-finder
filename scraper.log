@@ -6079,3 +6079,21 @@
 
 📍 Bienwaldring 29, 12349
 2026-06-26T08:05:52+0000 INFO Notified: ID 18411 — Bienwaldring 29, 12349 Neukölln
+2026-06-26T11:12:42+0000 INFO Fetched page: 262 total IDs, 10 rendered details
+2026-06-26T11:12:42+0000 INFO 12 new offer(s) found
+2026-06-26T11:12:42+0000 WARNING ID 18412 not in top-10 details (>10 new in one window?)
+2026-06-26T11:12:42+0000 INFO Telegram sent: 🏠 New offer (ID 18412) — details not rendered, see site:
+🔗 h
+2026-06-26T11:12:42+0000 WARNING ID 18413 not in top-10 details (>10 new in one window?)
+2026-06-26T11:12:43+0000 INFO Telegram sent: 🏠 New offer (ID 18413) — details not rendered, see site:
+🔗 h
+2026-06-26T11:12:43+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18414
+2026-06-26T11:12:43+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18415
+2026-06-26T11:12:43+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18416
+2026-06-26T11:12:43+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18417
+2026-06-26T11:12:43+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18418
+2026-06-26T11:12:43+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18419
+2026-06-26T11:12:43+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18420
+2026-06-26T11:12:43+0000 INFO Skipped (district Pankow not in allowlist): ID 18421
+2026-06-26T11:12:43+0000 INFO Skipped (district Pankow not in allowlist): ID 18422
+2026-06-26T11:12:43+0000 INFO Skipped (district Pankow not in allowlist): ID 18423
