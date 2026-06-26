@@ -6111,3 +6111,10 @@
 2026-06-26T13:21:41+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18431
 2026-06-26T15:35:07+0000 INFO Fetched page: 254 total IDs, 10 rendered details
 2026-06-26T15:35:07+0000 INFO 0 new offer(s) found
+2026-06-26T17:19:51+0000 INFO Fetched page: 259 total IDs, 10 rendered details
+2026-06-26T17:19:51+0000 INFO 5 new offer(s) found
+2026-06-26T17:19:51+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18432
+2026-06-26T17:19:51+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18433
+2026-06-26T17:19:51+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18434
+2026-06-26T17:19:51+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18435
+2026-06-26T17:19:51+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18436
