@@ -6200,3 +6200,11 @@
 2026-06-28T23:52:48+0000 INFO 0 new offer(s) found
 2026-06-29T02:43:36+0000 INFO Fetched page: 251 total IDs, 10 rendered details
 2026-06-29T02:43:36+0000 INFO 0 new offer(s) found
+2026-06-29T07:15:43+0000 INFO Fetched page: 247 total IDs, 10 rendered details
+2026-06-29T07:15:43+0000 INFO 3 new offer(s) found
+2026-06-29T07:15:43+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18441
+2026-06-29T07:15:43+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18442
+2026-06-29T07:15:44+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Beusselstraße 60, 10553 M
+2026-06-29T07:15:44+0000 INFO Notified: ID 18443 — Beusselstraße 60, 10553 Mitte
