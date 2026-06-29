@@ -6268,3 +6268,54 @@
 2026-06-29T12:12:07+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18469
 2026-06-29T12:12:07+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18470
 2026-06-29T12:12:07+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18471
+2026-06-29T16:11:07+0000 INFO Fetched page: 257 total IDs, 10 rendered details
+2026-06-29T16:11:07+0000 INFO 17 new offer(s) found
+2026-06-29T16:11:07+0000 WARNING ID 18474 not in top-10 details (>10 new in one window?)
+2026-06-29T16:11:08+0000 INFO Telegram sent: 🏠 New offer (ID 18474) — details not rendered, see site:
+🔗 h
+2026-06-29T16:11:08+0000 WARNING ID 18475 not in top-10 details (>10 new in one window?)
+2026-06-29T16:11:08+0000 INFO Telegram sent: 🏠 New offer (ID 18475) — details not rendered, see site:
+🔗 h
+2026-06-29T16:11:08+0000 WARNING ID 18476 not in top-10 details (>10 new in one window?)
+2026-06-29T16:11:09+0000 INFO Telegram sent: 🏠 New offer (ID 18476) — details not rendered, see site:
+🔗 h
+2026-06-29T16:11:09+0000 WARNING ID 18477 not in top-10 details (>10 new in one window?)
+2026-06-29T16:11:09+0000 INFO Telegram sent: 🏠 New offer (ID 18477) — details not rendered, see site:
+🔗 h
+2026-06-29T16:11:09+0000 WARNING ID 18478 not in top-10 details (>10 new in one window?)
+2026-06-29T16:11:10+0000 INFO Telegram sent: 🏠 New offer (ID 18478) — details not rendered, see site:
+🔗 h
+2026-06-29T16:11:10+0000 WARNING ID 18479 not in top-10 details (>10 new in one window?)
+2026-06-29T16:11:10+0000 INFO Telegram sent: 🏠 New offer (ID 18479) — details not rendered, see site:
+🔗 h
+2026-06-29T16:11:10+0000 WARNING ID 18480 not in top-10 details (>10 new in one window?)
+2026-06-29T16:11:10+0000 INFO Telegram sent: 🏠 New offer (ID 18480) — details not rendered, see site:
+🔗 h
+2026-06-29T16:11:11+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Waldsassen
+2026-06-29T16:11:11+0000 INFO Notified: ID 18481 — Waldsassener Straße 49, 12279 Tempelhof-Schöneberg
+2026-06-29T16:11:11+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-06-29T16:11:11+0000 INFO Notified: ID 18482 — Tirschenreuther Ring 5, 12279 Tempelhof-Schöneberg
+2026-06-29T16:11:12+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Waldsassen
+2026-06-29T16:11:12+0000 INFO Notified: ID 18483 — Waldsassener Straße 51A, 12279 Tempelhof-Schöneberg
+2026-06-29T16:11:12+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18484
+2026-06-29T16:11:12+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18485
+2026-06-29T16:11:12+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18487
+2026-06-29T16:11:12+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18488
+2026-06-29T16:11:12+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Mehrin
+2026-06-29T16:11:12+0000 INFO Notified: ID 18489 — Mehringplatz 12, 10969 Friedrichshain-Kreuzberg
+2026-06-29T16:11:13+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Winterfeld
+2026-06-29T16:11:13+0000 INFO Notified: ID 18491 — Winterfeldtstraße 70, 10781 Tempelhof-Schöneberg
+2026-06-29T16:11:13+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Mollst
+2026-06-29T16:11:13+0000 INFO Notified: ID 18492 — Mollstraße 29, 10249 Friedrichshain-Kreuzberg
