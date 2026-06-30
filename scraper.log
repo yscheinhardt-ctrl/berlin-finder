@@ -6435,3 +6435,15 @@
 2026-06-30T16:52:53+0000 INFO Skipped (district Spandau not in allowlist): ID 18542
 2026-06-30T16:52:53+0000 INFO Skipped (district Spandau not in allowlist): ID 18543
 2026-06-30T16:52:53+0000 INFO Skipped (district Spandau not in allowlist): ID 18544
+2026-06-30T18:29:43+0000 INFO Fetched page: 254 total IDs, 10 rendered details
+2026-06-30T18:29:43+0000 INFO 4 new offer(s) found
+2026-06-30T18:29:43+0000 INFO Skipped (district Spandau not in allowlist): ID 18545
+2026-06-30T18:29:44+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Platz 
+2026-06-30T18:29:44+0000 INFO Notified: ID 18546 — Platz der Vereinten Nationen 2, 10249 Friedrichshain-Kreuzberg
+2026-06-30T18:29:44+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Platz 
+2026-06-30T18:29:44+0000 INFO Notified: ID 18547 — Platz der Vereinten Nationen 18, 10249 Friedrichshain-Kreuzberg
+2026-06-30T18:29:44+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18548
