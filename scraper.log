@@ -6364,3 +6364,10 @@
 2026-06-30T09:50:51+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18509
 2026-06-30T09:50:51+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18510
 2026-06-30T09:50:51+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18511
+2026-06-30T12:03:00+0000 INFO Fetched page: 257 total IDs, 10 rendered details
+2026-06-30T12:03:00+0000 INFO 5 new offer(s) found
+2026-06-30T12:03:00+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18512
+2026-06-30T12:03:00+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18513
+2026-06-30T12:03:00+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18514
+2026-06-30T12:03:00+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18515
+2026-06-30T12:03:00+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18516
