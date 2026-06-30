@@ -6447,3 +6447,5 @@
 📍 Platz 
 2026-06-30T18:29:44+0000 INFO Notified: ID 18547 — Platz der Vereinten Nationen 18, 10249 Friedrichshain-Kreuzberg
 2026-06-30T18:29:44+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18548
+2026-06-30T20:31:18+0000 INFO Fetched page: 251 total IDs, 10 rendered details
+2026-06-30T20:31:18+0000 INFO 0 new offer(s) found
