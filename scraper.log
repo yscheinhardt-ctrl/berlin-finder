@@ -6390,3 +6390,48 @@
 📍 Waldsassen
 2026-06-30T14:39:09+0000 INFO Notified: ID 18524 — Waldsassener Straße 20, 12279 Tempelhof-Schöneberg
 2026-06-30T14:39:09+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18525
+2026-06-30T16:52:47+0000 INFO Fetched page: 256 total IDs, 10 rendered details
+2026-06-30T16:52:47+0000 INFO 18 new offer(s) found
+2026-06-30T16:52:47+0000 WARNING ID 18527 not in top-10 details (>10 new in one window?)
+2026-06-30T16:52:48+0000 INFO Telegram sent: 🏠 New offer (ID 18527) — details not rendered, see site:
+🔗 h
+2026-06-30T16:52:48+0000 WARNING ID 18528 not in top-10 details (>10 new in one window?)
+2026-06-30T16:52:48+0000 INFO Telegram sent: 🏠 New offer (ID 18528) — details not rendered, see site:
+🔗 h
+2026-06-30T16:52:48+0000 WARNING ID 18529 not in top-10 details (>10 new in one window?)
+2026-06-30T16:52:49+0000 INFO Telegram sent: 🏠 New offer (ID 18529) — details not rendered, see site:
+🔗 h
+2026-06-30T16:52:49+0000 WARNING ID 18530 not in top-10 details (>10 new in one window?)
+2026-06-30T16:52:49+0000 INFO Telegram sent: 🏠 New offer (ID 18530) — details not rendered, see site:
+🔗 h
+2026-06-30T16:52:49+0000 WARNING ID 18531 not in top-10 details (>10 new in one window?)
+2026-06-30T16:52:50+0000 INFO Telegram sent: 🏠 New offer (ID 18531) — details not rendered, see site:
+🔗 h
+2026-06-30T16:52:50+0000 WARNING ID 18532 not in top-10 details (>10 new in one window?)
+2026-06-30T16:52:50+0000 INFO Telegram sent: 🏠 New offer (ID 18532) — details not rendered, see site:
+🔗 h
+2026-06-30T16:52:50+0000 WARNING ID 18533 not in top-10 details (>10 new in one window?)
+2026-06-30T16:52:51+0000 INFO Telegram sent: 🏠 New offer (ID 18533) — details not rendered, see site:
+🔗 h
+2026-06-30T16:52:51+0000 WARNING ID 18534 not in top-10 details (>10 new in one window?)
+2026-06-30T16:52:52+0000 INFO Telegram sent: 🏠 New offer (ID 18534) — details not rendered, see site:
+🔗 h
+2026-06-30T16:52:52+0000 INFO Skipped (district Spandau not in allowlist): ID 18535
+2026-06-30T16:52:52+0000 INFO Skipped (district Spandau not in allowlist): ID 18536
+2026-06-30T16:52:52+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Fidici
+2026-06-30T16:52:52+0000 INFO Notified: ID 18537 — Fidicinstraße 41, 10965 Friedrichshain-Kreuzberg
+2026-06-30T16:52:53+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Wilhel
+2026-06-30T16:52:53+0000 INFO Notified: ID 18538 — Wilhelm-Stolze-Straße 14, 10249 Friedrichshain-Kreuzberg
+2026-06-30T16:52:53+0000 INFO Skipped (district Spandau not in allowlist): ID 18539
+2026-06-30T16:52:53+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Schl
+2026-06-30T16:52:53+0000 INFO Notified: ID 18540 — Schlangenbader Straße 27, 14197 Charlottenburg-Wilmersdorf
+2026-06-30T16:52:53+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18541
+2026-06-30T16:52:53+0000 INFO Skipped (district Spandau not in allowlist): ID 18542
+2026-06-30T16:52:53+0000 INFO Skipped (district Spandau not in allowlist): ID 18543
+2026-06-30T16:52:53+0000 INFO Skipped (district Spandau not in allowlist): ID 18544
