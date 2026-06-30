@@ -6337,3 +6337,30 @@
 2026-06-30T01:50:37+0000 INFO 0 new offer(s) found
 2026-06-30T05:57:45+0000 INFO Fetched page: 253 total IDs, 10 rendered details
 2026-06-30T05:57:45+0000 INFO 0 new offer(s) found
+2026-06-30T09:50:48+0000 INFO Fetched page: 254 total IDs, 10 rendered details
+2026-06-30T09:50:48+0000 INFO 12 new offer(s) found
+2026-06-30T09:50:48+0000 WARNING ID 18498 not in top-10 details (>10 new in one window?)
+2026-06-30T09:50:49+0000 INFO Telegram sent: 🏠 New offer (ID 18498) — details not rendered, see site:
+🔗 h
+2026-06-30T09:50:49+0000 WARNING ID 18499 not in top-10 details (>10 new in one window?)
+2026-06-30T09:50:49+0000 INFO Telegram sent: 🏠 New offer (ID 18499) — details not rendered, see site:
+🔗 h
+2026-06-30T09:50:50+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Beyrodtstr
+2026-06-30T09:50:50+0000 INFO Notified: ID 18502 — Beyrodtstraße 50A, 12277 Tempelhof-Schöneberg
+2026-06-30T09:50:50+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18503
+2026-06-30T09:50:50+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18504
+2026-06-30T09:50:50+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18505
+2026-06-30T09:50:50+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Mehrin
+2026-06-30T09:50:50+0000 INFO Notified: ID 18506 — Mehringplatz 9, 10969 Friedrichshain-Kreuzberg
+2026-06-30T09:50:51+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Putbusser Straße 29, 1335
+2026-06-30T09:50:51+0000 INFO Notified: ID 18507 — Putbusser Straße 29, 13355 Mitte
+2026-06-30T09:50:51+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18508
+2026-06-30T09:50:51+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18509
+2026-06-30T09:50:51+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18510
+2026-06-30T09:50:51+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18511
