@@ -6371,3 +6371,22 @@
 2026-06-30T12:03:00+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18514
 2026-06-30T12:03:00+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18515
 2026-06-30T12:03:00+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18516
+2026-06-30T14:39:08+0000 INFO Fetched page: 242 total IDs, 10 rendered details
+2026-06-30T14:39:08+0000 INFO 8 new offer(s) found
+2026-06-30T14:39:08+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18517
+2026-06-30T14:39:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18518
+2026-06-30T14:39:08+0000 INFO Skipped (district Spandau not in allowlist): ID 18519
+2026-06-30T14:39:08+0000 INFO Skipped (district Spandau not in allowlist): ID 18520
+2026-06-30T14:39:08+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Waldsassen
+2026-06-30T14:39:08+0000 INFO Notified: ID 18522 — Waldsassener Straße 16C, 12279 Tempelhof-Schöneberg
+2026-06-30T14:39:09+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Eisenacher
+2026-06-30T14:39:09+0000 INFO Notified: ID 18523 — Eisenacher Straße 20D, 12109 Tempelhof-Schöneberg
+2026-06-30T14:39:09+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Waldsassen
+2026-06-30T14:39:09+0000 INFO Notified: ID 18524 — Waldsassener Straße 20, 12279 Tempelhof-Schöneberg
+2026-06-30T14:39:09+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18525
