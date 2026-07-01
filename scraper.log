@@ -6471,3 +6471,48 @@
 2026-07-01T10:12:33+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18555
 2026-07-01T10:12:33+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18556
 2026-07-01T10:12:33+0000 INFO Skipped (district Spandau not in allowlist): ID 18557
+2026-07-01T12:48:21+0000 INFO Fetched page: 242 total IDs, 10 rendered details
+2026-07-01T12:48:21+0000 INFO 18 new offer(s) found
+2026-07-01T12:48:21+0000 WARNING ID 18558 not in top-10 details (>10 new in one window?)
+2026-07-01T12:48:22+0000 INFO Telegram sent: 🏠 New offer (ID 18558) — details not rendered, see site:
+🔗 h
+2026-07-01T12:48:22+0000 WARNING ID 18560 not in top-10 details (>10 new in one window?)
+2026-07-01T12:48:22+0000 INFO Telegram sent: 🏠 New offer (ID 18560) — details not rendered, see site:
+🔗 h
+2026-07-01T12:48:22+0000 WARNING ID 18561 not in top-10 details (>10 new in one window?)
+2026-07-01T12:48:23+0000 INFO Telegram sent: 🏠 New offer (ID 18561) — details not rendered, see site:
+🔗 h
+2026-07-01T12:48:23+0000 WARNING ID 18562 not in top-10 details (>10 new in one window?)
+2026-07-01T12:48:23+0000 INFO Telegram sent: 🏠 New offer (ID 18562) — details not rendered, see site:
+🔗 h
+2026-07-01T12:48:23+0000 WARNING ID 18563 not in top-10 details (>10 new in one window?)
+2026-07-01T12:48:23+0000 INFO Telegram sent: 🏠 New offer (ID 18563) — details not rendered, see site:
+🔗 h
+2026-07-01T12:48:23+0000 WARNING ID 18564 not in top-10 details (>10 new in one window?)
+2026-07-01T12:48:24+0000 INFO Telegram sent: 🏠 New offer (ID 18564) — details not rendered, see site:
+🔗 h
+2026-07-01T12:48:24+0000 WARNING ID 18565 not in top-10 details (>10 new in one window?)
+2026-07-01T12:48:24+0000 INFO Telegram sent: 🏠 New offer (ID 18565) — details not rendered, see site:
+🔗 h
+2026-07-01T12:48:24+0000 WARNING ID 18566 not in top-10 details (>10 new in one window?)
+2026-07-01T12:48:25+0000 INFO Telegram sent: 🏠 New offer (ID 18566) — details not rendered, see site:
+🔗 h
+2026-07-01T12:48:25+0000 INFO Skipped (district Spandau not in allowlist): ID 18567
+2026-07-01T12:48:25+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18568
+2026-07-01T12:48:25+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-07-01T12:48:25+0000 INFO Notified: ID 18569 — Tirschenreuther Ring 12, 12279 Tempelhof-Schöneberg
+2026-07-01T12:48:26+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-07-01T12:48:26+0000 INFO Notified: ID 18570 — Tirschenreuther Ring 16, 12279 Tempelhof-Schöneberg
+2026-07-01T12:48:26+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Heil
+2026-07-01T12:48:26+0000 INFO Notified: ID 18571 — Heilmannring 49, 13627 Charlottenburg-Wilmersdorf
+2026-07-01T12:48:26+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18572
+2026-07-01T12:48:26+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18573
+2026-07-01T12:48:26+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18574
+2026-07-01T12:48:26+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18575
+2026-07-01T12:48:26+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18576
