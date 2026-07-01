@@ -6516,3 +6516,14 @@
 2026-07-01T12:48:26+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18574
 2026-07-01T12:48:26+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18575
 2026-07-01T12:48:26+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18576
+2026-07-01T15:32:47+0000 INFO Fetched page: 240 total IDs, 10 rendered details
+2026-07-01T15:32:47+0000 INFO 3 new offer(s) found
+2026-07-01T15:32:48+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Hedema
+2026-07-01T15:32:48+0000 INFO Notified: ID 18577 — Hedemannstraße 23, 10969 Friedrichshain-Kreuzberg
+2026-07-01T15:32:48+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Puttka
+2026-07-01T15:32:48+0000 INFO Notified: ID 18578 — Puttkamerstraße 3, 10969 Friedrichshain-Kreuzberg
+2026-07-01T15:32:48+0000 INFO Skipped (district Spandau not in allowlist): ID 18579
