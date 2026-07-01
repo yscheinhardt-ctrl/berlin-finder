@@ -6527,3 +6527,13 @@
 📍 Puttka
 2026-07-01T15:32:48+0000 INFO Notified: ID 18578 — Puttkamerstraße 3, 10969 Friedrichshain-Kreuzberg
 2026-07-01T15:32:48+0000 INFO Skipped (district Spandau not in allowlist): ID 18579
+2026-07-01T17:31:30+0000 INFO Fetched page: 248 total IDs, 10 rendered details
+2026-07-01T17:31:30+0000 INFO 8 new offer(s) found
+2026-07-01T17:31:30+0000 INFO Skipped (district Spandau not in allowlist): ID 18580
+2026-07-01T17:31:30+0000 INFO Skipped (district Spandau not in allowlist): ID 18581
+2026-07-01T17:31:30+0000 INFO Skipped (district Spandau not in allowlist): ID 18583
+2026-07-01T17:31:30+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18584
+2026-07-01T17:31:30+0000 INFO Skipped (district Spandau not in allowlist): ID 18585
+2026-07-01T17:31:30+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18586
+2026-07-01T17:31:30+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18587
+2026-07-01T17:31:30+0000 INFO Skipped (district Spandau not in allowlist): ID 18588
