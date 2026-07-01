@@ -6457,3 +6457,17 @@
 2026-07-01T01:37:12+0000 INFO 0 new offer(s) found
 2026-07-01T06:09:35+0000 INFO Fetched page: 249 total IDs, 10 rendered details
 2026-07-01T06:09:35+0000 INFO 0 new offer(s) found
+2026-07-01T10:12:33+0000 INFO Fetched page: 231 total IDs, 10 rendered details
+2026-07-01T10:12:33+0000 INFO 9 new offer(s) found
+2026-07-01T10:12:33+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18549
+2026-07-01T10:12:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18550
+2026-07-01T10:12:33+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18551
+2026-07-01T10:12:33+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Bornhagenw
+2026-07-01T10:12:33+0000 INFO Notified: ID 18552 — Bornhagenweg 46, 12309 Tempelhof-Schöneberg
+2026-07-01T10:12:33+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18553
+2026-07-01T10:12:33+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18554
+2026-07-01T10:12:33+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18555
+2026-07-01T10:12:33+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18556
+2026-07-01T10:12:33+0000 INFO Skipped (district Spandau not in allowlist): ID 18557
