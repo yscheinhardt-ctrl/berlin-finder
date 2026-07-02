@@ -6590,3 +6590,27 @@
 2026-07-02T08:44:00+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18605
 2026-07-02T08:44:00+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18606
 2026-07-02T08:44:00+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18607
+2026-07-02T11:21:25+0000 INFO Fetched page: 247 total IDs, 10 rendered details
+2026-07-02T11:21:25+0000 INFO 11 new offer(s) found
+2026-07-02T11:21:25+0000 WARNING ID 18608 not in top-10 details (>10 new in one window?)
+2026-07-02T11:21:25+0000 INFO Telegram sent: 🏠 New offer (ID 18608) — details not rendered, see site:
+🔗 h
+2026-07-02T11:21:25+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18609
+2026-07-02T11:21:25+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18610
+2026-07-02T11:21:25+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18612
+2026-07-02T11:21:26+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Bärbel-Bohley-Ring 18, 13
+2026-07-02T11:21:26+0000 INFO Notified: ID 18613 — Bärbel-Bohley-Ring 18, 13355 Mitte
+2026-07-02T11:21:26+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 18614
+2026-07-02T11:21:26+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Friedrich-
+2026-07-02T11:21:26+0000 INFO Notified: ID 18615 — Friedrich-Karl-Straße 14, 12103 Tempelhof-Schöneberg
+2026-07-02T11:21:27+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Schrei
+2026-07-02T11:21:27+0000 INFO Notified: ID 18616 — Schreinerstraße 60, 10247 Friedrichshain-Kreuzberg
+2026-07-02T11:21:27+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18617
+2026-07-02T11:21:27+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18618
+2026-07-02T11:21:27+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18619
