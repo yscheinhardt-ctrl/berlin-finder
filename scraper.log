@@ -6722,3 +6722,17 @@
 2026-07-02T15:33:20+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18660
 2026-07-02T15:33:20+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18661
 2026-07-02T15:33:20+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18662
+2026-07-02T17:14:22+0000 INFO Fetched page: 275 total IDs, 10 rendered details
+2026-07-02T17:14:22+0000 INFO 9 new offer(s) found
+2026-07-02T17:14:22+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Gitsch
+2026-07-02T17:14:22+0000 INFO Notified: ID 18663 — Gitschiner Straße 64, 10969 Friedrichshain-Kreuzberg
+2026-07-02T17:14:22+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18664
+2026-07-02T17:14:22+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18665
+2026-07-02T17:14:22+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18666
+2026-07-02T17:14:22+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18667
+2026-07-02T17:14:22+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18668
+2026-07-02T17:14:22+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18669
+2026-07-02T17:14:22+0000 INFO Skipped (district Spandau not in allowlist): ID 18670
+2026-07-02T17:14:22+0000 INFO Skipped (district Spandau not in allowlist): ID 18671
