@@ -6614,3 +6614,39 @@
 2026-07-02T11:21:27+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18617
 2026-07-02T11:21:27+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18618
 2026-07-02T11:21:27+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18619
+2026-07-02T13:13:23+0000 INFO Fetched page: 256 total IDs, 10 rendered details
+2026-07-02T13:13:23+0000 INFO 15 new offer(s) found
+2026-07-02T13:13:23+0000 WARNING ID 18620 not in top-10 details (>10 new in one window?)
+2026-07-02T13:13:24+0000 INFO Telegram sent: 🏠 New offer (ID 18620) — details not rendered, see site:
+🔗 h
+2026-07-02T13:13:24+0000 WARNING ID 18621 not in top-10 details (>10 new in one window?)
+2026-07-02T13:13:24+0000 INFO Telegram sent: 🏠 New offer (ID 18621) — details not rendered, see site:
+🔗 h
+2026-07-02T13:13:24+0000 WARNING ID 18622 not in top-10 details (>10 new in one window?)
+2026-07-02T13:13:25+0000 INFO Telegram sent: 🏠 New offer (ID 18622) — details not rendered, see site:
+🔗 h
+2026-07-02T13:13:25+0000 WARNING ID 18623 not in top-10 details (>10 new in one window?)
+2026-07-02T13:13:25+0000 INFO Telegram sent: 🏠 New offer (ID 18623) — details not rendered, see site:
+🔗 h
+2026-07-02T13:13:25+0000 WARNING ID 18624 not in top-10 details (>10 new in one window?)
+2026-07-02T13:13:25+0000 INFO Telegram sent: 🏠 New offer (ID 18624) — details not rendered, see site:
+🔗 h
+2026-07-02T13:13:25+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18625
+2026-07-02T13:13:25+0000 INFO Skipped (district Spandau not in allowlist): ID 18626
+2026-07-02T13:13:26+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Horstwalde
+2026-07-02T13:13:26+0000 INFO Notified: ID 18627 — Horstwalder Straße 1, 12307 Tempelhof-Schöneberg
+2026-07-02T13:13:26+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18628
+2026-07-02T13:13:26+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18629
+2026-07-02T13:13:26+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Horstwalde
+2026-07-02T13:13:26+0000 INFO Notified: ID 18630 — Horstwalder Straße 5, 12307 Tempelhof-Schöneberg
+2026-07-02T13:13:26+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Im Eck 4B,
+2026-07-02T13:13:26+0000 INFO Notified: ID 18631 — Im Eck 4B, 12305 Tempelhof-Schöneberg
+2026-07-02T13:13:26+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18632
+2026-07-02T13:13:26+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18633
+2026-07-02T13:13:26+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18634
