@@ -6557,3 +6557,36 @@
 
 📍 Michael-Bohnen-Ring 22
 2026-07-02T05:53:07+0000 INFO Notified: ID 18590 — Michael-Bohnen-Ring 22, 12057 Neukölln
+2026-07-02T08:43:57+0000 INFO Fetched page: 245 total IDs, 10 rendered details
+2026-07-02T08:43:57+0000 INFO 17 new offer(s) found
+2026-07-02T08:43:57+0000 WARNING ID 18591 not in top-10 details (>10 new in one window?)
+2026-07-02T08:43:58+0000 INFO Telegram sent: 🏠 New offer (ID 18591) — details not rendered, see site:
+🔗 h
+2026-07-02T08:43:58+0000 WARNING ID 18592 not in top-10 details (>10 new in one window?)
+2026-07-02T08:43:58+0000 INFO Telegram sent: 🏠 New offer (ID 18592) — details not rendered, see site:
+🔗 h
+2026-07-02T08:43:58+0000 WARNING ID 18593 not in top-10 details (>10 new in one window?)
+2026-07-02T08:43:59+0000 INFO Telegram sent: 🏠 New offer (ID 18593) — details not rendered, see site:
+🔗 h
+2026-07-02T08:43:59+0000 WARNING ID 18594 not in top-10 details (>10 new in one window?)
+2026-07-02T08:43:59+0000 INFO Telegram sent: 🏠 New offer (ID 18594) — details not rendered, see site:
+🔗 h
+2026-07-02T08:43:59+0000 WARNING ID 18595 not in top-10 details (>10 new in one window?)
+2026-07-02T08:43:59+0000 INFO Telegram sent: 🏠 New offer (ID 18595) — details not rendered, see site:
+🔗 h
+2026-07-02T08:43:59+0000 WARNING ID 18596 not in top-10 details (>10 new in one window?)
+2026-07-02T08:44:00+0000 INFO Telegram sent: 🏠 New offer (ID 18596) — details not rendered, see site:
+🔗 h
+2026-07-02T08:44:00+0000 WARNING ID 18597 not in top-10 details (>10 new in one window?)
+2026-07-02T08:44:00+0000 INFO Telegram sent: 🏠 New offer (ID 18597) — details not rendered, see site:
+🔗 h
+2026-07-02T08:44:00+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18598
+2026-07-02T08:44:00+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 18599
+2026-07-02T08:44:00+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18600
+2026-07-02T08:44:00+0000 INFO Skipped (district Spandau not in allowlist): ID 18601
+2026-07-02T08:44:00+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18602
+2026-07-02T08:44:00+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18603
+2026-07-02T08:44:00+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18604
+2026-07-02T08:44:00+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18605
+2026-07-02T08:44:00+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18606
+2026-07-02T08:44:00+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18607
