@@ -6650,3 +6650,75 @@
 2026-07-02T13:13:26+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18632
 2026-07-02T13:13:26+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18633
 2026-07-02T13:13:26+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18634
+2026-07-02T15:33:12+0000 INFO Fetched page: 270 total IDs, 10 rendered details
+2026-07-02T15:33:12+0000 INFO 27 new offer(s) found
+2026-07-02T15:33:12+0000 WARNING ID 18635 not in top-10 details (>10 new in one window?)
+2026-07-02T15:33:13+0000 INFO Telegram sent: 🏠 New offer (ID 18635) — details not rendered, see site:
+🔗 h
+2026-07-02T15:33:13+0000 WARNING ID 18636 not in top-10 details (>10 new in one window?)
+2026-07-02T15:33:13+0000 INFO Telegram sent: 🏠 New offer (ID 18636) — details not rendered, see site:
+🔗 h
+2026-07-02T15:33:13+0000 WARNING ID 18637 not in top-10 details (>10 new in one window?)
+2026-07-02T15:33:14+0000 INFO Telegram sent: 🏠 New offer (ID 18637) — details not rendered, see site:
+🔗 h
+2026-07-02T15:33:14+0000 WARNING ID 18638 not in top-10 details (>10 new in one window?)
+2026-07-02T15:33:14+0000 INFO Telegram sent: 🏠 New offer (ID 18638) — details not rendered, see site:
+🔗 h
+2026-07-02T15:33:14+0000 WARNING ID 18640 not in top-10 details (>10 new in one window?)
+2026-07-02T15:33:14+0000 INFO Telegram sent: 🏠 New offer (ID 18640) — details not rendered, see site:
+🔗 h
+2026-07-02T15:33:14+0000 WARNING ID 18641 not in top-10 details (>10 new in one window?)
+2026-07-02T15:33:15+0000 INFO Telegram sent: 🏠 New offer (ID 18641) — details not rendered, see site:
+🔗 h
+2026-07-02T15:33:15+0000 WARNING ID 18642 not in top-10 details (>10 new in one window?)
+2026-07-02T15:33:15+0000 INFO Telegram sent: 🏠 New offer (ID 18642) — details not rendered, see site:
+🔗 h
+2026-07-02T15:33:15+0000 WARNING ID 18643 not in top-10 details (>10 new in one window?)
+2026-07-02T15:33:15+0000 INFO Telegram sent: 🏠 New offer (ID 18643) — details not rendered, see site:
+🔗 h
+2026-07-02T15:33:15+0000 WARNING ID 18644 not in top-10 details (>10 new in one window?)
+2026-07-02T15:33:16+0000 INFO Telegram sent: 🏠 New offer (ID 18644) — details not rendered, see site:
+🔗 h
+2026-07-02T15:33:16+0000 WARNING ID 18645 not in top-10 details (>10 new in one window?)
+2026-07-02T15:33:16+0000 INFO Telegram sent: 🏠 New offer (ID 18645) — details not rendered, see site:
+🔗 h
+2026-07-02T15:33:16+0000 WARNING ID 18646 not in top-10 details (>10 new in one window?)
+2026-07-02T15:33:16+0000 INFO Telegram sent: 🏠 New offer (ID 18646) — details not rendered, see site:
+🔗 h
+2026-07-02T15:33:16+0000 WARNING ID 18647 not in top-10 details (>10 new in one window?)
+2026-07-02T15:33:17+0000 INFO Telegram sent: 🏠 New offer (ID 18647) — details not rendered, see site:
+🔗 h
+2026-07-02T15:33:17+0000 WARNING ID 18648 not in top-10 details (>10 new in one window?)
+2026-07-02T15:33:17+0000 INFO Telegram sent: 🏠 New offer (ID 18648) — details not rendered, see site:
+🔗 h
+2026-07-02T15:33:17+0000 WARNING ID 18649 not in top-10 details (>10 new in one window?)
+2026-07-02T15:33:18+0000 INFO Telegram sent: 🏠 New offer (ID 18649) — details not rendered, see site:
+🔗 h
+2026-07-02T15:33:18+0000 WARNING ID 18650 not in top-10 details (>10 new in one window?)
+2026-07-02T15:33:18+0000 INFO Telegram sent: 🏠 New offer (ID 18650) — details not rendered, see site:
+🔗 h
+2026-07-02T15:33:18+0000 WARNING ID 18651 not in top-10 details (>10 new in one window?)
+2026-07-02T15:33:18+0000 INFO Telegram sent: 🏠 New offer (ID 18651) — details not rendered, see site:
+🔗 h
+2026-07-02T15:33:18+0000 WARNING ID 18652 not in top-10 details (>10 new in one window?)
+2026-07-02T15:33:19+0000 INFO Telegram sent: 🏠 New offer (ID 18652) — details not rendered, see site:
+🔗 h
+2026-07-02T15:33:19+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18653
+2026-07-02T15:33:19+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Heck
+2026-07-02T15:33:19+0000 INFO Notified: ID 18654 — Heckerdamm 233, 13627 Charlottenburg-Wilmersdorf
+2026-07-02T15:33:19+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18655
+2026-07-02T15:33:19+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Moritz
+2026-07-02T15:33:19+0000 INFO Notified: ID 18656 — Moritzstraße 2, 10969 Friedrichshain-Kreuzberg
+2026-07-02T15:33:19+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18657
+2026-07-02T15:33:19+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18658
+2026-07-02T15:33:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Kurfürstenstraße 55, 1078
+2026-07-02T15:33:20+0000 INFO Notified: ID 18659 — Kurfürstenstraße 55, 10785 Mitte
+2026-07-02T15:33:20+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18660
+2026-07-02T15:33:20+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18661
+2026-07-02T15:33:20+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18662
