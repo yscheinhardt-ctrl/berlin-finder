@@ -6547,3 +6547,13 @@
 2026-07-01T23:50:10+0000 INFO 0 new offer(s) found
 2026-07-02T01:53:17+0000 INFO Fetched page: 243 total IDs, 10 rendered details
 2026-07-02T01:53:17+0000 INFO 0 new offer(s) found
+2026-07-02T05:53:06+0000 INFO Fetched page: 244 total IDs, 10 rendered details
+2026-07-02T05:53:06+0000 INFO 2 new offer(s) found
+2026-07-02T05:53:06+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Heinrich-Schlusnus-Str
+2026-07-02T05:53:06+0000 INFO Notified: ID 18589 — Heinrich-Schlusnus-Straße 7, 12057 Neukölln
+2026-07-02T05:53:07+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Michael-Bohnen-Ring 22
+2026-07-02T05:53:07+0000 INFO Notified: ID 18590 — Michael-Bohnen-Ring 22, 12057 Neukölln
