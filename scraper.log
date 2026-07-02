@@ -6736,3 +6736,7 @@
 2026-07-02T17:14:22+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18669
 2026-07-02T17:14:22+0000 INFO Skipped (district Spandau not in allowlist): ID 18670
 2026-07-02T17:14:22+0000 INFO Skipped (district Spandau not in allowlist): ID 18671
+2026-07-02T18:50:07+0000 INFO Fetched page: 268 total IDs, 10 rendered details
+2026-07-02T18:50:07+0000 INFO 2 new offer(s) found
+2026-07-02T18:50:07+0000 INFO Skipped (district Spandau not in allowlist): ID 18672
+2026-07-02T18:50:07+0000 INFO Skipped (district Spandau not in allowlist): ID 18673
