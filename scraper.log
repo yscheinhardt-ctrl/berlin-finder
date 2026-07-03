@@ -6841,3 +6841,33 @@
 
 📍 Bremer Straße 11, 10551 M
 2026-07-03T11:05:59+0000 INFO Notified: ID 18713 — Bremer Straße 11, 10551 Mitte
+2026-07-03T13:06:17+0000 INFO Fetched page: 270 total IDs, 10 rendered details
+2026-07-03T13:06:17+0000 INFO 14 new offer(s) found
+2026-07-03T13:06:17+0000 WARNING ID 18714 not in top-10 details (>10 new in one window?)
+2026-07-03T13:06:18+0000 INFO Telegram sent: 🏠 New offer (ID 18714) — details not rendered, see site:
+🔗 h
+2026-07-03T13:06:18+0000 WARNING ID 18715 not in top-10 details (>10 new in one window?)
+2026-07-03T13:06:18+0000 INFO Telegram sent: 🏠 New offer (ID 18715) — details not rendered, see site:
+🔗 h
+2026-07-03T13:06:18+0000 WARNING ID 18716 not in top-10 details (>10 new in one window?)
+2026-07-03T13:06:19+0000 INFO Telegram sent: 🏠 New offer (ID 18716) — details not rendered, see site:
+🔗 h
+2026-07-03T13:06:19+0000 WARNING ID 18717 not in top-10 details (>10 new in one window?)
+2026-07-03T13:06:19+0000 INFO Telegram sent: 🏠 New offer (ID 18717) — details not rendered, see site:
+🔗 h
+2026-07-03T13:06:19+0000 INFO Skipped (district Spandau not in allowlist): ID 18718
+2026-07-03T13:06:19+0000 INFO Skipped (district Spandau not in allowlist): ID 18719
+2026-07-03T13:06:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Am Mühlenb
+2026-07-03T13:06:20+0000 INFO Notified: ID 18720 — Am Mühlenberg 4, 10825 Tempelhof-Schöneberg
+2026-07-03T13:06:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Pechsteins
+2026-07-03T13:06:20+0000 INFO Notified: ID 18721 — Pechsteinstraße 64A, 12309 Tempelhof-Schöneberg
+2026-07-03T13:06:20+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18722
+2026-07-03T13:06:20+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18723
+2026-07-03T13:06:20+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18724
+2026-07-03T13:06:20+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18725
+2026-07-03T13:06:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18726
+2026-07-03T13:06:20+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18727
