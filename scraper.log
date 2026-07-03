@@ -6757,3 +6757,33 @@
 
 📍 Soldiner Straße 71, 13359
 2026-07-03T05:02:59+0000 INFO Notified: ID 18675 — Soldiner Straße 71, 13359 Mitte
+2026-07-03T08:21:42+0000 INFO Fetched page: 262 total IDs, 10 rendered details
+2026-07-03T08:21:42+0000 INFO 15 new offer(s) found
+2026-07-03T08:21:42+0000 WARNING ID 18676 not in top-10 details (>10 new in one window?)
+2026-07-03T08:21:42+0000 INFO Telegram sent: 🏠 New offer (ID 18676) — details not rendered, see site:
+🔗 h
+2026-07-03T08:21:42+0000 WARNING ID 18677 not in top-10 details (>10 new in one window?)
+2026-07-03T08:21:43+0000 INFO Telegram sent: 🏠 New offer (ID 18677) — details not rendered, see site:
+🔗 h
+2026-07-03T08:21:43+0000 WARNING ID 18678 not in top-10 details (>10 new in one window?)
+2026-07-03T08:21:43+0000 INFO Telegram sent: 🏠 New offer (ID 18678) — details not rendered, see site:
+🔗 h
+2026-07-03T08:21:43+0000 WARNING ID 18679 not in top-10 details (>10 new in one window?)
+2026-07-03T08:21:43+0000 INFO Telegram sent: 🏠 New offer (ID 18679) — details not rendered, see site:
+🔗 h
+2026-07-03T08:21:43+0000 WARNING ID 18680 not in top-10 details (>10 new in one window?)
+2026-07-03T08:21:44+0000 INFO Telegram sent: 🏠 New offer (ID 18680) — details not rendered, see site:
+🔗 h
+2026-07-03T08:21:44+0000 INFO Skipped (district Spandau not in allowlist): ID 18681
+2026-07-03T08:21:44+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Maximilian
+2026-07-03T08:21:44+0000 INFO Notified: ID 18682 — Maximilian-Kaller-Straße 6, 12279 Tempelhof-Schöneberg
+2026-07-03T08:21:44+0000 INFO Skipped (district Spandau not in allowlist): ID 18683
+2026-07-03T08:21:44+0000 INFO Skipped (district Pankow not in allowlist): ID 18684
+2026-07-03T08:21:44+0000 INFO Skipped (district Pankow not in allowlist): ID 18685
+2026-07-03T08:21:44+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18686
+2026-07-03T08:21:44+0000 INFO Skipped (district Pankow not in allowlist): ID 18687
+2026-07-03T08:21:44+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18688
+2026-07-03T08:21:44+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18689
+2026-07-03T08:21:44+0000 INFO Skipped (district Pankow not in allowlist): ID 18690
