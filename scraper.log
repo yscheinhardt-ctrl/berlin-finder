@@ -6898,3 +6898,6 @@
 📍 Maaßenstra
 2026-07-03T15:23:18+0000 INFO Notified: ID 18739 — Maaßenstraße 13, 10777 Tempelhof-Schöneberg
 2026-07-03T15:23:18+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18740
+2026-07-03T16:51:34+0000 INFO Fetched page: 276 total IDs, 10 rendered details
+2026-07-03T16:51:34+0000 INFO 1 new offer(s) found
+2026-07-03T16:51:34+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18741
