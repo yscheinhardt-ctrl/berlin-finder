@@ -6871,3 +6871,30 @@
 2026-07-03T13:06:20+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18725
 2026-07-03T13:06:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18726
 2026-07-03T13:06:20+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18727
+2026-07-03T15:23:15+0000 INFO Fetched page: 275 total IDs, 10 rendered details
+2026-07-03T15:23:15+0000 INFO 12 new offer(s) found
+2026-07-03T15:23:15+0000 WARNING ID 18728 not in top-10 details (>10 new in one window?)
+2026-07-03T15:23:16+0000 INFO Telegram sent: 🏠 New offer (ID 18728) — details not rendered, see site:
+🔗 h
+2026-07-03T15:23:16+0000 WARNING ID 18729 not in top-10 details (>10 new in one window?)
+2026-07-03T15:23:16+0000 INFO Telegram sent: 🏠 New offer (ID 18729) — details not rendered, see site:
+🔗 h
+2026-07-03T15:23:16+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18730
+2026-07-03T15:23:17+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Schl
+2026-07-03T15:23:17+0000 INFO Notified: ID 18731 — Schlangenbader Straße 15C, 14197 Charlottenburg-Wilmersdorf
+2026-07-03T15:23:17+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18732
+2026-07-03T15:23:17+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18733
+2026-07-03T15:23:17+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18734
+2026-07-03T15:23:17+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18735
+2026-07-03T15:23:17+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18736
+2026-07-03T15:23:17+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Alte Schönhauser Straße 3
+2026-07-03T15:23:17+0000 INFO Notified: ID 18738 — Alte Schönhauser Straße 30, 10119 Mitte
+2026-07-03T15:23:18+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Maaßenstra
+2026-07-03T15:23:18+0000 INFO Notified: ID 18739 — Maaßenstraße 13, 10777 Tempelhof-Schöneberg
+2026-07-03T15:23:18+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18740
