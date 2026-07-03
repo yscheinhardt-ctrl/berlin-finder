@@ -6787,3 +6787,57 @@
 2026-07-03T08:21:44+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18688
 2026-07-03T08:21:44+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18689
 2026-07-03T08:21:44+0000 INFO Skipped (district Pankow not in allowlist): ID 18690
+2026-07-03T11:05:54+0000 INFO Fetched page: 261 total IDs, 10 rendered details
+2026-07-03T11:05:54+0000 INFO 20 new offer(s) found
+2026-07-03T11:05:54+0000 WARNING ID 18691 not in top-10 details (>10 new in one window?)
+2026-07-03T11:05:55+0000 INFO Telegram sent: 🏠 New offer (ID 18691) — details not rendered, see site:
+🔗 h
+2026-07-03T11:05:55+0000 WARNING ID 18692 not in top-10 details (>10 new in one window?)
+2026-07-03T11:05:55+0000 INFO Telegram sent: 🏠 New offer (ID 18692) — details not rendered, see site:
+🔗 h
+2026-07-03T11:05:55+0000 WARNING ID 18693 not in top-10 details (>10 new in one window?)
+2026-07-03T11:05:55+0000 INFO Telegram sent: 🏠 New offer (ID 18693) — details not rendered, see site:
+🔗 h
+2026-07-03T11:05:55+0000 WARNING ID 18694 not in top-10 details (>10 new in one window?)
+2026-07-03T11:05:56+0000 INFO Telegram sent: 🏠 New offer (ID 18694) — details not rendered, see site:
+🔗 h
+2026-07-03T11:05:56+0000 WARNING ID 18695 not in top-10 details (>10 new in one window?)
+2026-07-03T11:05:56+0000 INFO Telegram sent: 🏠 New offer (ID 18695) — details not rendered, see site:
+🔗 h
+2026-07-03T11:05:56+0000 WARNING ID 18697 not in top-10 details (>10 new in one window?)
+2026-07-03T11:05:56+0000 INFO Telegram sent: 🏠 New offer (ID 18697) — details not rendered, see site:
+🔗 h
+2026-07-03T11:05:56+0000 WARNING ID 18698 not in top-10 details (>10 new in one window?)
+2026-07-03T11:05:57+0000 INFO Telegram sent: 🏠 New offer (ID 18698) — details not rendered, see site:
+🔗 h
+2026-07-03T11:05:57+0000 WARNING ID 18699 not in top-10 details (>10 new in one window?)
+2026-07-03T11:05:57+0000 INFO Telegram sent: 🏠 New offer (ID 18699) — details not rendered, see site:
+🔗 h
+2026-07-03T11:05:57+0000 WARNING ID 18701 not in top-10 details (>10 new in one window?)
+2026-07-03T11:05:58+0000 INFO Telegram sent: 🏠 New offer (ID 18701) — details not rendered, see site:
+🔗 h
+2026-07-03T11:05:58+0000 WARNING ID 18702 not in top-10 details (>10 new in one window?)
+2026-07-03T11:05:58+0000 INFO Telegram sent: 🏠 New offer (ID 18702) — details not rendered, see site:
+🔗 h
+2026-07-03T11:05:58+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Hussitenstraße 18B, 13355
+2026-07-03T11:05:58+0000 INFO Notified: ID 18703 — Hussitenstraße 18B, 13355 Mitte
+2026-07-03T11:05:59+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Gartenstraße 50, 13355 Mi
+2026-07-03T11:05:59+0000 INFO Notified: ID 18704 — Gartenstraße 50, 13355 Mitte
+2026-07-03T11:05:59+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18705
+2026-07-03T11:05:59+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18706
+2026-07-03T11:05:59+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Halles
+2026-07-03T11:05:59+0000 INFO Notified: ID 18708 — Hallesches Ufer 44, 10963 Friedrichshain-Kreuzberg
+2026-07-03T11:05:59+0000 INFO Skipped (district Pankow not in allowlist): ID 18709
+2026-07-03T11:05:59+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18710
+2026-07-03T11:05:59+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18711
+2026-07-03T11:05:59+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18712
+2026-07-03T11:05:59+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Bremer Straße 11, 10551 M
+2026-07-03T11:05:59+0000 INFO Notified: ID 18713 — Bremer Straße 11, 10551 Mitte
