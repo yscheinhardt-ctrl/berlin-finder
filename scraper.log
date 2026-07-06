@@ -7000,3 +7000,66 @@
 2026-07-06T01:18:17+0000 INFO 0 new offer(s) found
 2026-07-06T05:40:27+0000 INFO Fetched page: 263 total IDs, 10 rendered details
 2026-07-06T05:40:27+0000 INFO 0 new offer(s) found
+2026-07-06T09:43:48+0000 INFO Fetched page: 268 total IDs, 10 rendered details
+2026-07-06T09:43:48+0000 INFO 20 new offer(s) found
+2026-07-06T09:43:48+0000 WARNING ID 18756 not in top-10 details (>10 new in one window?)
+2026-07-06T09:43:48+0000 INFO Telegram sent: 🏠 New offer (ID 18756) — details not rendered, see site:
+🔗 h
+2026-07-06T09:43:48+0000 WARNING ID 18757 not in top-10 details (>10 new in one window?)
+2026-07-06T09:43:49+0000 INFO Telegram sent: 🏠 New offer (ID 18757) — details not rendered, see site:
+🔗 h
+2026-07-06T09:43:49+0000 WARNING ID 18758 not in top-10 details (>10 new in one window?)
+2026-07-06T09:43:49+0000 INFO Telegram sent: 🏠 New offer (ID 18758) — details not rendered, see site:
+🔗 h
+2026-07-06T09:43:49+0000 WARNING ID 18760 not in top-10 details (>10 new in one window?)
+2026-07-06T09:43:49+0000 INFO Telegram sent: 🏠 New offer (ID 18760) — details not rendered, see site:
+🔗 h
+2026-07-06T09:43:49+0000 WARNING ID 18761 not in top-10 details (>10 new in one window?)
+2026-07-06T09:43:50+0000 INFO Telegram sent: 🏠 New offer (ID 18761) — details not rendered, see site:
+🔗 h
+2026-07-06T09:43:50+0000 WARNING ID 18763 not in top-10 details (>10 new in one window?)
+2026-07-06T09:43:50+0000 INFO Telegram sent: 🏠 New offer (ID 18763) — details not rendered, see site:
+🔗 h
+2026-07-06T09:43:50+0000 WARNING ID 18764 not in top-10 details (>10 new in one window?)
+2026-07-06T09:43:50+0000 INFO Telegram sent: 🏠 New offer (ID 18764) — details not rendered, see site:
+🔗 h
+2026-07-06T09:43:50+0000 WARNING ID 18765 not in top-10 details (>10 new in one window?)
+2026-07-06T09:43:51+0000 INFO Telegram sent: 🏠 New offer (ID 18765) — details not rendered, see site:
+🔗 h
+2026-07-06T09:43:51+0000 WARNING ID 18766 not in top-10 details (>10 new in one window?)
+2026-07-06T09:43:51+0000 INFO Telegram sent: 🏠 New offer (ID 18766) — details not rendered, see site:
+🔗 h
+2026-07-06T09:43:51+0000 WARNING ID 18767 not in top-10 details (>10 new in one window?)
+2026-07-06T09:43:51+0000 INFO Telegram sent: 🏠 New offer (ID 18767) — details not rendered, see site:
+🔗 h
+2026-07-06T09:43:51+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18768
+2026-07-06T09:43:52+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Mier
+2026-07-06T09:43:52+0000 INFO Notified: ID 18769 — Mierendorffstraße 10, 10589 Charlottenburg-Wilmersdorf
+2026-07-06T09:43:52+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Fritz-Erler-Allee 160,
+2026-07-06T09:43:52+0000 INFO Notified: ID 18770 — Fritz-Erler-Allee 160, 12353 Neukölln
+2026-07-06T09:43:52+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Käthe-Dorsch-Ring 7, 1
+2026-07-06T09:43:52+0000 INFO Notified: ID 18771 — Käthe-Dorsch-Ring 7, 12353 Neukölln
+2026-07-06T09:43:53+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Neuköllner Straße 276A
+2026-07-06T09:43:53+0000 INFO Notified: ID 18772 — Neuköllner Straße 276A, 12357 Neukölln
+2026-07-06T09:43:53+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Theodor-Loos-Weg 20, 1
+2026-07-06T09:43:53+0000 INFO Notified: ID 18773 — Theodor-Loos-Weg 20, 12353 Neukölln
+2026-07-06T09:43:53+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18774
+2026-07-06T09:43:53+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Schwedenstraße 17A, 13357
+2026-07-06T09:43:53+0000 INFO Notified: ID 18775 — Schwedenstraße 17A, 13357 Mitte
+2026-07-06T09:43:53+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18776
+2026-07-06T09:43:54+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Alt-Britz 107A, 12359 
+2026-07-06T09:43:54+0000 INFO Notified: ID 18777 — Alt-Britz 107A, 12359 Neukölln
