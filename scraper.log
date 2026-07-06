@@ -7114,3 +7114,19 @@
 
 📍 Liverpooler Straße 16, 13
 2026-07-06T13:32:38+0000 INFO Notified: ID 18800 — Liverpooler Straße 16, 13349 Mitte
+2026-07-06T16:41:31+0000 INFO Fetched page: 268 total IDs, 10 rendered details
+2026-07-06T16:41:31+0000 INFO 8 new offer(s) found
+2026-07-06T16:41:31+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18801
+2026-07-06T16:41:32+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Ramlerstraße 20, 13355 Mi
+2026-07-06T16:41:32+0000 INFO Notified: ID 18802 — Ramlerstraße 20, 13355 Mitte
+2026-07-06T16:41:32+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Karl-M
+2026-07-06T16:41:32+0000 INFO Notified: ID 18803 — Karl-Marx-Allee 69B, 10243 Friedrichshain-Kreuzberg
+2026-07-06T16:41:32+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18805
+2026-07-06T16:41:32+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18806
+2026-07-06T16:41:32+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18807
+2026-07-06T16:41:32+0000 INFO Skipped (district Spandau not in allowlist): ID 18808
+2026-07-06T16:41:32+0000 INFO Skipped (district Spandau not in allowlist): ID 18809
