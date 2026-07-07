@@ -7148,3 +7148,25 @@
 2026-07-07T01:08:54+0000 INFO Skipped (district Spandau not in allowlist): ID 18815
 2026-07-07T05:05:26+0000 INFO Fetched page: 265 total IDs, 10 rendered details
 2026-07-07T05:05:26+0000 INFO 0 new offer(s) found
+2026-07-07T08:35:52+0000 INFO Fetched page: 262 total IDs, 10 rendered details
+2026-07-07T08:35:52+0000 INFO 8 new offer(s) found
+2026-07-07T08:35:52+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-07-07T08:35:52+0000 INFO Notified: ID 18817 — Tirschenreuther Ring 18, 12279 Tempelhof-Schöneberg
+2026-07-07T08:35:53+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Nord
+2026-07-07T08:35:53+0000 INFO Notified: ID 18818 — Nordhauser Straße 36, 10589 Charlottenburg-Wilmersdorf
+2026-07-07T08:35:53+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Ratz
+2026-07-07T08:35:53+0000 INFO Notified: ID 18819 — Ratzeburger Allee 6, 14050 Charlottenburg-Wilmersdorf
+2026-07-07T08:35:53+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Agnes-Straub-Weg 2, 12
+2026-07-07T08:35:53+0000 INFO Notified: ID 18820 — Agnes-Straub-Weg 2, 12353 Neukölln
+2026-07-07T08:35:53+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18821
+2026-07-07T08:35:53+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18822
+2026-07-07T08:35:53+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 18823
+2026-07-07T08:35:53+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18824
