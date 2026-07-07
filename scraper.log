@@ -7224,3 +7224,16 @@
 
 📍 Soldiner Straße 71, 13359
 2026-07-07T13:35:51+0000 INFO Notified: ID 18852 — Soldiner Straße 71, 13359 Mitte
+2026-07-07T16:08:06+0000 INFO Fetched page: 273 total IDs, 10 rendered details
+2026-07-07T16:08:06+0000 INFO 8 new offer(s) found
+2026-07-07T16:08:06+0000 INFO Skipped (district Pankow not in allowlist): ID 18853
+2026-07-07T16:08:06+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18854
+2026-07-07T16:08:06+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18855
+2026-07-07T16:08:06+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18856
+2026-07-07T16:08:06+0000 INFO Skipped (district Pankow not in allowlist): ID 18857
+2026-07-07T16:08:06+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18858
+2026-07-07T16:08:07+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Steinmetzs
+2026-07-07T16:08:07+0000 INFO Notified: ID 18859 — Steinmetzstraße 26, 10783 Tempelhof-Schöneberg
+2026-07-07T16:08:07+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18860
