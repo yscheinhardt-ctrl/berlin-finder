@@ -7197,3 +7197,30 @@
 2026-07-07T11:27:38+0000 INFO Notified: ID 18836 — Ebelingstraße 11A, 10249 Friedrichshain-Kreuzberg
 2026-07-07T11:27:38+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18837
 2026-07-07T11:27:38+0000 INFO Skipped (district Pankow not in allowlist): ID 18838
+2026-07-07T13:35:49+0000 INFO Fetched page: 270 total IDs, 10 rendered details
+2026-07-07T13:35:49+0000 INFO 14 new offer(s) found
+2026-07-07T13:35:49+0000 WARNING ID 18839 not in top-10 details (>10 new in one window?)
+2026-07-07T13:35:49+0000 INFO Telegram sent: 🏠 New offer (ID 18839) — details not rendered, see site:
+🔗 h
+2026-07-07T13:35:49+0000 WARNING ID 18840 not in top-10 details (>10 new in one window?)
+2026-07-07T13:35:50+0000 INFO Telegram sent: 🏠 New offer (ID 18840) — details not rendered, see site:
+🔗 h
+2026-07-07T13:35:50+0000 WARNING ID 18841 not in top-10 details (>10 new in one window?)
+2026-07-07T13:35:50+0000 INFO Telegram sent: 🏠 New offer (ID 18841) — details not rendered, see site:
+🔗 h
+2026-07-07T13:35:50+0000 WARNING ID 18842 not in top-10 details (>10 new in one window?)
+2026-07-07T13:35:50+0000 INFO Telegram sent: 🏠 New offer (ID 18842) — details not rendered, see site:
+🔗 h
+2026-07-07T13:35:50+0000 INFO Skipped (district Pankow not in allowlist): ID 18843
+2026-07-07T13:35:50+0000 INFO Skipped (district Pankow not in allowlist): ID 18844
+2026-07-07T13:35:50+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18845
+2026-07-07T13:35:50+0000 INFO Skipped (district Pankow not in allowlist): ID 18846
+2026-07-07T13:35:50+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18847
+2026-07-07T13:35:50+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18848
+2026-07-07T13:35:50+0000 INFO Skipped (district Pankow not in allowlist): ID 18849
+2026-07-07T13:35:50+0000 INFO Skipped (district Pankow not in allowlist): ID 18850
+2026-07-07T13:35:50+0000 INFO Skipped (district Pankow not in allowlist): ID 18851
+2026-07-07T13:35:51+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Soldiner Straße 71, 13359
+2026-07-07T13:35:51+0000 INFO Notified: ID 18852 — Soldiner Straße 71, 13359 Mitte
