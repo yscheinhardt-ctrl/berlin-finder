@@ -7299,3 +7299,20 @@
 
 📍 Im Eck 4, 
 2026-07-08T11:26:46+0000 INFO Notified: ID 18888 — Im Eck 4, 12305 Tempelhof-Schöneberg
+2026-07-08T13:06:32+0000 INFO Fetched page: 264 total IDs, 10 rendered details
+2026-07-08T13:06:32+0000 INFO 6 new offer(s) found
+2026-07-08T13:06:32+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18890
+2026-07-08T13:06:32+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18891
+2026-07-08T13:06:32+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Barlachweg
+2026-07-08T13:06:32+0000 INFO Notified: ID 18893 — Barlachweg 7, 12277 Tempelhof-Schöneberg
+2026-07-08T13:06:32+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18895
+2026-07-08T13:06:33+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Feuchtwangerweg 6, 123
+2026-07-08T13:06:33+0000 INFO Notified: ID 18896 — Feuchtwangerweg 6, 12353 Neukölln
+2026-07-08T13:06:33+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Propststraße 11, 10178 Mi
+2026-07-08T13:06:33+0000 INFO Notified: ID 18897 — Propststraße 11, 10178 Mitte
