@@ -7272,3 +7272,15 @@
 2026-07-08T07:09:04+0000 INFO Notified: ID 18869 — Iranische Straße 4B, 13347 Mitte
 2026-07-08T07:09:04+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18870
 2026-07-08T07:09:04+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18871
+2026-07-08T09:35:12+0000 INFO Fetched page: 257 total IDs, 10 rendered details
+2026-07-08T09:35:12+0000 INFO 7 new offer(s) found
+2026-07-08T09:35:12+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18872
+2026-07-08T09:35:13+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Käthe-Dorsch-Ring 3, 1
+2026-07-08T09:35:13+0000 INFO Notified: ID 18873 — Käthe-Dorsch-Ring 3, 12353 Neukölln
+2026-07-08T09:35:13+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18874
+2026-07-08T09:35:13+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18875
+2026-07-08T09:35:13+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18876
+2026-07-08T09:35:13+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18877
+2026-07-08T09:35:13+0000 INFO Skipped (district Spandau not in allowlist): ID 18878
