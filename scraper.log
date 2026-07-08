@@ -7255,3 +7255,20 @@
 2026-07-08T01:10:46+0000 INFO 0 new offer(s) found
 2026-07-08T04:32:01+0000 INFO Fetched page: 257 total IDs, 10 rendered details
 2026-07-08T04:32:01+0000 INFO 0 new offer(s) found
+2026-07-08T07:09:02+0000 INFO Fetched page: 261 total IDs, 10 rendered details
+2026-07-08T07:09:02+0000 INFO 6 new offer(s) found
+2026-07-08T07:09:02+0000 INFO Skipped (district Pankow not in allowlist): ID 18866
+2026-07-08T07:09:03+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Iranische Straße 4B, 1334
+2026-07-08T07:09:03+0000 INFO Notified: ID 18867 — Iranische Straße 4B, 13347 Mitte
+2026-07-08T07:09:03+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Iranische Straße 4B, 1334
+2026-07-08T07:09:03+0000 INFO Notified: ID 18868 — Iranische Straße 4B, 13347 Mitte
+2026-07-08T07:09:04+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Iranische Straße 4B, 1334
+2026-07-08T07:09:04+0000 INFO Notified: ID 18869 — Iranische Straße 4B, 13347 Mitte
+2026-07-08T07:09:04+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18870
+2026-07-08T07:09:04+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18871
