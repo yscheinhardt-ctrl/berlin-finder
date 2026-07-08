@@ -7316,3 +7316,27 @@
 
 📍 Propststraße 11, 10178 Mi
 2026-07-08T13:06:33+0000 INFO Notified: ID 18897 — Propststraße 11, 10178 Mitte
+2026-07-08T15:31:09+0000 INFO Fetched page: 271 total IDs, 10 rendered details
+2026-07-08T15:31:09+0000 INFO 13 new offer(s) found
+2026-07-08T15:31:09+0000 WARNING ID 18898 not in top-10 details (>10 new in one window?)
+2026-07-08T15:31:09+0000 INFO Telegram sent: 🏠 New offer (ID 18898) — details not rendered, see site:
+🔗 h
+2026-07-08T15:31:09+0000 WARNING ID 18899 not in top-10 details (>10 new in one window?)
+2026-07-08T15:31:10+0000 INFO Telegram sent: 🏠 New offer (ID 18899) — details not rendered, see site:
+🔗 h
+2026-07-08T15:31:10+0000 WARNING ID 18902 not in top-10 details (>10 new in one window?)
+2026-07-08T15:31:10+0000 INFO Telegram sent: 🏠 New offer (ID 18902) — details not rendered, see site:
+🔗 h
+2026-07-08T15:31:10+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18903
+2026-07-08T15:31:10+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18904
+2026-07-08T15:31:10+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18905
+2026-07-08T15:31:10+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18906
+2026-07-08T15:31:10+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18907
+2026-07-08T15:31:10+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18908
+2026-07-08T15:31:10+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18909
+2026-07-08T15:31:10+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18910
+2026-07-08T15:31:10+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18911
+2026-07-08T15:31:10+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Mollst
+2026-07-08T15:31:10+0000 INFO Notified: ID 18912 — Mollstraße 25, 10249 Friedrichshain-Kreuzberg
