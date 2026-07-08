@@ -7284,3 +7284,18 @@
 2026-07-08T09:35:13+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18876
 2026-07-08T09:35:13+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18877
 2026-07-08T09:35:13+0000 INFO Skipped (district Spandau not in allowlist): ID 18878
+2026-07-08T11:26:46+0000 INFO Fetched page: 263 total IDs, 10 rendered details
+2026-07-08T11:26:46+0000 INFO 10 new offer(s) found
+2026-07-08T11:26:46+0000 INFO Skipped (district Pankow not in allowlist): ID 18879
+2026-07-08T11:26:46+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18880
+2026-07-08T11:26:46+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18881
+2026-07-08T11:26:46+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18882
+2026-07-08T11:26:46+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18883
+2026-07-08T11:26:46+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18884
+2026-07-08T11:26:46+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 18885
+2026-07-08T11:26:46+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18886
+2026-07-08T11:26:46+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 18887
+2026-07-08T11:26:46+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Im Eck 4, 
+2026-07-08T11:26:46+0000 INFO Notified: ID 18888 — Im Eck 4, 12305 Tempelhof-Schöneberg
