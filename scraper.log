@@ -7359,3 +7359,14 @@
 2026-07-09T01:14:48+0000 INFO 0 new offer(s) found
 2026-07-09T05:09:23+0000 INFO Fetched page: 269 total IDs, 10 rendered details
 2026-07-09T05:09:23+0000 INFO 0 new offer(s) found
+2026-07-09T08:47:57+0000 INFO Fetched page: 264 total IDs, 10 rendered details
+2026-07-09T08:47:57+0000 INFO 3 new offer(s) found
+2026-07-09T08:47:58+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Mariendorfer Damm 425A
+2026-07-09T08:47:58+0000 INFO Notified: ID 18916 — Mariendorfer Damm 425A, 12107 Neukölln
+2026-07-09T08:47:58+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18917
+2026-07-09T08:47:58+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Wittekinds
+2026-07-09T08:47:58+0000 INFO Notified: ID 18918 — Wittekindstraße 36, 12103 Tempelhof-Schöneberg
