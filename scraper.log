@@ -7392,3 +7392,45 @@
 📍 Weiden
 2026-07-09T11:36:11+0000 INFO Notified: ID 18928 — Weidenweg 27, 10249 Friedrichshain-Kreuzberg
 2026-07-09T11:36:11+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18929
+2026-07-09T14:13:10+0000 INFO Fetched page: 279 total IDs, 10 rendered details
+2026-07-09T14:13:10+0000 INFO 19 new offer(s) found
+2026-07-09T14:13:10+0000 WARNING ID 18930 not in top-10 details (>10 new in one window?)
+2026-07-09T14:13:10+0000 INFO Telegram sent: 🏠 New offer (ID 18930) — details not rendered, see site:
+🔗 h
+2026-07-09T14:13:10+0000 WARNING ID 18931 not in top-10 details (>10 new in one window?)
+2026-07-09T14:13:10+0000 INFO Telegram sent: 🏠 New offer (ID 18931) — details not rendered, see site:
+🔗 h
+2026-07-09T14:13:10+0000 WARNING ID 18933 not in top-10 details (>10 new in one window?)
+2026-07-09T14:13:11+0000 INFO Telegram sent: 🏠 New offer (ID 18933) — details not rendered, see site:
+🔗 h
+2026-07-09T14:13:11+0000 WARNING ID 18934 not in top-10 details (>10 new in one window?)
+2026-07-09T14:13:11+0000 INFO Telegram sent: 🏠 New offer (ID 18934) — details not rendered, see site:
+🔗 h
+2026-07-09T14:13:11+0000 WARNING ID 18936 not in top-10 details (>10 new in one window?)
+2026-07-09T14:13:11+0000 INFO Telegram sent: 🏠 New offer (ID 18936) — details not rendered, see site:
+🔗 h
+2026-07-09T14:13:11+0000 WARNING ID 18937 not in top-10 details (>10 new in one window?)
+2026-07-09T14:13:12+0000 INFO Telegram sent: 🏠 New offer (ID 18937) — details not rendered, see site:
+🔗 h
+2026-07-09T14:13:12+0000 WARNING ID 18938 not in top-10 details (>10 new in one window?)
+2026-07-09T14:13:12+0000 INFO Telegram sent: 🏠 New offer (ID 18938) — details not rendered, see site:
+🔗 h
+2026-07-09T14:13:12+0000 WARNING ID 18939 not in top-10 details (>10 new in one window?)
+2026-07-09T14:13:12+0000 INFO Telegram sent: 🏠 New offer (ID 18939) — details not rendered, see site:
+🔗 h
+2026-07-09T14:13:12+0000 WARNING ID 18940 not in top-10 details (>10 new in one window?)
+2026-07-09T14:13:13+0000 INFO Telegram sent: 🏠 New offer (ID 18940) — details not rendered, see site:
+🔗 h
+2026-07-09T14:13:13+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 18942
+2026-07-09T14:13:13+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18943
+2026-07-09T14:13:13+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18944
+2026-07-09T14:13:13+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18945
+2026-07-09T14:13:13+0000 INFO Skipped (district Pankow not in allowlist): ID 18946
+2026-07-09T14:13:13+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 18947
+2026-07-09T14:13:13+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Lauterplat
+2026-07-09T14:13:13+0000 INFO Notified: ID 18948 — Lauterplatz 10, 12159 Tempelhof-Schöneberg
+2026-07-09T14:13:13+0000 INFO Skipped (district Spandau not in allowlist): ID 18950
+2026-07-09T14:13:13+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18951
+2026-07-09T14:13:13+0000 INFO Skipped (district Spandau not in allowlist): ID 18952
