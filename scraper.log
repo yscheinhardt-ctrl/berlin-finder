@@ -7457,3 +7457,7 @@
 2026-07-09T18:28:07+0000 INFO Skipped (district Spandau not in allowlist): ID 18970
 2026-07-09T20:22:14+0000 INFO Fetched page: 270 total IDs, 10 rendered details
 2026-07-09T20:22:14+0000 INFO 0 new offer(s) found
+2026-07-09T21:53:28+0000 INFO Fetched page: 270 total IDs, 10 rendered details
+2026-07-09T21:53:28+0000 INFO 2 new offer(s) found
+2026-07-09T21:53:28+0000 INFO Skipped (district Pankow not in allowlist): ID 18971
+2026-07-09T21:53:28+0000 INFO Skipped (district Pankow not in allowlist): ID 18972
