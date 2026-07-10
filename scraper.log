@@ -7559,3 +7559,13 @@
 📍 Scharn
 2026-07-10T11:13:36+0000 INFO Notified: ID 19011 — Scharnweberstraße 36, 10247 Friedrichshain-Kreuzberg
 2026-07-10T11:13:36+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19012
+2026-07-10T13:19:44+0000 INFO Fetched page: 265 total IDs, 10 rendered details
+2026-07-10T13:19:44+0000 INFO 2 new offer(s) found
+2026-07-10T13:19:44+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Am Straßenbahnhof 32, 
+2026-07-10T13:19:44+0000 INFO Notified: ID 19013 — Am Straßenbahnhof 32, 12347 Neukölln
+2026-07-10T13:19:44+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Burgemeist
+2026-07-10T13:19:44+0000 INFO Notified: ID 19014 — Burgemeisterstraße 49, 12103 Tempelhof-Schöneberg
