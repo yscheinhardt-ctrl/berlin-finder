@@ -7496,3 +7496,66 @@
 📍 Greveweg 1
 2026-07-10T07:59:10+0000 INFO Notified: ID 18980 — Greveweg 12, 12103 Tempelhof-Schöneberg
 2026-07-10T07:59:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18981
+2026-07-10T11:13:31+0000 INFO Fetched page: 277 total IDs, 10 rendered details
+2026-07-10T11:13:31+0000 INFO 26 new offer(s) found
+2026-07-10T11:13:31+0000 WARNING ID 18982 not in top-10 details (>10 new in one window?)
+2026-07-10T11:13:31+0000 INFO Telegram sent: 🏠 New offer (ID 18982) — details not rendered, see site:
+🔗 h
+2026-07-10T11:13:31+0000 WARNING ID 18983 not in top-10 details (>10 new in one window?)
+2026-07-10T11:13:31+0000 INFO Telegram sent: 🏠 New offer (ID 18983) — details not rendered, see site:
+🔗 h
+2026-07-10T11:13:31+0000 WARNING ID 18984 not in top-10 details (>10 new in one window?)
+2026-07-10T11:13:32+0000 INFO Telegram sent: 🏠 New offer (ID 18984) — details not rendered, see site:
+🔗 h
+2026-07-10T11:13:32+0000 WARNING ID 18985 not in top-10 details (>10 new in one window?)
+2026-07-10T11:13:32+0000 INFO Telegram sent: 🏠 New offer (ID 18985) — details not rendered, see site:
+🔗 h
+2026-07-10T11:13:32+0000 WARNING ID 18986 not in top-10 details (>10 new in one window?)
+2026-07-10T11:13:32+0000 INFO Telegram sent: 🏠 New offer (ID 18986) — details not rendered, see site:
+🔗 h
+2026-07-10T11:13:32+0000 WARNING ID 18987 not in top-10 details (>10 new in one window?)
+2026-07-10T11:13:33+0000 INFO Telegram sent: 🏠 New offer (ID 18987) — details not rendered, see site:
+🔗 h
+2026-07-10T11:13:33+0000 WARNING ID 18988 not in top-10 details (>10 new in one window?)
+2026-07-10T11:13:33+0000 INFO Telegram sent: 🏠 New offer (ID 18988) — details not rendered, see site:
+🔗 h
+2026-07-10T11:13:33+0000 WARNING ID 18989 not in top-10 details (>10 new in one window?)
+2026-07-10T11:13:33+0000 INFO Telegram sent: 🏠 New offer (ID 18989) — details not rendered, see site:
+🔗 h
+2026-07-10T11:13:33+0000 WARNING ID 18991 not in top-10 details (>10 new in one window?)
+2026-07-10T11:13:34+0000 INFO Telegram sent: 🏠 New offer (ID 18991) — details not rendered, see site:
+🔗 h
+2026-07-10T11:13:34+0000 WARNING ID 18994 not in top-10 details (>10 new in one window?)
+2026-07-10T11:13:34+0000 INFO Telegram sent: 🏠 New offer (ID 18994) — details not rendered, see site:
+🔗 h
+2026-07-10T11:13:34+0000 WARNING ID 18995 not in top-10 details (>10 new in one window?)
+2026-07-10T11:13:34+0000 INFO Telegram sent: 🏠 New offer (ID 18995) — details not rendered, see site:
+🔗 h
+2026-07-10T11:13:34+0000 WARNING ID 18996 not in top-10 details (>10 new in one window?)
+2026-07-10T11:13:34+0000 INFO Telegram sent: 🏠 New offer (ID 18996) — details not rendered, see site:
+🔗 h
+2026-07-10T11:13:34+0000 WARNING ID 18997 not in top-10 details (>10 new in one window?)
+2026-07-10T11:13:35+0000 INFO Telegram sent: 🏠 New offer (ID 18997) — details not rendered, see site:
+🔗 h
+2026-07-10T11:13:35+0000 WARNING ID 18998 not in top-10 details (>10 new in one window?)
+2026-07-10T11:13:35+0000 INFO Telegram sent: 🏠 New offer (ID 18998) — details not rendered, see site:
+🔗 h
+2026-07-10T11:13:35+0000 WARNING ID 18999 not in top-10 details (>10 new in one window?)
+2026-07-10T11:13:36+0000 INFO Telegram sent: 🏠 New offer (ID 18999) — details not rendered, see site:
+🔗 h
+2026-07-10T11:13:36+0000 WARNING ID 19000 not in top-10 details (>10 new in one window?)
+2026-07-10T11:13:36+0000 INFO Telegram sent: 🏠 New offer (ID 19000) — details not rendered, see site:
+🔗 h
+2026-07-10T11:13:36+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19001
+2026-07-10T11:13:36+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19002
+2026-07-10T11:13:36+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19003
+2026-07-10T11:13:36+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19004
+2026-07-10T11:13:36+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19005
+2026-07-10T11:13:36+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19007
+2026-07-10T11:13:36+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19009
+2026-07-10T11:13:36+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19010
+2026-07-10T11:13:36+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Scharn
+2026-07-10T11:13:36+0000 INFO Notified: ID 19011 — Scharnweberstraße 36, 10247 Friedrichshain-Kreuzberg
+2026-07-10T11:13:36+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19012
