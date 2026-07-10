@@ -7569,3 +7569,7 @@
 
 📍 Burgemeist
 2026-07-10T13:19:44+0000 INFO Notified: ID 19014 — Burgemeisterstraße 49, 12103 Tempelhof-Schöneberg
+2026-07-10T15:41:27+0000 INFO Fetched page: 253 total IDs, 10 rendered details
+2026-07-10T15:41:27+0000 INFO 2 new offer(s) found
+2026-07-10T15:41:27+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19016
+2026-07-10T15:41:27+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19017
