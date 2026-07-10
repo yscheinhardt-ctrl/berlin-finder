@@ -7467,3 +7467,32 @@
 2026-07-10T00:15:59+0000 INFO 0 new offer(s) found
 2026-07-10T04:27:11+0000 INFO Fetched page: 265 total IDs, 10 rendered details
 2026-07-10T04:27:11+0000 INFO 0 new offer(s) found
+2026-07-10T07:59:08+0000 INFO Fetched page: 265 total IDs, 10 rendered details
+2026-07-10T07:59:08+0000 INFO 9 new offer(s) found
+2026-07-10T07:59:08+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Waldsassen
+2026-07-10T07:59:08+0000 INFO Notified: ID 18973 — Waldsassener Straße 24, 12279 Tempelhof-Schöneberg
+2026-07-10T07:59:09+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-07-10T07:59:09+0000 INFO Notified: ID 18974 — Tirschenreuther Ring 18, 12279 Tempelhof-Schöneberg
+2026-07-10T07:59:09+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Derfflingerstraße 5, 1078
+2026-07-10T07:59:09+0000 INFO Notified: ID 18975 — Derfflingerstraße 5, 10785 Mitte
+2026-07-10T07:59:09+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Bars
+2026-07-10T07:59:09+0000 INFO Notified: ID 18976 — Barstraße 46, 10713 Charlottenburg-Wilmersdorf
+2026-07-10T07:59:09+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 18977
+2026-07-10T07:59:09+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 18978
+2026-07-10T07:59:10+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Am Straßenbahnhof 39, 
+2026-07-10T07:59:10+0000 INFO Notified: ID 18979 — Am Straßenbahnhof 39, 12347 Neukölln
+2026-07-10T07:59:10+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Greveweg 1
+2026-07-10T07:59:10+0000 INFO Notified: ID 18980 — Greveweg 12, 12103 Tempelhof-Schöneberg
+2026-07-10T07:59:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 18981
