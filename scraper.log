@@ -7589,3 +7589,6 @@
 2026-07-10T22:40:31+0000 INFO 0 new offer(s) found
 2026-07-10T23:38:22+0000 INFO Fetched page: 252 total IDs, 10 rendered details
 2026-07-10T23:38:22+0000 INFO 0 new offer(s) found
+2026-07-11T01:06:15+0000 INFO Fetched page: 253 total IDs, 10 rendered details
+2026-07-11T01:06:15+0000 INFO 1 new offer(s) found
+2026-07-11T01:06:15+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19022
