@@ -7684,3 +7684,32 @@
 
 📍 Knob
 2026-07-13T07:31:00+0000 INFO Notified: ID 19028 — Knobelsdorffstraße 42, 14059 Charlottenburg-Wilmersdorf
+2026-07-13T10:39:43+0000 INFO Fetched page: 241 total IDs, 10 rendered details
+2026-07-13T10:39:43+0000 INFO 9 new offer(s) found
+2026-07-13T10:39:43+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Alt-Britz 107A, 12359 
+2026-07-13T10:39:43+0000 INFO Notified: ID 19030 — Alt-Britz 107A, 12359 Neukölln
+2026-07-13T10:39:44+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Birkenstraße 34, 10551 Mi
+2026-07-13T10:39:44+0000 INFO Notified: ID 19031 — Birkenstraße 34, 10551 Mitte
+2026-07-13T10:39:44+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Frobenstra
+2026-07-13T10:39:44+0000 INFO Notified: ID 19032 — Frobenstraße 4, 10783 Tempelhof-Schöneberg
+2026-07-13T10:39:45+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Kaiserin-A
+2026-07-13T10:39:45+0000 INFO Notified: ID 19034 — Kaiserin-Augusta-Straße 46, 12103 Tempelhof-Schöneberg
+2026-07-13T10:39:45+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19035
+2026-07-13T10:39:45+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19036
+2026-07-13T10:39:45+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Klau
+2026-07-13T10:39:45+0000 INFO Notified: ID 19037 — Klausingring 19, 13627 Charlottenburg-Wilmersdorf
+2026-07-13T10:39:46+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Greveweg 2
+2026-07-13T10:39:46+0000 INFO Notified: ID 19038 — Greveweg 20, 12103 Tempelhof-Schöneberg
+2026-07-13T10:39:46+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19039
