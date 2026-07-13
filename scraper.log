@@ -7664,3 +7664,23 @@
 2026-07-13T00:12:11+0000 INFO 0 new offer(s) found
 2026-07-13T04:00:36+0000 INFO Fetched page: 248 total IDs, 10 rendered details
 2026-07-13T04:00:36+0000 INFO 0 new offer(s) found
+2026-07-13T07:30:59+0000 INFO Fetched page: 247 total IDs, 10 rendered details
+2026-07-13T07:30:59+0000 INFO 6 new offer(s) found
+2026-07-13T07:30:59+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19023
+2026-07-13T07:30:59+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19024
+2026-07-13T07:31:00+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Kaiserin-A
+2026-07-13T07:31:00+0000 INFO Notified: ID 19025 — Kaiserin-Augusta-Straße 48, 12103 Tempelhof-Schöneberg
+2026-07-13T07:31:00+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Alt-Britz 107, 12359 N
+2026-07-13T07:31:00+0000 INFO Notified: ID 19026 — Alt-Britz 107, 12359 Neukölln
+2026-07-13T07:31:00+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Bandelstraße 23, 10559 Mi
+2026-07-13T07:31:00+0000 INFO Notified: ID 19027 — Bandelstraße 23, 10559 Mitte
+2026-07-13T07:31:00+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Knob
+2026-07-13T07:31:00+0000 INFO Notified: ID 19028 — Knobelsdorffstraße 42, 14059 Charlottenburg-Wilmersdorf
