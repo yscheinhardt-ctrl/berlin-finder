@@ -7713,3 +7713,30 @@
 📍 Greveweg 2
 2026-07-13T10:39:46+0000 INFO Notified: ID 19038 — Greveweg 20, 12103 Tempelhof-Schöneberg
 2026-07-13T10:39:46+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19039
+2026-07-13T13:03:32+0000 INFO Fetched page: 249 total IDs, 10 rendered details
+2026-07-13T13:03:32+0000 INFO 13 new offer(s) found
+2026-07-13T13:03:32+0000 WARNING ID 19042 not in top-10 details (>10 new in one window?)
+2026-07-13T13:03:32+0000 INFO Telegram sent: 🏠 New offer (ID 19042) — details not rendered, see site:
+🔗 h
+2026-07-13T13:03:32+0000 WARNING ID 19043 not in top-10 details (>10 new in one window?)
+2026-07-13T13:03:33+0000 INFO Telegram sent: 🏠 New offer (ID 19043) — details not rendered, see site:
+🔗 h
+2026-07-13T13:03:33+0000 WARNING ID 19044 not in top-10 details (>10 new in one window?)
+2026-07-13T13:03:33+0000 INFO Telegram sent: 🏠 New offer (ID 19044) — details not rendered, see site:
+🔗 h
+2026-07-13T13:03:33+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19045
+2026-07-13T13:03:33+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19046
+2026-07-13T13:03:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 In den Bauerngärten 10
+2026-07-13T13:03:34+0000 INFO Notified: ID 19047 — In den Bauerngärten 10, 12349 Neukölln
+2026-07-13T13:03:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 In den Bauerngärten 10
+2026-07-13T13:03:34+0000 INFO Notified: ID 19048 — In den Bauerngärten 10, 12349 Neukölln
+2026-07-13T13:03:34+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19049
+2026-07-13T13:03:34+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19050
+2026-07-13T13:03:34+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19051
+2026-07-13T13:03:34+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19052
+2026-07-13T13:03:34+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19053
+2026-07-13T13:03:34+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19054
