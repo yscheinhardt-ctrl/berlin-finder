@@ -7780,3 +7780,20 @@
 2026-07-14T08:26:00+0000 INFO Notified: ID 19069 — Lauterplatz 6, 12159 Tempelhof-Schöneberg
 2026-07-14T08:26:00+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19070
 2026-07-14T08:26:00+0000 INFO Skipped (district Spandau not in allowlist): ID 19071
+2026-07-14T10:16:27+0000 INFO Fetched page: 239 total IDs, 10 rendered details
+2026-07-14T10:16:27+0000 INFO 6 new offer(s) found
+2026-07-14T10:16:27+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Demminer Straße 3, 13355 
+2026-07-14T10:16:27+0000 INFO Notified: ID 19072 — Demminer Straße 3, 13355 Mitte
+2026-07-14T10:16:27+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19073
+2026-07-14T10:16:27+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19074
+2026-07-14T10:16:27+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Ackerstraße 121, 13355 Mi
+2026-07-14T10:16:27+0000 INFO Notified: ID 19075 — Ackerstraße 121, 13355 Mitte
+2026-07-14T10:16:28+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Ackerstraße 121, 13355 Mi
+2026-07-14T10:16:28+0000 INFO Notified: ID 19076 — Ackerstraße 121, 13355 Mitte
+2026-07-14T10:16:28+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19077
