@@ -7813,3 +7813,11 @@
 
 📍 Käthe-Dorsch-Ring 12, 
 2026-07-14T11:47:50+0000 INFO Notified: ID 19082 — Käthe-Dorsch-Ring 12, 12353 Neukölln
+2026-07-14T12:55:04+0000 INFO Fetched page: 236 total IDs, 10 rendered details
+2026-07-14T12:55:04+0000 INFO 3 new offer(s) found
+2026-07-14T12:55:04+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Soldiner Straße 71, 13359
+2026-07-14T12:55:04+0000 INFO Notified: ID 19085 — Soldiner Straße 71, 13359 Mitte
+2026-07-14T12:55:04+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19086
+2026-07-14T12:55:04+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19087
