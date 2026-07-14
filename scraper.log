@@ -7797,3 +7797,19 @@
 📍 Ackerstraße 121, 13355 Mi
 2026-07-14T10:16:28+0000 INFO Notified: ID 19076 — Ackerstraße 121, 13355 Mitte
 2026-07-14T10:16:28+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19077
+2026-07-14T11:47:49+0000 INFO Fetched page: 236 total IDs, 10 rendered details
+2026-07-14T11:47:49+0000 INFO 5 new offer(s) found
+2026-07-14T11:47:49+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Iranische Straße 4B, 1334
+2026-07-14T11:47:49+0000 INFO Notified: ID 19078 — Iranische Straße 4B, 13347 Mitte
+2026-07-14T11:47:49+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19079
+2026-07-14T11:47:49+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19080
+2026-07-14T11:47:50+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 An den Weiden 9, 12349
+2026-07-14T11:47:50+0000 INFO Notified: ID 19081 — An den Weiden 9, 12349 Neukölln
+2026-07-14T11:47:50+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Käthe-Dorsch-Ring 12, 
+2026-07-14T11:47:50+0000 INFO Notified: ID 19082 — Käthe-Dorsch-Ring 12, 12353 Neukölln
