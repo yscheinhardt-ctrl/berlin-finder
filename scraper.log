@@ -7821,3 +7821,30 @@
 2026-07-14T12:55:04+0000 INFO Notified: ID 19085 — Soldiner Straße 71, 13359 Mitte
 2026-07-14T12:55:04+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19086
 2026-07-14T12:55:04+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19087
+2026-07-14T14:48:19+0000 INFO Fetched page: 243 total IDs, 10 rendered details
+2026-07-14T14:48:19+0000 INFO 10 new offer(s) found
+2026-07-14T14:48:19+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19088
+2026-07-14T14:48:19+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Ackerstraße 116, 13355 Mi
+2026-07-14T14:48:19+0000 INFO Notified: ID 19090 — Ackerstraße 116, 13355 Mitte
+2026-07-14T14:48:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Ackerstraße 116A, 13355 M
+2026-07-14T14:48:20+0000 INFO Notified: ID 19091 — Ackerstraße 116A, 13355 Mitte
+2026-07-14T14:48:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Ackerstraße 116A, 13355 M
+2026-07-14T14:48:20+0000 INFO Notified: ID 19092 — Ackerstraße 116A, 13355 Mitte
+2026-07-14T14:48:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Ackerstraße 116A, 13355 M
+2026-07-14T14:48:20+0000 INFO Notified: ID 19093 — Ackerstraße 116A, 13355 Mitte
+2026-07-14T14:48:20+0000 INFO Skipped (district Spandau not in allowlist): ID 19094
+2026-07-14T14:48:20+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 19095
+2026-07-14T14:48:20+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19096
+2026-07-14T14:48:21+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Lortzingstraße 25, 13355 
+2026-07-14T14:48:21+0000 INFO Notified: ID 19097 — Lortzingstraße 25, 13355 Mitte
+2026-07-14T14:48:21+0000 INFO Skipped (district Spandau not in allowlist): ID 19098
