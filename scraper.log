@@ -7902,3 +7902,21 @@
 2026-07-15T10:03:48+0000 INFO Skipped (district Spandau not in allowlist): ID 19116
 2026-07-15T10:03:48+0000 INFO Skipped (district Spandau not in allowlist): ID 19117
 2026-07-15T10:03:48+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19118
+2026-07-15T11:45:01+0000 INFO Fetched page: 235 total IDs, 10 rendered details
+2026-07-15T11:45:01+0000 INFO 7 new offer(s) found
+2026-07-15T11:45:01+0000 INFO Skipped (district Spandau not in allowlist): ID 19119
+2026-07-15T11:45:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Neuköllner Straße 306,
+2026-07-15T11:45:01+0000 INFO Notified: ID 19120 — Neuköllner Straße 306, 12357 Neukölln
+2026-07-15T11:45:01+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19121
+2026-07-15T11:45:02+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-07-15T11:45:02+0000 INFO Notified: ID 19122 — Tirschenreuther Ring 28, 12279 Tempelhof-Schöneberg
+2026-07-15T11:45:02+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Neuköllner Straße 308,
+2026-07-15T11:45:02+0000 INFO Notified: ID 19123 — Neuköllner Straße 308, 12357 Neukölln
+2026-07-15T11:45:02+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19124
+2026-07-15T11:45:02+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19125
