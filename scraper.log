@@ -7888,3 +7888,17 @@
 📍 Am Straßenbahnhof 44B,
 2026-07-15T07:56:15+0000 INFO Notified: ID 19107 — Am Straßenbahnhof 44B, 12347 Neukölln
 2026-07-15T07:56:15+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19108
+2026-07-15T10:03:47+0000 INFO Fetched page: 230 total IDs, 10 rendered details
+2026-07-15T10:03:47+0000 INFO 9 new offer(s) found
+2026-07-15T10:03:48+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Muschelkalkweg 9, 1234
+2026-07-15T10:03:48+0000 INFO Notified: ID 19109 — Muschelkalkweg 9, 12349 Neukölln
+2026-07-15T10:03:48+0000 INFO Skipped (district Pankow not in allowlist): ID 19111
+2026-07-15T10:03:48+0000 INFO Skipped (district Spandau not in allowlist): ID 19112
+2026-07-15T10:03:48+0000 INFO Skipped (district Spandau not in allowlist): ID 19113
+2026-07-15T10:03:48+0000 INFO Skipped (district Spandau not in allowlist): ID 19114
+2026-07-15T10:03:48+0000 INFO Skipped (district Spandau not in allowlist): ID 19115
+2026-07-15T10:03:48+0000 INFO Skipped (district Spandau not in allowlist): ID 19116
+2026-07-15T10:03:48+0000 INFO Skipped (district Spandau not in allowlist): ID 19117
+2026-07-15T10:03:48+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19118
