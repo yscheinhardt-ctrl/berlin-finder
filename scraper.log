@@ -7920,3 +7920,16 @@
 2026-07-15T11:45:02+0000 INFO Notified: ID 19123 — Neuköllner Straße 308, 12357 Neukölln
 2026-07-15T11:45:02+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19124
 2026-07-15T11:45:02+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19125
+2026-07-15T12:58:45+0000 INFO Fetched page: 236 total IDs, 10 rendered details
+2026-07-15T12:58:45+0000 INFO 5 new offer(s) found
+2026-07-15T12:58:45+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19126
+2026-07-15T12:58:45+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19127
+2026-07-15T12:58:46+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Schirpitzer Weg 46, 12
+2026-07-15T12:58:46+0000 INFO Notified: ID 19128 — Schirpitzer Weg 46, 12355 Neukölln
+2026-07-15T12:58:46+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19129
+2026-07-15T12:58:46+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Selgenauer Weg 46, 123
+2026-07-15T12:58:46+0000 INFO Notified: ID 19130 — Selgenauer Weg 46, 12355 Neukölln
