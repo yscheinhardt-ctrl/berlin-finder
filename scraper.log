@@ -7872,3 +7872,19 @@
 2026-07-15T03:26:57+0000 INFO 0 new offer(s) found
 2026-07-15T05:53:31+0000 INFO Fetched page: 236 total IDs, 10 rendered details
 2026-07-15T05:53:31+0000 INFO 0 new offer(s) found
+2026-07-15T07:56:13+0000 INFO Fetched page: 234 total IDs, 10 rendered details
+2026-07-15T07:56:13+0000 INFO 5 new offer(s) found
+2026-07-15T07:56:13+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19104
+2026-07-15T07:56:14+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-07-15T07:56:14+0000 INFO Notified: ID 19105 — Tirschenreuther Ring 15, 12279 Tempelhof-Schöneberg
+2026-07-15T07:56:14+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Zwickauer Damm 12, 123
+2026-07-15T07:56:14+0000 INFO Notified: ID 19106 — Zwickauer Damm 12, 12353 Neukölln
+2026-07-15T07:56:15+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Am Straßenbahnhof 44B,
+2026-07-15T07:56:15+0000 INFO Notified: ID 19107 — Am Straßenbahnhof 44B, 12347 Neukölln
+2026-07-15T07:56:15+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19108
