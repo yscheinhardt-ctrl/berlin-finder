@@ -7980,3 +7980,18 @@
 2026-07-16T06:02:14+0000 INFO 2 new offer(s) found
 2026-07-16T06:02:14+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19145
 2026-07-16T06:02:14+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19146
+2026-07-16T08:27:32+0000 INFO Fetched page: 232 total IDs, 10 rendered details
+2026-07-16T08:27:32+0000 INFO 7 new offer(s) found
+2026-07-16T08:27:32+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19147
+2026-07-16T08:27:33+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Welterpfad
+2026-07-16T08:27:33+0000 INFO Notified: ID 19148 — Welterpfad 53, 12277 Tempelhof-Schöneberg
+2026-07-16T08:27:33+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Welterpfad
+2026-07-16T08:27:33+0000 INFO Notified: ID 19149 — Welterpfad 53, 12277 Tempelhof-Schöneberg
+2026-07-16T08:27:33+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19150
+2026-07-16T08:27:33+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19151
+2026-07-16T08:27:33+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19152
+2026-07-16T08:27:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19153
