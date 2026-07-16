@@ -8061,3 +8061,18 @@
 2026-07-16T12:03:15+0000 INFO Notified: ID 19177 — Lichterfelder Ring 81, 12279 Tempelhof-Schöneberg
 2026-07-16T12:03:15+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19178
 2026-07-16T12:03:15+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19179
+2026-07-16T14:15:45+0000 INFO Fetched page: 247 total IDs, 10 rendered details
+2026-07-16T14:15:45+0000 INFO 10 new offer(s) found
+2026-07-16T14:15:45+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19182
+2026-07-16T14:15:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19184
+2026-07-16T14:15:45+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19185
+2026-07-16T14:15:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19186
+2026-07-16T14:15:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19187
+2026-07-16T14:15:45+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19188
+2026-07-16T14:15:46+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Naunyn
+2026-07-16T14:15:46+0000 INFO Notified: ID 19189 — Naunynstraße 2, 10997 Friedrichshain-Kreuzberg
+2026-07-16T14:15:46+0000 INFO Skipped (district Spandau not in allowlist): ID 19190
+2026-07-16T14:15:46+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19191
+2026-07-16T14:15:46+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19192
