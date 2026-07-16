@@ -7995,3 +7995,30 @@
 2026-07-16T08:27:33+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19151
 2026-07-16T08:27:33+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19152
 2026-07-16T08:27:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19153
+2026-07-16T10:28:22+0000 INFO Fetched page: 239 total IDs, 10 rendered details
+2026-07-16T10:28:22+0000 INFO 12 new offer(s) found
+2026-07-16T10:28:22+0000 WARNING ID 19154 not in top-10 details (>10 new in one window?)
+2026-07-16T10:28:22+0000 INFO Telegram sent: 🏠 New offer (ID 19154) — details not rendered, see site:
+🔗 h
+2026-07-16T10:28:22+0000 WARNING ID 19155 not in top-10 details (>10 new in one window?)
+2026-07-16T10:28:23+0000 INFO Telegram sent: 🏠 New offer (ID 19155) — details not rendered, see site:
+🔗 h
+2026-07-16T10:28:23+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19156
+2026-07-16T10:28:23+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19157
+2026-07-16T10:28:23+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19159
+2026-07-16T10:28:23+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Teic
+2026-07-16T10:28:23+0000 INFO Notified: ID 19160 — Teichgräberzeile 8, 13627 Charlottenburg-Wilmersdorf
+2026-07-16T10:28:23+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19161
+2026-07-16T10:28:23+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Waldsassen
+2026-07-16T10:28:23+0000 INFO Notified: ID 19162 — Waldsassener Straße 29, 12279 Tempelhof-Schöneberg
+2026-07-16T10:28:23+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 In den Bauerngärten 10
+2026-07-16T10:28:23+0000 INFO Notified: ID 19163 — In den Bauerngärten 10, 12349 Neukölln
+2026-07-16T10:28:23+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19164
+2026-07-16T10:28:23+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19165
+2026-07-16T10:28:23+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19166
