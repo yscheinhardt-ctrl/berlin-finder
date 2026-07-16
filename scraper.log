@@ -8022,3 +8022,42 @@
 2026-07-16T10:28:23+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19164
 2026-07-16T10:28:23+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19165
 2026-07-16T10:28:23+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19166
+2026-07-16T12:03:10+0000 INFO Fetched page: 246 total IDs, 10 rendered details
+2026-07-16T12:03:10+0000 INFO 12 new offer(s) found
+2026-07-16T12:03:10+0000 WARNING ID 19167 not in top-10 details (>10 new in one window?)
+2026-07-16T12:03:11+0000 INFO Telegram sent: 🏠 New offer (ID 19167) — details not rendered, see site:
+🔗 h
+2026-07-16T12:03:11+0000 WARNING ID 19168 not in top-10 details (>10 new in one window?)
+2026-07-16T12:03:11+0000 INFO Telegram sent: 🏠 New offer (ID 19168) — details not rendered, see site:
+🔗 h
+2026-07-16T12:03:12+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Dyrekeweg 5, 12349 Neu
+2026-07-16T12:03:12+0000 INFO Notified: ID 19169 — Dyrekeweg 5, 12349 Neukölln
+2026-07-16T12:03:12+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Knyphausenweg 4, 12349
+2026-07-16T12:03:12+0000 INFO Notified: ID 19170 — Knyphausenweg 4, 12349 Neukölln
+2026-07-16T12:03:13+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-07-16T12:03:13+0000 INFO Notified: ID 19171 — Tirschenreuther Ring 5, 12279 Tempelhof-Schöneberg
+2026-07-16T12:03:13+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 An den Buckower Felder
+2026-07-16T12:03:13+0000 INFO Notified: ID 19173 — An den Buckower Feldern 10, 12349 Neukölln
+2026-07-16T12:03:14+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 An den Buckower Felder
+2026-07-16T12:03:14+0000 INFO Notified: ID 19174 — An den Buckower Feldern 8, 12349 Neukölln
+2026-07-16T12:03:15+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Gensweg 3, 12349 Neukö
+2026-07-16T12:03:15+0000 INFO Notified: ID 19175 — Gensweg 3, 12349 Neukölln
+2026-07-16T12:03:15+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19176
+2026-07-16T12:03:15+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Lichterfel
+2026-07-16T12:03:15+0000 INFO Notified: ID 19177 — Lichterfelder Ring 81, 12279 Tempelhof-Schöneberg
+2026-07-16T12:03:15+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19178
+2026-07-16T12:03:15+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19179
