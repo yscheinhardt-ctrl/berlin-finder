@@ -7976,3 +7976,7 @@
 2026-07-16T00:10:57+0000 INFO 0 new offer(s) found
 2026-07-16T03:36:53+0000 INFO Fetched page: 233 total IDs, 10 rendered details
 2026-07-16T03:36:53+0000 INFO 0 new offer(s) found
+2026-07-16T06:02:14+0000 INFO Fetched page: 233 total IDs, 10 rendered details
+2026-07-16T06:02:14+0000 INFO 2 new offer(s) found
+2026-07-16T06:02:14+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19145
+2026-07-16T06:02:14+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19146
