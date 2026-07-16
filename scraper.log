@@ -8097,3 +8097,9 @@
 2026-07-16T16:56:58+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19204
 2026-07-16T16:56:58+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19206
 2026-07-16T16:56:58+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19207
+2026-07-16T18:07:41+0000 INFO Fetched page: 255 total IDs, 10 rendered details
+2026-07-16T18:07:41+0000 INFO 1 new offer(s) found
+2026-07-16T18:07:41+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Dolzig
+2026-07-16T18:07:41+0000 INFO Notified: ID 19208 — Dolziger Straße 10, 10247 Friedrichshain-Kreuzberg
