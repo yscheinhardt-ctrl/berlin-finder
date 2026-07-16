@@ -8087,3 +8087,13 @@
 2026-07-16T15:49:08+0000 INFO Notified: ID 19196 — Mollnerweg 35A, 12353 Neukölln
 2026-07-16T15:49:08+0000 INFO Skipped (district Spandau not in allowlist): ID 19197
 2026-07-16T15:49:08+0000 INFO Skipped (district Spandau not in allowlist): ID 19198
+2026-07-16T16:56:58+0000 INFO Fetched page: 257 total IDs, 10 rendered details
+2026-07-16T16:56:58+0000 INFO 8 new offer(s) found
+2026-07-16T16:56:58+0000 INFO Skipped (district Spandau not in allowlist): ID 19199
+2026-07-16T16:56:58+0000 INFO Skipped (district Spandau not in allowlist): ID 19200
+2026-07-16T16:56:58+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 19201
+2026-07-16T16:56:58+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19202
+2026-07-16T16:56:58+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19203
+2026-07-16T16:56:58+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19204
+2026-07-16T16:56:58+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19206
+2026-07-16T16:56:58+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19207
