@@ -8168,3 +8168,19 @@
 2026-07-17T10:25:02+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19234
 2026-07-17T10:25:02+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19235
 2026-07-17T10:25:02+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19236
+2026-07-17T11:51:31+0000 INFO Fetched page: 259 total IDs, 10 rendered details
+2026-07-17T11:51:31+0000 INFO 8 new offer(s) found
+2026-07-17T11:51:32+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Neudecker Weg 103, 123
+2026-07-17T11:51:32+0000 INFO Notified: ID 19238 — Neudecker Weg 103, 12355 Neukölln
+2026-07-17T11:51:32+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19239
+2026-07-17T11:51:32+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19240
+2026-07-17T11:51:32+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19241
+2026-07-17T11:51:32+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Am Eichenquast 52, 123
+2026-07-17T11:51:32+0000 INFO Notified: ID 19242 — Am Eichenquast 52, 12353 Neukölln
+2026-07-17T11:51:32+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19243
+2026-07-17T11:51:32+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19244
+2026-07-17T11:51:32+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19245
