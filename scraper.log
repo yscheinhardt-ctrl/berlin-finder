@@ -8208,3 +8208,12 @@
 
 📍 Höhndorfst
 2026-07-17T16:04:31+0000 INFO Notified: ID 19256 — Höhndorfstraße 18, 12101 Tempelhof-Schöneberg
+2026-07-17T17:21:08+0000 INFO Fetched page: 264 total IDs, 10 rendered details
+2026-07-17T17:21:08+0000 INFO 7 new offer(s) found
+2026-07-17T17:21:08+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19257
+2026-07-17T17:21:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19258
+2026-07-17T17:21:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19259
+2026-07-17T17:21:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19260
+2026-07-17T17:21:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19261
+2026-07-17T17:21:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19262
+2026-07-17T17:21:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19263
