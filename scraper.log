@@ -8189,3 +8189,11 @@
 2026-07-17T12:59:42+0000 INFO Skipped (district Spandau not in allowlist): ID 19247
 2026-07-17T12:59:42+0000 INFO Skipped (district Spandau not in allowlist): ID 19248
 2026-07-17T12:59:42+0000 INFO Skipped (district Spandau not in allowlist): ID 19249
+2026-07-17T14:49:57+0000 INFO Fetched page: 262 total IDs, 10 rendered details
+2026-07-17T14:49:57+0000 INFO 3 new offer(s) found
+2026-07-17T14:49:58+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Klara-Franke-Straße 1, 10
+2026-07-17T14:49:58+0000 INFO Notified: ID 19250 — Klara-Franke-Straße 1, 10557 Mitte
+2026-07-17T14:49:58+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19251
+2026-07-17T14:49:58+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19252
