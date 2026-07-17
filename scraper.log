@@ -8150,3 +8150,21 @@
 2026-07-17T08:38:45+0000 INFO Notified: ID 19221 — Am Straßenbahnhof 43, 12347 Neukölln
 2026-07-17T08:38:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19222
 2026-07-17T08:38:45+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19223
+2026-07-17T10:25:02+0000 INFO Fetched page: 254 total IDs, 10 rendered details
+2026-07-17T10:25:02+0000 INFO 12 new offer(s) found
+2026-07-17T10:25:02+0000 WARNING ID 19224 not in top-10 details (>10 new in one window?)
+2026-07-17T10:25:02+0000 INFO Telegram sent: 🏠 New offer (ID 19224) — details not rendered, see site:
+🔗 h
+2026-07-17T10:25:02+0000 WARNING ID 19225 not in top-10 details (>10 new in one window?)
+2026-07-17T10:25:02+0000 INFO Telegram sent: 🏠 New offer (ID 19225) — details not rendered, see site:
+🔗 h
+2026-07-17T10:25:02+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19226
+2026-07-17T10:25:02+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19227
+2026-07-17T10:25:02+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19228
+2026-07-17T10:25:02+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19229
+2026-07-17T10:25:02+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19230
+2026-07-17T10:25:02+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19232
+2026-07-17T10:25:02+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19233
+2026-07-17T10:25:02+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19234
+2026-07-17T10:25:02+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19235
+2026-07-17T10:25:02+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19236
