@@ -8283,3 +8283,6 @@
 2026-07-19T10:13:17+0000 INFO 0 new offer(s) found
 2026-07-19T11:31:47+0000 INFO Fetched page: 260 total IDs, 10 rendered details
 2026-07-19T11:31:47+0000 INFO 0 new offer(s) found
+2026-07-19T12:30:00+0000 INFO Fetched page: 261 total IDs, 10 rendered details
+2026-07-19T12:30:00+0000 INFO 1 new offer(s) found
+2026-07-19T12:30:00+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19270
