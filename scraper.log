@@ -8350,3 +8350,17 @@
 2026-07-20T14:53:35+0000 INFO Fetched page: 241 total IDs, 10 rendered details
 2026-07-20T14:53:35+0000 INFO 1 new offer(s) found
 2026-07-20T14:53:35+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19295
+2026-07-20T16:20:48+0000 INFO Fetched page: 244 total IDs, 10 rendered details
+2026-07-20T16:20:48+0000 INFO 6 new offer(s) found
+2026-07-20T16:20:48+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19296
+2026-07-20T16:20:48+0000 INFO Skipped (district Spandau not in allowlist): ID 19297
+2026-07-20T16:20:48+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Weinst
+2026-07-20T16:20:48+0000 INFO Notified: ID 19298 — Weinstraße 11, 10249 Friedrichshain-Kreuzberg
+2026-07-20T16:20:49+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Höchst
+2026-07-20T16:20:49+0000 INFO Notified: ID 19299 — Höchste Straße 6, 10249 Friedrichshain-Kreuzberg
+2026-07-20T16:20:49+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19300
+2026-07-20T16:20:49+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19301
