@@ -8347,3 +8347,6 @@
 
 📍 Rudower Straße 52, 123
 2026-07-20T12:36:12+0000 INFO Notified: ID 19292 — Rudower Straße 52, 12351 Neukölln
+2026-07-20T14:53:35+0000 INFO Fetched page: 241 total IDs, 10 rendered details
+2026-07-20T14:53:35+0000 INFO 1 new offer(s) found
+2026-07-20T14:53:35+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19295
