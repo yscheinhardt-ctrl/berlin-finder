@@ -8364,3 +8364,5 @@
 2026-07-20T16:20:49+0000 INFO Notified: ID 19299 — Höchste Straße 6, 10249 Friedrichshain-Kreuzberg
 2026-07-20T16:20:49+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19300
 2026-07-20T16:20:49+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19301
+2026-07-20T18:25:22+0000 INFO Fetched page: 240 total IDs, 10 rendered details
+2026-07-20T18:25:22+0000 INFO 0 new offer(s) found
