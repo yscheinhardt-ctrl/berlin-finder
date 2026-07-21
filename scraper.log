@@ -8468,3 +8468,21 @@
 📍 Gartenstraße 51, 13355 Mi
 2026-07-21T11:26:13+0000 INFO Notified: ID 19336 — Gartenstraße 51, 13355 Mitte
 2026-07-21T11:26:13+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19337
+2026-07-21T12:53:21+0000 INFO Fetched page: 256 total IDs, 10 rendered details
+2026-07-21T12:53:21+0000 INFO 4 new offer(s) found
+2026-07-21T12:53:21+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Biesentaler Straße 9, 133
+2026-07-21T12:53:21+0000 INFO Notified: ID 19338 — Biesentaler Straße 9, 13359 Mitte
+2026-07-21T12:53:22+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Wedeki
+2026-07-21T12:53:22+0000 INFO Notified: ID 19339 — Wedekindstraße 11, 10243 Friedrichshain-Kreuzberg
+2026-07-21T12:53:22+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Bremer Straße 11, 10551 M
+2026-07-21T12:53:22+0000 INFO Notified: ID 19340 — Bremer Straße 11, 10551 Mitte
+2026-07-21T12:53:23+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Alt-Britz 107, 12359 N
+2026-07-21T12:53:23+0000 INFO Notified: ID 19341 — Alt-Britz 107, 12359 Neukölln
