@@ -8399,3 +8399,30 @@
 
 📍 Fritz-Erler-Allee 166,
 2026-07-21T07:04:44+0000 INFO Notified: ID 19309 — Fritz-Erler-Allee 166, 12353 Neukölln
+2026-07-21T09:34:53+0000 INFO Fetched page: 243 total IDs, 10 rendered details
+2026-07-21T09:34:53+0000 INFO 10 new offer(s) found
+2026-07-21T09:34:53+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19310
+2026-07-21T09:34:53+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19311
+2026-07-21T09:34:53+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Iranische Straße 4B, 1334
+2026-07-21T09:34:53+0000 INFO Notified: ID 19312 — Iranische Straße 4B, 13347 Mitte
+2026-07-21T09:34:53+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19313
+2026-07-21T09:34:53+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Iranische Straße 4B, 1334
+2026-07-21T09:34:53+0000 INFO Notified: ID 19314 — Iranische Straße 4B, 13347 Mitte
+2026-07-21T09:34:54+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Iranische Straße 4B, 1334
+2026-07-21T09:34:54+0000 INFO Notified: ID 19315 — Iranische Straße 4B, 13347 Mitte
+2026-07-21T09:34:54+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Iranische Straße 4B, 1334
+2026-07-21T09:34:54+0000 INFO Notified: ID 19316 — Iranische Straße 4B, 13347 Mitte
+2026-07-21T09:34:54+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Horstwalde
+2026-07-21T09:34:54+0000 INFO Notified: ID 19317 — Horstwalder Straße 5, 12307 Tempelhof-Schöneberg
+2026-07-21T09:34:54+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19318
+2026-07-21T09:34:54+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19319
