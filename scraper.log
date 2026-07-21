@@ -8426,3 +8426,45 @@
 2026-07-21T09:34:54+0000 INFO Notified: ID 19317 — Horstwalder Straße 5, 12307 Tempelhof-Schöneberg
 2026-07-21T09:34:54+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19318
 2026-07-21T09:34:54+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19319
+2026-07-21T11:26:09+0000 INFO Fetched page: 256 total IDs, 10 rendered details
+2026-07-21T11:26:09+0000 INFO 16 new offer(s) found
+2026-07-21T11:26:09+0000 WARNING ID 19320 not in top-10 details (>10 new in one window?)
+2026-07-21T11:26:10+0000 INFO Telegram sent: 🏠 New offer (ID 19320) — details not rendered, see site:
+🔗 h
+2026-07-21T11:26:10+0000 WARNING ID 19321 not in top-10 details (>10 new in one window?)
+2026-07-21T11:26:10+0000 INFO Telegram sent: 🏠 New offer (ID 19321) — details not rendered, see site:
+🔗 h
+2026-07-21T11:26:10+0000 WARNING ID 19322 not in top-10 details (>10 new in one window?)
+2026-07-21T11:26:10+0000 INFO Telegram sent: 🏠 New offer (ID 19322) — details not rendered, see site:
+🔗 h
+2026-07-21T11:26:10+0000 WARNING ID 19325 not in top-10 details (>10 new in one window?)
+2026-07-21T11:26:11+0000 INFO Telegram sent: 🏠 New offer (ID 19325) — details not rendered, see site:
+🔗 h
+2026-07-21T11:26:11+0000 WARNING ID 19326 not in top-10 details (>10 new in one window?)
+2026-07-21T11:26:11+0000 INFO Telegram sent: 🏠 New offer (ID 19326) — details not rendered, see site:
+🔗 h
+2026-07-21T11:26:11+0000 WARNING ID 19327 not in top-10 details (>10 new in one window?)
+2026-07-21T11:26:12+0000 INFO Telegram sent: 🏠 New offer (ID 19327) — details not rendered, see site:
+🔗 h
+2026-07-21T11:26:12+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19328
+2026-07-21T11:26:12+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 19329
+2026-07-21T11:26:12+0000 INFO Skipped (district Spandau not in allowlist): ID 19330
+2026-07-21T11:26:12+0000 INFO Skipped (district Spandau not in allowlist): ID 19331
+2026-07-21T11:26:12+0000 INFO Skipped (district Spandau not in allowlist): ID 19332
+2026-07-21T11:26:12+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Marchl
+2026-07-21T11:26:12+0000 INFO Notified: ID 19333 — Marchlewskistraße 16, 10243 Friedrichshain-Kreuzberg
+2026-07-21T11:26:12+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Malchiner Straße 64, 1
+2026-07-21T11:26:12+0000 INFO Notified: ID 19334 — Malchiner Straße 64, 12359 Neukölln
+2026-07-21T11:26:13+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Luitpoldst
+2026-07-21T11:26:13+0000 INFO Notified: ID 19335 — Luitpoldstraße 28, 10777 Tempelhof-Schöneberg
+2026-07-21T11:26:13+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Gartenstraße 51, 13355 Mi
+2026-07-21T11:26:13+0000 INFO Notified: ID 19336 — Gartenstraße 51, 13355 Mitte
+2026-07-21T11:26:13+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19337
