@@ -8486,3 +8486,36 @@
 
 📍 Alt-Britz 107, 12359 N
 2026-07-21T12:53:23+0000 INFO Notified: ID 19341 — Alt-Britz 107, 12359 Neukölln
+2026-07-21T14:58:55+0000 INFO Fetched page: 258 total IDs, 10 rendered details
+2026-07-21T14:58:55+0000 INFO 13 new offer(s) found
+2026-07-21T14:58:55+0000 WARNING ID 19342 not in top-10 details (>10 new in one window?)
+2026-07-21T14:58:55+0000 INFO Telegram sent: 🏠 New offer (ID 19342) — details not rendered, see site:
+🔗 h
+2026-07-21T14:58:55+0000 WARNING ID 19343 not in top-10 details (>10 new in one window?)
+2026-07-21T14:58:55+0000 INFO Telegram sent: 🏠 New offer (ID 19343) — details not rendered, see site:
+🔗 h
+2026-07-21T14:58:55+0000 WARNING ID 19344 not in top-10 details (>10 new in one window?)
+2026-07-21T14:58:56+0000 INFO Telegram sent: 🏠 New offer (ID 19344) — details not rendered, see site:
+🔗 h
+2026-07-21T14:58:56+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Innsbrucke
+2026-07-21T14:58:56+0000 INFO Notified: ID 19346 — Innsbrucker Platz 4, 10827 Tempelhof-Schöneberg
+2026-07-21T14:58:56+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Martin-Lut
+2026-07-21T14:58:56+0000 INFO Notified: ID 19348 — Martin-Luther-Straße 25, 10777 Tempelhof-Schöneberg
+2026-07-21T14:58:56+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19350
+2026-07-21T14:58:56+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19351
+2026-07-21T14:58:56+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19352
+2026-07-21T14:58:56+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19353
+2026-07-21T14:58:56+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19354
+2026-07-21T14:58:57+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Karl-Marx-Allee 41, 10178
+2026-07-21T14:58:57+0000 INFO Notified: ID 19355 — Karl-Marx-Allee 41, 10178 Mitte
+2026-07-21T14:58:57+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Löwest
+2026-07-21T14:58:57+0000 INFO Notified: ID 19356 — Löwestraße 27, 10249 Friedrichshain-Kreuzberg
+2026-07-21T14:58:57+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19357
