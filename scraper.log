@@ -8559,3 +8559,45 @@
 2026-07-22T07:15:16+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19370
 2026-07-22T07:15:16+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19371
 2026-07-22T07:15:16+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19372
+2026-07-22T09:41:02+0000 INFO Fetched page: 264 total IDs, 10 rendered details
+2026-07-22T09:41:02+0000 INFO 17 new offer(s) found
+2026-07-22T09:41:02+0000 WARNING ID 19373 not in top-10 details (>10 new in one window?)
+2026-07-22T09:41:02+0000 INFO Telegram sent: 🏠 New offer (ID 19373) — details not rendered, see site:
+🔗 h
+2026-07-22T09:41:02+0000 WARNING ID 19374 not in top-10 details (>10 new in one window?)
+2026-07-22T09:41:02+0000 INFO Telegram sent: 🏠 New offer (ID 19374) — details not rendered, see site:
+🔗 h
+2026-07-22T09:41:02+0000 WARNING ID 19375 not in top-10 details (>10 new in one window?)
+2026-07-22T09:41:03+0000 INFO Telegram sent: 🏠 New offer (ID 19375) — details not rendered, see site:
+🔗 h
+2026-07-22T09:41:03+0000 WARNING ID 19376 not in top-10 details (>10 new in one window?)
+2026-07-22T09:41:03+0000 INFO Telegram sent: 🏠 New offer (ID 19376) — details not rendered, see site:
+🔗 h
+2026-07-22T09:41:03+0000 WARNING ID 19377 not in top-10 details (>10 new in one window?)
+2026-07-22T09:41:04+0000 INFO Telegram sent: 🏠 New offer (ID 19377) — details not rendered, see site:
+🔗 h
+2026-07-22T09:41:04+0000 WARNING ID 19378 not in top-10 details (>10 new in one window?)
+2026-07-22T09:41:04+0000 INFO Telegram sent: 🏠 New offer (ID 19378) — details not rendered, see site:
+🔗 h
+2026-07-22T09:41:04+0000 WARNING ID 19379 not in top-10 details (>10 new in one window?)
+2026-07-22T09:41:05+0000 INFO Telegram sent: 🏠 New offer (ID 19379) — details not rendered, see site:
+🔗 h
+2026-07-22T09:41:05+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Theodor-Loos-Weg 16, 1
+2026-07-22T09:41:05+0000 INFO Notified: ID 19380 — Theodor-Loos-Weg 16, 12353 Neukölln
+2026-07-22T09:41:05+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19381
+2026-07-22T09:41:05+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19382
+2026-07-22T09:41:05+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19383
+2026-07-22T09:41:05+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19384
+2026-07-22T09:41:05+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Reic
+2026-07-22T09:41:05+0000 INFO Notified: ID 19385 — Reichweindamm 12, 13627 Charlottenburg-Wilmersdorf
+2026-07-22T09:41:05+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19386
+2026-07-22T09:41:06+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Klau
+2026-07-22T09:41:06+0000 INFO Notified: ID 19387 — Klausingring 1, 13627 Charlottenburg-Wilmersdorf
+2026-07-22T09:41:06+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19388
+2026-07-22T09:41:06+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19389
