@@ -8549,3 +8549,13 @@
 2026-07-22T01:06:46+0000 INFO 0 new offer(s) found
 2026-07-22T04:30:23+0000 INFO Fetched page: 251 total IDs, 10 rendered details
 2026-07-22T04:30:23+0000 INFO 0 new offer(s) found
+2026-07-22T07:15:16+0000 INFO Fetched page: 254 total IDs, 10 rendered details
+2026-07-22T07:15:16+0000 INFO 8 new offer(s) found
+2026-07-22T07:15:16+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19364
+2026-07-22T07:15:16+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19366
+2026-07-22T07:15:16+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19367
+2026-07-22T07:15:16+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19368
+2026-07-22T07:15:16+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19369
+2026-07-22T07:15:16+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19370
+2026-07-22T07:15:16+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19371
+2026-07-22T07:15:16+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19372
