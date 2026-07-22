@@ -8640,3 +8640,30 @@
 
 📍 Brunnenstraße 65, 13355 M
 2026-07-22T13:04:33+0000 INFO Notified: ID 19412 — Brunnenstraße 65, 13355 Mitte
+2026-07-22T16:47:14+0000 INFO Fetched page: 269 total IDs, 10 rendered details
+2026-07-22T16:47:14+0000 INFO 10 new offer(s) found
+2026-07-22T16:47:14+0000 INFO Skipped (district Spandau not in allowlist): ID 19413
+2026-07-22T16:47:14+0000 INFO Skipped (district Spandau not in allowlist): ID 19414
+2026-07-22T16:47:15+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Lützowstraße 7, 10785 Mit
+2026-07-22T16:47:15+0000 INFO Notified: ID 19415 — Lützowstraße 7, 10785 Mitte
+2026-07-22T16:47:15+0000 INFO Skipped (district Spandau not in allowlist): ID 19416
+2026-07-22T16:47:15+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Habe
+2026-07-22T16:47:15+0000 INFO Notified: ID 19417 — Habermannzeile 21A, 13627 Charlottenburg-Wilmersdorf
+2026-07-22T16:47:15+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19418
+2026-07-22T16:47:15+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 In den Bauerngärten 12
+2026-07-22T16:47:15+0000 INFO Notified: ID 19419 — In den Bauerngärten 12, 12349 Neukölln
+2026-07-22T16:47:15+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19420
+2026-07-22T16:47:16+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Mollst
+2026-07-22T16:47:16+0000 INFO Notified: ID 19421 — Mollstraße 24, 10249 Friedrichshain-Kreuzberg
+2026-07-22T16:47:16+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Platz 
+2026-07-22T16:47:16+0000 INFO Notified: ID 19422 — Platz der Vereinten Nationen 1, 10249 Friedrichshain-Kreuzberg
