@@ -8616,3 +8616,27 @@
 2026-07-22T11:29:27+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19397
 2026-07-22T11:29:27+0000 INFO Skipped (district Pankow not in allowlist): ID 19398
 2026-07-22T11:29:27+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19399
+2026-07-22T13:04:32+0000 INFO Fetched page: 267 total IDs, 10 rendered details
+2026-07-22T13:04:32+0000 INFO 12 new offer(s) found
+2026-07-22T13:04:32+0000 WARNING ID 19400 not in top-10 details (>10 new in one window?)
+2026-07-22T13:04:32+0000 INFO Telegram sent: 🏠 New offer (ID 19400) — details not rendered, see site:
+🔗 h
+2026-07-22T13:04:32+0000 WARNING ID 19401 not in top-10 details (>10 new in one window?)
+2026-07-22T13:04:33+0000 INFO Telegram sent: 🏠 New offer (ID 19401) — details not rendered, see site:
+🔗 h
+2026-07-22T13:04:33+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Knyphausenweg 8, 12349
+2026-07-22T13:04:33+0000 INFO Notified: ID 19402 — Knyphausenweg 8, 12349 Neukölln
+2026-07-22T13:04:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19403
+2026-07-22T13:04:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19404
+2026-07-22T13:04:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19405
+2026-07-22T13:04:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19406
+2026-07-22T13:04:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19407
+2026-07-22T13:04:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19408
+2026-07-22T13:04:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19409
+2026-07-22T13:04:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19410
+2026-07-22T13:04:33+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Brunnenstraße 65, 13355 M
+2026-07-22T13:04:33+0000 INFO Notified: ID 19412 — Brunnenstraße 65, 13355 Mitte
