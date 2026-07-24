@@ -8908,3 +8908,18 @@
 2026-07-24T04:29:26+0000 INFO 0 new offer(s) found
 2026-07-24T07:11:13+0000 INFO Fetched page: 294 total IDs, 10 rendered details
 2026-07-24T07:11:13+0000 INFO 0 new offer(s) found
+2026-07-24T09:34:06+0000 INFO Fetched page: 293 total IDs, 10 rendered details
+2026-07-24T09:34:06+0000 INFO 7 new offer(s) found
+2026-07-24T09:34:06+0000 INFO Skipped (district Pankow not in allowlist): ID 19498
+2026-07-24T09:34:06+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19500
+2026-07-24T09:34:06+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19501
+2026-07-24T09:34:06+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Wutzkyallee 75, 12353 
+2026-07-24T09:34:06+0000 INFO Notified: ID 19502 — Wutzkyallee 75, 12353 Neukölln
+2026-07-24T09:34:06+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Käthe-Dorsch-Ring 1, 1
+2026-07-24T09:34:06+0000 INFO Notified: ID 19503 — Käthe-Dorsch-Ring 1, 12353 Neukölln
+2026-07-24T09:34:06+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19504
+2026-07-24T09:34:06+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 19505
