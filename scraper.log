@@ -8933,3 +8933,21 @@
 2026-07-24T11:20:32+0000 INFO Skipped (district Spandau not in allowlist): ID 19513
 2026-07-24T11:20:32+0000 INFO Skipped (district Spandau not in allowlist): ID 19514
 2026-07-24T11:20:32+0000 INFO Skipped (district Spandau not in allowlist): ID 19515
+2026-07-24T12:50:26+0000 INFO Fetched page: 288 total IDs, 10 rendered details
+2026-07-24T12:50:26+0000 INFO 10 new offer(s) found
+2026-07-24T12:50:26+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19516
+2026-07-24T12:50:26+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19517
+2026-07-24T12:50:26+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19518
+2026-07-24T12:50:26+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19519
+2026-07-24T12:50:26+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19520
+2026-07-24T12:50:27+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Frobenstra
+2026-07-24T12:50:27+0000 INFO Notified: ID 19521 — Frobenstraße 10, 10783 Tempelhof-Schöneberg
+2026-07-24T12:50:27+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Neudecker Weg 13, 1235
+2026-07-24T12:50:27+0000 INFO Notified: ID 19522 — Neudecker Weg 13, 12355 Neukölln
+2026-07-24T12:50:27+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19523
+2026-07-24T12:50:27+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19524
+2026-07-24T12:50:27+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19525
