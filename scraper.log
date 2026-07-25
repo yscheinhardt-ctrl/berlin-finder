@@ -8994,3 +8994,9 @@
 2026-07-25T12:47:49+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19530
 2026-07-25T14:21:59+0000 INFO Fetched page: 277 total IDs, 10 rendered details
 2026-07-25T14:21:59+0000 INFO 0 new offer(s) found
+2026-07-25T15:34:37+0000 INFO Fetched page: 278 total IDs, 10 rendered details
+2026-07-25T15:34:37+0000 INFO 1 new offer(s) found
+2026-07-25T15:34:37+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Schererstraße 3, 13347 Mi
+2026-07-25T15:34:37+0000 INFO Notified: ID 19531 — Schererstraße 3, 13347 Mitte
