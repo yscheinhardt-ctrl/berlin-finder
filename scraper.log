@@ -9165,3 +9165,45 @@
 
 📍 Hild
 2026-07-27T11:55:06+0000 INFO Notified: ID 19578 — Hildegardstraße 4, 10715 Charlottenburg-Wilmersdorf
+2026-07-27T14:27:58+0000 INFO Fetched page: 302 total IDs, 10 rendered details
+2026-07-27T14:27:58+0000 INFO 16 new offer(s) found
+2026-07-27T14:27:58+0000 WARNING ID 19580 not in top-10 details (>10 new in one window?)
+2026-07-27T14:27:59+0000 INFO Telegram sent: 🏠 New offer (ID 19580) — details not rendered, see site:
+🔗 h
+2026-07-27T14:27:59+0000 WARNING ID 19582 not in top-10 details (>10 new in one window?)
+2026-07-27T14:27:59+0000 INFO Telegram sent: 🏠 New offer (ID 19582) — details not rendered, see site:
+🔗 h
+2026-07-27T14:27:59+0000 WARNING ID 19583 not in top-10 details (>10 new in one window?)
+2026-07-27T14:28:00+0000 INFO Telegram sent: 🏠 New offer (ID 19583) — details not rendered, see site:
+🔗 h
+2026-07-27T14:28:00+0000 WARNING ID 19584 not in top-10 details (>10 new in one window?)
+2026-07-27T14:28:00+0000 INFO Telegram sent: 🏠 New offer (ID 19584) — details not rendered, see site:
+🔗 h
+2026-07-27T14:28:00+0000 WARNING ID 19585 not in top-10 details (>10 new in one window?)
+2026-07-27T14:28:01+0000 INFO Telegram sent: 🏠 New offer (ID 19585) — details not rendered, see site:
+🔗 h
+2026-07-27T14:28:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Memhardstraße 1, 10178 Mi
+2026-07-27T14:28:01+0000 INFO Notified: ID 19586 — Memhardstraße 1, 10178 Mitte
+2026-07-27T14:28:01+0000 WARNING ID 19587 not in top-10 details (>10 new in one window?)
+2026-07-27T14:28:02+0000 INFO Telegram sent: 🏠 New offer (ID 19587) — details not rendered, see site:
+🔗 h
+2026-07-27T14:28:02+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Spandauer Straße 2, 10178
+2026-07-27T14:28:02+0000 INFO Notified: ID 19588 — Spandauer Straße 2, 10178 Mitte
+2026-07-27T14:28:03+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Spandauer Straße 2, 10178
+2026-07-27T14:28:03+0000 INFO Notified: ID 19589 — Spandauer Straße 2, 10178 Mitte
+2026-07-27T14:28:03+0000 INFO Skipped (district Spandau not in allowlist): ID 19590
+2026-07-27T14:28:03+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19591
+2026-07-27T14:28:03+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19592
+2026-07-27T14:28:03+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19593
+2026-07-27T14:28:03+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Knyphausenweg 4, 12349
+2026-07-27T14:28:03+0000 INFO Notified: ID 19594 — Knyphausenweg 4, 12349 Neukölln
+2026-07-27T14:28:03+0000 INFO Skipped (district Spandau not in allowlist): ID 19595
+2026-07-27T14:28:03+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19596
