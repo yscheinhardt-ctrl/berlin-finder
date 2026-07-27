@@ -9057,3 +9057,33 @@
 2026-07-27T01:17:48+0000 INFO 0 new offer(s) found
 2026-07-27T04:56:26+0000 INFO Fetched page: 272 total IDs, 10 rendered details
 2026-07-27T04:56:26+0000 INFO 0 new offer(s) found
+2026-07-27T08:31:35+0000 INFO Fetched page: 274 total IDs, 10 rendered details
+2026-07-27T08:31:35+0000 INFO 11 new offer(s) found
+2026-07-27T08:31:35+0000 WARNING ID 19538 not in top-10 details (>10 new in one window?)
+2026-07-27T08:31:35+0000 INFO Telegram sent: 🏠 New offer (ID 19538) — details not rendered, see site:
+🔗 h
+2026-07-27T08:31:35+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19539
+2026-07-27T08:31:35+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Span
+2026-07-27T08:31:35+0000 INFO Notified: ID 19540 — Spandauer Damm 169, 14050 Charlottenburg-Wilmersdorf
+2026-07-27T08:31:35+0000 INFO Skipped (district Pankow not in allowlist): ID 19541
+2026-07-27T08:31:35+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19542
+2026-07-27T08:31:35+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19543
+2026-07-27T08:31:35+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19544
+2026-07-27T08:31:36+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Prin
+2026-07-27T08:31:36+0000 INFO Notified: ID 19545 — Prinzregentenstraße 21, 10715 Charlottenburg-Wilmersdorf
+2026-07-27T08:31:36+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Neuköllner Straße 308,
+2026-07-27T08:31:36+0000 INFO Notified: ID 19546 — Neuköllner Straße 308, 12357 Neukölln
+2026-07-27T08:31:36+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Bornhagenw
+2026-07-27T08:31:36+0000 INFO Notified: ID 19547 — Bornhagenweg 43, 12309 Tempelhof-Schöneberg
+2026-07-27T08:31:37+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Naunyn
+2026-07-27T08:31:37+0000 INFO Notified: ID 19548 — Naunynstraße 2, 10997 Friedrichshain-Kreuzberg
