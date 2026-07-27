@@ -9220,3 +9220,13 @@
 📍 An den Weiden 9, 12349
 2026-07-27T16:38:49+0000 INFO Notified: ID 19600 — An den Weiden 9, 12349 Neukölln
 2026-07-27T16:38:49+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19601
+2026-07-27T18:12:33+0000 INFO Fetched page: 289 total IDs, 10 rendered details
+2026-07-27T18:12:33+0000 INFO 2 new offer(s) found
+2026-07-27T18:12:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Iranische Straße 4B, 1334
+2026-07-27T18:12:34+0000 INFO Notified: ID 19602 — Iranische Straße 4B, 13347 Mitte
+2026-07-27T18:12:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Iranische Straße 4B, 1334
+2026-07-27T18:12:34+0000 INFO Notified: ID 19603 — Iranische Straße 4B, 13347 Mitte
