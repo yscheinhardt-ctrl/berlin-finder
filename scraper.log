@@ -9207,3 +9207,16 @@
 2026-07-27T14:28:03+0000 INFO Notified: ID 19594 — Knyphausenweg 4, 12349 Neukölln
 2026-07-27T14:28:03+0000 INFO Skipped (district Spandau not in allowlist): ID 19595
 2026-07-27T14:28:03+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19596
+2026-07-27T16:38:48+0000 INFO Fetched page: 292 total IDs, 10 rendered details
+2026-07-27T16:38:48+0000 INFO 5 new offer(s) found
+2026-07-27T16:38:48+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19597
+2026-07-27T16:38:49+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 In den Bauerngärten 10
+2026-07-27T16:38:49+0000 INFO Notified: ID 19598 — In den Bauerngärten 10, 12349 Neukölln
+2026-07-27T16:38:49+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19599
+2026-07-27T16:38:49+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 An den Weiden 9, 12349
+2026-07-27T16:38:49+0000 INFO Notified: ID 19600 — An den Weiden 9, 12349 Neukölln
+2026-07-27T16:38:49+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19601
