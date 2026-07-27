@@ -9087,3 +9087,81 @@
 
 📍 Naunyn
 2026-07-27T08:31:37+0000 INFO Notified: ID 19548 — Naunynstraße 2, 10997 Friedrichshain-Kreuzberg
+2026-07-27T11:54:55+0000 INFO Fetched page: 294 total IDs, 10 rendered details
+2026-07-27T11:54:55+0000 INFO 28 new offer(s) found
+2026-07-27T11:54:55+0000 WARNING ID 19549 not in top-10 details (>10 new in one window?)
+2026-07-27T11:54:55+0000 INFO Telegram sent: 🏠 New offer (ID 19549) — details not rendered, see site:
+🔗 h
+2026-07-27T11:54:55+0000 WARNING ID 19550 not in top-10 details (>10 new in one window?)
+2026-07-27T11:54:56+0000 INFO Telegram sent: 🏠 New offer (ID 19550) — details not rendered, see site:
+🔗 h
+2026-07-27T11:54:56+0000 WARNING ID 19551 not in top-10 details (>10 new in one window?)
+2026-07-27T11:54:57+0000 INFO Telegram sent: 🏠 New offer (ID 19551) — details not rendered, see site:
+🔗 h
+2026-07-27T11:54:57+0000 WARNING ID 19552 not in top-10 details (>10 new in one window?)
+2026-07-27T11:54:57+0000 INFO Telegram sent: 🏠 New offer (ID 19552) — details not rendered, see site:
+🔗 h
+2026-07-27T11:54:57+0000 WARNING ID 19553 not in top-10 details (>10 new in one window?)
+2026-07-27T11:54:58+0000 INFO Telegram sent: 🏠 New offer (ID 19553) — details not rendered, see site:
+🔗 h
+2026-07-27T11:54:58+0000 WARNING ID 19556 not in top-10 details (>10 new in one window?)
+2026-07-27T11:54:58+0000 INFO Telegram sent: 🏠 New offer (ID 19556) — details not rendered, see site:
+🔗 h
+2026-07-27T11:54:58+0000 WARNING ID 19557 not in top-10 details (>10 new in one window?)
+2026-07-27T11:54:59+0000 INFO Telegram sent: 🏠 New offer (ID 19557) — details not rendered, see site:
+🔗 h
+2026-07-27T11:54:59+0000 WARNING ID 19558 not in top-10 details (>10 new in one window?)
+2026-07-27T11:54:59+0000 INFO Telegram sent: 🏠 New offer (ID 19558) — details not rendered, see site:
+🔗 h
+2026-07-27T11:54:59+0000 WARNING ID 19559 not in top-10 details (>10 new in one window?)
+2026-07-27T11:55:00+0000 INFO Telegram sent: 🏠 New offer (ID 19559) — details not rendered, see site:
+🔗 h
+2026-07-27T11:55:00+0000 WARNING ID 19560 not in top-10 details (>10 new in one window?)
+2026-07-27T11:55:00+0000 INFO Telegram sent: 🏠 New offer (ID 19560) — details not rendered, see site:
+🔗 h
+2026-07-27T11:55:00+0000 WARNING ID 19561 not in top-10 details (>10 new in one window?)
+2026-07-27T11:55:01+0000 INFO Telegram sent: 🏠 New offer (ID 19561) — details not rendered, see site:
+🔗 h
+2026-07-27T11:55:01+0000 WARNING ID 19562 not in top-10 details (>10 new in one window?)
+2026-07-27T11:55:01+0000 INFO Telegram sent: 🏠 New offer (ID 19562) — details not rendered, see site:
+🔗 h
+2026-07-27T11:55:01+0000 WARNING ID 19563 not in top-10 details (>10 new in one window?)
+2026-07-27T11:55:02+0000 INFO Telegram sent: 🏠 New offer (ID 19563) — details not rendered, see site:
+🔗 h
+2026-07-27T11:55:02+0000 WARNING ID 19564 not in top-10 details (>10 new in one window?)
+2026-07-27T11:55:02+0000 INFO Telegram sent: 🏠 New offer (ID 19564) — details not rendered, see site:
+🔗 h
+2026-07-27T11:55:02+0000 WARNING ID 19565 not in top-10 details (>10 new in one window?)
+2026-07-27T11:55:03+0000 INFO Telegram sent: 🏠 New offer (ID 19565) — details not rendered, see site:
+🔗 h
+2026-07-27T11:55:03+0000 WARNING ID 19566 not in top-10 details (>10 new in one window?)
+2026-07-27T11:55:03+0000 INFO Telegram sent: 🏠 New offer (ID 19566) — details not rendered, see site:
+🔗 h
+2026-07-27T11:55:03+0000 WARNING ID 19567 not in top-10 details (>10 new in one window?)
+2026-07-27T11:55:04+0000 INFO Telegram sent: 🏠 New offer (ID 19567) — details not rendered, see site:
+🔗 h
+2026-07-27T11:55:04+0000 WARNING ID 19568 not in top-10 details (>10 new in one window?)
+2026-07-27T11:55:04+0000 INFO Telegram sent: 🏠 New offer (ID 19568) — details not rendered, see site:
+🔗 h
+2026-07-27T11:55:05+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Friede
+2026-07-27T11:55:05+0000 INFO Notified: ID 19569 — Friedenstraße 86, 10249 Friedrichshain-Kreuzberg
+2026-07-27T11:55:05+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Lichtenberger Straße 34, 
+2026-07-27T11:55:05+0000 INFO Notified: ID 19570 — Lichtenberger Straße 34, 10179 Mitte
+2026-07-27T11:55:05+0000 INFO Skipped (district Spandau not in allowlist): ID 19571
+2026-07-27T11:55:05+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19572
+2026-07-27T11:55:05+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19573
+2026-07-27T11:55:05+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19574
+2026-07-27T11:55:05+0000 INFO Skipped (district Spandau not in allowlist): ID 19575
+2026-07-27T11:55:05+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19576
+2026-07-27T11:55:06+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Lichtenberger Straße 7, 1
+2026-07-27T11:55:06+0000 INFO Notified: ID 19577 — Lichtenberger Straße 7, 10178 Mitte
+2026-07-27T11:55:06+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Hild
+2026-07-27T11:55:06+0000 INFO Notified: ID 19578 — Hildegardstraße 4, 10715 Charlottenburg-Wilmersdorf
