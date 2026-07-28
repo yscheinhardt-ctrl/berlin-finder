@@ -9294,3 +9294,24 @@
 
 📍 Tirschenre
 2026-07-28T11:35:51+0000 INFO Notified: ID 19627 — Tirschenreuther Ring 23, 12279 Tempelhof-Schöneberg
+2026-07-28T13:16:24+0000 INFO Fetched page: 281 total IDs, 10 rendered details
+2026-07-28T13:16:24+0000 INFO 7 new offer(s) found
+2026-07-28T13:16:25+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Exerzierstraße 18, 13357 
+2026-07-28T13:16:25+0000 INFO Notified: ID 19629 — Exerzierstraße 18, 13357 Mitte
+2026-07-28T13:16:25+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19630
+2026-07-28T13:16:25+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19631
+2026-07-28T13:16:25+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Krauts
+2026-07-28T13:16:25+0000 INFO Notified: ID 19632 — Krautstraße 9, 10243 Friedrichshain-Kreuzberg
+2026-07-28T13:16:26+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Andrea
+2026-07-28T13:16:26+0000 INFO Notified: ID 19633 — Andreasstraße 32, 10243 Friedrichshain-Kreuzberg
+2026-07-28T13:16:26+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Singer
+2026-07-28T13:16:26+0000 INFO Notified: ID 19634 — Singerstraße 52, 10243 Friedrichshain-Kreuzberg
+2026-07-28T13:16:26+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19635
