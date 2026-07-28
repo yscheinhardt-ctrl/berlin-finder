@@ -9279,3 +9279,18 @@
 
 📍 Ranunkelweg 3, 12357 N
 2026-07-28T09:27:32+0000 INFO Notified: ID 19620 — Ranunkelweg 3, 12357 Neukölln
+2026-07-28T11:35:50+0000 INFO Fetched page: 278 total IDs, 10 rendered details
+2026-07-28T11:35:50+0000 INFO 7 new offer(s) found
+2026-07-28T11:35:50+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19621
+2026-07-28T11:35:50+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19622
+2026-07-28T11:35:50+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19623
+2026-07-28T11:35:50+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Selgenauer Weg 80, 123
+2026-07-28T11:35:50+0000 INFO Notified: ID 19624 — Selgenauer Weg 80, 12355 Neukölln
+2026-07-28T11:35:50+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19625
+2026-07-28T11:35:50+0000 INFO Skipped (district Pankow not in allowlist): ID 19626
+2026-07-28T11:35:51+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-07-28T11:35:51+0000 INFO Notified: ID 19627 — Tirschenreuther Ring 23, 12279 Tempelhof-Schöneberg
