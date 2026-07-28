@@ -9246,3 +9246,36 @@
 2026-07-28T06:43:46+0000 INFO 2 new offer(s) found
 2026-07-28T06:43:46+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19604
 2026-07-28T06:43:46+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19605
+2026-07-28T09:27:28+0000 INFO Fetched page: 278 total IDs, 10 rendered details
+2026-07-28T09:27:28+0000 INFO 14 new offer(s) found
+2026-07-28T09:27:28+0000 WARNING ID 19606 not in top-10 details (>10 new in one window?)
+2026-07-28T09:27:29+0000 INFO Telegram sent: 🏠 New offer (ID 19606) — details not rendered, see site:
+🔗 h
+2026-07-28T09:27:29+0000 WARNING ID 19607 not in top-10 details (>10 new in one window?)
+2026-07-28T09:27:30+0000 INFO Telegram sent: 🏠 New offer (ID 19607) — details not rendered, see site:
+🔗 h
+2026-07-28T09:27:30+0000 WARNING ID 19608 not in top-10 details (>10 new in one window?)
+2026-07-28T09:27:30+0000 INFO Telegram sent: 🏠 New offer (ID 19608) — details not rendered, see site:
+🔗 h
+2026-07-28T09:27:30+0000 WARNING ID 19609 not in top-10 details (>10 new in one window?)
+2026-07-28T09:27:31+0000 INFO Telegram sent: 🏠 New offer (ID 19609) — details not rendered, see site:
+🔗 h
+2026-07-28T09:27:31+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19610
+2026-07-28T09:27:31+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19611
+2026-07-28T09:27:31+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19612
+2026-07-28T09:27:31+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19613
+2026-07-28T09:27:31+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19614
+2026-07-28T09:27:31+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19615
+2026-07-28T09:27:31+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19616
+2026-07-28T09:27:31+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Caue
+2026-07-28T09:27:31+0000 INFO Notified: ID 19617 — Cauerstraße 12, 10587 Charlottenburg-Wilmersdorf
+2026-07-28T09:27:32+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Ohlaue
+2026-07-28T09:27:32+0000 INFO Notified: ID 19618 — Ohlauer Straße 18, 10999 Friedrichshain-Kreuzberg
+2026-07-28T09:27:32+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Ranunkelweg 3, 12357 N
+2026-07-28T09:27:32+0000 INFO Notified: ID 19620 — Ranunkelweg 3, 12357 Neukölln
