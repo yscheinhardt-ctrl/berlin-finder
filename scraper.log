@@ -9378,3 +9378,42 @@
 2026-07-29T07:14:35+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19661
 2026-07-29T07:14:35+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19662
 2026-07-29T07:14:35+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19663
+2026-07-29T09:59:02+0000 INFO Fetched page: 283 total IDs, 10 rendered details
+2026-07-29T09:59:02+0000 INFO 19 new offer(s) found
+2026-07-29T09:59:02+0000 WARNING ID 19664 not in top-10 details (>10 new in one window?)
+2026-07-29T09:59:03+0000 INFO Telegram sent: 🏠 New offer (ID 19664) — details not rendered, see site:
+🔗 h
+2026-07-29T09:59:03+0000 WARNING ID 19665 not in top-10 details (>10 new in one window?)
+2026-07-29T09:59:03+0000 INFO Telegram sent: 🏠 New offer (ID 19665) — details not rendered, see site:
+🔗 h
+2026-07-29T09:59:03+0000 WARNING ID 19667 not in top-10 details (>10 new in one window?)
+2026-07-29T09:59:04+0000 INFO Telegram sent: 🏠 New offer (ID 19667) — details not rendered, see site:
+🔗 h
+2026-07-29T09:59:04+0000 WARNING ID 19668 not in top-10 details (>10 new in one window?)
+2026-07-29T09:59:04+0000 INFO Telegram sent: 🏠 New offer (ID 19668) — details not rendered, see site:
+🔗 h
+2026-07-29T09:59:04+0000 WARNING ID 19669 not in top-10 details (>10 new in one window?)
+2026-07-29T09:59:04+0000 INFO Telegram sent: 🏠 New offer (ID 19669) — details not rendered, see site:
+🔗 h
+2026-07-29T09:59:04+0000 WARNING ID 19670 not in top-10 details (>10 new in one window?)
+2026-07-29T09:59:05+0000 INFO Telegram sent: 🏠 New offer (ID 19670) — details not rendered, see site:
+🔗 h
+2026-07-29T09:59:05+0000 WARNING ID 19671 not in top-10 details (>10 new in one window?)
+2026-07-29T09:59:05+0000 INFO Telegram sent: 🏠 New offer (ID 19671) — details not rendered, see site:
+🔗 h
+2026-07-29T09:59:05+0000 WARNING ID 19672 not in top-10 details (>10 new in one window?)
+2026-07-29T09:59:05+0000 INFO Telegram sent: 🏠 New offer (ID 19672) — details not rendered, see site:
+🔗 h
+2026-07-29T09:59:05+0000 WARNING ID 19673 not in top-10 details (>10 new in one window?)
+2026-07-29T09:59:06+0000 INFO Telegram sent: 🏠 New offer (ID 19673) — details not rendered, see site:
+🔗 h
+2026-07-29T09:59:06+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19674
+2026-07-29T09:59:06+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19675
+2026-07-29T09:59:06+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19676
+2026-07-29T09:59:06+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19677
+2026-07-29T09:59:06+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19678
+2026-07-29T09:59:06+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19679
+2026-07-29T09:59:06+0000 INFO Skipped (district Spandau not in allowlist): ID 19680
+2026-07-29T09:59:06+0000 INFO Skipped (district Spandau not in allowlist): ID 19681
+2026-07-29T09:59:06+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19682
+2026-07-29T09:59:06+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19683
