@@ -9366,3 +9366,15 @@
 2026-07-29T01:02:46+0000 INFO 0 new offer(s) found
 2026-07-29T04:23:20+0000 INFO Fetched page: 277 total IDs, 10 rendered details
 2026-07-29T04:23:20+0000 INFO 0 new offer(s) found
+2026-07-29T07:14:35+0000 INFO Fetched page: 281 total IDs, 10 rendered details
+2026-07-29T07:14:35+0000 INFO 7 new offer(s) found
+2026-07-29T07:14:35+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19657
+2026-07-29T07:14:35+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19658
+2026-07-29T07:14:35+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Ohlaue
+2026-07-29T07:14:35+0000 INFO Notified: ID 19659 — Ohlauer Straße 18, 10999 Friedrichshain-Kreuzberg
+2026-07-29T07:14:35+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19660
+2026-07-29T07:14:35+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19661
+2026-07-29T07:14:35+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19662
+2026-07-29T07:14:35+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19663
