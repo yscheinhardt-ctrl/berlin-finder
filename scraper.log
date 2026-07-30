@@ -9590,3 +9590,6 @@
 2026-07-30T16:55:06+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19759
 2026-07-30T18:13:25+0000 INFO Fetched page: 315 total IDs, 10 rendered details
 2026-07-30T18:13:25+0000 INFO 0 new offer(s) found
+2026-07-30T19:54:14+0000 INFO Fetched page: 309 total IDs, 10 rendered details
+2026-07-30T19:54:14+0000 INFO 1 new offer(s) found
+2026-07-30T19:54:14+0000 INFO Skipped (district Pankow not in allowlist): ID 19760
