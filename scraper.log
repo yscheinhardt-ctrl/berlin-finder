@@ -9585,3 +9585,6 @@
 2026-07-30T15:20:52+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19756
 2026-07-30T15:20:52+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19757
 2026-07-30T15:20:52+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 19758
+2026-07-30T16:55:06+0000 INFO Fetched page: 316 total IDs, 10 rendered details
+2026-07-30T16:55:06+0000 INFO 1 new offer(s) found
+2026-07-30T16:55:06+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19759
