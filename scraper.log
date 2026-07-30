@@ -9512,3 +9512,63 @@
 
 📍 Köpenicker Straße 105A, 1
 2026-07-30T11:24:30+0000 INFO Notified: ID 19722 — Köpenicker Straße 105A, 10179 Mitte
+2026-07-30T13:05:25+0000 INFO Fetched page: 313 total IDs, 10 rendered details
+2026-07-30T13:05:25+0000 INFO 25 new offer(s) found
+2026-07-30T13:05:25+0000 WARNING ID 19724 not in top-10 details (>10 new in one window?)
+2026-07-30T13:05:26+0000 INFO Telegram sent: 🏠 New offer (ID 19724) — details not rendered, see site:
+🔗 h
+2026-07-30T13:05:26+0000 WARNING ID 19725 not in top-10 details (>10 new in one window?)
+2026-07-30T13:05:26+0000 INFO Telegram sent: 🏠 New offer (ID 19725) — details not rendered, see site:
+🔗 h
+2026-07-30T13:05:26+0000 WARNING ID 19726 not in top-10 details (>10 new in one window?)
+2026-07-30T13:05:26+0000 INFO Telegram sent: 🏠 New offer (ID 19726) — details not rendered, see site:
+🔗 h
+2026-07-30T13:05:26+0000 WARNING ID 19727 not in top-10 details (>10 new in one window?)
+2026-07-30T13:05:27+0000 INFO Telegram sent: 🏠 New offer (ID 19727) — details not rendered, see site:
+🔗 h
+2026-07-30T13:05:27+0000 WARNING ID 19728 not in top-10 details (>10 new in one window?)
+2026-07-30T13:05:27+0000 INFO Telegram sent: 🏠 New offer (ID 19728) — details not rendered, see site:
+🔗 h
+2026-07-30T13:05:27+0000 WARNING ID 19729 not in top-10 details (>10 new in one window?)
+2026-07-30T13:05:28+0000 INFO Telegram sent: 🏠 New offer (ID 19729) — details not rendered, see site:
+🔗 h
+2026-07-30T13:05:28+0000 WARNING ID 19730 not in top-10 details (>10 new in one window?)
+2026-07-30T13:05:28+0000 INFO Telegram sent: 🏠 New offer (ID 19730) — details not rendered, see site:
+🔗 h
+2026-07-30T13:05:28+0000 WARNING ID 19731 not in top-10 details (>10 new in one window?)
+2026-07-30T13:05:28+0000 INFO Telegram sent: 🏠 New offer (ID 19731) — details not rendered, see site:
+🔗 h
+2026-07-30T13:05:28+0000 WARNING ID 19732 not in top-10 details (>10 new in one window?)
+2026-07-30T13:05:29+0000 INFO Telegram sent: 🏠 New offer (ID 19732) — details not rendered, see site:
+🔗 h
+2026-07-30T13:05:29+0000 WARNING ID 19733 not in top-10 details (>10 new in one window?)
+2026-07-30T13:05:29+0000 INFO Telegram sent: 🏠 New offer (ID 19733) — details not rendered, see site:
+🔗 h
+2026-07-30T13:05:29+0000 WARNING ID 19735 not in top-10 details (>10 new in one window?)
+2026-07-30T13:05:29+0000 INFO Telegram sent: 🏠 New offer (ID 19735) — details not rendered, see site:
+🔗 h
+2026-07-30T13:05:29+0000 WARNING ID 19736 not in top-10 details (>10 new in one window?)
+2026-07-30T13:05:30+0000 INFO Telegram sent: 🏠 New offer (ID 19736) — details not rendered, see site:
+🔗 h
+2026-07-30T13:05:30+0000 WARNING ID 19737 not in top-10 details (>10 new in one window?)
+2026-07-30T13:05:30+0000 INFO Telegram sent: 🏠 New offer (ID 19737) — details not rendered, see site:
+🔗 h
+2026-07-30T13:05:30+0000 WARNING ID 19738 not in top-10 details (>10 new in one window?)
+2026-07-30T13:05:31+0000 INFO Telegram sent: 🏠 New offer (ID 19738) — details not rendered, see site:
+🔗 h
+2026-07-30T13:05:31+0000 WARNING ID 19739 not in top-10 details (>10 new in one window?)
+2026-07-30T13:05:31+0000 INFO Telegram sent: 🏠 New offer (ID 19739) — details not rendered, see site:
+🔗 h
+2026-07-30T13:05:31+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19740
+2026-07-30T13:05:31+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 In den Bauerngärten 12
+2026-07-30T13:05:31+0000 INFO Notified: ID 19741 — In den Bauerngärten 12, 12349 Neukölln
+2026-07-30T13:05:31+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19742
+2026-07-30T13:05:31+0000 INFO Skipped (district Spandau not in allowlist): ID 19743
+2026-07-30T13:05:31+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19744
+2026-07-30T13:05:31+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19745
+2026-07-30T13:05:31+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19746
+2026-07-30T13:05:31+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19747
+2026-07-30T13:05:31+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19749
+2026-07-30T13:05:31+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19750
