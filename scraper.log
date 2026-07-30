@@ -9479,3 +9479,36 @@
 2026-07-30T09:19:21+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19708
 2026-07-30T09:19:21+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19709
 2026-07-30T09:19:21+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19710
+2026-07-30T11:24:27+0000 INFO Fetched page: 295 total IDs, 10 rendered details
+2026-07-30T11:24:27+0000 INFO 12 new offer(s) found
+2026-07-30T11:24:27+0000 WARNING ID 19711 not in top-10 details (>10 new in one window?)
+2026-07-30T11:24:28+0000 INFO Telegram sent: 🏠 New offer (ID 19711) — details not rendered, see site:
+🔗 h
+2026-07-30T11:24:28+0000 WARNING ID 19712 not in top-10 details (>10 new in one window?)
+2026-07-30T11:24:28+0000 INFO Telegram sent: 🏠 New offer (ID 19712) — details not rendered, see site:
+🔗 h
+2026-07-30T11:24:28+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19713
+2026-07-30T11:24:28+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19714
+2026-07-30T11:24:28+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19715
+2026-07-30T11:24:28+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19716
+2026-07-30T11:24:29+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Max-Beer-Straße 48, 10119
+2026-07-30T11:24:29+0000 INFO Notified: ID 19717 — Max-Beer-Straße 48, 10119 Mitte
+2026-07-30T11:24:29+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19718
+2026-07-30T11:24:29+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 105, 10
+2026-07-30T11:24:29+0000 INFO Notified: ID 19719 — Köpenicker Straße 105, 10179 Mitte
+2026-07-30T11:24:29+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 105A, 1
+2026-07-30T11:24:29+0000 INFO Notified: ID 19720 — Köpenicker Straße 105A, 10179 Mitte
+2026-07-30T11:24:30+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 105A, 1
+2026-07-30T11:24:30+0000 INFO Notified: ID 19721 — Köpenicker Straße 105A, 10179 Mitte
+2026-07-30T11:24:30+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 105A, 1
+2026-07-30T11:24:30+0000 INFO Notified: ID 19722 — Köpenicker Straße 105A, 10179 Mitte
