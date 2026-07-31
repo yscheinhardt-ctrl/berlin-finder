@@ -9603,3 +9603,19 @@
 2026-07-31T01:06:58+0000 INFO 0 new offer(s) found
 2026-07-31T04:35:24+0000 INFO Fetched page: 307 total IDs, 10 rendered details
 2026-07-31T04:35:24+0000 INFO 0 new offer(s) found
+2026-07-31T07:30:55+0000 INFO Fetched page: 306 total IDs, 10 rendered details
+2026-07-31T07:30:55+0000 INFO 5 new offer(s) found
+2026-07-31T07:30:55+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Alboinplat
+2026-07-31T07:30:55+0000 INFO Notified: ID 19761 — Alboinplatz 2, 12105 Tempelhof-Schöneberg
+2026-07-31T07:30:55+0000 INFO Skipped (district Spandau not in allowlist): ID 19762
+2026-07-31T07:30:55+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19763
+2026-07-31T07:30:56+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Zwickauer Damm 12, 123
+2026-07-31T07:30:56+0000 INFO Notified: ID 19764 — Zwickauer Damm 12, 12353 Neukölln
+2026-07-31T07:30:56+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Fritz-Erler-Allee 164,
+2026-07-31T07:30:56+0000 INFO Notified: ID 19765 — Fritz-Erler-Allee 164, 12353 Neukölln
