@@ -9619,3 +9619,9 @@
 
 📍 Fritz-Erler-Allee 164,
 2026-07-31T07:30:56+0000 INFO Notified: ID 19765 — Fritz-Erler-Allee 164, 12353 Neukölln
+2026-07-31T10:08:55+0000 INFO Fetched page: 304 total IDs, 10 rendered details
+2026-07-31T10:08:55+0000 INFO 4 new offer(s) found
+2026-07-31T10:08:55+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19767
+2026-07-31T10:08:55+0000 INFO Skipped (district Pankow not in allowlist): ID 19768
+2026-07-31T10:08:55+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19769
+2026-07-31T10:08:55+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19770
