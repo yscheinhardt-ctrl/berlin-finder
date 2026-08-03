@@ -9790,3 +9790,54 @@
 📍 Dubliner Straße 4, 13349 
 2026-08-03T11:46:51+0000 INFO Notified: ID 19812 — Dubliner Straße 4, 13349 Mitte
 2026-08-03T11:46:51+0000 INFO Skipped (district Pankow not in allowlist): ID 19813
+2026-08-03T14:04:16+0000 INFO Fetched page: 295 total IDs, 10 rendered details
+2026-08-03T14:04:16+0000 INFO 18 new offer(s) found
+2026-08-03T14:04:16+0000 WARNING ID 19814 not in top-10 details (>10 new in one window?)
+2026-08-03T14:04:16+0000 INFO Telegram sent: 🏠 New offer (ID 19814) — details not rendered, see site:
+🔗 h
+2026-08-03T14:04:16+0000 WARNING ID 19818 not in top-10 details (>10 new in one window?)
+2026-08-03T14:04:16+0000 INFO Telegram sent: 🏠 New offer (ID 19818) — details not rendered, see site:
+🔗 h
+2026-08-03T14:04:16+0000 WARNING ID 19819 not in top-10 details (>10 new in one window?)
+2026-08-03T14:04:17+0000 INFO Telegram sent: 🏠 New offer (ID 19819) — details not rendered, see site:
+🔗 h
+2026-08-03T14:04:17+0000 WARNING ID 19820 not in top-10 details (>10 new in one window?)
+2026-08-03T14:04:17+0000 INFO Telegram sent: 🏠 New offer (ID 19820) — details not rendered, see site:
+🔗 h
+2026-08-03T14:04:17+0000 WARNING ID 19821 not in top-10 details (>10 new in one window?)
+2026-08-03T14:04:18+0000 INFO Telegram sent: 🏠 New offer (ID 19821) — details not rendered, see site:
+🔗 h
+2026-08-03T14:04:18+0000 WARNING ID 19822 not in top-10 details (>10 new in one window?)
+2026-08-03T14:04:18+0000 INFO Telegram sent: 🏠 New offer (ID 19822) — details not rendered, see site:
+🔗 h
+2026-08-03T14:04:18+0000 WARNING ID 19823 not in top-10 details (>10 new in one window?)
+2026-08-03T14:04:18+0000 INFO Telegram sent: 🏠 New offer (ID 19823) — details not rendered, see site:
+🔗 h
+2026-08-03T14:04:18+0000 WARNING ID 19824 not in top-10 details (>10 new in one window?)
+2026-08-03T14:04:19+0000 INFO Telegram sent: 🏠 New offer (ID 19824) — details not rendered, see site:
+🔗 h
+2026-08-03T14:04:19+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19825
+2026-08-03T14:04:19+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 An den Buckower Felder
+2026-08-03T14:04:19+0000 INFO Notified: ID 19826 — An den Buckower Feldern 19, 12349 Neukölln
+2026-08-03T14:04:19+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19827
+2026-08-03T14:04:19+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 An den Buckower Felder
+2026-08-03T14:04:19+0000 INFO Notified: ID 19828 — An den Buckower Feldern 19, 12349 Neukölln
+2026-08-03T14:04:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Kruckenber
+2026-08-03T14:04:20+0000 INFO Notified: ID 19829 — Kruckenbergstraße 38, 12107 Tempelhof-Schöneberg
+2026-08-03T14:04:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Heil
+2026-08-03T14:04:20+0000 INFO Notified: ID 19830 — Heilmannring 49, 13627 Charlottenburg-Wilmersdorf
+2026-08-03T14:04:20+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 19831
+2026-08-03T14:04:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19832
+2026-08-03T14:04:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19833
+2026-08-03T14:04:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Eber
+2026-08-03T14:04:20+0000 INFO Notified: ID 19834 — Ebereschenallee 52, 14050 Charlottenburg-Wilmersdorf
