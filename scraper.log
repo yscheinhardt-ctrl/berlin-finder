@@ -9744,3 +9744,16 @@
 2026-08-03T01:09:37+0000 INFO 0 new offer(s) found
 2026-08-03T04:45:55+0000 INFO Fetched page: 283 total IDs, 10 rendered details
 2026-08-03T04:45:55+0000 INFO 0 new offer(s) found
+2026-08-03T08:14:06+0000 INFO Fetched page: 285 total IDs, 10 rendered details
+2026-08-03T08:14:06+0000 INFO 8 new offer(s) found
+2026-08-03T08:14:06+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19790
+2026-08-03T08:14:06+0000 INFO Skipped (district Spandau not in allowlist): ID 19791
+2026-08-03T08:14:06+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Graunstraße 12, 13355 Mit
+2026-08-03T08:14:06+0000 INFO Notified: ID 19792 — Graunstraße 12, 13355 Mitte
+2026-08-03T08:14:06+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19793
+2026-08-03T08:14:06+0000 INFO Skipped (district Spandau not in allowlist): ID 19794
+2026-08-03T08:14:06+0000 INFO Skipped (district Spandau not in allowlist): ID 19795
+2026-08-03T08:14:06+0000 INFO Skipped (district Spandau not in allowlist): ID 19796
+2026-08-03T08:14:06+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19797
