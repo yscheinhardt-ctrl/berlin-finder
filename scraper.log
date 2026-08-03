@@ -9841,3 +9841,24 @@
 
 📍 Eber
 2026-08-03T14:04:20+0000 INFO Notified: ID 19834 — Ebereschenallee 52, 14050 Charlottenburg-Wilmersdorf
+2026-08-03T16:36:13+0000 INFO Fetched page: 294 total IDs, 10 rendered details
+2026-08-03T16:36:13+0000 INFO 11 new offer(s) found
+2026-08-03T16:36:13+0000 WARNING ID 19835 not in top-10 details (>10 new in one window?)
+2026-08-03T16:36:14+0000 INFO Telegram sent: 🏠 New offer (ID 19835) — details not rendered, see site:
+🔗 h
+2026-08-03T16:36:14+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 An den Buckower Felder
+2026-08-03T16:36:14+0000 INFO Notified: ID 19836 — An den Buckower Feldern 13, 12349 Neukölln
+2026-08-03T16:36:14+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19837
+2026-08-03T16:36:15+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Rieman
+2026-08-03T16:36:15+0000 INFO Notified: ID 19838 — Riemannstraße 22, 10961 Friedrichshain-Kreuzberg
+2026-08-03T16:36:15+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19839
+2026-08-03T16:36:15+0000 INFO Skipped (district Pankow not in allowlist): ID 19841
+2026-08-03T16:36:15+0000 INFO Skipped (district Pankow not in allowlist): ID 19842
+2026-08-03T16:36:15+0000 INFO Skipped (district Spandau not in allowlist): ID 19844
+2026-08-03T16:36:15+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19845
+2026-08-03T16:36:15+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19846
+2026-08-03T16:36:15+0000 INFO Skipped (district Spandau not in allowlist): ID 19847
