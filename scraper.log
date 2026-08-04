@@ -9878,3 +9878,20 @@
 2026-08-04T04:26:58+0000 INFO Fetched page: 280 total IDs, 10 rendered details
 2026-08-04T04:26:58+0000 INFO 1 new offer(s) found
 2026-08-04T04:26:58+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19849
+2026-08-04T07:14:21+0000 INFO Fetched page: 278 total IDs, 10 rendered details
+2026-08-04T07:14:21+0000 INFO 6 new offer(s) found
+2026-08-04T07:14:21+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Alboinplat
+2026-08-04T07:14:21+0000 INFO Notified: ID 19850 — Alboinplatz 15, 12105 Tempelhof-Schöneberg
+2026-08-04T07:14:21+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Greveweg 1
+2026-08-04T07:14:21+0000 INFO Notified: ID 19851 — Greveweg 11, 12103 Tempelhof-Schöneberg
+2026-08-04T07:14:21+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19852
+2026-08-04T07:14:21+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19853
+2026-08-04T07:14:21+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19854
+2026-08-04T07:14:22+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 An den Buckower Felder
+2026-08-04T07:14:22+0000 INFO Notified: ID 19855 — An den Buckower Feldern 19, 12349 Neukölln
