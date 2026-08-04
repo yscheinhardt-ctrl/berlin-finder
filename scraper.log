@@ -9949,3 +9949,15 @@
 2026-08-04T10:00:07+0000 INFO Notified: ID 19873 — Horstwalder Straße 5, 12307 Tempelhof-Schöneberg
 2026-08-04T10:00:07+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19874
 2026-08-04T10:00:07+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19875
+2026-08-04T12:07:50+0000 INFO Fetched page: 294 total IDs, 10 rendered details
+2026-08-04T12:07:50+0000 INFO 7 new offer(s) found
+2026-08-04T12:07:51+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Horstwalde
+2026-08-04T12:07:51+0000 INFO Notified: ID 19876 — Horstwalder Straße 3, 12307 Tempelhof-Schöneberg
+2026-08-04T12:07:51+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19877
+2026-08-04T12:07:51+0000 INFO Skipped (district Spandau not in allowlist): ID 19878
+2026-08-04T12:07:51+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19879
+2026-08-04T12:07:51+0000 INFO Skipped (district Spandau not in allowlist): ID 19880
+2026-08-04T12:07:51+0000 INFO Skipped (district Spandau not in allowlist): ID 19881
+2026-08-04T12:07:51+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19882
