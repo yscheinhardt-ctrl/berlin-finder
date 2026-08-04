@@ -9895,3 +9895,57 @@
 
 📍 An den Buckower Felder
 2026-08-04T07:14:22+0000 INFO Notified: ID 19855 — An den Buckower Feldern 19, 12349 Neukölln
+2026-08-04T10:00:01+0000 INFO Fetched page: 292 total IDs, 10 rendered details
+2026-08-04T10:00:01+0000 INFO 19 new offer(s) found
+2026-08-04T10:00:01+0000 WARNING ID 19856 not in top-10 details (>10 new in one window?)
+2026-08-04T10:00:02+0000 INFO Telegram sent: 🏠 New offer (ID 19856) — details not rendered, see site:
+🔗 h
+2026-08-04T10:00:02+0000 WARNING ID 19857 not in top-10 details (>10 new in one window?)
+2026-08-04T10:00:02+0000 INFO Telegram sent: 🏠 New offer (ID 19857) — details not rendered, see site:
+🔗 h
+2026-08-04T10:00:02+0000 WARNING ID 19859 not in top-10 details (>10 new in one window?)
+2026-08-04T10:00:03+0000 INFO Telegram sent: 🏠 New offer (ID 19859) — details not rendered, see site:
+🔗 h
+2026-08-04T10:00:03+0000 WARNING ID 19860 not in top-10 details (>10 new in one window?)
+2026-08-04T10:00:03+0000 INFO Telegram sent: 🏠 New offer (ID 19860) — details not rendered, see site:
+🔗 h
+2026-08-04T10:00:03+0000 WARNING ID 19861 not in top-10 details (>10 new in one window?)
+2026-08-04T10:00:03+0000 INFO Telegram sent: 🏠 New offer (ID 19861) — details not rendered, see site:
+🔗 h
+2026-08-04T10:00:03+0000 WARNING ID 19862 not in top-10 details (>10 new in one window?)
+2026-08-04T10:00:04+0000 INFO Telegram sent: 🏠 New offer (ID 19862) — details not rendered, see site:
+🔗 h
+2026-08-04T10:00:04+0000 WARNING ID 19863 not in top-10 details (>10 new in one window?)
+2026-08-04T10:00:04+0000 INFO Telegram sent: 🏠 New offer (ID 19863) — details not rendered, see site:
+🔗 h
+2026-08-04T10:00:04+0000 WARNING ID 19864 not in top-10 details (>10 new in one window?)
+2026-08-04T10:00:04+0000 INFO Telegram sent: 🏠 New offer (ID 19864) — details not rendered, see site:
+🔗 h
+2026-08-04T10:00:04+0000 WARNING ID 19865 not in top-10 details (>10 new in one window?)
+2026-08-04T10:00:05+0000 INFO Telegram sent: 🏠 New offer (ID 19865) — details not rendered, see site:
+🔗 h
+2026-08-04T10:00:05+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19866
+2026-08-04T10:00:05+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19867
+2026-08-04T10:00:05+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19868
+2026-08-04T10:00:05+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 In den Bauerngärten 8,
+2026-08-04T10:00:05+0000 INFO Notified: ID 19869 — In den Bauerngärten 8, 12349 Neukölln
+2026-08-04T10:00:06+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Waldsassen
+2026-08-04T10:00:06+0000 INFO Notified: ID 19870 — Waldsassener Straße 35, 12279 Tempelhof-Schöneberg
+2026-08-04T10:00:06+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Waldsassen
+2026-08-04T10:00:06+0000 INFO Notified: ID 19871 — Waldsassener Straße 29, 12279 Tempelhof-Schöneberg
+2026-08-04T10:00:06+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Greveweg 2
+2026-08-04T10:00:06+0000 INFO Notified: ID 19872 — Greveweg 2A, 12103 Tempelhof-Schöneberg
+2026-08-04T10:00:07+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Horstwalde
+2026-08-04T10:00:07+0000 INFO Notified: ID 19873 — Horstwalder Straße 5, 12307 Tempelhof-Schöneberg
+2026-08-04T10:00:07+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19874
+2026-08-04T10:00:07+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19875
