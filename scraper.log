@@ -9961,3 +9961,54 @@
 2026-08-04T12:07:51+0000 INFO Skipped (district Spandau not in allowlist): ID 19880
 2026-08-04T12:07:51+0000 INFO Skipped (district Spandau not in allowlist): ID 19881
 2026-08-04T12:07:51+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 19882
+2026-08-04T14:36:57+0000 INFO Fetched page: 303 total IDs, 10 rendered details
+2026-08-04T14:36:57+0000 INFO 18 new offer(s) found
+2026-08-04T14:36:57+0000 WARNING ID 19883 not in top-10 details (>10 new in one window?)
+2026-08-04T14:36:57+0000 INFO Telegram sent: 🏠 New offer (ID 19883) — details not rendered, see site:
+🔗 h
+2026-08-04T14:36:57+0000 WARNING ID 19884 not in top-10 details (>10 new in one window?)
+2026-08-04T14:36:58+0000 INFO Telegram sent: 🏠 New offer (ID 19884) — details not rendered, see site:
+🔗 h
+2026-08-04T14:36:58+0000 WARNING ID 19885 not in top-10 details (>10 new in one window?)
+2026-08-04T14:36:58+0000 INFO Telegram sent: 🏠 New offer (ID 19885) — details not rendered, see site:
+🔗 h
+2026-08-04T14:36:58+0000 WARNING ID 19886 not in top-10 details (>10 new in one window?)
+2026-08-04T14:36:58+0000 INFO Telegram sent: 🏠 New offer (ID 19886) — details not rendered, see site:
+🔗 h
+2026-08-04T14:36:58+0000 WARNING ID 19887 not in top-10 details (>10 new in one window?)
+2026-08-04T14:36:59+0000 INFO Telegram sent: 🏠 New offer (ID 19887) — details not rendered, see site:
+🔗 h
+2026-08-04T14:36:59+0000 WARNING ID 19888 not in top-10 details (>10 new in one window?)
+2026-08-04T14:36:59+0000 INFO Telegram sent: 🏠 New offer (ID 19888) — details not rendered, see site:
+🔗 h
+2026-08-04T14:36:59+0000 WARNING ID 19889 not in top-10 details (>10 new in one window?)
+2026-08-04T14:36:59+0000 INFO Telegram sent: 🏠 New offer (ID 19889) — details not rendered, see site:
+🔗 h
+2026-08-04T14:36:59+0000 WARNING ID 19890 not in top-10 details (>10 new in one window?)
+2026-08-04T14:37:00+0000 INFO Telegram sent: 🏠 New offer (ID 19890) — details not rendered, see site:
+🔗 h
+2026-08-04T14:37:00+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Chri
+2026-08-04T14:37:00+0000 INFO Notified: ID 19891 — Christstraße 13, 14059 Charlottenburg-Wilmersdorf
+2026-08-04T14:37:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 An den Buckower Felder
+2026-08-04T14:37:01+0000 INFO Notified: ID 19892 — An den Buckower Feldern 13, 12349 Neukölln
+2026-08-04T14:37:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 In den Bauerngärten 8,
+2026-08-04T14:37:01+0000 INFO Notified: ID 19893 — In den Bauerngärten 8, 12349 Neukölln
+2026-08-04T14:37:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Gensweg 3, 12349 Neukö
+2026-08-04T14:37:01+0000 INFO Notified: ID 19894 — Gensweg 3, 12349 Neukölln
+2026-08-04T14:37:01+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19895
+2026-08-04T14:37:01+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19896
+2026-08-04T14:37:01+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19897
+2026-08-04T14:37:01+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19898
+2026-08-04T14:37:01+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19899
+2026-08-04T14:37:02+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Strü
+2026-08-04T14:37:02+0000 INFO Notified: ID 19900 — Strünckweg 12, 13627 Charlottenburg-Wilmersdorf
