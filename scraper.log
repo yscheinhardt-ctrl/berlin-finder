@@ -10034,3 +10034,9 @@
 2026-08-04T19:57:24+0000 INFO Fetched page: 295 total IDs, 10 rendered details
 2026-08-04T19:57:24+0000 INFO 1 new offer(s) found
 2026-08-04T19:57:24+0000 INFO Skipped (district Spandau not in allowlist): ID 19908
+2026-08-04T21:15:10+0000 INFO Fetched page: 295 total IDs, 10 rendered details
+2026-08-04T21:15:10+0000 INFO 1 new offer(s) found
+2026-08-04T21:15:10+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Oranienburger Straße 16, 
+2026-08-04T21:15:10+0000 INFO Notified: ID 19909 — Oranienburger Straße 16, 10178 Mitte
