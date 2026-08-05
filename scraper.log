@@ -10189,3 +10189,69 @@
 2026-08-05T13:24:56+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19961
 2026-08-05T13:24:56+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19962
 2026-08-05T13:24:56+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19963
+2026-08-05T15:36:50+0000 INFO Fetched page: 314 total IDs, 10 rendered details
+2026-08-05T15:36:50+0000 INFO 26 new offer(s) found
+2026-08-05T15:36:50+0000 WARNING ID 19964 not in top-10 details (>10 new in one window?)
+2026-08-05T15:36:50+0000 INFO Telegram sent: 🏠 New offer (ID 19964) — details not rendered, see site:
+🔗 h
+2026-08-05T15:36:50+0000 WARNING ID 19965 not in top-10 details (>10 new in one window?)
+2026-08-05T15:36:51+0000 INFO Telegram sent: 🏠 New offer (ID 19965) — details not rendered, see site:
+🔗 h
+2026-08-05T15:36:51+0000 WARNING ID 19967 not in top-10 details (>10 new in one window?)
+2026-08-05T15:36:51+0000 INFO Telegram sent: 🏠 New offer (ID 19967) — details not rendered, see site:
+🔗 h
+2026-08-05T15:36:51+0000 WARNING ID 19968 not in top-10 details (>10 new in one window?)
+2026-08-05T15:36:52+0000 INFO Telegram sent: 🏠 New offer (ID 19968) — details not rendered, see site:
+🔗 h
+2026-08-05T15:36:52+0000 WARNING ID 19969 not in top-10 details (>10 new in one window?)
+2026-08-05T15:36:52+0000 INFO Telegram sent: 🏠 New offer (ID 19969) — details not rendered, see site:
+🔗 h
+2026-08-05T15:36:52+0000 WARNING ID 19970 not in top-10 details (>10 new in one window?)
+2026-08-05T15:36:53+0000 INFO Telegram sent: 🏠 New offer (ID 19970) — details not rendered, see site:
+🔗 h
+2026-08-05T15:36:53+0000 WARNING ID 19971 not in top-10 details (>10 new in one window?)
+2026-08-05T15:36:53+0000 INFO Telegram sent: 🏠 New offer (ID 19971) — details not rendered, see site:
+🔗 h
+2026-08-05T15:36:53+0000 WARNING ID 19972 not in top-10 details (>10 new in one window?)
+2026-08-05T15:36:54+0000 INFO Telegram sent: 🏠 New offer (ID 19972) — details not rendered, see site:
+🔗 h
+2026-08-05T15:36:54+0000 WARNING ID 19973 not in top-10 details (>10 new in one window?)
+2026-08-05T15:36:54+0000 INFO Telegram sent: 🏠 New offer (ID 19973) — details not rendered, see site:
+🔗 h
+2026-08-05T15:36:54+0000 WARNING ID 19974 not in top-10 details (>10 new in one window?)
+2026-08-05T15:36:55+0000 INFO Telegram sent: 🏠 New offer (ID 19974) — details not rendered, see site:
+🔗 h
+2026-08-05T15:36:55+0000 WARNING ID 19975 not in top-10 details (>10 new in one window?)
+2026-08-05T15:36:55+0000 INFO Telegram sent: 🏠 New offer (ID 19975) — details not rendered, see site:
+🔗 h
+2026-08-05T15:36:55+0000 WARNING ID 19976 not in top-10 details (>10 new in one window?)
+2026-08-05T15:36:56+0000 INFO Telegram sent: 🏠 New offer (ID 19976) — details not rendered, see site:
+🔗 h
+2026-08-05T15:36:56+0000 WARNING ID 19977 not in top-10 details (>10 new in one window?)
+2026-08-05T15:36:56+0000 INFO Telegram sent: 🏠 New offer (ID 19977) — details not rendered, see site:
+🔗 h
+2026-08-05T15:36:56+0000 WARNING ID 19978 not in top-10 details (>10 new in one window?)
+2026-08-05T15:36:57+0000 INFO Telegram sent: 🏠 New offer (ID 19978) — details not rendered, see site:
+🔗 h
+2026-08-05T15:36:57+0000 WARNING ID 19979 not in top-10 details (>10 new in one window?)
+2026-08-05T15:36:57+0000 INFO Telegram sent: 🏠 New offer (ID 19979) — details not rendered, see site:
+🔗 h
+2026-08-05T15:36:57+0000 WARNING ID 19980 not in top-10 details (>10 new in one window?)
+2026-08-05T15:36:58+0000 INFO Telegram sent: 🏠 New offer (ID 19980) — details not rendered, see site:
+🔗 h
+2026-08-05T15:36:58+0000 INFO Skipped (district Spandau not in allowlist): ID 19981
+2026-08-05T15:36:58+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19982
+2026-08-05T15:36:58+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19983
+2026-08-05T15:36:58+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19984
+2026-08-05T15:36:58+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19985
+2026-08-05T15:36:58+0000 INFO Skipped (district Spandau not in allowlist): ID 19986
+2026-08-05T15:36:58+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Hohenstauf
+2026-08-05T15:36:58+0000 INFO Notified: ID 19987 — Hohenstaufenstraße 69, 10781 Tempelhof-Schöneberg
+2026-08-05T15:36:58+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19988
+2026-08-05T15:36:59+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Katzlerstr
+2026-08-05T15:36:59+0000 INFO Notified: ID 19989 — Katzlerstraße 5, 10829 Tempelhof-Schöneberg
+2026-08-05T15:36:59+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19990
