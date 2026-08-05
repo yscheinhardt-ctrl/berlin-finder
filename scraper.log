@@ -10162,3 +10162,30 @@
 📍 Habe
 2026-08-05T11:46:16+0000 INFO Notified: ID 19949 — Habermannzeile 1, 13627 Charlottenburg-Wilmersdorf
 2026-08-05T11:46:16+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19950
+2026-08-05T13:24:54+0000 INFO Fetched page: 310 total IDs, 10 rendered details
+2026-08-05T13:24:54+0000 INFO 13 new offer(s) found
+2026-08-05T13:24:54+0000 WARNING ID 19951 not in top-10 details (>10 new in one window?)
+2026-08-05T13:24:54+0000 INFO Telegram sent: 🏠 New offer (ID 19951) — details not rendered, see site:
+🔗 h
+2026-08-05T13:24:54+0000 WARNING ID 19952 not in top-10 details (>10 new in one window?)
+2026-08-05T13:24:55+0000 INFO Telegram sent: 🏠 New offer (ID 19952) — details not rendered, see site:
+🔗 h
+2026-08-05T13:24:55+0000 WARNING ID 19953 not in top-10 details (>10 new in one window?)
+2026-08-05T13:24:55+0000 INFO Telegram sent: 🏠 New offer (ID 19953) — details not rendered, see site:
+🔗 h
+2026-08-05T13:24:55+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19954
+2026-08-05T13:24:56+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Kant
+2026-08-05T13:24:56+0000 INFO Notified: ID 19955 — Kantstraße 15A, 10623 Charlottenburg-Wilmersdorf
+2026-08-05T13:24:56+0000 INFO Skipped (district Spandau not in allowlist): ID 19956
+2026-08-05T13:24:56+0000 INFO Skipped (district Spandau not in allowlist): ID 19957
+2026-08-05T13:24:56+0000 INFO Skipped (district Spandau not in allowlist): ID 19958
+2026-08-05T13:24:56+0000 INFO Skipped (district Spandau not in allowlist): ID 19959
+2026-08-05T13:24:56+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 An den Buckower Felder
+2026-08-05T13:24:56+0000 INFO Notified: ID 19960 — An den Buckower Feldern 17, 12349 Neukölln
+2026-08-05T13:24:56+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19961
+2026-08-05T13:24:56+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19962
+2026-08-05T13:24:56+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19963
