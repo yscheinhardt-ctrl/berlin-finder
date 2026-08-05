@@ -10111,3 +10111,54 @@
 📍 Klau
 2026-08-05T09:44:43+0000 INFO Notified: ID 19930 — Klausingring 17, 13627 Charlottenburg-Wilmersdorf
 2026-08-05T09:44:43+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19931
+2026-08-05T11:46:10+0000 INFO Fetched page: 305 total IDs, 10 rendered details
+2026-08-05T11:46:10+0000 INFO 19 new offer(s) found
+2026-08-05T11:46:10+0000 WARNING ID 19932 not in top-10 details (>10 new in one window?)
+2026-08-05T11:46:11+0000 INFO Telegram sent: 🏠 New offer (ID 19932) — details not rendered, see site:
+🔗 h
+2026-08-05T11:46:11+0000 WARNING ID 19933 not in top-10 details (>10 new in one window?)
+2026-08-05T11:46:11+0000 INFO Telegram sent: 🏠 New offer (ID 19933) — details not rendered, see site:
+🔗 h
+2026-08-05T11:46:11+0000 WARNING ID 19934 not in top-10 details (>10 new in one window?)
+2026-08-05T11:46:12+0000 INFO Telegram sent: 🏠 New offer (ID 19934) — details not rendered, see site:
+🔗 h
+2026-08-05T11:46:12+0000 WARNING ID 19935 not in top-10 details (>10 new in one window?)
+2026-08-05T11:46:12+0000 INFO Telegram sent: 🏠 New offer (ID 19935) — details not rendered, see site:
+🔗 h
+2026-08-05T11:46:12+0000 WARNING ID 19936 not in top-10 details (>10 new in one window?)
+2026-08-05T11:46:12+0000 INFO Telegram sent: 🏠 New offer (ID 19936) — details not rendered, see site:
+🔗 h
+2026-08-05T11:46:12+0000 WARNING ID 19937 not in top-10 details (>10 new in one window?)
+2026-08-05T11:46:13+0000 INFO Telegram sent: 🏠 New offer (ID 19937) — details not rendered, see site:
+🔗 h
+2026-08-05T11:46:13+0000 WARNING ID 19938 not in top-10 details (>10 new in one window?)
+2026-08-05T11:46:13+0000 INFO Telegram sent: 🏠 New offer (ID 19938) — details not rendered, see site:
+🔗 h
+2026-08-05T11:46:13+0000 WARNING ID 19939 not in top-10 details (>10 new in one window?)
+2026-08-05T11:46:13+0000 INFO Telegram sent: 🏠 New offer (ID 19939) — details not rendered, see site:
+🔗 h
+2026-08-05T11:46:13+0000 WARNING ID 19940 not in top-10 details (>10 new in one window?)
+2026-08-05T11:46:14+0000 INFO Telegram sent: 🏠 New offer (ID 19940) — details not rendered, see site:
+🔗 h
+2026-08-05T11:46:14+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 19941
+2026-08-05T11:46:14+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Reic
+2026-08-05T11:46:14+0000 INFO Notified: ID 19942 — Reichweindamm 20, 13627 Charlottenburg-Wilmersdorf
+2026-08-05T11:46:14+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19943
+2026-08-05T11:46:15+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Wirm
+2026-08-05T11:46:15+0000 INFO Notified: ID 19944 — Wirmerzeile 11, 13627 Charlottenburg-Wilmersdorf
+2026-08-05T11:46:15+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19945
+2026-08-05T11:46:15+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Waldsassen
+2026-08-05T11:46:15+0000 INFO Notified: ID 19946 — Waldsassener Straße 29, 12279 Tempelhof-Schöneberg
+2026-08-05T11:46:15+0000 INFO Skipped (district Pankow not in allowlist): ID 19947
+2026-08-05T11:46:15+0000 INFO Skipped (district Pankow not in allowlist): ID 19948
+2026-08-05T11:46:16+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Habe
+2026-08-05T11:46:16+0000 INFO Notified: ID 19949 — Habermannzeile 1, 13627 Charlottenburg-Wilmersdorf
+2026-08-05T11:46:16+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 19950
