@@ -10279,3 +10279,39 @@
 2026-08-06T07:13:03+0000 INFO Notified: ID 19991 — Elly-Heuss-Knapp-Straße 50, 12355 Neukölln
 2026-08-06T07:13:03+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19992
 2026-08-06T07:13:03+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 19993
+2026-08-06T09:59:41+0000 INFO Fetched page: 298 total IDs, 10 rendered details
+2026-08-06T09:59:41+0000 INFO 16 new offer(s) found
+2026-08-06T09:59:41+0000 WARNING ID 19994 not in top-10 details (>10 new in one window?)
+2026-08-06T09:59:42+0000 INFO Telegram sent: 🏠 New offer (ID 19994) — details not rendered, see site:
+🔗 h
+2026-08-06T09:59:42+0000 WARNING ID 19995 not in top-10 details (>10 new in one window?)
+2026-08-06T09:59:42+0000 INFO Telegram sent: 🏠 New offer (ID 19995) — details not rendered, see site:
+🔗 h
+2026-08-06T09:59:42+0000 WARNING ID 19996 not in top-10 details (>10 new in one window?)
+2026-08-06T09:59:42+0000 INFO Telegram sent: 🏠 New offer (ID 19996) — details not rendered, see site:
+🔗 h
+2026-08-06T09:59:42+0000 WARNING ID 19997 not in top-10 details (>10 new in one window?)
+2026-08-06T09:59:43+0000 INFO Telegram sent: 🏠 New offer (ID 19997) — details not rendered, see site:
+🔗 h
+2026-08-06T09:59:43+0000 WARNING ID 19998 not in top-10 details (>10 new in one window?)
+2026-08-06T09:59:43+0000 INFO Telegram sent: 🏠 New offer (ID 19998) — details not rendered, see site:
+🔗 h
+2026-08-06T09:59:43+0000 WARNING ID 19999 not in top-10 details (>10 new in one window?)
+2026-08-06T09:59:43+0000 INFO Telegram sent: 🏠 New offer (ID 19999) — details not rendered, see site:
+🔗 h
+2026-08-06T09:59:43+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20000
+2026-08-06T09:59:43+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20001
+2026-08-06T09:59:43+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20002
+2026-08-06T09:59:43+0000 INFO Skipped (district Pankow not in allowlist): ID 20003
+2026-08-06T09:59:43+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Malteserst
+2026-08-06T09:59:43+0000 INFO Notified: ID 20004 — Malteserstraße 171H, 12277 Tempelhof-Schöneberg
+2026-08-06T09:59:43+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20005
+2026-08-06T09:59:43+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20006
+2026-08-06T09:59:43+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20007
+2026-08-06T09:59:44+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Dubliner Straße 4, 13349 
+2026-08-06T09:59:44+0000 INFO Notified: ID 20008 — Dubliner Straße 4, 13349 Mitte
+2026-08-06T09:59:44+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20009
