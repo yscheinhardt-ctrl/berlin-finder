@@ -10328,3 +10328,19 @@
 
 📍 Wiesenstraße 55HAUS2, 133
 2026-08-06T12:08:35+0000 INFO Notified: ID 20020 — Wiesenstraße 55HAUS2, 13357 Mitte
+2026-08-06T14:32:33+0000 INFO Fetched page: 297 total IDs, 10 rendered details
+2026-08-06T14:32:33+0000 INFO 8 new offer(s) found
+2026-08-06T14:32:33+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20021
+2026-08-06T14:32:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20022
+2026-08-06T14:32:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20023
+2026-08-06T14:32:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20024
+2026-08-06T14:32:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20025
+2026-08-06T14:32:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Wirm
+2026-08-06T14:32:34+0000 INFO Notified: ID 20026 — Wirmerzeile 11, 13627 Charlottenburg-Wilmersdorf
+2026-08-06T14:32:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Cuno
+2026-08-06T14:32:34+0000 INFO Notified: ID 20027 — Cunostraße 7, 14199 Charlottenburg-Wilmersdorf
+2026-08-06T14:32:34+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20028
