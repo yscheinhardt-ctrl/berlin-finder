@@ -10470,3 +10470,24 @@
 
 📍 Bremer Straße 12, 10551 M
 2026-08-07T10:33:01+0000 INFO Notified: ID 20092 — Bremer Straße 12, 10551 Mitte
+2026-08-07T11:26:28+0000 INFO Fetched page: 325 total IDs, 10 rendered details
+2026-08-07T11:26:28+0000 INFO 13 new offer(s) found
+2026-08-07T11:26:28+0000 WARNING ID 20093 not in top-10 details (>10 new in one window?)
+2026-08-07T11:26:28+0000 INFO Telegram sent: 🏠 New offer (ID 20093) — details not rendered, see site:
+🔗 h
+2026-08-07T11:26:28+0000 WARNING ID 20094 not in top-10 details (>10 new in one window?)
+2026-08-07T11:26:29+0000 INFO Telegram sent: 🏠 New offer (ID 20094) — details not rendered, see site:
+🔗 h
+2026-08-07T11:26:29+0000 WARNING ID 20095 not in top-10 details (>10 new in one window?)
+2026-08-07T11:26:29+0000 INFO Telegram sent: 🏠 New offer (ID 20095) — details not rendered, see site:
+🔗 h
+2026-08-07T11:26:29+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 20096
+2026-08-07T11:26:29+0000 INFO Skipped (district Spandau not in allowlist): ID 20097
+2026-08-07T11:26:29+0000 INFO Skipped (district Spandau not in allowlist): ID 20098
+2026-08-07T11:26:29+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 20099
+2026-08-07T11:26:29+0000 INFO Skipped (district Spandau not in allowlist): ID 20100
+2026-08-07T11:26:29+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 20101
+2026-08-07T11:26:29+0000 INFO Skipped (district Spandau not in allowlist): ID 20102
+2026-08-07T11:26:29+0000 INFO Skipped (district Spandau not in allowlist): ID 20103
+2026-08-07T11:26:29+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 20104
+2026-08-07T11:26:29+0000 INFO Skipped (district Spandau not in allowlist): ID 20105
