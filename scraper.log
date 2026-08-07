@@ -10409,3 +10409,10 @@
 2026-08-07T06:15:29+0000 INFO 2 new offer(s) found
 2026-08-07T06:15:29+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20055
 2026-08-07T06:15:29+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20056
+2026-08-07T07:45:19+0000 INFO Fetched page: 300 total IDs, 10 rendered details
+2026-08-07T07:45:19+0000 INFO 5 new offer(s) found
+2026-08-07T07:45:19+0000 INFO Skipped (district Pankow not in allowlist): ID 20057
+2026-08-07T07:45:19+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20058
+2026-08-07T07:45:19+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20059
+2026-08-07T07:45:19+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20060
+2026-08-07T07:45:19+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20061
