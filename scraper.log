@@ -10344,3 +10344,60 @@
 📍 Cuno
 2026-08-06T14:32:34+0000 INFO Notified: ID 20027 — Cunostraße 7, 14199 Charlottenburg-Wilmersdorf
 2026-08-06T14:32:34+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20028
+2026-08-07T00:11:58+0000 INFO Fetched page: 309 total IDs, 10 rendered details
+2026-08-07T00:11:58+0000 INFO 25 new offer(s) found
+2026-08-07T00:11:58+0000 WARNING ID 20029 not in top-10 details (>10 new in one window?)
+2026-08-07T00:11:58+0000 INFO Telegram sent: 🏠 New offer (ID 20029) — details not rendered, see site:
+🔗 h
+2026-08-07T00:11:58+0000 WARNING ID 20030 not in top-10 details (>10 new in one window?)
+2026-08-07T00:11:59+0000 INFO Telegram sent: 🏠 New offer (ID 20030) — details not rendered, see site:
+🔗 h
+2026-08-07T00:11:59+0000 WARNING ID 20031 not in top-10 details (>10 new in one window?)
+2026-08-07T00:11:59+0000 INFO Telegram sent: 🏠 New offer (ID 20031) — details not rendered, see site:
+🔗 h
+2026-08-07T00:11:59+0000 WARNING ID 20032 not in top-10 details (>10 new in one window?)
+2026-08-07T00:11:59+0000 INFO Telegram sent: 🏠 New offer (ID 20032) — details not rendered, see site:
+🔗 h
+2026-08-07T00:11:59+0000 WARNING ID 20033 not in top-10 details (>10 new in one window?)
+2026-08-07T00:11:59+0000 INFO Telegram sent: 🏠 New offer (ID 20033) — details not rendered, see site:
+🔗 h
+2026-08-07T00:11:59+0000 WARNING ID 20034 not in top-10 details (>10 new in one window?)
+2026-08-07T00:12:00+0000 INFO Telegram sent: 🏠 New offer (ID 20034) — details not rendered, see site:
+🔗 h
+2026-08-07T00:12:00+0000 WARNING ID 20035 not in top-10 details (>10 new in one window?)
+2026-08-07T00:12:00+0000 INFO Telegram sent: 🏠 New offer (ID 20035) — details not rendered, see site:
+🔗 h
+2026-08-07T00:12:00+0000 WARNING ID 20036 not in top-10 details (>10 new in one window?)
+2026-08-07T00:12:00+0000 INFO Telegram sent: 🏠 New offer (ID 20036) — details not rendered, see site:
+🔗 h
+2026-08-07T00:12:00+0000 WARNING ID 20037 not in top-10 details (>10 new in one window?)
+2026-08-07T00:12:01+0000 INFO Telegram sent: 🏠 New offer (ID 20037) — details not rendered, see site:
+🔗 h
+2026-08-07T00:12:01+0000 WARNING ID 20038 not in top-10 details (>10 new in one window?)
+2026-08-07T00:12:01+0000 INFO Telegram sent: 🏠 New offer (ID 20038) — details not rendered, see site:
+🔗 h
+2026-08-07T00:12:01+0000 WARNING ID 20039 not in top-10 details (>10 new in one window?)
+2026-08-07T00:12:01+0000 INFO Telegram sent: 🏠 New offer (ID 20039) — details not rendered, see site:
+🔗 h
+2026-08-07T00:12:01+0000 WARNING ID 20040 not in top-10 details (>10 new in one window?)
+2026-08-07T00:12:02+0000 INFO Telegram sent: 🏠 New offer (ID 20040) — details not rendered, see site:
+🔗 h
+2026-08-07T00:12:02+0000 WARNING ID 20041 not in top-10 details (>10 new in one window?)
+2026-08-07T00:12:02+0000 INFO Telegram sent: 🏠 New offer (ID 20041) — details not rendered, see site:
+🔗 h
+2026-08-07T00:12:02+0000 WARNING ID 20042 not in top-10 details (>10 new in one window?)
+2026-08-07T00:12:02+0000 INFO Telegram sent: 🏠 New offer (ID 20042) — details not rendered, see site:
+🔗 h
+2026-08-07T00:12:02+0000 WARNING ID 20043 not in top-10 details (>10 new in one window?)
+2026-08-07T00:12:03+0000 INFO Telegram sent: 🏠 New offer (ID 20043) — details not rendered, see site:
+🔗 h
+2026-08-07T00:12:03+0000 INFO Skipped (district Pankow not in allowlist): ID 20044
+2026-08-07T00:12:03+0000 INFO Skipped (district Pankow not in allowlist): ID 20045
+2026-08-07T00:12:03+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20047
+2026-08-07T00:12:03+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20048
+2026-08-07T00:12:03+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20049
+2026-08-07T00:12:03+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20050
+2026-08-07T00:12:03+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20051
+2026-08-07T00:12:03+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20052
+2026-08-07T00:12:03+0000 INFO Skipped (district Spandau not in allowlist): ID 20053
+2026-08-07T00:12:03+0000 INFO Skipped (district Spandau not in allowlist): ID 20054
