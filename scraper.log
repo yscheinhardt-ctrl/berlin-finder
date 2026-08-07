@@ -10443,3 +10443,30 @@
 2026-08-07T09:40:37+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20077
 2026-08-07T09:40:37+0000 INFO Skipped (district Spandau not in allowlist): ID 20078
 2026-08-07T09:40:37+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20079
+2026-08-07T10:32:59+0000 INFO Fetched page: 318 total IDs, 10 rendered details
+2026-08-07T10:32:59+0000 INFO 13 new offer(s) found
+2026-08-07T10:32:59+0000 WARNING ID 20080 not in top-10 details (>10 new in one window?)
+2026-08-07T10:32:59+0000 INFO Telegram sent: 🏠 New offer (ID 20080) — details not rendered, see site:
+🔗 h
+2026-08-07T10:32:59+0000 WARNING ID 20081 not in top-10 details (>10 new in one window?)
+2026-08-07T10:33:00+0000 INFO Telegram sent: 🏠 New offer (ID 20081) — details not rendered, see site:
+🔗 h
+2026-08-07T10:33:00+0000 WARNING ID 20082 not in top-10 details (>10 new in one window?)
+2026-08-07T10:33:01+0000 INFO Telegram sent: 🏠 New offer (ID 20082) — details not rendered, see site:
+🔗 h
+2026-08-07T10:33:01+0000 INFO Skipped (district Spandau not in allowlist): ID 20083
+2026-08-07T10:33:01+0000 INFO Skipped (district Spandau not in allowlist): ID 20084
+2026-08-07T10:33:01+0000 INFO Skipped (district Spandau not in allowlist): ID 20085
+2026-08-07T10:33:01+0000 INFO Skipped (district Spandau not in allowlist): ID 20086
+2026-08-07T10:33:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Malteserst
+2026-08-07T10:33:01+0000 INFO Notified: ID 20087 — Malteserstraße 171H, 12277 Tempelhof-Schöneberg
+2026-08-07T10:33:01+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20088
+2026-08-07T10:33:01+0000 INFO Skipped (district Spandau not in allowlist): ID 20089
+2026-08-07T10:33:01+0000 INFO Skipped (district Spandau not in allowlist): ID 20090
+2026-08-07T10:33:01+0000 INFO Skipped (district Spandau not in allowlist): ID 20091
+2026-08-07T10:33:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Bremer Straße 12, 10551 M
+2026-08-07T10:33:01+0000 INFO Notified: ID 20092 — Bremer Straße 12, 10551 Mitte
