@@ -10491,3 +10491,14 @@
 2026-08-07T11:26:29+0000 INFO Skipped (district Spandau not in allowlist): ID 20103
 2026-08-07T11:26:29+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 20104
 2026-08-07T11:26:29+0000 INFO Skipped (district Spandau not in allowlist): ID 20105
+2026-08-07T12:09:24+0000 INFO Fetched page: 320 total IDs, 10 rendered details
+2026-08-07T12:09:24+0000 INFO 3 new offer(s) found
+2026-08-07T12:09:24+0000 INFO Skipped (district Pankow not in allowlist): ID 20106
+2026-08-07T12:09:24+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 An den Buckower Felder
+2026-08-07T12:09:24+0000 INFO Notified: ID 20107 — An den Buckower Feldern 6, 12349 Neukölln
+2026-08-07T12:09:25+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 In den Bauerngärten 12
+2026-08-07T12:09:25+0000 INFO Notified: ID 20108 — In den Bauerngärten 12, 12349 Neukölln
