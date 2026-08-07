@@ -10508,3 +10508,36 @@
 2026-08-07T13:37:13+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20110
 2026-08-07T13:37:13+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20111
 2026-08-07T13:37:13+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20112
+2026-08-07T14:37:49+0000 INFO Fetched page: 324 total IDs, 10 rendered details
+2026-08-07T14:37:49+0000 INFO 12 new offer(s) found
+2026-08-07T14:37:49+0000 WARNING ID 20113 not in top-10 details (>10 new in one window?)
+2026-08-07T14:37:49+0000 INFO Telegram sent: 🏠 New offer (ID 20113) — details not rendered, see site:
+🔗 h
+2026-08-07T14:37:49+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Karl-Liebknecht-Straße 11
+2026-08-07T14:37:49+0000 INFO Notified: ID 20114 — Karl-Liebknecht-Straße 11, 10178 Mitte
+2026-08-07T14:37:50+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Karl-Liebknecht-Straße 9,
+2026-08-07T14:37:50+0000 INFO Notified: ID 20115 — Karl-Liebknecht-Straße 9, 10178 Mitte
+2026-08-07T14:37:50+0000 WARNING ID 20116 not in top-10 details (>10 new in one window?)
+2026-08-07T14:37:50+0000 INFO Telegram sent: 🏠 New offer (ID 20116) — details not rendered, see site:
+🔗 h
+2026-08-07T14:37:50+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Karl-Liebknecht-Straße 9,
+2026-08-07T14:37:50+0000 INFO Notified: ID 20117 — Karl-Liebknecht-Straße 9, 10178 Mitte
+2026-08-07T14:37:51+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Mühlendamm 1, 10179 Mitte
+2026-08-07T14:37:51+0000 INFO Notified: ID 20118 — Mühlendamm 1, 10179 Mitte
+2026-08-07T14:37:51+0000 INFO Skipped (district Pankow not in allowlist): ID 20119
+2026-08-07T14:37:51+0000 INFO Skipped (district Pankow not in allowlist): ID 20120
+2026-08-07T14:37:51+0000 INFO Skipped (district Pankow not in allowlist): ID 20121
+2026-08-07T14:37:51+0000 INFO Skipped (district Pankow not in allowlist): ID 20122
+2026-08-07T14:37:51+0000 INFO Skipped (district Pankow not in allowlist): ID 20123
+2026-08-07T14:37:51+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Sonnenallee 13, 12047 
+2026-08-07T14:37:51+0000 INFO Notified: ID 20124 — Sonnenallee 13, 12047 Neukölln
