@@ -10541,3 +10541,14 @@
 
 📍 Sonnenallee 13, 12047 
 2026-08-07T14:37:51+0000 INFO Notified: ID 20124 — Sonnenallee 13, 12047 Neukölln
+2026-08-07T15:33:21+0000 INFO Fetched page: 325 total IDs, 10 rendered details
+2026-08-07T15:33:21+0000 INFO 3 new offer(s) found
+2026-08-07T15:33:22+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Koppen
+2026-08-07T15:33:22+0000 INFO Notified: ID 20125 — Koppenstraße 65, 10243 Friedrichshain-Kreuzberg
+2026-08-07T15:33:22+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Koppen
+2026-08-07T15:33:22+0000 INFO Notified: ID 20126 — Koppenstraße 66, 10243 Friedrichshain-Kreuzberg
+2026-08-07T15:33:22+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20127
