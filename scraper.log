@@ -10502,3 +10502,9 @@
 
 📍 In den Bauerngärten 12
 2026-08-07T12:09:25+0000 INFO Notified: ID 20108 — In den Bauerngärten 12, 12349 Neukölln
+2026-08-07T13:37:13+0000 INFO Fetched page: 314 total IDs, 10 rendered details
+2026-08-07T13:37:13+0000 INFO 4 new offer(s) found
+2026-08-07T13:37:13+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20109
+2026-08-07T13:37:13+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20110
+2026-08-07T13:37:13+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20111
+2026-08-07T13:37:13+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20112
