@@ -10606,3 +10606,9 @@
 2026-08-08T11:44:06+0000 INFO 0 new offer(s) found
 2026-08-08T12:14:33+0000 INFO Fetched page: 311 total IDs, 10 rendered details
 2026-08-08T12:14:33+0000 INFO 0 new offer(s) found
+2026-08-08T13:14:38+0000 INFO Fetched page: 310 total IDs, 10 rendered details
+2026-08-08T13:14:38+0000 INFO 1 new offer(s) found
+2026-08-08T13:14:39+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Linden
+2026-08-08T13:14:39+0000 INFO Notified: ID 20132 — Lindenstraße 112, 10969 Friedrichshain-Kreuzberg
