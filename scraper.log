@@ -10687,3 +10687,6 @@
 2026-08-09T11:13:45+0000 INFO Fetched page: 302 total IDs, 10 rendered details
 2026-08-09T11:13:45+0000 INFO 1 new offer(s) found
 2026-08-09T11:13:45+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 20139
+2026-08-09T11:46:51+0000 INFO Fetched page: 303 total IDs, 10 rendered details
+2026-08-09T11:46:51+0000 INFO 1 new offer(s) found
+2026-08-09T11:46:51+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 20140
