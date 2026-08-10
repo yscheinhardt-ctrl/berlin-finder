@@ -10804,3 +10804,9 @@
 2026-08-10T16:07:46+0000 INFO 2 new offer(s) found
 2026-08-10T16:07:46+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20177
 2026-08-10T16:07:46+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 20178
+2026-08-10T17:06:09+0000 INFO Fetched page: 292 total IDs, 10 rendered details
+2026-08-10T17:06:09+0000 INFO 1 new offer(s) found
+2026-08-10T17:06:10+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Eckert
+2026-08-10T17:06:10+0000 INFO Notified: ID 20179 — Eckertstraße 2, 10249 Friedrichshain-Kreuzberg
