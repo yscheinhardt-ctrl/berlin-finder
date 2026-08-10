@@ -10754,3 +10754,17 @@
 
 📍 Graude
 2026-08-10T08:09:50+0000 INFO Notified: ID 20149 — Graudenzer Straße 1C, 10243 Friedrichshain-Kreuzberg
+2026-08-10T09:47:11+0000 INFO Fetched page: 300 total IDs, 10 rendered details
+2026-08-10T09:47:11+0000 INFO 9 new offer(s) found
+2026-08-10T09:47:11+0000 INFO Skipped (district Pankow not in allowlist): ID 20151
+2026-08-10T09:47:11+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20152
+2026-08-10T09:47:11+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Lortzingstraße 16, 13355 
+2026-08-10T09:47:11+0000 INFO Notified: ID 20153 — Lortzingstraße 16, 13355 Mitte
+2026-08-10T09:47:11+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20154
+2026-08-10T09:47:11+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20155
+2026-08-10T09:47:11+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20156
+2026-08-10T09:47:11+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20157
+2026-08-10T09:47:11+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20158
+2026-08-10T09:47:11+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20159
