@@ -10793,3 +10793,10 @@
 2026-08-10T13:59:39+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20172
 2026-08-10T13:59:39+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20173
 2026-08-10T13:59:39+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20174
+2026-08-10T15:08:00+0000 INFO Fetched page: 292 total IDs, 10 rendered details
+2026-08-10T15:08:00+0000 INFO 2 new offer(s) found
+2026-08-10T15:08:00+0000 INFO Skipped (district Spandau not in allowlist): ID 20175
+2026-08-10T15:08:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Goebenstra
+2026-08-10T15:08:01+0000 INFO Notified: ID 20176 — Goebenstraße 7, 10783 Tempelhof-Schöneberg
