@@ -10812,3 +10812,13 @@
 2026-08-10T17:06:10+0000 INFO Notified: ID 20179 — Eckertstraße 2, 10249 Friedrichshain-Kreuzberg
 2026-08-10T17:59:53+0000 INFO Fetched page: 291 total IDs, 10 rendered details
 2026-08-10T17:59:53+0000 INFO 0 new offer(s) found
+2026-08-10T19:07:56+0000 INFO Fetched page: 292 total IDs, 10 rendered details
+2026-08-10T19:07:56+0000 INFO 2 new offer(s) found
+2026-08-10T19:07:57+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Landreiterweg 61, 1235
+2026-08-10T19:07:57+0000 INFO Notified: ID 20180 — Landreiterweg 61, 12353 Neukölln
+2026-08-10T19:07:57+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Bornsdorfer Straße 35,
+2026-08-10T19:07:57+0000 INFO Notified: ID 20181 — Bornsdorfer Straße 35, 12053 Neukölln
