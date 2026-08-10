@@ -10742,3 +10742,15 @@
 2026-08-10T06:20:11+0000 INFO Fetched page: 301 total IDs, 10 rendered details
 2026-08-10T06:20:11+0000 INFO 1 new offer(s) found
 2026-08-10T06:20:11+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20145
+2026-08-10T08:09:49+0000 INFO Fetched page: 298 total IDs, 10 rendered details
+2026-08-10T08:09:49+0000 INFO 4 new offer(s) found
+2026-08-10T08:09:50+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Gartenstraße 51, 13355 Mi
+2026-08-10T08:09:50+0000 INFO Notified: ID 20146 — Gartenstraße 51, 13355 Mitte
+2026-08-10T08:09:50+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 20147
+2026-08-10T08:09:50+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20148
+2026-08-10T08:09:50+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Graude
+2026-08-10T08:09:50+0000 INFO Notified: ID 20149 — Graudenzer Straße 1C, 10243 Friedrichshain-Kreuzberg
