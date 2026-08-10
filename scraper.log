@@ -10776,3 +10776,8 @@
 
 📍 Land
 2026-08-10T10:51:09+0000 INFO Notified: ID 20162 — Landecker Straße 5, 14199 Charlottenburg-Wilmersdorf
+2026-08-10T11:39:26+0000 INFO Fetched page: 303 total IDs, 10 rendered details
+2026-08-10T11:39:26+0000 INFO 3 new offer(s) found
+2026-08-10T11:39:26+0000 INFO Skipped (district Pankow not in allowlist): ID 20163
+2026-08-10T11:39:26+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20165
+2026-08-10T11:39:26+0000 INFO Skipped (district Pankow not in allowlist): ID 20166
