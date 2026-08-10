@@ -10768,3 +10768,11 @@
 2026-08-10T09:47:11+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20157
 2026-08-10T09:47:11+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20158
 2026-08-10T09:47:11+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20159
+2026-08-10T10:51:09+0000 INFO Fetched page: 301 total IDs, 10 rendered details
+2026-08-10T10:51:09+0000 INFO 3 new offer(s) found
+2026-08-10T10:51:09+0000 INFO Skipped (district Pankow not in allowlist): ID 20160
+2026-08-10T10:51:09+0000 INFO Skipped (district Pankow not in allowlist): ID 20161
+2026-08-10T10:51:09+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Land
+2026-08-10T10:51:09+0000 INFO Notified: ID 20162 — Landecker Straße 5, 14199 Charlottenburg-Wilmersdorf
