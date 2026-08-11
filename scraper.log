@@ -10903,3 +10903,10 @@
 2026-08-11T14:41:55+0000 INFO Fetched page: 289 total IDs, 10 rendered details
 2026-08-11T14:41:55+0000 INFO 1 new offer(s) found
 2026-08-11T14:41:55+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20202
+2026-08-11T15:39:43+0000 INFO Fetched page: 293 total IDs, 10 rendered details
+2026-08-11T15:39:43+0000 INFO 5 new offer(s) found
+2026-08-11T15:39:43+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20203
+2026-08-11T15:39:43+0000 INFO Skipped (district Pankow not in allowlist): ID 20204
+2026-08-11T15:39:43+0000 INFO Skipped (district Pankow not in allowlist): ID 20205
+2026-08-11T15:39:43+0000 INFO Skipped (district Pankow not in allowlist): ID 20206
+2026-08-11T15:39:43+0000 INFO Skipped (district Pankow not in allowlist): ID 20207
