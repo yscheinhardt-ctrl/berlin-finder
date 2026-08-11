@@ -10844,3 +10844,18 @@
 2026-08-11T05:19:02+0000 INFO 0 new offer(s) found
 2026-08-11T06:09:44+0000 INFO Fetched page: 287 total IDs, 10 rendered details
 2026-08-11T06:09:44+0000 INFO 0 new offer(s) found
+2026-08-11T07:35:48+0000 INFO Fetched page: 288 total IDs, 10 rendered details
+2026-08-11T07:35:48+0000 INFO 4 new offer(s) found
+2026-08-11T07:35:48+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20182
+2026-08-11T07:35:48+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Holzmindener Straße 28
+2026-08-11T07:35:48+0000 INFO Notified: ID 20183 — Holzmindener Straße 28, 12347 Neukölln
+2026-08-11T07:35:49+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Holzmindener Straße 26
+2026-08-11T07:35:49+0000 INFO Notified: ID 20184 — Holzmindener Straße 26B, 12347 Neukölln
+2026-08-11T07:35:49+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Biesentaler Straße 16, 13
+2026-08-11T07:35:49+0000 INFO Notified: ID 20185 — Biesentaler Straße 16, 13359 Mitte
