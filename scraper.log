@@ -10870,3 +10870,10 @@
 2026-08-11T09:36:09+0000 INFO Fetched page: 286 total IDs, 10 rendered details
 2026-08-11T09:36:09+0000 INFO 1 new offer(s) found
 2026-08-11T09:36:09+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20191
+2026-08-11T10:30:27+0000 INFO Fetched page: 288 total IDs, 10 rendered details
+2026-08-11T10:30:27+0000 INFO 2 new offer(s) found
+2026-08-11T10:30:27+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20192
+2026-08-11T10:30:28+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Waldsassen
+2026-08-11T10:30:28+0000 INFO Notified: ID 20193 — Waldsassener Straße 50, 12279 Tempelhof-Schöneberg
