@@ -10910,3 +10910,18 @@
 2026-08-11T15:39:43+0000 INFO Skipped (district Pankow not in allowlist): ID 20205
 2026-08-11T15:39:43+0000 INFO Skipped (district Pankow not in allowlist): ID 20206
 2026-08-11T15:39:43+0000 INFO Skipped (district Pankow not in allowlist): ID 20207
+2026-08-11T16:35:08+0000 INFO Fetched page: 300 total IDs, 10 rendered details
+2026-08-11T16:35:08+0000 INFO 7 new offer(s) found
+2026-08-11T16:35:09+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Habe
+2026-08-11T16:35:09+0000 INFO Notified: ID 20208 — Habermannzeile 20, 13627 Charlottenburg-Wilmersdorf
+2026-08-11T16:35:09+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Turmstraße 6, 10559 Mitte
+2026-08-11T16:35:09+0000 INFO Notified: ID 20209 — Turmstraße 6, 10559 Mitte
+2026-08-11T16:35:09+0000 INFO Skipped (district Spandau not in allowlist): ID 20210
+2026-08-11T16:35:09+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20211
+2026-08-11T16:35:09+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20212
+2026-08-11T16:35:09+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20213
+2026-08-11T16:35:09+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20214
