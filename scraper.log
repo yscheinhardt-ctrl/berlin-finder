@@ -10951,3 +10951,26 @@
 2026-08-12T06:23:32+0000 INFO 2 new offer(s) found
 2026-08-12T06:23:32+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20215
 2026-08-12T06:23:32+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20216
+2026-08-12T07:57:55+0000 INFO Fetched page: 292 total IDs, 10 rendered details
+2026-08-12T07:57:55+0000 INFO 9 new offer(s) found
+2026-08-12T07:57:55+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20217
+2026-08-12T07:57:55+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20218
+2026-08-12T07:57:55+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20219
+2026-08-12T07:57:56+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 An den Buckower Felder
+2026-08-12T07:57:56+0000 INFO Notified: ID 20220 — An den Buckower Feldern 15, 12349 Neukölln
+2026-08-12T07:57:56+0000 INFO Skipped (district Pankow not in allowlist): ID 20221
+2026-08-12T07:57:56+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Fischerinsel 2, 10179 Mit
+2026-08-12T07:57:56+0000 INFO Notified: ID 20224 — Fischerinsel 2, 10179 Mitte
+2026-08-12T07:57:56+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Swakopmunder Straße 11, 1
+2026-08-12T07:57:56+0000 INFO Notified: ID 20225 — Swakopmunder Straße 11, 13351 Mitte
+2026-08-12T07:57:56+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20226
+2026-08-12T07:57:57+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Straus
+2026-08-12T07:57:57+0000 INFO Notified: ID 20227 — Strausberger Straße 37, 10243 Friedrichshain-Kreuzberg
