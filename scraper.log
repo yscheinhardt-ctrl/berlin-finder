@@ -11010,3 +11010,27 @@
 
 📍 Alt-Marien
 2026-08-12T12:06:53+0000 INFO Notified: ID 20242 — Alt-Mariendorf 55, 12107 Tempelhof-Schöneberg
+2026-08-12T13:41:32+0000 INFO Fetched page: 284 total IDs, 10 rendered details
+2026-08-12T13:41:32+0000 INFO 7 new offer(s) found
+2026-08-12T13:41:32+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Amrumer Straße 16, 13353 
+2026-08-12T13:41:32+0000 INFO Notified: ID 20243 — Amrumer Straße 16, 13353 Mitte
+2026-08-12T13:41:33+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 An den Buckower Felder
+2026-08-12T13:41:33+0000 INFO Notified: ID 20244 — An den Buckower Feldern 17, 12349 Neukölln
+2026-08-12T13:41:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20245
+2026-08-12T13:41:33+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Kruckenber
+2026-08-12T13:41:33+0000 INFO Notified: ID 20246 — Kruckenbergstraße 56, 12107 Tempelhof-Schöneberg
+2026-08-12T13:41:33+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Colbes
+2026-08-12T13:41:33+0000 INFO Notified: ID 20247 — Colbestraße 5, 10247 Friedrichshain-Kreuzberg
+2026-08-12T13:41:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20248
+2026-08-12T13:41:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Franz-Körner-Straße 13
+2026-08-12T13:41:34+0000 INFO Notified: ID 20249 — Franz-Körner-Straße 13, 12347 Neukölln
