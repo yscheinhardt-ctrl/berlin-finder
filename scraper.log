@@ -11004,3 +11004,9 @@
 📍 An den Buckower Felder
 2026-08-12T11:23:58+0000 INFO Notified: ID 20240 — An den Buckower Feldern 19, 12349 Neukölln
 2026-08-12T11:23:58+0000 INFO Skipped (district Pankow not in allowlist): ID 20241
+2026-08-12T12:06:52+0000 INFO Fetched page: 284 total IDs, 10 rendered details
+2026-08-12T12:06:52+0000 INFO 1 new offer(s) found
+2026-08-12T12:06:53+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Alt-Marien
+2026-08-12T12:06:53+0000 INFO Notified: ID 20242 — Alt-Mariendorf 55, 12107 Tempelhof-Schöneberg
