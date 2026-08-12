@@ -11042,3 +11042,18 @@
 
 📍 Pintschallee 5, 12347 
 2026-08-12T14:43:59+0000 INFO Notified: ID 20252 — Pintschallee 5, 12347 Neukölln
+2026-08-12T15:40:51+0000 INFO Fetched page: 293 total IDs, 10 rendered details
+2026-08-12T15:40:51+0000 INFO 7 new offer(s) found
+2026-08-12T15:40:51+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20253
+2026-08-12T15:40:52+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Crellestra
+2026-08-12T15:40:52+0000 INFO Notified: ID 20254 — Crellestraße 42QU, 10827 Tempelhof-Schöneberg
+2026-08-12T15:40:52+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20255
+2026-08-12T15:40:52+0000 INFO Skipped (district Pankow not in allowlist): ID 20256
+2026-08-12T15:40:52+0000 INFO Skipped (district Pankow not in allowlist): ID 20257
+2026-08-12T15:40:52+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 20258
+2026-08-12T15:40:52+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Franz-Körner-Straße 11
+2026-08-12T15:40:52+0000 INFO Notified: ID 20259 — Franz-Körner-Straße 11, 12347 Neukölln
