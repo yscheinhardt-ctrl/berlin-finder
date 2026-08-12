@@ -10974,3 +10974,20 @@
 
 📍 Straus
 2026-08-12T07:57:57+0000 INFO Notified: ID 20227 — Strausberger Straße 37, 10243 Friedrichshain-Kreuzberg
+2026-08-12T09:16:57+0000 INFO Fetched page: 291 total IDs, 10 rendered details
+2026-08-12T09:16:57+0000 INFO 6 new offer(s) found
+2026-08-12T09:16:57+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20228
+2026-08-12T09:16:57+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 20229
+2026-08-12T09:16:57+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 20230
+2026-08-12T09:16:58+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Buschkrugallee 138, 12
+2026-08-12T09:16:58+0000 INFO Notified: ID 20231 — Buschkrugallee 138, 12359 Neukölln
+2026-08-12T09:16:58+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Ghanastraße 33, 13351 Mit
+2026-08-12T09:16:58+0000 INFO Notified: ID 20232 — Ghanastraße 33, 13351 Mitte
+2026-08-12T09:16:59+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Fritz-Erler-Allee 160,
+2026-08-12T09:16:59+0000 INFO Notified: ID 20233 — Fritz-Erler-Allee 160, 12353 Neukölln
