@@ -11034,3 +11034,11 @@
 
 📍 Franz-Körner-Straße 13
 2026-08-12T13:41:34+0000 INFO Notified: ID 20249 — Franz-Körner-Straße 13, 12347 Neukölln
+2026-08-12T14:43:58+0000 INFO Fetched page: 286 total IDs, 10 rendered details
+2026-08-12T14:43:58+0000 INFO 3 new offer(s) found
+2026-08-12T14:43:58+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20250
+2026-08-12T14:43:58+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20251
+2026-08-12T14:43:59+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Pintschallee 5, 12347 
+2026-08-12T14:43:59+0000 INFO Notified: ID 20252 — Pintschallee 5, 12347 Neukölln
