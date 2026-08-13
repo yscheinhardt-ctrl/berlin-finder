@@ -11126,3 +11126,24 @@
 
 📍 Lützowstraße 7, 10785 Mit
 2026-08-13T09:22:02+0000 INFO Notified: ID 20277 — Lützowstraße 7, 10785 Mitte
+2026-08-13T10:33:12+0000 INFO Fetched page: 296 total IDs, 10 rendered details
+2026-08-13T10:33:12+0000 INFO 7 new offer(s) found
+2026-08-13T10:33:12+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20278
+2026-08-13T10:33:12+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20279
+2026-08-13T10:33:12+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Belßstraße
+2026-08-13T10:33:12+0000 INFO Notified: ID 20280 — Belßstraße 4, 12277 Tempelhof-Schöneberg
+2026-08-13T10:33:12+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20281
+2026-08-13T10:33:13+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 An den Buckower Felder
+2026-08-13T10:33:13+0000 INFO Notified: ID 20282 — An den Buckower Feldern 15, 12349 Neukölln
+2026-08-13T10:33:13+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 An den Buckower Felder
+2026-08-13T10:33:13+0000 INFO Notified: ID 20283 — An den Buckower Feldern 15, 12349 Neukölln
+2026-08-13T10:33:13+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 An den Buckower Felder
+2026-08-13T10:33:13+0000 INFO Notified: ID 20284 — An den Buckower Feldern 15, 12349 Neukölln
