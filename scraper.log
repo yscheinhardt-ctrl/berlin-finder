@@ -11194,3 +11194,10 @@
 2026-08-13T13:43:17+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20302
 2026-08-13T13:43:17+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20303
 2026-08-13T13:43:17+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20304
+2026-08-13T14:45:17+0000 INFO Fetched page: 299 total IDs, 10 rendered details
+2026-08-13T14:45:17+0000 INFO 2 new offer(s) found
+2026-08-13T14:45:18+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Christoph-Ruden-Straße
+2026-08-13T14:45:18+0000 INFO Notified: ID 20305 — Christoph-Ruden-Straße 18, 12349 Neukölln
+2026-08-13T14:45:18+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 20306
