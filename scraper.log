@@ -11201,3 +11201,12 @@
 📍 Christoph-Ruden-Straße
 2026-08-13T14:45:18+0000 INFO Notified: ID 20305 — Christoph-Ruden-Straße 18, 12349 Neukölln
 2026-08-13T14:45:18+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 20306
+2026-08-13T15:41:41+0000 INFO Fetched page: 302 total IDs, 10 rendered details
+2026-08-13T15:41:41+0000 INFO 4 new offer(s) found
+2026-08-13T15:41:41+0000 INFO Skipped (district Spandau not in allowlist): ID 20307
+2026-08-13T15:41:41+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Hohe
+2026-08-13T15:41:41+0000 INFO Notified: ID 20308 — Hohenzollerndamm 50, 14199 Charlottenburg-Wilmersdorf
+2026-08-13T15:41:41+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20309
+2026-08-13T15:41:41+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20310
