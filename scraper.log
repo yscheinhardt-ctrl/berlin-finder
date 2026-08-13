@@ -11161,3 +11161,19 @@
 
 📍 Käthe-Dorsch-Ring 10, 
 2026-08-13T11:24:10+0000 INFO Notified: ID 20287 — Käthe-Dorsch-Ring 10, 12353 Neukölln
+2026-08-13T12:07:37+0000 INFO Fetched page: 303 total IDs, 10 rendered details
+2026-08-13T12:07:37+0000 INFO 8 new offer(s) found
+2026-08-13T12:07:37+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Ohlaue
+2026-08-13T12:07:37+0000 INFO Notified: ID 20288 — Ohlauer Straße 18, 10999 Friedrichshain-Kreuzberg
+2026-08-13T12:07:37+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20289
+2026-08-13T12:07:38+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Waldsassen
+2026-08-13T12:07:38+0000 INFO Notified: ID 20290 — Waldsassener Straße 29, 12279 Tempelhof-Schöneberg
+2026-08-13T12:07:38+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20291
+2026-08-13T12:07:38+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20292
+2026-08-13T12:07:38+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20293
+2026-08-13T12:07:38+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20294
+2026-08-13T12:07:38+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20295
