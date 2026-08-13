@@ -11097,3 +11097,20 @@
 
 📍 Großbe
 2026-08-13T06:43:43+0000 INFO Notified: ID 20267 — Großbeerenstraße 3, 10963 Friedrichshain-Kreuzberg
+2026-08-13T08:06:17+0000 INFO Fetched page: 293 total IDs, 10 rendered details
+2026-08-13T08:06:17+0000 INFO 6 new offer(s) found
+2026-08-13T08:06:18+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Fritz-Erler-Allee 190,
+2026-08-13T08:06:18+0000 INFO Notified: ID 20268 — Fritz-Erler-Allee 190, 12353 Neukölln
+2026-08-13T08:06:18+0000 INFO Skipped (district Pankow not in allowlist): ID 20269
+2026-08-13T08:06:18+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Agnes-Straub-Weg 2, 12
+2026-08-13T08:06:18+0000 INFO Notified: ID 20270 — Agnes-Straub-Weg 2, 12353 Neukölln
+2026-08-13T08:06:18+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20271
+2026-08-13T08:06:18+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20272
+2026-08-13T08:06:19+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Klara-Franke-Straße 7, 10
+2026-08-13T08:06:19+0000 INFO Notified: ID 20273 — Klara-Franke-Straße 7, 10557 Mitte
