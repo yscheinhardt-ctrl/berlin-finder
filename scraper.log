@@ -11283,3 +11283,15 @@
 2026-08-14T11:56:12+0000 INFO Skipped (district Spandau not in allowlist): ID 20331
 2026-08-14T11:56:12+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20332
 2026-08-14T11:56:12+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20333
+2026-08-14T13:07:44+0000 INFO Fetched page: 279 total IDs, 10 rendered details
+2026-08-14T13:07:44+0000 INFO 7 new offer(s) found
+2026-08-14T13:07:44+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20334
+2026-08-14T13:07:44+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20335
+2026-08-14T13:07:44+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 20336
+2026-08-14T13:07:44+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Kestenzeile 11A, 12349
+2026-08-14T13:07:44+0000 INFO Notified: ID 20337 — Kestenzeile 11A, 12349 Neukölln
+2026-08-14T13:07:44+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20338
+2026-08-14T13:07:44+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20339
+2026-08-14T13:07:44+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20340
