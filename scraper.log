@@ -11295,3 +11295,11 @@
 2026-08-14T13:07:44+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20338
 2026-08-14T13:07:44+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20339
 2026-08-14T13:07:44+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20340
+2026-08-14T14:19:02+0000 INFO Fetched page: 280 total IDs, 10 rendered details
+2026-08-14T14:19:02+0000 INFO 3 new offer(s) found
+2026-08-14T14:19:02+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20341
+2026-08-14T14:19:02+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20342
+2026-08-14T14:19:02+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Nord
+2026-08-14T14:19:02+0000 INFO Notified: ID 20343 — Nordhauser Straße 37A, 10589 Charlottenburg-Wilmersdorf
