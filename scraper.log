@@ -11262,3 +11262,13 @@
 2026-08-14T09:06:43+0000 INFO 2 new offer(s) found
 2026-08-14T09:06:43+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20323
 2026-08-14T09:06:43+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20324
+2026-08-14T10:14:30+0000 INFO Fetched page: 275 total IDs, 10 rendered details
+2026-08-14T10:14:30+0000 INFO 2 new offer(s) found
+2026-08-14T10:14:31+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Kochst
+2026-08-14T10:14:31+0000 INFO Notified: ID 20325 — Kochstraße 7A, 10969 Friedrichshain-Kreuzberg
+2026-08-14T10:14:31+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Komman
+2026-08-14T10:14:31+0000 INFO Notified: ID 20326 — Kommandantenstraße 31, 10969 Friedrichshain-Kreuzberg
