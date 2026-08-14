@@ -11303,3 +11303,17 @@
 
 📍 Nord
 2026-08-14T14:19:02+0000 INFO Notified: ID 20343 — Nordhauser Straße 37A, 10589 Charlottenburg-Wilmersdorf
+2026-08-14T15:10:36+0000 INFO Fetched page: 277 total IDs, 10 rendered details
+2026-08-14T15:10:36+0000 INFO 3 new offer(s) found
+2026-08-14T15:10:36+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Krauts
+2026-08-14T15:10:36+0000 INFO Notified: ID 20345 — Krautstraße 12, 10243 Friedrichshain-Kreuzberg
+2026-08-14T15:10:37+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Steegerstraße 15, 13359 M
+2026-08-14T15:10:37+0000 INFO Notified: ID 20346 — Steegerstraße 15, 13359 Mitte
+2026-08-14T15:10:37+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Neue Schönhauser Straße 1
+2026-08-14T15:10:37+0000 INFO Notified: ID 20347 — Neue Schönhauser Straße 14, 10178 Mitte
