@@ -11581,3 +11581,14 @@
 
 📍 Ruppiner Straße 27, 13355
 2026-08-17T07:10:50+0000 INFO Notified: ID 20356 — Ruppiner Straße 27, 13355 Mitte
+2026-08-17T08:00:07+0000 INFO Fetched page: 262 total IDs, 10 rendered details
+2026-08-17T08:00:07+0000 INFO 3 new offer(s) found
+2026-08-17T08:00:08+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Helm
+2026-08-17T08:00:08+0000 INFO Notified: ID 20357 — Helmstedter Straße 6, 10717 Charlottenburg-Wilmersdorf
+2026-08-17T08:00:08+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20358
+2026-08-17T08:00:08+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Wesers
+2026-08-17T08:00:08+0000 INFO Notified: ID 20359 — Weserstraße 34A, 10247 Friedrichshain-Kreuzberg
