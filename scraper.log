@@ -11630,3 +11630,9 @@
 2026-08-17T12:58:56+0000 INFO Skipped (district Spandau not in allowlist): ID 20373
 2026-08-17T12:58:56+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20374
 2026-08-17T12:58:56+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20375
+2026-08-17T13:44:30+0000 INFO Fetched page: 259 total IDs, 10 rendered details
+2026-08-17T13:44:30+0000 INFO 1 new offer(s) found
+2026-08-17T13:44:30+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Treptower Straße 16, 1
+2026-08-17T13:44:30+0000 INFO Notified: ID 20376 — Treptower Straße 16, 12059 Neukölln
