@@ -11592,3 +11592,13 @@
 
 📍 Wesers
 2026-08-17T08:00:08+0000 INFO Notified: ID 20359 — Weserstraße 34A, 10247 Friedrichshain-Kreuzberg
+2026-08-17T08:53:43+0000 INFO Fetched page: 265 total IDs, 10 rendered details
+2026-08-17T08:53:43+0000 INFO 5 new offer(s) found
+2026-08-17T08:53:43+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20360
+2026-08-17T08:53:44+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Braunschweiger Straße 
+2026-08-17T08:53:44+0000 INFO Notified: ID 20361 — Braunschweiger Straße 3, 12055 Neukölln
+2026-08-17T08:53:44+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20362
+2026-08-17T08:53:44+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20363
+2026-08-17T08:53:44+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20364
