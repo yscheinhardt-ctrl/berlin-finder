@@ -11574,3 +11574,10 @@
 2026-08-17T05:29:00+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20353
 2026-08-17T06:01:38+0000 INFO Fetched page: 264 total IDs, 10 rendered details
 2026-08-17T06:01:38+0000 INFO 0 new offer(s) found
+2026-08-17T07:10:49+0000 INFO Fetched page: 264 total IDs, 10 rendered details
+2026-08-17T07:10:49+0000 INFO 2 new offer(s) found
+2026-08-17T07:10:49+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20355
+2026-08-17T07:10:50+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Ruppiner Straße 27, 13355
+2026-08-17T07:10:50+0000 INFO Notified: ID 20356 — Ruppiner Straße 27, 13355 Mitte
