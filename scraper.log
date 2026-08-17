@@ -11613,3 +11613,10 @@
 2026-08-17T10:07:44+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20369
 2026-08-17T10:46:19+0000 INFO Fetched page: 263 total IDs, 10 rendered details
 2026-08-17T10:46:19+0000 INFO 0 new offer(s) found
+2026-08-17T11:10:28+0000 INFO Fetched page: 265 total IDs, 10 rendered details
+2026-08-17T11:10:28+0000 INFO 2 new offer(s) found
+2026-08-17T11:10:29+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Otto-Dix-Straße 20, 10557
+2026-08-17T11:10:29+0000 INFO Notified: ID 20370 — Otto-Dix-Straße 20, 10557 Mitte
+2026-08-17T11:10:29+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 20371
