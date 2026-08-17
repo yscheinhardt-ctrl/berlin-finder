@@ -11620,3 +11620,6 @@
 📍 Otto-Dix-Straße 20, 10557
 2026-08-17T11:10:29+0000 INFO Notified: ID 20370 — Otto-Dix-Straße 20, 10557 Mitte
 2026-08-17T11:10:29+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 20371
+2026-08-17T11:39:58+0000 INFO Fetched page: 262 total IDs, 10 rendered details
+2026-08-17T11:39:58+0000 INFO 1 new offer(s) found
+2026-08-17T11:39:58+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20372
