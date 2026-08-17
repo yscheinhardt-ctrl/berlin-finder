@@ -11655,3 +11655,7 @@
 
 📍 Palisa
 2026-08-17T15:57:16+0000 INFO Notified: ID 20379 — Palisadenstraße 37A, 10243 Friedrichshain-Kreuzberg
+2026-08-17T16:31:06+0000 INFO Fetched page: 257 total IDs, 10 rendered details
+2026-08-17T16:31:06+0000 INFO 2 new offer(s) found
+2026-08-17T16:31:06+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20380
+2026-08-17T16:31:06+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20381
