@@ -11638,3 +11638,6 @@
 2026-08-17T13:44:30+0000 INFO Notified: ID 20376 — Treptower Straße 16, 12059 Neukölln
 2026-08-17T14:11:37+0000 INFO Fetched page: 258 total IDs, 10 rendered details
 2026-08-17T14:11:37+0000 INFO 0 new offer(s) found
+2026-08-17T14:45:15+0000 INFO Fetched page: 258 total IDs, 10 rendered details
+2026-08-17T14:45:15+0000 INFO 1 new offer(s) found
+2026-08-17T14:45:15+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20377
