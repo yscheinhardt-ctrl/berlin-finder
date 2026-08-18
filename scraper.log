@@ -11739,3 +11739,11 @@
 
 📍 Naunyn
 2026-08-18T08:15:43+0000 INFO Notified: ID 20393 — Naunynstraße 10, 10997 Friedrichshain-Kreuzberg
+2026-08-18T08:56:16+0000 INFO Fetched page: 258 total IDs, 10 rendered details
+2026-08-18T08:56:16+0000 INFO 6 new offer(s) found
+2026-08-18T08:56:16+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20395
+2026-08-18T08:56:16+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20396
+2026-08-18T08:56:16+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20397
+2026-08-18T08:56:16+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20398
+2026-08-18T08:56:16+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20399
+2026-08-18T08:56:16+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20400
