@@ -11713,3 +11713,9 @@
 
 📍 Alboinplat
 2026-08-18T05:39:49+0000 INFO Notified: ID 20384 — Alboinplatz 15, 12105 Tempelhof-Schöneberg
+2026-08-18T06:00:55+0000 INFO Fetched page: 254 total IDs, 10 rendered details
+2026-08-18T06:00:55+0000 INFO 1 new offer(s) found
+2026-08-18T06:00:56+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 In den Bauerngärten 8,
+2026-08-18T06:00:56+0000 INFO Notified: ID 20385 — In den Bauerngärten 8, 12349 Neukölln
