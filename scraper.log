@@ -11763,3 +11763,7 @@
 2026-08-18T10:38:43+0000 INFO Fetched page: 261 total IDs, 10 rendered details
 2026-08-18T10:38:43+0000 INFO 1 new offer(s) found
 2026-08-18T10:38:43+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20407
+2026-08-18T11:00:49+0000 INFO Fetched page: 263 total IDs, 10 rendered details
+2026-08-18T11:00:49+0000 INFO 2 new offer(s) found
+2026-08-18T11:00:49+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20408
+2026-08-18T11:00:49+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20409
