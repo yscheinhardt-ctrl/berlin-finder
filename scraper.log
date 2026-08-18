@@ -11747,3 +11747,12 @@
 2026-08-18T08:56:16+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20398
 2026-08-18T08:56:16+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20399
 2026-08-18T08:56:16+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20400
+2026-08-18T09:34:11+0000 INFO Fetched page: 259 total IDs, 10 rendered details
+2026-08-18T09:34:11+0000 INFO 4 new offer(s) found
+2026-08-18T09:34:11+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20401
+2026-08-18T09:34:11+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20402
+2026-08-18T09:34:11+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20403
+2026-08-18T09:34:11+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 An den Buckower Felder
+2026-08-18T09:34:11+0000 INFO Notified: ID 20404 — An den Buckower Feldern 15, 12349 Neukölln
