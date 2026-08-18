@@ -11719,3 +11719,11 @@
 
 📍 In den Bauerngärten 8,
 2026-08-18T06:00:56+0000 INFO Notified: ID 20385 — In den Bauerngärten 8, 12349 Neukölln
+2026-08-18T06:57:44+0000 INFO Fetched page: 254 total IDs, 10 rendered details
+2026-08-18T06:57:44+0000 INFO 3 new offer(s) found
+2026-08-18T06:57:44+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20386
+2026-08-18T06:57:44+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-08-18T06:57:44+0000 INFO Notified: ID 20387 — Tirschenreuther Ring 23, 12279 Tempelhof-Schöneberg
+2026-08-18T06:57:44+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20388
