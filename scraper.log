@@ -11810,3 +11810,9 @@
 2026-08-18T17:15:48+0000 INFO 0 new offer(s) found
 2026-08-18T17:47:13+0000 INFO Fetched page: 267 total IDs, 10 rendered details
 2026-08-18T17:47:13+0000 INFO 0 new offer(s) found
+2026-08-18T18:14:28+0000 INFO Fetched page: 266 total IDs, 10 rendered details
+2026-08-18T18:14:28+0000 INFO 1 new offer(s) found
+2026-08-18T18:14:28+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Platz 
+2026-08-18T18:14:28+0000 INFO Notified: ID 20430 — Platz der Vereinten Nationen 18, 10249 Friedrichshain-Kreuzberg
