@@ -11964,3 +11964,6 @@
 2026-08-19T14:51:54+0000 INFO 2 new offer(s) found
 2026-08-19T14:51:54+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20477
 2026-08-19T14:51:54+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20478
+2026-08-19T15:20:00+0000 INFO Fetched page: 284 total IDs, 10 rendered details
+2026-08-19T15:20:00+0000 INFO 1 new offer(s) found
+2026-08-19T15:20:00+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20479
