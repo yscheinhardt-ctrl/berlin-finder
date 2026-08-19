@@ -11967,3 +11967,31 @@
 2026-08-19T15:20:00+0000 INFO Fetched page: 284 total IDs, 10 rendered details
 2026-08-19T15:20:00+0000 INFO 1 new offer(s) found
 2026-08-19T15:20:00+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20479
+2026-08-19T15:51:55+0000 INFO Fetched page: 290 total IDs, 10 rendered details
+2026-08-19T15:51:55+0000 INFO 8 new offer(s) found
+2026-08-19T15:51:55+0000 INFO Skipped (district Pankow not in allowlist): ID 20481
+2026-08-19T15:51:55+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 20482
+2026-08-19T15:51:55+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Landsb
+2026-08-19T15:51:55+0000 INFO Notified: ID 20483 — Landsberger Allee 68A, 10249 Friedrichshain-Kreuzberg
+2026-08-19T15:51:56+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Landsb
+2026-08-19T15:51:56+0000 INFO Notified: ID 20484 — Landsberger Allee 68B, 10249 Friedrichshain-Kreuzberg
+2026-08-19T15:51:56+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Kochha
+2026-08-19T15:51:56+0000 INFO Notified: ID 20485 — Kochhannstraße 13, 10249 Friedrichshain-Kreuzberg
+2026-08-19T15:51:57+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Kochha
+2026-08-19T15:51:57+0000 INFO Notified: ID 20486 — Kochhannstraße 13, 10249 Friedrichshain-Kreuzberg
+2026-08-19T15:51:57+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Weisba
+2026-08-19T15:51:57+0000 INFO Notified: ID 20487 — Weisbachstraße 1, 10249 Friedrichshain-Kreuzberg
+2026-08-19T15:51:58+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Schrei
+2026-08-19T15:51:58+0000 INFO Notified: ID 20488 — Schreinerstraße 60, 10247 Friedrichshain-Kreuzberg
