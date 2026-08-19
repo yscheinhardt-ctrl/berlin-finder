@@ -11913,3 +11913,14 @@
 2026-08-19T10:40:52+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20451
 2026-08-19T11:01:54+0000 INFO Fetched page: 266 total IDs, 10 rendered details
 2026-08-19T11:01:54+0000 INFO 0 new offer(s) found
+2026-08-19T11:34:09+0000 INFO Fetched page: 274 total IDs, 10 rendered details
+2026-08-19T11:34:09+0000 INFO 9 new offer(s) found
+2026-08-19T11:34:09+0000 INFO Skipped (district Spandau not in allowlist): ID 20452
+2026-08-19T11:34:09+0000 INFO Skipped (district Spandau not in allowlist): ID 20453
+2026-08-19T11:34:09+0000 INFO Skipped (district Spandau not in allowlist): ID 20454
+2026-08-19T11:34:09+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20455
+2026-08-19T11:34:09+0000 INFO Skipped (district Spandau not in allowlist): ID 20456
+2026-08-19T11:34:09+0000 INFO Skipped (district Spandau not in allowlist): ID 20457
+2026-08-19T11:34:09+0000 INFO Skipped (district Spandau not in allowlist): ID 20458
+2026-08-19T11:34:09+0000 INFO Skipped (district Spandau not in allowlist): ID 20459
+2026-08-19T11:34:09+0000 INFO Skipped (district Spandau not in allowlist): ID 20460
