@@ -11856,3 +11856,22 @@
 2026-08-19T07:00:53+0000 INFO 2 new offer(s) found
 2026-08-19T07:00:53+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20431
 2026-08-19T07:00:53+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20432
+2026-08-19T07:47:28+0000 INFO Fetched page: 264 total IDs, 10 rendered details
+2026-08-19T07:47:28+0000 INFO 8 new offer(s) found
+2026-08-19T07:47:28+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20433
+2026-08-19T07:47:28+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20434
+2026-08-19T07:47:28+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20435
+2026-08-19T07:47:28+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20436
+2026-08-19T07:47:28+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Waldsassen
+2026-08-19T07:47:28+0000 INFO Notified: ID 20437 — Waldsassener Straße 58, 12279 Tempelhof-Schöneberg
+2026-08-19T07:47:28+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20438
+2026-08-19T07:47:29+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-08-19T07:47:29+0000 INFO Notified: ID 20439 — Tirschenreuther Ring 10, 12279 Tempelhof-Schöneberg
+2026-08-19T07:47:29+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Ackerstraße 116, 13355 Mi
+2026-08-19T07:47:29+0000 INFO Notified: ID 20440 — Ackerstraße 116, 13355 Mitte
