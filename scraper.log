@@ -11924,3 +11924,15 @@
 2026-08-19T11:34:09+0000 INFO Skipped (district Spandau not in allowlist): ID 20458
 2026-08-19T11:34:09+0000 INFO Skipped (district Spandau not in allowlist): ID 20459
 2026-08-19T11:34:09+0000 INFO Skipped (district Spandau not in allowlist): ID 20460
+2026-08-19T11:55:50+0000 INFO Fetched page: 277 total IDs, 10 rendered details
+2026-08-19T11:55:50+0000 INFO 4 new offer(s) found
+2026-08-19T11:55:50+0000 INFO Skipped (district Spandau not in allowlist): ID 20461
+2026-08-19T11:55:50+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Rubensstra
+2026-08-19T11:55:50+0000 INFO Notified: ID 20462 — Rubensstraße 34, 12159 Tempelhof-Schöneberg
+2026-08-19T11:55:50+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20463
+2026-08-19T11:55:51+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Dominicuss
+2026-08-19T11:55:51+0000 INFO Notified: ID 20464 — Dominicusstraße 41, 10827 Tempelhof-Schöneberg
