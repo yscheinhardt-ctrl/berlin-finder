@@ -11960,3 +11960,7 @@
 
 📍 Soldiner Straße 70, 13359
 2026-08-19T14:09:01+0000 INFO Notified: ID 20476 — Soldiner Straße 70, 13359 Mitte
+2026-08-19T14:51:54+0000 INFO Fetched page: 283 total IDs, 10 rendered details
+2026-08-19T14:51:54+0000 INFO 2 new offer(s) found
+2026-08-19T14:51:54+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20477
+2026-08-19T14:51:54+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20478
