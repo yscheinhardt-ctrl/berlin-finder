@@ -11911,3 +11911,5 @@
 📍 Tirschenre
 2026-08-19T10:40:52+0000 INFO Notified: ID 20450 — Tirschenreuther Ring 23, 12279 Tempelhof-Schöneberg
 2026-08-19T10:40:52+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20451
+2026-08-19T11:01:54+0000 INFO Fetched page: 266 total IDs, 10 rendered details
+2026-08-19T11:01:54+0000 INFO 0 new offer(s) found
