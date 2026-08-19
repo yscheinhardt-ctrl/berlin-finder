@@ -11875,3 +11875,6 @@
 
 📍 Ackerstraße 116, 13355 Mi
 2026-08-19T07:47:29+0000 INFO Notified: ID 20440 — Ackerstraße 116, 13355 Mitte
+2026-08-19T08:17:43+0000 INFO Fetched page: 265 total IDs, 10 rendered details
+2026-08-19T08:17:43+0000 INFO 1 new offer(s) found
+2026-08-19T08:17:43+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20441
