@@ -11878,3 +11878,19 @@
 2026-08-19T08:17:43+0000 INFO Fetched page: 265 total IDs, 10 rendered details
 2026-08-19T08:17:43+0000 INFO 1 new offer(s) found
 2026-08-19T08:17:43+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20441
+2026-08-19T08:58:38+0000 INFO Fetched page: 267 total IDs, 10 rendered details
+2026-08-19T08:58:38+0000 INFO 5 new offer(s) found
+2026-08-19T08:58:38+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20442
+2026-08-19T08:58:38+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Alexan
+2026-08-19T08:58:38+0000 INFO Notified: ID 20443 — Alexandrinenstraße 36, 10969 Friedrichshain-Kreuzberg
+2026-08-19T08:58:39+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Prinze
+2026-08-19T08:58:39+0000 INFO Notified: ID 20444 — Prinzenstraße 80, 10969 Friedrichshain-Kreuzberg
+2026-08-19T08:58:39+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Sebast
+2026-08-19T08:58:39+0000 INFO Notified: ID 20445 — Sebastianstraße 72, 10969 Friedrichshain-Kreuzberg
+2026-08-19T08:58:39+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20446
