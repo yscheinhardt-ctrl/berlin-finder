@@ -11894,3 +11894,11 @@
 📍 Sebast
 2026-08-19T08:58:39+0000 INFO Notified: ID 20445 — Sebastianstraße 72, 10969 Friedrichshain-Kreuzberg
 2026-08-19T08:58:39+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20446
+2026-08-19T09:41:20+0000 INFO Fetched page: 268 total IDs, 10 rendered details
+2026-08-19T09:41:20+0000 INFO 3 new offer(s) found
+2026-08-19T09:41:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20447
+2026-08-19T09:41:20+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20448
+2026-08-19T09:41:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Stralsunder Straße 7, 133
+2026-08-19T09:41:20+0000 INFO Notified: ID 20449 — Stralsunder Straße 7, 13355 Mitte
