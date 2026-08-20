@@ -12119,3 +12119,7 @@
 2026-08-20T11:50:30+0000 INFO 2 new offer(s) found
 2026-08-20T11:50:30+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20517
 2026-08-20T11:50:30+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20518
+2026-08-20T12:17:46+0000 INFO Fetched page: 258 total IDs, 10 rendered details
+2026-08-20T12:17:46+0000 INFO 2 new offer(s) found
+2026-08-20T12:17:46+0000 INFO Skipped (district Spandau not in allowlist): ID 20519
+2026-08-20T12:17:46+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20520
