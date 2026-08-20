@@ -12155,3 +12155,6 @@
 2026-08-20T14:48:40+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20541
 2026-08-20T14:48:40+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20542
 2026-08-20T14:48:40+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20543
+2026-08-20T15:19:07+0000 INFO Fetched page: 272 total IDs, 10 rendered details
+2026-08-20T15:19:07+0000 INFO 1 new offer(s) found
+2026-08-20T15:19:07+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20544
