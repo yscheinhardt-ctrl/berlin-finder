@@ -12168,3 +12168,34 @@
 2026-08-20T16:24:45+0000 INFO 2 new offer(s) found
 2026-08-20T16:24:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20546
 2026-08-20T16:24:45+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20547
+2026-08-20T17:00:17+0000 INFO Fetched page: 276 total IDs, 10 rendered details
+2026-08-20T17:00:17+0000 INFO 8 new offer(s) found
+2026-08-20T17:00:17+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20548
+2026-08-20T17:00:18+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Höchst
+2026-08-20T17:00:18+0000 INFO Notified: ID 20549 — Höchste Straße 10, 10249 Friedrichshain-Kreuzberg
+2026-08-20T17:00:18+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Friede
+2026-08-20T17:00:18+0000 INFO Notified: ID 20550 — Friedenstraße 65, 10249 Friedrichshain-Kreuzberg
+2026-08-20T17:00:19+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Krauts
+2026-08-20T17:00:19+0000 INFO Notified: ID 20551 — Krautstraße 25, 10243 Friedrichshain-Kreuzberg
+2026-08-20T17:00:19+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Lange 
+2026-08-20T17:00:19+0000 INFO Notified: ID 20552 — Lange Straße 84, 10243 Friedrichshain-Kreuzberg
+2026-08-20T17:00:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Kleine
+2026-08-20T17:00:20+0000 INFO Notified: ID 20553 — Kleine Andreasstraße 12, 10243 Friedrichshain-Kreuzberg
+2026-08-20T17:00:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Kleine
+2026-08-20T17:00:20+0000 INFO Notified: ID 20554 — Kleine Andreasstraße 13, 10243 Friedrichshain-Kreuzberg
+2026-08-20T17:00:21+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Ebelin
+2026-08-20T17:00:21+0000 INFO Notified: ID 20555 — Ebelingstraße 13A, 10249 Friedrichshain-Kreuzberg
