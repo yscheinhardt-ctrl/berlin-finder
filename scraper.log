@@ -12085,3 +12085,12 @@
 📍 Zwickauer Damm 6, 1235
 2026-08-20T08:43:01+0000 INFO Notified: ID 20501 — Zwickauer Damm 6, 12353 Neukölln
 2026-08-20T08:43:01+0000 INFO Skipped (district Pankow not in allowlist): ID 20502
+2026-08-20T09:17:34+0000 INFO Fetched page: 282 total IDs, 10 rendered details
+2026-08-20T09:17:34+0000 INFO 4 new offer(s) found
+2026-08-20T09:17:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Peters
+2026-08-20T09:17:34+0000 INFO Notified: ID 20503 — Petersburger Straße 26, 10249 Friedrichshain-Kreuzberg
+2026-08-20T09:17:34+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20504
+2026-08-20T09:17:34+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20505
+2026-08-20T09:17:34+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20506
