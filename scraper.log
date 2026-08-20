@@ -12070,3 +12070,18 @@
 📍 An den Buckower Felder
 2026-08-20T07:57:25+0000 INFO Notified: ID 20494 — An den Buckower Feldern 15, 12349 Neukölln
 2026-08-20T07:57:25+0000 INFO Skipped (district Pankow not in allowlist): ID 20495
+2026-08-20T08:43:00+0000 INFO Fetched page: 279 total IDs, 10 rendered details
+2026-08-20T08:43:00+0000 INFO 7 new offer(s) found
+2026-08-20T08:43:00+0000 INFO Skipped (district Pankow not in allowlist): ID 20496
+2026-08-20T08:43:00+0000 INFO Skipped (district Pankow not in allowlist): ID 20497
+2026-08-20T08:43:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Reic
+2026-08-20T08:43:01+0000 INFO Notified: ID 20498 — Reichweindamm 26, 13627 Charlottenburg-Wilmersdorf
+2026-08-20T08:43:01+0000 INFO Skipped (district Pankow not in allowlist): ID 20499
+2026-08-20T08:43:01+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 20500
+2026-08-20T08:43:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Zwickauer Damm 6, 1235
+2026-08-20T08:43:01+0000 INFO Notified: ID 20501 — Zwickauer Damm 6, 12353 Neukölln
+2026-08-20T08:43:01+0000 INFO Skipped (district Pankow not in allowlist): ID 20502
