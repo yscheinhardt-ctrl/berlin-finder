@@ -12108,3 +12108,10 @@
 2026-08-20T10:54:48+0000 INFO Fetched page: 273 total IDs, 10 rendered details
 2026-08-20T10:54:48+0000 INFO 1 new offer(s) found
 2026-08-20T10:54:48+0000 INFO Skipped (district Spandau not in allowlist): ID 20514
+2026-08-20T11:23:11+0000 INFO Fetched page: 273 total IDs, 10 rendered details
+2026-08-20T11:23:11+0000 INFO 2 new offer(s) found
+2026-08-20T11:23:12+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 An den Buckower Felder
+2026-08-20T11:23:12+0000 INFO Notified: ID 20515 — An den Buckower Feldern 15, 12349 Neukölln
+2026-08-20T11:23:12+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 20516
