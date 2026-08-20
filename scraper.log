@@ -12158,3 +12158,9 @@
 2026-08-20T15:19:07+0000 INFO Fetched page: 272 total IDs, 10 rendered details
 2026-08-20T15:19:07+0000 INFO 1 new offer(s) found
 2026-08-20T15:19:07+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20544
+2026-08-20T15:53:00+0000 INFO Fetched page: 271 total IDs, 10 rendered details
+2026-08-20T15:53:00+0000 INFO 1 new offer(s) found
+2026-08-20T15:53:00+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Oranie
+2026-08-20T15:53:00+0000 INFO Notified: ID 20545 — Oranienplatz 5, 10999 Friedrichshain-Kreuzberg
