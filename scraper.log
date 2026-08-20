@@ -12146,3 +12146,12 @@
 2026-08-20T14:02:44+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20534
 2026-08-20T14:02:44+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20535
 2026-08-20T14:02:44+0000 INFO Skipped (district Spandau not in allowlist): ID 20536
+2026-08-20T14:48:40+0000 INFO Fetched page: 272 total IDs, 10 rendered details
+2026-08-20T14:48:40+0000 INFO 7 new offer(s) found
+2026-08-20T14:48:40+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20537
+2026-08-20T14:48:40+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20538
+2026-08-20T14:48:40+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20539
+2026-08-20T14:48:40+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20540
+2026-08-20T14:48:40+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20541
+2026-08-20T14:48:40+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20542
+2026-08-20T14:48:40+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20543
