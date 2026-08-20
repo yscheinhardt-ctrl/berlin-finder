@@ -12115,3 +12115,7 @@
 📍 An den Buckower Felder
 2026-08-20T11:23:12+0000 INFO Notified: ID 20515 — An den Buckower Feldern 15, 12349 Neukölln
 2026-08-20T11:23:12+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 20516
+2026-08-20T11:50:30+0000 INFO Fetched page: 261 total IDs, 10 rendered details
+2026-08-20T11:50:30+0000 INFO 2 new offer(s) found
+2026-08-20T11:50:30+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20517
+2026-08-20T11:50:30+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20518
