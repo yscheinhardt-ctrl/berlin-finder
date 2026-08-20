@@ -12164,3 +12164,7 @@
 
 📍 Oranie
 2026-08-20T15:53:00+0000 INFO Notified: ID 20545 — Oranienplatz 5, 10999 Friedrichshain-Kreuzberg
+2026-08-20T16:24:45+0000 INFO Fetched page: 270 total IDs, 10 rendered details
+2026-08-20T16:24:45+0000 INFO 2 new offer(s) found
+2026-08-20T16:24:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20546
+2026-08-20T16:24:45+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20547
