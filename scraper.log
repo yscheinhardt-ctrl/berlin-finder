@@ -12259,3 +12259,8 @@
 2026-08-21T07:51:59+0000 INFO 2 new offer(s) found
 2026-08-21T07:51:59+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 20559
 2026-08-21T07:51:59+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20560
+2026-08-21T08:26:11+0000 INFO Fetched page: 252 total IDs, 10 rendered details
+2026-08-21T08:26:11+0000 INFO 3 new offer(s) found
+2026-08-21T08:26:11+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20561
+2026-08-21T08:26:11+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20562
+2026-08-21T08:26:11+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20563
