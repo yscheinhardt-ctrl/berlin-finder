@@ -12277,3 +12277,8 @@
 2026-08-21T10:15:31+0000 INFO Fetched page: 253 total IDs, 10 rendered details
 2026-08-21T10:15:31+0000 INFO 1 new offer(s) found
 2026-08-21T10:15:31+0000 INFO Skipped (district Spandau not in allowlist): ID 20570
+2026-08-21T10:51:07+0000 INFO Fetched page: 253 total IDs, 10 rendered details
+2026-08-21T10:51:07+0000 INFO 3 new offer(s) found
+2026-08-21T10:51:07+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20571
+2026-08-21T10:51:07+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20572
+2026-08-21T10:51:07+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20573
