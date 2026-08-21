@@ -12289,3 +12289,13 @@
 2026-08-21T11:14:34+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20576
 2026-08-21T11:44:42+0000 INFO Fetched page: 254 total IDs, 10 rendered details
 2026-08-21T11:44:42+0000 INFO 0 new offer(s) found
+2026-08-21T12:14:09+0000 INFO Fetched page: 256 total IDs, 10 rendered details
+2026-08-21T12:14:09+0000 INFO 2 new offer(s) found
+2026-08-21T12:14:09+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Pintsc
+2026-08-21T12:14:09+0000 INFO Notified: ID 20577 — Pintschstraße 10, 10249 Friedrichshain-Kreuzberg
+2026-08-21T12:14:10+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Iranische Straße 4B, 1334
+2026-08-21T12:14:10+0000 INFO Notified: ID 20578 — Iranische Straße 4B, 13347 Mitte
