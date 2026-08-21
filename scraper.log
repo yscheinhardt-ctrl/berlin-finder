@@ -12299,3 +12299,6 @@
 
 📍 Iranische Straße 4B, 1334
 2026-08-21T12:14:10+0000 INFO Notified: ID 20578 — Iranische Straße 4B, 13347 Mitte
+2026-08-21T13:13:04+0000 INFO Fetched page: 256 total IDs, 10 rendered details
+2026-08-21T13:13:04+0000 INFO 1 new offer(s) found
+2026-08-21T13:13:04+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20579
