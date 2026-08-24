@@ -12584,3 +12584,6 @@
 2026-08-24T06:00:48+0000 INFO 0 new offer(s) found
 2026-08-24T07:13:48+0000 INFO Fetched page: 250 total IDs, 10 rendered details
 2026-08-24T07:13:48+0000 INFO 0 new offer(s) found
+2026-08-24T08:05:35+0000 INFO Fetched page: 248 total IDs, 10 rendered details
+2026-08-24T08:05:35+0000 INFO 1 new offer(s) found
+2026-08-24T08:05:35+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 20598
