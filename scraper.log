@@ -12685,3 +12685,10 @@
 
 📍 Schw
 2026-08-24T16:04:22+0000 INFO Notified: ID 20632 — Schwambzeile 7, 13627 Charlottenburg-Wilmersdorf
+2026-08-24T16:51:21+0000 INFO Fetched page: 251 total IDs, 10 rendered details
+2026-08-24T16:51:21+0000 INFO 2 new offer(s) found
+2026-08-24T16:51:21+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Schw
+2026-08-24T16:51:21+0000 INFO Notified: ID 20633 — Schwambzeile 3, 13627 Charlottenburg-Wilmersdorf
+2026-08-24T16:51:21+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20634
