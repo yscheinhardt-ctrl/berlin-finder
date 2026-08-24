@@ -12653,3 +12653,14 @@
 2026-08-24T13:06:21+0000 INFO Skipped (district Pankow not in allowlist): ID 20621
 2026-08-24T13:06:21+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 20622
 2026-08-24T13:06:21+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 20623
+2026-08-24T13:59:10+0000 INFO Fetched page: 254 total IDs, 10 rendered details
+2026-08-24T13:59:10+0000 INFO 3 new offer(s) found
+2026-08-24T13:59:10+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20624
+2026-08-24T13:59:10+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Belßstraße
+2026-08-24T13:59:10+0000 INFO Notified: ID 20625 — Belßstraße 23, 12277 Tempelhof-Schöneberg
+2026-08-24T13:59:11+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Am Horsten
+2026-08-24T13:59:11+0000 INFO Notified: ID 20626 — Am Horstenstein 29, 12277 Tempelhof-Schöneberg
