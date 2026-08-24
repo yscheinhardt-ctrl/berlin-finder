@@ -12606,3 +12606,16 @@
 📍 Mollnerweg 35A, 12353 
 2026-08-24T09:00:05+0000 INFO Notified: ID 20605 — Mollnerweg 35A, 12353 Neukölln
 2026-08-24T09:00:05+0000 INFO Skipped (district Pankow not in allowlist): ID 20606
+2026-08-24T09:56:56+0000 INFO Fetched page: 251 total IDs, 10 rendered details
+2026-08-24T09:56:56+0000 INFO 5 new offer(s) found
+2026-08-24T09:56:56+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Allerstraße 44, 12049 
+2026-08-24T09:56:56+0000 INFO Notified: ID 20607 — Allerstraße 44, 12049 Neukölln
+2026-08-24T09:56:56+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20608
+2026-08-24T09:56:56+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20609
+2026-08-24T09:56:57+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Feurigstra
+2026-08-24T09:56:57+0000 INFO Notified: ID 20610 — Feurigstraße 47, 10827 Tempelhof-Schöneberg
+2026-08-24T09:56:57+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20611
