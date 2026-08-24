@@ -12632,3 +12632,10 @@
 
 📍 An den Buckower Felder
 2026-08-24T11:05:53+0000 INFO Notified: ID 20614 — An den Buckower Feldern 15, 12349 Neukölln
+2026-08-24T11:40:05+0000 INFO Fetched page: 247 total IDs, 10 rendered details
+2026-08-24T11:40:05+0000 INFO 2 new offer(s) found
+2026-08-24T11:40:05+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20615
+2026-08-24T11:40:06+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Bernauer Straße 68, 13355
+2026-08-24T11:40:06+0000 INFO Notified: ID 20616 — Bernauer Straße 68, 13355 Mitte
