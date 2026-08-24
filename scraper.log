@@ -12669,3 +12669,13 @@
 2026-08-24T14:51:15+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20627
 2026-08-24T14:51:15+0000 INFO Skipped (district Spandau not in allowlist): ID 20628
 2026-08-24T14:51:15+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20629
+2026-08-24T15:26:14+0000 INFO Fetched page: 251 total IDs, 10 rendered details
+2026-08-24T15:26:14+0000 INFO 2 new offer(s) found
+2026-08-24T15:26:15+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Leun
+2026-08-24T15:26:15+0000 INFO Notified: ID 20630 — Leuningerpfad 5, 13627 Charlottenburg-Wilmersdorf
+2026-08-24T15:26:15+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Heck
+2026-08-24T15:26:15+0000 INFO Notified: ID 20631 — Heckerdamm 218, 13627 Charlottenburg-Wilmersdorf
