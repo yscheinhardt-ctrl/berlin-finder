@@ -12646,3 +12646,10 @@
 📍 Am Straßenbahnhof 32, 
 2026-08-24T12:01:05+0000 INFO Notified: ID 20617 — Am Straßenbahnhof 32, 12347 Neukölln
 2026-08-24T12:01:05+0000 INFO Skipped (district Pankow not in allowlist): ID 20618
+2026-08-24T13:06:21+0000 INFO Fetched page: 251 total IDs, 10 rendered details
+2026-08-24T13:06:21+0000 INFO 5 new offer(s) found
+2026-08-24T13:06:21+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20619
+2026-08-24T13:06:21+0000 INFO Skipped (district Pankow not in allowlist): ID 20620
+2026-08-24T13:06:21+0000 INFO Skipped (district Pankow not in allowlist): ID 20621
+2026-08-24T13:06:21+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 20622
+2026-08-24T13:06:21+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 20623
