@@ -12639,3 +12639,10 @@
 
 📍 Bernauer Straße 68, 13355
 2026-08-24T11:40:06+0000 INFO Notified: ID 20616 — Bernauer Straße 68, 13355 Mitte
+2026-08-24T12:01:04+0000 INFO Fetched page: 249 total IDs, 10 rendered details
+2026-08-24T12:01:04+0000 INFO 2 new offer(s) found
+2026-08-24T12:01:05+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Am Straßenbahnhof 32, 
+2026-08-24T12:01:05+0000 INFO Notified: ID 20617 — Am Straßenbahnhof 32, 12347 Neukölln
+2026-08-24T12:01:05+0000 INFO Skipped (district Pankow not in allowlist): ID 20618
