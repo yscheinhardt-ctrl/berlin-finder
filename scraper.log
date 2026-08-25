@@ -12780,3 +12780,12 @@
 2026-08-25T11:10:49+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20656
 2026-08-25T11:43:36+0000 INFO Fetched page: 252 total IDs, 10 rendered details
 2026-08-25T11:43:36+0000 INFO 0 new offer(s) found
+2026-08-25T12:15:31+0000 INFO Fetched page: 255 total IDs, 10 rendered details
+2026-08-25T12:15:31+0000 INFO 4 new offer(s) found
+2026-08-25T12:15:32+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Waldsassen
+2026-08-25T12:15:32+0000 INFO Notified: ID 20657 — Waldsassener Straße 32, 12279 Tempelhof-Schöneberg
+2026-08-25T12:15:32+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20658
+2026-08-25T12:15:32+0000 INFO Skipped (district Pankow not in allowlist): ID 20659
+2026-08-25T12:15:32+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20660
