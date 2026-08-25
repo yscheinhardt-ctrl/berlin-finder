@@ -12821,3 +12821,6 @@
 2026-08-25T15:01:22+0000 INFO Fetched page: 246 total IDs, 10 rendered details
 2026-08-25T15:01:22+0000 INFO 1 new offer(s) found
 2026-08-25T15:01:22+0000 INFO Skipped (district Spandau not in allowlist): ID 20677
+2026-08-25T15:53:06+0000 INFO Fetched page: 243 total IDs, 10 rendered details
+2026-08-25T15:53:06+0000 INFO 1 new offer(s) found
+2026-08-25T15:53:06+0000 INFO Skipped (district Spandau not in allowlist): ID 20678
