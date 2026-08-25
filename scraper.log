@@ -12772,3 +12772,9 @@
 2026-08-25T10:44:13+0000 INFO Notified: ID 20650 — Schlangenbader Straße 35, 14197 Charlottenburg-Wilmersdorf
 2026-08-25T10:44:13+0000 INFO Skipped (district Spandau not in allowlist): ID 20651
 2026-08-25T10:44:13+0000 INFO Skipped (district Spandau not in allowlist): ID 20652
+2026-08-25T11:10:49+0000 INFO Fetched page: 255 total IDs, 10 rendered details
+2026-08-25T11:10:49+0000 INFO 4 new offer(s) found
+2026-08-25T11:10:49+0000 INFO Skipped (district Spandau not in allowlist): ID 20653
+2026-08-25T11:10:49+0000 INFO Skipped (district Spandau not in allowlist): ID 20654
+2026-08-25T11:10:49+0000 INFO Skipped (district Spandau not in allowlist): ID 20655
+2026-08-25T11:10:49+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20656
