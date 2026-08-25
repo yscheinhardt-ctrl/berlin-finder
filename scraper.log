@@ -12789,3 +12789,23 @@
 2026-08-25T12:15:32+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20658
 2026-08-25T12:15:32+0000 INFO Skipped (district Pankow not in allowlist): ID 20659
 2026-08-25T12:15:32+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20660
+2026-08-25T13:14:28+0000 INFO Fetched page: 259 total IDs, 10 rendered details
+2026-08-25T13:14:28+0000 INFO 9 new offer(s) found
+2026-08-25T13:14:28+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20661
+2026-08-25T13:14:29+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Prinz-Geor
+2026-08-25T13:14:29+0000 INFO Notified: ID 20662 — Prinz-Georg-Straße 1, 10827 Tempelhof-Schöneberg
+2026-08-25T13:14:29+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20663
+2026-08-25T13:14:29+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Demminer Straße 8, 13355 
+2026-08-25T13:14:29+0000 INFO Notified: ID 20664 — Demminer Straße 8, 13355 Mitte
+2026-08-25T13:14:29+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20665
+2026-08-25T13:14:30+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Ackerstraße 120, 13355 Mi
+2026-08-25T13:14:30+0000 INFO Notified: ID 20666 — Ackerstraße 120, 13355 Mitte
+2026-08-25T13:14:30+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20667
+2026-08-25T13:14:30+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20668
+2026-08-25T13:14:30+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20669
