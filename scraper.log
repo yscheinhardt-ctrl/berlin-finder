@@ -13007,3 +13007,13 @@
 
 📍 Arndts
 2026-08-26T13:42:04+0000 INFO Notified: ID 20749 — Arndtstraße 35, 10965 Friedrichshain-Kreuzberg
+2026-08-26T14:27:00+0000 INFO Fetched page: 261 total IDs, 10 rendered details
+2026-08-26T14:27:00+0000 INFO 2 new offer(s) found
+2026-08-26T14:27:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Potsdamer 
+2026-08-26T14:27:01+0000 INFO Notified: ID 20750 — Potsdamer Straße 130, 10783 Tempelhof-Schöneberg
+2026-08-26T14:27:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Kulmer Str
+2026-08-26T14:27:01+0000 INFO Notified: ID 20751 — Kulmer Straße 16, 10783 Tempelhof-Schöneberg
