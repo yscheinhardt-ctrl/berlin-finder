@@ -12913,3 +12913,24 @@
 
 📍 Innsbrucke
 2026-08-26T08:02:03+0000 INFO Notified: ID 20699 — Innsbrucker Platz 4, 10827 Tempelhof-Schöneberg
+2026-08-26T08:55:40+0000 INFO Fetched page: 249 total IDs, 10 rendered details
+2026-08-26T08:55:40+0000 INFO 12 new offer(s) found
+2026-08-26T08:55:40+0000 WARNING ID 20700 not in top-10 details (>10 new in one window?)
+2026-08-26T08:55:40+0000 INFO Telegram sent: 🏠 New offer (ID 20700) — details not rendered, see site:
+🔗 h
+2026-08-26T08:55:40+0000 WARNING ID 20701 not in top-10 details (>10 new in one window?)
+2026-08-26T08:55:41+0000 INFO Telegram sent: 🏠 New offer (ID 20701) — details not rendered, see site:
+🔗 h
+2026-08-26T08:55:41+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20702
+2026-08-26T08:55:41+0000 INFO Skipped (district Pankow not in allowlist): ID 20703
+2026-08-26T08:55:41+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-08-26T08:55:41+0000 INFO Notified: ID 20704 — Tirschenreuther Ring 15, 12279 Tempelhof-Schöneberg
+2026-08-26T08:55:41+0000 INFO Skipped (district Spandau not in allowlist): ID 20705
+2026-08-26T08:55:41+0000 INFO Skipped (district Spandau not in allowlist): ID 20706
+2026-08-26T08:55:41+0000 INFO Skipped (district Spandau not in allowlist): ID 20707
+2026-08-26T08:55:41+0000 INFO Skipped (district Spandau not in allowlist): ID 20708
+2026-08-26T08:55:41+0000 INFO Skipped (district Spandau not in allowlist): ID 20709
+2026-08-26T08:55:41+0000 INFO Skipped (district Spandau not in allowlist): ID 20710
+2026-08-26T08:55:41+0000 INFO Skipped (district Spandau not in allowlist): ID 20711
