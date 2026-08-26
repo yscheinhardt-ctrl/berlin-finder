@@ -12942,3 +12942,20 @@
 2026-08-26T10:17:35+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20713
 2026-08-26T10:17:35+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20714
 2026-08-26T10:17:35+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20715
+2026-08-26T10:54:28+0000 INFO Fetched page: 248 total IDs, 10 rendered details
+2026-08-26T10:54:28+0000 INFO 9 new offer(s) found
+2026-08-26T10:54:28+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Antwerpener Straße 2, 133
+2026-08-26T10:54:28+0000 INFO Notified: ID 20716 — Antwerpener Straße 2, 13353 Mitte
+2026-08-26T10:54:28+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Ella-Barow
+2026-08-26T10:54:28+0000 INFO Notified: ID 20717 — Ella-Barowsky-Straße 29E, 10829 Tempelhof-Schöneberg
+2026-08-26T10:54:28+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20718
+2026-08-26T10:54:28+0000 INFO Skipped (district Spandau not in allowlist): ID 20719
+2026-08-26T10:54:28+0000 INFO Skipped (district Spandau not in allowlist): ID 20720
+2026-08-26T10:54:28+0000 INFO Skipped (district Spandau not in allowlist): ID 20721
+2026-08-26T10:54:28+0000 INFO Skipped (district Spandau not in allowlist): ID 20722
+2026-08-26T10:54:28+0000 INFO Skipped (district Spandau not in allowlist): ID 20723
+2026-08-26T10:54:28+0000 INFO Skipped (district Spandau not in allowlist): ID 20724
