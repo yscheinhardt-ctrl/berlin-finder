@@ -12889,3 +12889,27 @@
 2026-08-26T06:20:46+0000 INFO 0 new offer(s) found
 2026-08-26T07:14:11+0000 INFO Fetched page: 245 total IDs, 10 rendered details
 2026-08-26T07:14:11+0000 INFO 0 new offer(s) found
+2026-08-26T08:02:00+0000 INFO Fetched page: 251 total IDs, 10 rendered details
+2026-08-26T08:02:00+0000 INFO 7 new offer(s) found
+2026-08-26T08:02:00+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20693
+2026-08-26T08:02:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Karl-Marx-Allee 25, 10178
+2026-08-26T08:02:01+0000 INFO Notified: ID 20694 — Karl-Marx-Allee 25, 10178 Mitte
+2026-08-26T08:02:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Oranie
+2026-08-26T08:02:01+0000 INFO Notified: ID 20695 — Oranienstraße 44, 10969 Friedrichshain-Kreuzberg
+2026-08-26T08:02:02+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Ifflandstraße 7, 10179 Mi
+2026-08-26T08:02:02+0000 INFO Notified: ID 20696 — Ifflandstraße 7, 10179 Mitte
+2026-08-26T08:02:02+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20697
+2026-08-26T08:02:03+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Ranunkelweg 3, 12357 N
+2026-08-26T08:02:03+0000 INFO Notified: ID 20698 — Ranunkelweg 3, 12357 Neukölln
+2026-08-26T08:02:03+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Innsbrucke
+2026-08-26T08:02:03+0000 INFO Notified: ID 20699 — Innsbrucker Platz 4, 10827 Tempelhof-Schöneberg
