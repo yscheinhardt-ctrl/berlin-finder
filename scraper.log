@@ -12961,3 +12961,21 @@
 2026-08-26T10:54:28+0000 INFO Skipped (district Spandau not in allowlist): ID 20724
 2026-08-26T11:25:15+0000 INFO Fetched page: 247 total IDs, 10 rendered details
 2026-08-26T11:25:15+0000 INFO 0 new offer(s) found
+2026-08-26T11:55:20+0000 INFO Fetched page: 258 total IDs, 10 rendered details
+2026-08-26T11:55:20+0000 INFO 12 new offer(s) found
+2026-08-26T11:55:20+0000 WARNING ID 20725 not in top-10 details (>10 new in one window?)
+2026-08-26T11:55:21+0000 INFO Telegram sent: 🏠 New offer (ID 20725) — details not rendered, see site:
+🔗 h
+2026-08-26T11:55:21+0000 WARNING ID 20726 not in top-10 details (>10 new in one window?)
+2026-08-26T11:55:21+0000 INFO Telegram sent: 🏠 New offer (ID 20726) — details not rendered, see site:
+🔗 h
+2026-08-26T11:55:21+0000 INFO Skipped (district Spandau not in allowlist): ID 20727
+2026-08-26T11:55:21+0000 INFO Skipped (district Spandau not in allowlist): ID 20728
+2026-08-26T11:55:21+0000 INFO Skipped (district Spandau not in allowlist): ID 20729
+2026-08-26T11:55:21+0000 INFO Skipped (district Spandau not in allowlist): ID 20730
+2026-08-26T11:55:21+0000 INFO Skipped (district Spandau not in allowlist): ID 20731
+2026-08-26T11:55:21+0000 INFO Skipped (district Spandau not in allowlist): ID 20732
+2026-08-26T11:55:21+0000 INFO Skipped (district Spandau not in allowlist): ID 20733
+2026-08-26T11:55:21+0000 INFO Skipped (district Spandau not in allowlist): ID 20734
+2026-08-26T11:55:21+0000 INFO Skipped (district Spandau not in allowlist): ID 20735
+2026-08-26T11:55:21+0000 INFO Skipped (district Spandau not in allowlist): ID 20736
