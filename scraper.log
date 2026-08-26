@@ -12985,3 +12985,25 @@
 2026-08-26T12:48:49+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20739
 2026-08-26T12:48:49+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20740
 2026-08-26T12:48:49+0000 INFO Skipped (district Spandau not in allowlist): ID 20741
+2026-08-26T13:42:01+0000 INFO Fetched page: 262 total IDs, 10 rendered details
+2026-08-26T13:42:01+0000 INFO 8 new offer(s) found
+2026-08-26T13:42:02+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Friedrichr
+2026-08-26T13:42:02+0000 INFO Notified: ID 20742 — Friedrichrodaer Straße 125, 12249 Tempelhof-Schöneberg
+2026-08-26T13:42:02+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20743
+2026-08-26T13:42:02+0000 INFO Skipped (district Spandau not in allowlist): ID 20744
+2026-08-26T13:42:02+0000 INFO Skipped (district Spandau not in allowlist): ID 20745
+2026-08-26T13:42:02+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20746
+2026-08-26T13:42:02+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Meraner St
+2026-08-26T13:42:02+0000 INFO Notified: ID 20747 — Meraner Straße 45, 10825 Tempelhof-Schöneberg
+2026-08-26T13:42:03+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Bernbu
+2026-08-26T13:42:03+0000 INFO Notified: ID 20748 — Bernburger Straße 23, 10963 Friedrichshain-Kreuzberg
+2026-08-26T13:42:04+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Arndts
+2026-08-26T13:42:04+0000 INFO Notified: ID 20749 — Arndtstraße 35, 10965 Friedrichshain-Kreuzberg
