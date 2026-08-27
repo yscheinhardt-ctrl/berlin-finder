@@ -13116,3 +13116,39 @@
 
 📍 Waldsassen
 2026-08-27T11:08:27+0000 INFO Notified: ID 20793 — Waldsassener Straße 44, 12279 Tempelhof-Schöneberg
+2026-08-27T21:00:51+0000 INFO Fetched page: 264 total IDs, 10 rendered details
+2026-08-27T21:00:51+0000 INFO 16 new offer(s) found
+2026-08-27T21:00:51+0000 WARNING ID 20794 not in top-10 details (>10 new in one window?)
+2026-08-27T21:00:51+0000 INFO Telegram sent: 🏠 New offer (ID 20794) — details not rendered, see site:
+🔗 h
+2026-08-27T21:00:51+0000 WARNING ID 20795 not in top-10 details (>10 new in one window?)
+2026-08-27T21:00:52+0000 INFO Telegram sent: 🏠 New offer (ID 20795) — details not rendered, see site:
+🔗 h
+2026-08-27T21:00:52+0000 WARNING ID 20799 not in top-10 details (>10 new in one window?)
+2026-08-27T21:00:52+0000 INFO Telegram sent: 🏠 New offer (ID 20799) — details not rendered, see site:
+🔗 h
+2026-08-27T21:00:52+0000 WARNING ID 20800 not in top-10 details (>10 new in one window?)
+2026-08-27T21:00:52+0000 INFO Telegram sent: 🏠 New offer (ID 20800) — details not rendered, see site:
+🔗 h
+2026-08-27T21:00:52+0000 WARNING ID 20802 not in top-10 details (>10 new in one window?)
+2026-08-27T21:00:53+0000 INFO Telegram sent: 🏠 New offer (ID 20802) — details not rendered, see site:
+🔗 h
+2026-08-27T21:00:53+0000 WARNING ID 20804 not in top-10 details (>10 new in one window?)
+2026-08-27T21:00:53+0000 INFO Telegram sent: 🏠 New offer (ID 20804) — details not rendered, see site:
+🔗 h
+2026-08-27T21:00:53+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 20805
+2026-08-27T21:00:53+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 20806
+2026-08-27T21:00:53+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 20809
+2026-08-27T21:00:53+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20811
+2026-08-27T21:00:54+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 In den Bauerngärten 8,
+2026-08-27T21:00:54+0000 INFO Notified: ID 20813 — In den Bauerngärten 8, 12349 Neukölln
+2026-08-27T21:00:54+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20815
+2026-08-27T21:00:54+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Friede
+2026-08-27T21:00:54+0000 INFO Notified: ID 20816 — Friedenstraße 88, 10249 Friedrichshain-Kreuzberg
+2026-08-27T21:00:54+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20817
+2026-08-27T21:00:54+0000 INFO Skipped (district Spandau not in allowlist): ID 20818
+2026-08-27T21:00:54+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 20819
