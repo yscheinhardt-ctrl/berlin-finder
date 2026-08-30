@@ -13280,3 +13280,6 @@
 2026-08-30T18:31:13+0000 INFO Fetched page: 251 total IDs, 10 rendered details
 2026-08-30T18:31:13+0000 INFO 1 new offer(s) found
 2026-08-30T18:31:13+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20880
+2026-08-30T21:28:18+0000 INFO Fetched page: 251 total IDs, 10 rendered details
+2026-08-30T21:28:18+0000 INFO 1 new offer(s) found
+2026-08-30T21:28:18+0000 INFO Skipped (district Spandau not in allowlist): ID 20881
