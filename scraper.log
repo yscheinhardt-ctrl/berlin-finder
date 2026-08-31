@@ -13296,3 +13296,57 @@
 2026-08-31T07:39:48+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20886
 2026-08-31T07:39:48+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20887
 2026-08-31T07:39:48+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20888
+2026-08-31T15:28:00+0000 INFO Fetched page: 256 total IDs, 10 rendered details
+2026-08-31T15:28:00+0000 INFO 22 new offer(s) found
+2026-08-31T15:28:00+0000 WARNING ID 20889 not in top-10 details (>10 new in one window?)
+2026-08-31T15:28:00+0000 INFO Telegram sent: 🏠 New offer (ID 20889) — details not rendered, see site:
+🔗 h
+2026-08-31T15:28:00+0000 WARNING ID 20890 not in top-10 details (>10 new in one window?)
+2026-08-31T15:28:01+0000 INFO Telegram sent: 🏠 New offer (ID 20890) — details not rendered, see site:
+🔗 h
+2026-08-31T15:28:01+0000 WARNING ID 20891 not in top-10 details (>10 new in one window?)
+2026-08-31T15:28:01+0000 INFO Telegram sent: 🏠 New offer (ID 20891) — details not rendered, see site:
+🔗 h
+2026-08-31T15:28:01+0000 WARNING ID 20892 not in top-10 details (>10 new in one window?)
+2026-08-31T15:28:02+0000 INFO Telegram sent: 🏠 New offer (ID 20892) — details not rendered, see site:
+🔗 h
+2026-08-31T15:28:02+0000 WARNING ID 20893 not in top-10 details (>10 new in one window?)
+2026-08-31T15:28:02+0000 INFO Telegram sent: 🏠 New offer (ID 20893) — details not rendered, see site:
+🔗 h
+2026-08-31T15:28:02+0000 WARNING ID 20894 not in top-10 details (>10 new in one window?)
+2026-08-31T15:28:02+0000 INFO Telegram sent: 🏠 New offer (ID 20894) — details not rendered, see site:
+🔗 h
+2026-08-31T15:28:02+0000 WARNING ID 20896 not in top-10 details (>10 new in one window?)
+2026-08-31T15:28:03+0000 INFO Telegram sent: 🏠 New offer (ID 20896) — details not rendered, see site:
+🔗 h
+2026-08-31T15:28:03+0000 WARNING ID 20897 not in top-10 details (>10 new in one window?)
+2026-08-31T15:28:03+0000 INFO Telegram sent: 🏠 New offer (ID 20897) — details not rendered, see site:
+🔗 h
+2026-08-31T15:28:03+0000 WARNING ID 20898 not in top-10 details (>10 new in one window?)
+2026-08-31T15:28:04+0000 INFO Telegram sent: 🏠 New offer (ID 20898) — details not rendered, see site:
+🔗 h
+2026-08-31T15:28:04+0000 WARNING ID 20899 not in top-10 details (>10 new in one window?)
+2026-08-31T15:28:04+0000 INFO Telegram sent: 🏠 New offer (ID 20899) — details not rendered, see site:
+🔗 h
+2026-08-31T15:28:04+0000 WARNING ID 20900 not in top-10 details (>10 new in one window?)
+2026-08-31T15:28:04+0000 INFO Telegram sent: 🏠 New offer (ID 20900) — details not rendered, see site:
+🔗 h
+2026-08-31T15:28:04+0000 WARNING ID 20902 not in top-10 details (>10 new in one window?)
+2026-08-31T15:28:05+0000 INFO Telegram sent: 🏠 New offer (ID 20902) — details not rendered, see site:
+🔗 h
+2026-08-31T15:28:05+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20904
+2026-08-31T15:28:05+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Horst-Caspar-Steig 13,
+2026-08-31T15:28:05+0000 INFO Notified: ID 20905 — Horst-Caspar-Steig 13, 12353 Neukölln
+2026-08-31T15:28:05+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-08-31T15:28:05+0000 INFO Notified: ID 20906 — Tirschenreuther Ring 28, 12279 Tempelhof-Schöneberg
+2026-08-31T15:28:05+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20909
+2026-08-31T15:28:05+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20912
+2026-08-31T15:28:05+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20913
+2026-08-31T15:28:05+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20917
+2026-08-31T15:28:05+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20918
+2026-08-31T15:28:05+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20919
+2026-08-31T15:28:05+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20920
