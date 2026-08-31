@@ -13350,3 +13350,9 @@
 2026-08-31T15:28:05+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20918
 2026-08-31T15:28:05+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20919
 2026-08-31T15:28:05+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20920
+2026-08-31T21:00:03+0000 INFO Fetched page: 251 total IDs, 10 rendered details
+2026-08-31T21:00:03+0000 INFO 1 new offer(s) found
+2026-08-31T21:00:03+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Kluckstraße 23, 10785 Mit
+2026-08-31T21:00:03+0000 INFO Notified: ID 20925 — Kluckstraße 23, 10785 Mitte
