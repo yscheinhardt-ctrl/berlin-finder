@@ -13465,3 +13465,6 @@
 
 📍 Goldhähnchenweg 11, 12
 2026-09-01T15:03:27+0000 INFO Notified: ID 20973 — Goldhähnchenweg 11, 12359 Neukölln
+2026-09-01T18:24:39+0000 INFO Fetched page: 261 total IDs, 10 rendered details
+2026-09-01T18:24:39+0000 INFO 1 new offer(s) found
+2026-09-01T18:24:39+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20974
