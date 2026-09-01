@@ -13381,3 +13381,87 @@
 2026-09-01T10:24:41+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20940
 2026-09-01T10:24:41+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20941
 2026-09-01T10:24:41+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20942
+2026-09-01T15:03:19+0000 INFO Fetched page: 266 total IDs, 10 rendered details
+2026-09-01T15:03:19+0000 INFO 27 new offer(s) found
+2026-09-01T15:03:19+0000 WARNING ID 20943 not in top-10 details (>10 new in one window?)
+2026-09-01T15:03:19+0000 INFO Telegram sent: 🏠 New offer (ID 20943) — details not rendered, see site:
+🔗 h
+2026-09-01T15:03:19+0000 WARNING ID 20944 not in top-10 details (>10 new in one window?)
+2026-09-01T15:03:19+0000 INFO Telegram sent: 🏠 New offer (ID 20944) — details not rendered, see site:
+🔗 h
+2026-09-01T15:03:19+0000 WARNING ID 20945 not in top-10 details (>10 new in one window?)
+2026-09-01T15:03:20+0000 INFO Telegram sent: 🏠 New offer (ID 20945) — details not rendered, see site:
+🔗 h
+2026-09-01T15:03:20+0000 WARNING ID 20946 not in top-10 details (>10 new in one window?)
+2026-09-01T15:03:20+0000 INFO Telegram sent: 🏠 New offer (ID 20946) — details not rendered, see site:
+🔗 h
+2026-09-01T15:03:20+0000 WARNING ID 20947 not in top-10 details (>10 new in one window?)
+2026-09-01T15:03:20+0000 INFO Telegram sent: 🏠 New offer (ID 20947) — details not rendered, see site:
+🔗 h
+2026-09-01T15:03:20+0000 WARNING ID 20949 not in top-10 details (>10 new in one window?)
+2026-09-01T15:03:21+0000 INFO Telegram sent: 🏠 New offer (ID 20949) — details not rendered, see site:
+🔗 h
+2026-09-01T15:03:21+0000 WARNING ID 20951 not in top-10 details (>10 new in one window?)
+2026-09-01T15:03:21+0000 INFO Telegram sent: 🏠 New offer (ID 20951) — details not rendered, see site:
+🔗 h
+2026-09-01T15:03:21+0000 WARNING ID 20954 not in top-10 details (>10 new in one window?)
+2026-09-01T15:03:22+0000 INFO Telegram sent: 🏠 New offer (ID 20954) — details not rendered, see site:
+🔗 h
+2026-09-01T15:03:22+0000 WARNING ID 20955 not in top-10 details (>10 new in one window?)
+2026-09-01T15:03:22+0000 INFO Telegram sent: 🏠 New offer (ID 20955) — details not rendered, see site:
+🔗 h
+2026-09-01T15:03:22+0000 WARNING ID 20956 not in top-10 details (>10 new in one window?)
+2026-09-01T15:03:22+0000 INFO Telegram sent: 🏠 New offer (ID 20956) — details not rendered, see site:
+🔗 h
+2026-09-01T15:03:22+0000 WARNING ID 20957 not in top-10 details (>10 new in one window?)
+2026-09-01T15:03:23+0000 INFO Telegram sent: 🏠 New offer (ID 20957) — details not rendered, see site:
+🔗 h
+2026-09-01T15:03:23+0000 WARNING ID 20958 not in top-10 details (>10 new in one window?)
+2026-09-01T15:03:23+0000 INFO Telegram sent: 🏠 New offer (ID 20958) — details not rendered, see site:
+🔗 h
+2026-09-01T15:03:23+0000 WARNING ID 20959 not in top-10 details (>10 new in one window?)
+2026-09-01T15:03:23+0000 INFO Telegram sent: 🏠 New offer (ID 20959) — details not rendered, see site:
+🔗 h
+2026-09-01T15:03:23+0000 WARNING ID 20960 not in top-10 details (>10 new in one window?)
+2026-09-01T15:03:24+0000 INFO Telegram sent: 🏠 New offer (ID 20960) — details not rendered, see site:
+🔗 h
+2026-09-01T15:03:24+0000 WARNING ID 20961 not in top-10 details (>10 new in one window?)
+2026-09-01T15:03:24+0000 INFO Telegram sent: 🏠 New offer (ID 20961) — details not rendered, see site:
+🔗 h
+2026-09-01T15:03:24+0000 WARNING ID 20962 not in top-10 details (>10 new in one window?)
+2026-09-01T15:03:24+0000 INFO Telegram sent: 🏠 New offer (ID 20962) — details not rendered, see site:
+🔗 h
+2026-09-01T15:03:24+0000 WARNING ID 20963 not in top-10 details (>10 new in one window?)
+2026-09-01T15:03:25+0000 INFO Telegram sent: 🏠 New offer (ID 20963) — details not rendered, see site:
+🔗 h
+2026-09-01T15:03:25+0000 INFO Skipped (district Spandau not in allowlist): ID 20964
+2026-09-01T15:03:25+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20965
+2026-09-01T15:03:25+0000 INFO Skipped (district Spandau not in allowlist): ID 20966
+2026-09-01T15:03:25+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Putbusser Straße 37, 1335
+2026-09-01T15:03:25+0000 INFO Notified: ID 20967 — Putbusser Straße 37, 13355 Mitte
+2026-09-01T15:03:25+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Yorckstraß
+2026-09-01T15:03:25+0000 INFO Notified: ID 20968 — Yorckstraße 44, 10965 Tempelhof-Schöneberg
+2026-09-01T15:03:26+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Bülowstraß
+2026-09-01T15:03:26+0000 INFO Notified: ID 20969 — Bülowstraße 101, 10783 Tempelhof-Schöneberg
+2026-09-01T15:03:26+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Else-Laske
+2026-09-01T15:03:26+0000 INFO Notified: ID 20970 — Else-Lasker-Schüler-Straße 1, 10783 Tempelhof-Schöneberg
+2026-09-01T15:03:26+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Kurfürsten
+2026-09-01T15:03:26+0000 INFO Notified: ID 20971 — Kurfürstenstraße 167, 10785 Tempelhof-Schöneberg
+2026-09-01T15:03:27+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Kraatzweg 
+2026-09-01T15:03:27+0000 INFO Notified: ID 20972 — Kraatzweg 5, 12305 Tempelhof-Schöneberg
+2026-09-01T15:03:27+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Goldhähnchenweg 11, 12
+2026-09-01T15:03:27+0000 INFO Notified: ID 20973 — Goldhähnchenweg 11, 12359 Neukölln
