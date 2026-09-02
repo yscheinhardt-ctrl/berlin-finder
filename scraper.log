@@ -13611,3 +13611,35 @@
 
 📍 Friede
 2026-09-02T14:16:00+0000 INFO Notified: ID 21031 — Friedenstraße 88, 10249 Friedrichshain-Kreuzberg
+2026-09-02T17:55:50+0000 INFO Fetched page: 286 total IDs, 10 rendered details
+2026-09-02T17:55:50+0000 INFO 9 new offer(s) found
+2026-09-02T17:55:50+0000 INFO Skipped (district Spandau not in allowlist): ID 21033
+2026-09-02T17:55:50+0000 INFO Skipped (district Pankow not in allowlist): ID 21035
+2026-09-02T17:55:51+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Friede
+2026-09-02T17:55:51+0000 INFO Notified: ID 21036 — Friedenstraße 7, 10249 Friedrichshain-Kreuzberg
+2026-09-02T17:55:51+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Platz 
+2026-09-02T17:55:51+0000 INFO Notified: ID 21038 — Platz der Vereinten Nationen 9, 10249 Friedrichshain-Kreuzberg
+2026-09-02T17:55:52+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 105, 10
+2026-09-02T17:55:52+0000 INFO Notified: ID 21039 — Köpenicker Straße 105, 10179 Mitte
+2026-09-02T17:55:52+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 105A, 1
+2026-09-02T17:55:52+0000 INFO Notified: ID 21040 — Köpenicker Straße 105A, 10179 Mitte
+2026-09-02T17:55:52+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 105A, 1
+2026-09-02T17:55:52+0000 INFO Notified: ID 21041 — Köpenicker Straße 105A, 10179 Mitte
+2026-09-02T17:55:53+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 107, 10
+2026-09-02T17:55:53+0000 INFO Notified: ID 21044 — Köpenicker Straße 107, 10179 Mitte
+2026-09-02T17:55:53+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 107, 10
+2026-09-02T17:55:53+0000 INFO Notified: ID 21045 — Köpenicker Straße 107, 10179 Mitte
