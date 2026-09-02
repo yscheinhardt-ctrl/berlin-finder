@@ -13476,3 +13476,42 @@
 2026-09-02T01:06:41+0000 INFO 0 new offer(s) found
 2026-09-02T05:46:44+0000 INFO Fetched page: 260 total IDs, 10 rendered details
 2026-09-02T05:46:44+0000 INFO 0 new offer(s) found
+2026-09-02T09:58:13+0000 INFO Fetched page: 261 total IDs, 10 rendered details
+2026-09-02T09:58:13+0000 INFO 17 new offer(s) found
+2026-09-02T09:58:13+0000 WARNING ID 20977 not in top-10 details (>10 new in one window?)
+2026-09-02T09:58:13+0000 INFO Telegram sent: 🏠 New offer (ID 20977) — details not rendered, see site:
+🔗 h
+2026-09-02T09:58:13+0000 WARNING ID 20978 not in top-10 details (>10 new in one window?)
+2026-09-02T09:58:14+0000 INFO Telegram sent: 🏠 New offer (ID 20978) — details not rendered, see site:
+🔗 h
+2026-09-02T09:58:14+0000 WARNING ID 20979 not in top-10 details (>10 new in one window?)
+2026-09-02T09:58:14+0000 INFO Telegram sent: 🏠 New offer (ID 20979) — details not rendered, see site:
+🔗 h
+2026-09-02T09:58:14+0000 WARNING ID 20980 not in top-10 details (>10 new in one window?)
+2026-09-02T09:58:15+0000 INFO Telegram sent: 🏠 New offer (ID 20980) — details not rendered, see site:
+🔗 h
+2026-09-02T09:58:15+0000 WARNING ID 20981 not in top-10 details (>10 new in one window?)
+2026-09-02T09:58:15+0000 INFO Telegram sent: 🏠 New offer (ID 20981) — details not rendered, see site:
+🔗 h
+2026-09-02T09:58:15+0000 WARNING ID 20982 not in top-10 details (>10 new in one window?)
+2026-09-02T09:58:16+0000 INFO Telegram sent: 🏠 New offer (ID 20982) — details not rendered, see site:
+🔗 h
+2026-09-02T09:58:16+0000 WARNING ID 20983 not in top-10 details (>10 new in one window?)
+2026-09-02T09:58:16+0000 INFO Telegram sent: 🏠 New offer (ID 20983) — details not rendered, see site:
+🔗 h
+2026-09-02T09:58:16+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20984
+2026-09-02T09:58:16+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Iranische Straße 4B, 1334
+2026-09-02T09:58:16+0000 INFO Notified: ID 20985 — Iranische Straße 4B, 13347 Mitte
+2026-09-02T09:58:16+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20986
+2026-09-02T09:58:16+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20988
+2026-09-02T09:58:16+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20990
+2026-09-02T09:58:16+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20991
+2026-09-02T09:58:16+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 20992
+2026-09-02T09:58:16+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 20993
+2026-09-02T09:58:16+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 20994
+2026-09-02T09:58:17+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Kraatzweg 
+2026-09-02T09:58:17+0000 INFO Notified: ID 20995 — Kraatzweg 5, 12305 Tempelhof-Schöneberg
