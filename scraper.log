@@ -13711,3 +13711,27 @@
 2026-09-03T13:59:40+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21082
 2026-09-03T13:59:40+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21083
 2026-09-03T13:59:40+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21084
+2026-09-03T17:46:55+0000 INFO Fetched page: 283 total IDs, 10 rendered details
+2026-09-03T17:46:55+0000 INFO 13 new offer(s) found
+2026-09-03T17:46:55+0000 WARNING ID 21085 not in top-10 details (>10 new in one window?)
+2026-09-03T17:46:55+0000 INFO Telegram sent: 🏠 New offer (ID 21085) — details not rendered, see site:
+🔗 h
+2026-09-03T17:46:55+0000 WARNING ID 21086 not in top-10 details (>10 new in one window?)
+2026-09-03T17:46:56+0000 INFO Telegram sent: 🏠 New offer (ID 21086) — details not rendered, see site:
+🔗 h
+2026-09-03T17:46:56+0000 WARNING ID 21087 not in top-10 details (>10 new in one window?)
+2026-09-03T17:46:56+0000 INFO Telegram sent: 🏠 New offer (ID 21087) — details not rendered, see site:
+🔗 h
+2026-09-03T17:46:56+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 21088
+2026-09-03T17:46:56+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21089
+2026-09-03T17:46:56+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21090
+2026-09-03T17:46:56+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21091
+2026-09-03T17:46:56+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21092
+2026-09-03T17:46:56+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21094
+2026-09-03T17:46:56+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21095
+2026-09-03T17:46:56+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21096
+2026-09-03T17:46:56+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21098
+2026-09-03T17:46:57+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Steegerstraße 25, 13359 M
+2026-09-03T17:46:57+0000 INFO Notified: ID 21099 — Steegerstraße 25, 13359 Mitte
