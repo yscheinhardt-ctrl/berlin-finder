@@ -13666,3 +13666,48 @@
 2026-09-03T09:52:21+0000 INFO Skipped (district Pankow not in allowlist): ID 21061
 2026-09-03T09:52:21+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21062
 2026-09-03T09:52:21+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21063
+2026-09-03T13:59:36+0000 INFO Fetched page: 283 total IDs, 10 rendered details
+2026-09-03T13:59:36+0000 INFO 19 new offer(s) found
+2026-09-03T13:59:36+0000 WARNING ID 21064 not in top-10 details (>10 new in one window?)
+2026-09-03T13:59:37+0000 INFO Telegram sent: 🏠 New offer (ID 21064) — details not rendered, see site:
+🔗 h
+2026-09-03T13:59:37+0000 WARNING ID 21065 not in top-10 details (>10 new in one window?)
+2026-09-03T13:59:37+0000 INFO Telegram sent: 🏠 New offer (ID 21065) — details not rendered, see site:
+🔗 h
+2026-09-03T13:59:37+0000 WARNING ID 21066 not in top-10 details (>10 new in one window?)
+2026-09-03T13:59:37+0000 INFO Telegram sent: 🏠 New offer (ID 21066) — details not rendered, see site:
+🔗 h
+2026-09-03T13:59:37+0000 WARNING ID 21067 not in top-10 details (>10 new in one window?)
+2026-09-03T13:59:38+0000 INFO Telegram sent: 🏠 New offer (ID 21067) — details not rendered, see site:
+🔗 h
+2026-09-03T13:59:38+0000 WARNING ID 21068 not in top-10 details (>10 new in one window?)
+2026-09-03T13:59:38+0000 INFO Telegram sent: 🏠 New offer (ID 21068) — details not rendered, see site:
+🔗 h
+2026-09-03T13:59:38+0000 WARNING ID 21069 not in top-10 details (>10 new in one window?)
+2026-09-03T13:59:38+0000 INFO Telegram sent: 🏠 New offer (ID 21069) — details not rendered, see site:
+🔗 h
+2026-09-03T13:59:38+0000 WARNING ID 21070 not in top-10 details (>10 new in one window?)
+2026-09-03T13:59:39+0000 INFO Telegram sent: 🏠 New offer (ID 21070) — details not rendered, see site:
+🔗 h
+2026-09-03T13:59:39+0000 WARNING ID 21072 not in top-10 details (>10 new in one window?)
+2026-09-03T13:59:39+0000 INFO Telegram sent: 🏠 New offer (ID 21072) — details not rendered, see site:
+🔗 h
+2026-09-03T13:59:39+0000 WARNING ID 21073 not in top-10 details (>10 new in one window?)
+2026-09-03T13:59:39+0000 INFO Telegram sent: 🏠 New offer (ID 21073) — details not rendered, see site:
+🔗 h
+2026-09-03T13:59:39+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21075
+2026-09-03T13:59:39+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21076
+2026-09-03T13:59:39+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 21077
+2026-09-03T13:59:40+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Gitsch
+2026-09-03T13:59:40+0000 INFO Notified: ID 21078 — Gitschiner Straße 78, 10969 Friedrichshain-Kreuzberg
+2026-09-03T13:59:40+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Gitsch
+2026-09-03T13:59:40+0000 INFO Notified: ID 21079 — Gitschiner Straße 65, 10969 Friedrichshain-Kreuzberg
+2026-09-03T13:59:40+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21080
+2026-09-03T13:59:40+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21081
+2026-09-03T13:59:40+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21082
+2026-09-03T13:59:40+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21083
+2026-09-03T13:59:40+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21084
