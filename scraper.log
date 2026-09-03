@@ -13651,3 +13651,18 @@
 2026-09-03T00:45:31+0000 INFO 0 new offer(s) found
 2026-09-03T05:11:53+0000 INFO Fetched page: 275 total IDs, 10 rendered details
 2026-09-03T05:11:53+0000 INFO 0 new offer(s) found
+2026-09-03T09:52:21+0000 INFO Fetched page: 274 total IDs, 10 rendered details
+2026-09-03T09:52:21+0000 INFO 11 new offer(s) found
+2026-09-03T09:52:21+0000 WARNING ID 21047 not in top-10 details (>10 new in one window?)
+2026-09-03T09:52:21+0000 INFO Telegram sent: 🏠 New offer (ID 21047) — details not rendered, see site:
+🔗 h
+2026-09-03T09:52:21+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21050
+2026-09-03T09:52:21+0000 INFO Skipped (district Spandau not in allowlist): ID 21053
+2026-09-03T09:52:21+0000 INFO Skipped (district Spandau not in allowlist): ID 21054
+2026-09-03T09:52:21+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21055
+2026-09-03T09:52:21+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21056
+2026-09-03T09:52:21+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21057
+2026-09-03T09:52:21+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21060
+2026-09-03T09:52:21+0000 INFO Skipped (district Pankow not in allowlist): ID 21061
+2026-09-03T09:52:21+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21062
+2026-09-03T09:52:21+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21063
