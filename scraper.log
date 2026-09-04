@@ -13827,3 +13827,22 @@
 2026-09-04T13:29:01+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 21135
 2026-09-04T13:29:01+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21136
 2026-09-04T13:29:01+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21137
+2026-09-04T16:59:41+0000 INFO Fetched page: 283 total IDs, 10 rendered details
+2026-09-04T16:59:41+0000 INFO 8 new offer(s) found
+2026-09-04T16:59:42+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Ella-Barow
+2026-09-04T16:59:42+0000 INFO Notified: ID 21138 — Ella-Barowsky-Straße 29D, 10829 Tempelhof-Schöneberg
+2026-09-04T16:59:42+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21139
+2026-09-04T16:59:42+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Bärbel-Bohley-Ring 18, 13
+2026-09-04T16:59:42+0000 INFO Notified: ID 21140 — Bärbel-Bohley-Ring 18, 13355 Mitte
+2026-09-04T16:59:42+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Bärbel-Bohley-Ring 20, 13
+2026-09-04T16:59:42+0000 INFO Notified: ID 21141 — Bärbel-Bohley-Ring 20, 13355 Mitte
+2026-09-04T16:59:42+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21142
+2026-09-04T16:59:42+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21143
+2026-09-04T16:59:42+0000 INFO Skipped (district Pankow not in allowlist): ID 21144
+2026-09-04T16:59:42+0000 INFO Skipped (district Pankow not in allowlist): ID 21145
