@@ -13869,3 +13869,21 @@
 2026-09-05T09:24:19+0000 INFO Fetched page: 285 total IDs, 10 rendered details
 2026-09-05T09:24:19+0000 INFO 1 new offer(s) found
 2026-09-05T09:24:19+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21156
+2026-09-05T12:53:56+0000 INFO Fetched page: 289 total IDs, 10 rendered details
+2026-09-05T12:53:56+0000 INFO 4 new offer(s) found
+2026-09-05T12:53:56+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Sachsendam
+2026-09-05T12:53:56+0000 INFO Notified: ID 21157 — Sachsendamm 67, 10829 Tempelhof-Schöneberg
+2026-09-05T12:53:57+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Nollendorf
+2026-09-05T12:53:57+0000 INFO Notified: ID 21158 — Nollendorfstraße 6, 10783 Tempelhof-Schöneberg
+2026-09-05T12:53:57+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Blumenthal
+2026-09-05T12:53:57+0000 INFO Notified: ID 21159 — Blumenthalstraße 14, 10783 Tempelhof-Schöneberg
+2026-09-05T12:53:58+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Ella-Barow
+2026-09-05T12:53:58+0000 INFO Notified: ID 21160 — Ella-Barowsky-Straße 29E, 10829 Tempelhof-Schöneberg
