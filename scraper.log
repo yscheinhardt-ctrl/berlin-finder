@@ -13921,3 +13921,27 @@
 2026-09-07T00:09:03+0000 INFO 0 new offer(s) found
 2026-09-07T04:37:39+0000 INFO Fetched page: 280 total IDs, 10 rendered details
 2026-09-07T04:37:39+0000 INFO 0 new offer(s) found
+2026-09-07T09:43:01+0000 INFO Fetched page: 272 total IDs, 10 rendered details
+2026-09-07T09:43:01+0000 INFO 12 new offer(s) found
+2026-09-07T09:43:01+0000 WARNING ID 21162 not in top-10 details (>10 new in one window?)
+2026-09-07T09:43:02+0000 INFO Telegram sent: 🏠 New offer (ID 21162) — details not rendered, see site:
+🔗 h
+2026-09-07T09:43:02+0000 WARNING ID 21164 not in top-10 details (>10 new in one window?)
+2026-09-07T09:43:02+0000 INFO Telegram sent: 🏠 New offer (ID 21164) — details not rendered, see site:
+🔗 h
+2026-09-07T09:43:03+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-09-07T09:43:03+0000 INFO Notified: ID 21165 — Tirschenreuther Ring 28, 12279 Tempelhof-Schöneberg
+2026-09-07T09:43:03+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21166
+2026-09-07T09:43:03+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21167
+2026-09-07T09:43:03+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Friedrich-Kayßler-Weg 
+2026-09-07T09:43:03+0000 INFO Notified: ID 21168 — Friedrich-Kayßler-Weg 5, 12353 Neukölln
+2026-09-07T09:43:03+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21169
+2026-09-07T09:43:03+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 21170
+2026-09-07T09:43:03+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 21171
+2026-09-07T09:43:03+0000 INFO Skipped (district Spandau not in allowlist): ID 21172
+2026-09-07T09:43:03+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21173
+2026-09-07T09:43:03+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21174
