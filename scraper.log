@@ -14038,3 +14038,42 @@
 
 📍 Mollnerweg 26, 12353 N
 2026-09-07T15:17:27+0000 INFO Notified: ID 21212 — Mollnerweg 26, 12353 Neukölln
+2026-09-07T19:14:16+0000 INFO Fetched page: 289 total IDs, 10 rendered details
+2026-09-07T19:14:16+0000 INFO 18 new offer(s) found
+2026-09-07T19:14:16+0000 WARNING ID 21213 not in top-10 details (>10 new in one window?)
+2026-09-07T19:14:16+0000 INFO Telegram sent: 🏠 New offer (ID 21213) — details not rendered, see site:
+🔗 h
+2026-09-07T19:14:16+0000 WARNING ID 21214 not in top-10 details (>10 new in one window?)
+2026-09-07T19:14:17+0000 INFO Telegram sent: 🏠 New offer (ID 21214) — details not rendered, see site:
+🔗 h
+2026-09-07T19:14:17+0000 WARNING ID 21215 not in top-10 details (>10 new in one window?)
+2026-09-07T19:14:17+0000 INFO Telegram sent: 🏠 New offer (ID 21215) — details not rendered, see site:
+🔗 h
+2026-09-07T19:14:17+0000 WARNING ID 21216 not in top-10 details (>10 new in one window?)
+2026-09-07T19:14:18+0000 INFO Telegram sent: 🏠 New offer (ID 21216) — details not rendered, see site:
+🔗 h
+2026-09-07T19:14:18+0000 WARNING ID 21217 not in top-10 details (>10 new in one window?)
+2026-09-07T19:14:18+0000 INFO Telegram sent: 🏠 New offer (ID 21217) — details not rendered, see site:
+🔗 h
+2026-09-07T19:14:18+0000 WARNING ID 21218 not in top-10 details (>10 new in one window?)
+2026-09-07T19:14:19+0000 INFO Telegram sent: 🏠 New offer (ID 21218) — details not rendered, see site:
+🔗 h
+2026-09-07T19:14:19+0000 WARNING ID 21219 not in top-10 details (>10 new in one window?)
+2026-09-07T19:14:19+0000 INFO Telegram sent: 🏠 New offer (ID 21219) — details not rendered, see site:
+🔗 h
+2026-09-07T19:14:19+0000 WARNING ID 21220 not in top-10 details (>10 new in one window?)
+2026-09-07T19:14:20+0000 INFO Telegram sent: 🏠 New offer (ID 21220) — details not rendered, see site:
+🔗 h
+2026-09-07T19:14:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21221
+2026-09-07T19:14:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21222
+2026-09-07T19:14:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21223
+2026-09-07T19:14:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21224
+2026-09-07T19:14:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21225
+2026-09-07T19:14:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21226
+2026-09-07T19:14:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21227
+2026-09-07T19:14:20+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21228
+2026-09-07T19:14:20+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21229
+2026-09-07T19:14:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Weskammstr
+2026-09-07T19:14:20+0000 INFO Notified: ID 21230 — Weskammstraße 1, 12279 Tempelhof-Schöneberg
