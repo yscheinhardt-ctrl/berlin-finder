@@ -14143,3 +14143,27 @@
 
 📍 Naunyn
 2026-09-08T09:10:03+0000 INFO Notified: ID 21250 — Naunynstraße 8, 10997 Friedrichshain-Kreuzberg
+2026-09-08T13:37:27+0000 INFO Fetched page: 282 total IDs, 10 rendered details
+2026-09-08T13:37:27+0000 INFO 12 new offer(s) found
+2026-09-08T13:37:27+0000 WARNING ID 21251 not in top-10 details (>10 new in one window?)
+2026-09-08T13:37:30+0000 INFO Telegram sent: 🏠 New offer (ID 21251) — details not rendered, see site:
+🔗 h
+2026-09-08T13:37:30+0000 WARNING ID 21252 not in top-10 details (>10 new in one window?)
+2026-09-08T13:37:31+0000 INFO Telegram sent: 🏠 New offer (ID 21252) — details not rendered, see site:
+🔗 h
+2026-09-08T13:37:31+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Malchiner Straße 126, 
+2026-09-08T13:37:31+0000 INFO Notified: ID 21253 — Malchiner Straße 126, 12359 Neukölln
+2026-09-08T13:37:32+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Buschkrugallee 190, 12
+2026-09-08T13:37:32+0000 INFO Notified: ID 21254 — Buschkrugallee 190, 12359 Neukölln
+2026-09-08T13:37:32+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 21255
+2026-09-08T13:37:32+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 21256
+2026-09-08T13:37:32+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21257
+2026-09-08T13:37:32+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21258
+2026-09-08T13:37:32+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21259
+2026-09-08T13:37:32+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21260
+2026-09-08T13:37:32+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21261
+2026-09-08T13:37:32+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21262
