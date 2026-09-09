@@ -14254,3 +14254,39 @@
 2026-09-09T09:51:57+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21296
 2026-09-09T09:51:57+0000 INFO Skipped (district Spandau not in allowlist): ID 21297
 2026-09-09T09:51:57+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21298
+2026-09-09T14:00:20+0000 INFO Fetched page: 296 total IDs, 10 rendered details
+2026-09-09T14:00:20+0000 INFO 16 new offer(s) found
+2026-09-09T14:00:20+0000 WARNING ID 21299 not in top-10 details (>10 new in one window?)
+2026-09-09T14:00:21+0000 INFO Telegram sent: 🏠 New offer (ID 21299) — details not rendered, see site:
+🔗 h
+2026-09-09T14:00:21+0000 WARNING ID 21300 not in top-10 details (>10 new in one window?)
+2026-09-09T14:00:21+0000 INFO Telegram sent: 🏠 New offer (ID 21300) — details not rendered, see site:
+🔗 h
+2026-09-09T14:00:21+0000 WARNING ID 21302 not in top-10 details (>10 new in one window?)
+2026-09-09T14:00:22+0000 INFO Telegram sent: 🏠 New offer (ID 21302) — details not rendered, see site:
+🔗 h
+2026-09-09T14:00:22+0000 WARNING ID 21303 not in top-10 details (>10 new in one window?)
+2026-09-09T14:00:22+0000 INFO Telegram sent: 🏠 New offer (ID 21303) — details not rendered, see site:
+🔗 h
+2026-09-09T14:00:22+0000 WARNING ID 21304 not in top-10 details (>10 new in one window?)
+2026-09-09T14:00:23+0000 INFO Telegram sent: 🏠 New offer (ID 21304) — details not rendered, see site:
+🔗 h
+2026-09-09T14:00:23+0000 WARNING ID 21305 not in top-10 details (>10 new in one window?)
+2026-09-09T14:00:23+0000 INFO Telegram sent: 🏠 New offer (ID 21305) — details not rendered, see site:
+🔗 h
+2026-09-09T14:00:23+0000 INFO Skipped (district Spandau not in allowlist): ID 21306
+2026-09-09T14:00:23+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21307
+2026-09-09T14:00:23+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21308
+2026-09-09T14:00:23+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21309
+2026-09-09T14:00:23+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21310
+2026-09-09T14:00:23+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21311
+2026-09-09T14:00:24+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Luckeweg 1
+2026-09-09T14:00:24+0000 INFO Notified: ID 21312 — Luckeweg 17, 12279 Tempelhof-Schöneberg
+2026-09-09T14:00:24+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-09-09T14:00:24+0000 INFO Notified: ID 21313 — Tirschenreuther Ring 5, 12279 Tempelhof-Schöneberg
+2026-09-09T14:00:24+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21314
+2026-09-09T14:00:24+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21315
