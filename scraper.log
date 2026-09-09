@@ -14290,3 +14290,23 @@
 2026-09-09T14:00:24+0000 INFO Notified: ID 21313 — Tirschenreuther Ring 5, 12279 Tempelhof-Schöneberg
 2026-09-09T14:00:24+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21314
 2026-09-09T14:00:24+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21315
+2026-09-09T17:45:38+0000 INFO Fetched page: 301 total IDs, 10 rendered details
+2026-09-09T17:45:38+0000 INFO 9 new offer(s) found
+2026-09-09T17:45:38+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21316
+2026-09-09T17:45:38+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21318
+2026-09-09T17:45:38+0000 INFO Skipped (district Spandau not in allowlist): ID 21319
+2026-09-09T17:45:39+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Frobenstra
+2026-09-09T17:45:39+0000 INFO Notified: ID 21320 — Frobenstraße 24, 10783 Tempelhof-Schöneberg
+2026-09-09T17:45:39+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21321
+2026-09-09T17:45:39+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21322
+2026-09-09T17:45:39+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21323
+2026-09-09T17:45:39+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 An den Buckower Felder
+2026-09-09T17:45:39+0000 INFO Notified: ID 21324 — An den Buckower Feldern 13, 12349 Neukölln
+2026-09-09T17:45:39+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 An den Buckower Felder
+2026-09-09T17:45:39+0000 INFO Notified: ID 21325 — An den Buckower Feldern 13, 12349 Neukölln
