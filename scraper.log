@@ -14355,3 +14355,21 @@
 
 📍 Harzer Straße 40, 1205
 2026-09-10T13:49:01+0000 INFO Notified: ID 21345 — Harzer Straße 40, 12059 Neukölln
+2026-09-10T17:19:01+0000 INFO Fetched page: 295 total IDs, 10 rendered details
+2026-09-10T17:19:01+0000 INFO 10 new offer(s) found
+2026-09-10T17:19:02+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Usedomer Straße 26, 13355
+2026-09-10T17:19:02+0000 INFO Notified: ID 21346 — Usedomer Straße 26, 13355 Mitte
+2026-09-10T17:19:02+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21347
+2026-09-10T17:19:02+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Kienitzer Straße 26, 1
+2026-09-10T17:19:02+0000 INFO Notified: ID 21348 — Kienitzer Straße 26, 12053 Neukölln
+2026-09-10T17:19:02+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21349
+2026-09-10T17:19:02+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21350
+2026-09-10T17:19:02+0000 INFO Skipped (district Spandau not in allowlist): ID 21351
+2026-09-10T17:19:02+0000 INFO Skipped (district Spandau not in allowlist): ID 21352
+2026-09-10T17:19:02+0000 INFO Skipped (district Spandau not in allowlist): ID 21353
+2026-09-10T17:19:02+0000 INFO Skipped (district Spandau not in allowlist): ID 21354
+2026-09-10T17:19:02+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21355
