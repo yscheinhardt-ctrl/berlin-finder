@@ -14319,3 +14319,15 @@
 2026-09-10T05:06:46+0000 INFO Fetched page: 301 total IDs, 10 rendered details
 2026-09-10T05:06:46+0000 INFO 1 new offer(s) found
 2026-09-10T05:06:46+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21326
+2026-09-10T09:39:18+0000 INFO Fetched page: 293 total IDs, 10 rendered details
+2026-09-10T09:39:18+0000 INFO 7 new offer(s) found
+2026-09-10T09:39:18+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21328
+2026-09-10T09:39:18+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21329
+2026-09-10T09:39:18+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21330
+2026-09-10T09:39:18+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 21331
+2026-09-10T09:39:18+0000 INFO Skipped (district Spandau not in allowlist): ID 21332
+2026-09-10T09:39:18+0000 INFO Skipped (district Spandau not in allowlist): ID 21333
+2026-09-10T09:39:19+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Belßstraße
+2026-09-10T09:39:19+0000 INFO Notified: ID 21334 — Belßstraße 23, 12277 Tempelhof-Schöneberg
