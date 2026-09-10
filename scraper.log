@@ -14331,3 +14331,27 @@
 
 📍 Belßstraße
 2026-09-10T09:39:19+0000 INFO Notified: ID 21334 — Belßstraße 23, 12277 Tempelhof-Schöneberg
+2026-09-10T13:49:00+0000 INFO Fetched page: 291 total IDs, 10 rendered details
+2026-09-10T13:49:00+0000 INFO 10 new offer(s) found
+2026-09-10T13:49:00+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Königstraß
+2026-09-10T13:49:00+0000 INFO Notified: ID 21335 — Königstraße 12, 12105 Tempelhof-Schöneberg
+2026-09-10T13:49:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Zwickauer Damm 12, 123
+2026-09-10T13:49:01+0000 INFO Notified: ID 21336 — Zwickauer Damm 12, 12353 Neukölln
+2026-09-10T13:49:01+0000 INFO Skipped (district Pankow not in allowlist): ID 21337
+2026-09-10T13:49:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Müllerstraße 160, 13353 M
+2026-09-10T13:49:01+0000 INFO Notified: ID 21338 — Müllerstraße 160, 13353 Mitte
+2026-09-10T13:49:01+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21340
+2026-09-10T13:49:01+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21341
+2026-09-10T13:49:01+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21342
+2026-09-10T13:49:01+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21343
+2026-09-10T13:49:01+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21344
+2026-09-10T13:49:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Harzer Straße 40, 1205
+2026-09-10T13:49:01+0000 INFO Notified: ID 21345 — Harzer Straße 40, 12059 Neukölln
