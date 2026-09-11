@@ -14523,3 +14523,9 @@
 
 📍 Reic
 2026-09-11T13:28:30+0000 INFO Notified: ID 21413 — Reichweindamm 16, 13627 Charlottenburg-Wilmersdorf
+2026-09-11T17:06:59+0000 INFO Fetched page: 304 total IDs, 10 rendered details
+2026-09-11T17:06:59+0000 INFO 4 new offer(s) found
+2026-09-11T17:06:59+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21415
+2026-09-11T17:06:59+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21416
+2026-09-11T17:06:59+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21417
+2026-09-11T17:06:59+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21418
