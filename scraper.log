@@ -14382,3 +14382,30 @@
 2026-09-11T04:19:49+0000 INFO Fetched page: 289 total IDs, 10 rendered details
 2026-09-11T04:19:49+0000 INFO 1 new offer(s) found
 2026-09-11T04:19:49+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21356
+2026-09-11T08:58:49+0000 INFO Fetched page: 289 total IDs, 10 rendered details
+2026-09-11T08:58:49+0000 INFO 11 new offer(s) found
+2026-09-11T08:58:49+0000 WARNING ID 21358 not in top-10 details (>10 new in one window?)
+2026-09-11T08:58:49+0000 INFO Telegram sent: 🏠 New offer (ID 21358) — details not rendered, see site:
+🔗 h
+2026-09-11T08:58:49+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21359
+2026-09-11T08:58:49+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21361
+2026-09-11T08:58:49+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 21362
+2026-09-11T08:58:50+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Höhndorfst
+2026-09-11T08:58:50+0000 INFO Notified: ID 21363 — Höhndorfstraße 15, 12101 Tempelhof-Schöneberg
+2026-09-11T08:58:51+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-09-11T08:58:51+0000 INFO Notified: ID 21364 — Tirschenreuther Ring 16, 12279 Tempelhof-Schöneberg
+2026-09-11T08:58:51+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-09-11T08:58:51+0000 INFO Notified: ID 21365 — Tirschenreuther Ring 21, 12279 Tempelhof-Schöneberg
+2026-09-11T08:58:52+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-09-11T08:58:52+0000 INFO Notified: ID 21366 — Tirschenreuther Ring 42, 12279 Tempelhof-Schöneberg
+2026-09-11T08:58:52+0000 INFO Skipped (district Spandau not in allowlist): ID 21368
+2026-09-11T08:58:52+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21369
+2026-09-11T08:58:52+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21370
