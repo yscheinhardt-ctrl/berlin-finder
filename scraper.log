@@ -14573,3 +14573,39 @@
 2026-09-14T00:27:29+0000 INFO 0 new offer(s) found
 2026-09-14T05:19:56+0000 INFO Fetched page: 295 total IDs, 10 rendered details
 2026-09-14T05:19:56+0000 INFO 0 new offer(s) found
+2026-09-14T10:48:11+0000 INFO Fetched page: 301 total IDs, 10 rendered details
+2026-09-14T10:48:11+0000 INFO 15 new offer(s) found
+2026-09-14T10:48:11+0000 WARNING ID 21423 not in top-10 details (>10 new in one window?)
+2026-09-14T10:48:11+0000 INFO Telegram sent: 🏠 New offer (ID 21423) — details not rendered, see site:
+🔗 h
+2026-09-14T10:48:11+0000 WARNING ID 21424 not in top-10 details (>10 new in one window?)
+2026-09-14T10:48:11+0000 INFO Telegram sent: 🏠 New offer (ID 21424) — details not rendered, see site:
+🔗 h
+2026-09-14T10:48:11+0000 WARNING ID 21426 not in top-10 details (>10 new in one window?)
+2026-09-14T10:48:12+0000 INFO Telegram sent: 🏠 New offer (ID 21426) — details not rendered, see site:
+🔗 h
+2026-09-14T10:48:12+0000 WARNING ID 21427 not in top-10 details (>10 new in one window?)
+2026-09-14T10:48:12+0000 INFO Telegram sent: 🏠 New offer (ID 21427) — details not rendered, see site:
+🔗 h
+2026-09-14T10:48:12+0000 WARNING ID 21428 not in top-10 details (>10 new in one window?)
+2026-09-14T10:48:13+0000 INFO Telegram sent: 🏠 New offer (ID 21428) — details not rendered, see site:
+🔗 h
+2026-09-14T10:48:13+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21429
+2026-09-14T10:48:13+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Horstwalde
+2026-09-14T10:48:13+0000 INFO Notified: ID 21430 — Horstwalder Straße 5A, 12307 Tempelhof-Schöneberg
+2026-09-14T10:48:14+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Thomasstraße 9, 12053 
+2026-09-14T10:48:14+0000 INFO Notified: ID 21431 — Thomasstraße 9, 12053 Neukölln
+2026-09-14T10:48:14+0000 INFO Skipped (district Pankow not in allowlist): ID 21432
+2026-09-14T10:48:14+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21433
+2026-09-14T10:48:14+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Lichtenrad
+2026-09-14T10:48:14+0000 INFO Notified: ID 21434 — Lichtenrader Damm 72, 12305 Tempelhof-Schöneberg
+2026-09-14T10:48:14+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 21435
+2026-09-14T10:48:14+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 21436
+2026-09-14T10:48:14+0000 INFO Skipped (district Pankow not in allowlist): ID 21437
+2026-09-14T10:48:14+0000 INFO Skipped (district Pankow not in allowlist): ID 21438
