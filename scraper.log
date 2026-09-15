@@ -14825,3 +14825,5 @@
 2026-09-15T17:02:48+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21526
 2026-09-15T17:02:48+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21527
 2026-09-15T17:02:48+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 21528
+2026-09-15T20:10:27+0000 INFO Fetched page: 327 total IDs, 10 rendered details
+2026-09-15T20:10:27+0000 INFO 0 new offer(s) found
