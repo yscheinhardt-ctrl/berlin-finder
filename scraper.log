@@ -14692,3 +14692,10 @@
 2026-09-14T23:25:05+0000 INFO 0 new offer(s) found
 2026-09-15T01:42:51+0000 INFO Fetched page: 297 total IDs, 10 rendered details
 2026-09-15T01:42:51+0000 INFO 0 new offer(s) found
+2026-09-15T06:45:36+0000 INFO Fetched page: 298 total IDs, 10 rendered details
+2026-09-15T06:45:36+0000 INFO 2 new offer(s) found
+2026-09-15T06:45:37+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Iranische Straße 4B, 1334
+2026-09-15T06:45:37+0000 INFO Notified: ID 21473 — Iranische Straße 4B, 13347 Mitte
+2026-09-15T06:45:37+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21474
