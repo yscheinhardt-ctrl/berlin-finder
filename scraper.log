@@ -14908,3 +14908,6 @@
 
 📍 An den Buckower Felder
 2026-09-16T15:08:06+0000 INFO Notified: ID 21571 — An den Buckower Feldern 15, 12349 Neukölln
+2026-09-16T18:52:47+0000 INFO Fetched page: 334 total IDs, 10 rendered details
+2026-09-16T18:52:47+0000 INFO 1 new offer(s) found
+2026-09-16T18:52:47+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21574
