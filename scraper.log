@@ -14832,3 +14832,7 @@
 2026-09-16T00:58:36+0000 INFO Fetched page: 328 total IDs, 10 rendered details
 2026-09-16T00:58:36+0000 INFO 1 new offer(s) found
 2026-09-16T00:58:36+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21529
+2026-09-16T05:52:19+0000 INFO Fetched page: 328 total IDs, 10 rendered details
+2026-09-16T05:52:19+0000 INFO 2 new offer(s) found
+2026-09-16T05:52:19+0000 INFO Skipped (district Pankow not in allowlist): ID 21530
+2026-09-16T05:52:19+0000 INFO Skipped (district Spandau not in allowlist): ID 21531
