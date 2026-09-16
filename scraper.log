@@ -14890,3 +14890,21 @@
 📍 Reic
 2026-09-16T10:30:23+0000 INFO Notified: ID 21557 — Reichweindamm 4, 13627 Charlottenburg-Wilmersdorf
 2026-09-16T10:30:23+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 21558
+2026-09-16T15:08:04+0000 INFO Fetched page: 337 total IDs, 10 rendered details
+2026-09-16T15:08:04+0000 INFO 11 new offer(s) found
+2026-09-16T15:08:04+0000 WARNING ID 21559 not in top-10 details (>10 new in one window?)
+2026-09-16T15:08:05+0000 INFO Telegram sent: 🏠 New offer (ID 21559) — details not rendered, see site:
+🔗 h
+2026-09-16T15:08:05+0000 INFO Skipped (district Spandau not in allowlist): ID 21562
+2026-09-16T15:08:05+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 21563
+2026-09-16T15:08:05+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21564
+2026-09-16T15:08:05+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21565
+2026-09-16T15:08:05+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21566
+2026-09-16T15:08:05+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21567
+2026-09-16T15:08:05+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21568
+2026-09-16T15:08:05+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21569
+2026-09-16T15:08:05+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21570
+2026-09-16T15:08:06+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 An den Buckower Felder
+2026-09-16T15:08:06+0000 INFO Notified: ID 21571 — An den Buckower Feldern 15, 12349 Neukölln
