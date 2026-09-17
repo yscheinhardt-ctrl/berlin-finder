@@ -14919,3 +14919,27 @@
 2026-09-17T03:17:45+0000 INFO Fetched page: 331 total IDs, 10 rendered details
 2026-09-17T03:17:45+0000 INFO 1 new offer(s) found
 2026-09-17T03:17:45+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 21576
+2026-09-17T08:45:19+0000 INFO Fetched page: 336 total IDs, 10 rendered details
+2026-09-17T08:45:19+0000 INFO 11 new offer(s) found
+2026-09-17T08:45:19+0000 WARNING ID 21577 not in top-10 details (>10 new in one window?)
+2026-09-17T08:45:19+0000 INFO Telegram sent: 🏠 New offer (ID 21577) — details not rendered, see site:
+🔗 h
+2026-09-17T08:45:19+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Lipschitzallee 47, 123
+2026-09-17T08:45:19+0000 INFO Notified: ID 21578 — Lipschitzallee 47, 12353 Neukölln
+2026-09-17T08:45:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Lipschitzallee 47, 123
+2026-09-17T08:45:20+0000 INFO Notified: ID 21579 — Lipschitzallee 47, 12353 Neukölln
+2026-09-17T08:45:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21580
+2026-09-17T08:45:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Iranische Straße 4B, 1334
+2026-09-17T08:45:20+0000 INFO Notified: ID 21581 — Iranische Straße 4B, 13347 Mitte
+2026-09-17T08:45:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21582
+2026-09-17T08:45:20+0000 INFO Skipped (district Spandau not in allowlist): ID 21583
+2026-09-17T08:45:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21584
+2026-09-17T08:45:20+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 21585
+2026-09-17T08:45:20+0000 INFO Skipped (district Pankow not in allowlist): ID 21586
+2026-09-17T08:45:20+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21587
