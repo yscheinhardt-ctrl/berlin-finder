@@ -15175,3 +15175,6 @@
 2026-09-18T14:56:01+0000 INFO Skipped (district Spandau not in allowlist): ID 21689
 2026-09-18T14:56:01+0000 INFO Skipped (district Spandau not in allowlist): ID 21690
 2026-09-18T14:56:01+0000 INFO Skipped (district Spandau not in allowlist): ID 21691
+2026-09-18T18:05:46+0000 INFO Fetched page: 381 total IDs, 10 rendered details
+2026-09-18T18:05:46+0000 INFO 1 new offer(s) found
+2026-09-18T18:05:46+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21692
