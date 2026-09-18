@@ -15133,3 +15133,45 @@
 2026-09-18T11:03:24+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21670
 2026-09-18T11:03:24+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21671
 2026-09-18T11:03:24+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21672
+2026-09-18T14:55:57+0000 INFO Fetched page: 383 total IDs, 10 rendered details
+2026-09-18T14:55:57+0000 INFO 15 new offer(s) found
+2026-09-18T14:55:57+0000 WARNING ID 21675 not in top-10 details (>10 new in one window?)
+2026-09-18T14:55:57+0000 INFO Telegram sent: 🏠 New offer (ID 21675) — details not rendered, see site:
+🔗 h
+2026-09-18T14:55:57+0000 WARNING ID 21676 not in top-10 details (>10 new in one window?)
+2026-09-18T14:55:57+0000 INFO Telegram sent: 🏠 New offer (ID 21676) — details not rendered, see site:
+🔗 h
+2026-09-18T14:55:57+0000 WARNING ID 21677 not in top-10 details (>10 new in one window?)
+2026-09-18T14:55:58+0000 INFO Telegram sent: 🏠 New offer (ID 21677) — details not rendered, see site:
+🔗 h
+2026-09-18T14:55:58+0000 WARNING ID 21680 not in top-10 details (>10 new in one window?)
+2026-09-18T14:55:58+0000 INFO Telegram sent: 🏠 New offer (ID 21680) — details not rendered, see site:
+🔗 h
+2026-09-18T14:55:58+0000 WARNING ID 21681 not in top-10 details (>10 new in one window?)
+2026-09-18T14:55:59+0000 INFO Telegram sent: 🏠 New offer (ID 21681) — details not rendered, see site:
+🔗 h
+2026-09-18T14:55:59+0000 INFO Skipped (district Pankow not in allowlist): ID 21682
+2026-09-18T14:55:59+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Am Mühlenb
+2026-09-18T14:55:59+0000 INFO Notified: ID 21683 — Am Mühlenberg 4, 10825 Tempelhof-Schöneberg
+2026-09-18T14:55:59+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 21684
+2026-09-18T14:56:00+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Meraner St
+2026-09-18T14:56:00+0000 INFO Notified: ID 21685 — Meraner Straße 33, 10825 Tempelhof-Schöneberg
+2026-09-18T14:56:00+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Bautzener 
+2026-09-18T14:56:00+0000 INFO Notified: ID 21686 — Bautzener Straße 2, 10829 Tempelhof-Schöneberg
+2026-09-18T14:56:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Martin-Lut
+2026-09-18T14:56:01+0000 INFO Notified: ID 21687 — Martin-Luther-Straße 20, 10777 Tempelhof-Schöneberg
+2026-09-18T14:56:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Bülowstraß
+2026-09-18T14:56:01+0000 INFO Notified: ID 21688 — Bülowstraße 37, 10783 Tempelhof-Schöneberg
+2026-09-18T14:56:01+0000 INFO Skipped (district Spandau not in allowlist): ID 21689
+2026-09-18T14:56:01+0000 INFO Skipped (district Spandau not in allowlist): ID 21690
+2026-09-18T14:56:01+0000 INFO Skipped (district Spandau not in allowlist): ID 21691
