@@ -15203,3 +15203,6 @@
 2026-09-20T01:03:42+0000 INFO 0 new offer(s) found
 2026-09-20T06:07:44+0000 INFO Fetched page: 365 total IDs, 10 rendered details
 2026-09-20T06:07:44+0000 INFO 0 new offer(s) found
+2026-09-20T11:17:29+0000 INFO Fetched page: 366 total IDs, 10 rendered details
+2026-09-20T11:17:29+0000 INFO 1 new offer(s) found
+2026-09-20T11:17:29+0000 INFO Skipped (district Pankow not in allowlist): ID 21694
