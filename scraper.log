@@ -15353,3 +15353,16 @@
 
 📍 Reic
 2026-09-21T14:16:38+0000 INFO Notified: ID 21753 — Reichweindamm 43, 13627 Charlottenburg-Wilmersdorf
+2026-09-21T19:33:23+0000 INFO Fetched page: 382 total IDs, 10 rendered details
+2026-09-21T19:33:23+0000 INFO 5 new offer(s) found
+2026-09-21T19:33:23+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21754
+2026-09-21T19:33:23+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 21756
+2026-09-21T19:33:23+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21758
+2026-09-21T19:33:24+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Skalit
+2026-09-21T19:33:24+0000 INFO Notified: ID 21759 — Skalitzer Straße 6, 10999 Friedrichshain-Kreuzberg
+2026-09-21T19:33:24+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Wilhel
+2026-09-21T19:33:24+0000 INFO Notified: ID 21760 — Wilhelmstraße 20, 10963 Friedrichshain-Kreuzberg
