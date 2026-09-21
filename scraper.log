@@ -15219,3 +15219,17 @@
 2026-09-20T23:48:05+0000 INFO 0 new offer(s) found
 2026-09-21T01:44:39+0000 INFO Fetched page: 364 total IDs, 10 rendered details
 2026-09-21T01:44:39+0000 INFO 0 new offer(s) found
+2026-09-21T07:14:44+0000 INFO Fetched page: 367 total IDs, 10 rendered details
+2026-09-21T07:14:44+0000 INFO 6 new offer(s) found
+2026-09-21T07:14:44+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21696
+2026-09-21T07:14:44+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21697
+2026-09-21T07:14:44+0000 INFO Skipped (district Spandau not in allowlist): ID 21698
+2026-09-21T07:14:44+0000 INFO Skipped (district Spandau not in allowlist): ID 21699
+2026-09-21T07:14:45+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Ackerstraße 66, 13355 Mit
+2026-09-21T07:14:45+0000 INFO Notified: ID 21700 — Ackerstraße 66, 13355 Mitte
+2026-09-21T07:14:45+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Fritz-Erler-Allee 160,
+2026-09-21T07:14:45+0000 INFO Notified: ID 21701 — Fritz-Erler-Allee 160, 12353 Neukölln
