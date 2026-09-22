@@ -15372,3 +15372,20 @@
 2026-09-22T01:15:35+0000 INFO 0 new offer(s) found
 2026-09-22T06:19:29+0000 INFO Fetched page: 372 total IDs, 10 rendered details
 2026-09-22T06:19:29+0000 INFO 0 new offer(s) found
+2026-09-22T11:52:12+0000 INFO Fetched page: 357 total IDs, 10 rendered details
+2026-09-22T11:52:12+0000 INFO 9 new offer(s) found
+2026-09-22T11:52:12+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 21764
+2026-09-22T11:52:12+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21766
+2026-09-22T11:52:12+0000 INFO Skipped (district Spandau not in allowlist): ID 21767
+2026-09-22T11:52:12+0000 INFO Skipped (district Spandau not in allowlist): ID 21768
+2026-09-22T11:52:12+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21769
+2026-09-22T11:52:12+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Neudecker Weg 117, 123
+2026-09-22T11:52:12+0000 INFO Notified: ID 21773 — Neudecker Weg 117, 12355 Neukölln
+2026-09-22T11:52:12+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Feuchtwangerweg 9, 123
+2026-09-22T11:52:12+0000 INFO Notified: ID 21774 — Feuchtwangerweg 9, 12353 Neukölln
+2026-09-22T11:52:12+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21776
+2026-09-22T11:52:12+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21777
