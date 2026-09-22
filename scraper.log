@@ -15422,3 +15422,39 @@
 2026-09-22T15:52:27+0000 INFO Notified: ID 21794 — Bremer Straße 12, 10551 Mitte
 2026-09-22T15:52:27+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21795
 2026-09-22T15:52:27+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21796
+2026-09-22T19:23:23+0000 INFO Fetched page: 372 total IDs, 10 rendered details
+2026-09-22T19:23:23+0000 INFO 10 new offer(s) found
+2026-09-22T19:23:23+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Meraner St
+2026-09-22T19:23:23+0000 INFO Notified: ID 21797 — Meraner Straße 45, 10825 Tempelhof-Schöneberg
+2026-09-22T19:23:23+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21798
+2026-09-22T19:23:23+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21800
+2026-09-22T19:23:24+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Innsbrucke
+2026-09-22T19:23:24+0000 INFO Notified: ID 21802 — Innsbrucker Straße 12, 10825 Tempelhof-Schöneberg
+2026-09-22T19:23:24+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 105, 10
+2026-09-22T19:23:24+0000 INFO Notified: ID 21803 — Köpenicker Straße 105, 10179 Mitte
+2026-09-22T19:23:24+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 105A, 1
+2026-09-22T19:23:24+0000 INFO Notified: ID 21804 — Köpenicker Straße 105A, 10179 Mitte
+2026-09-22T19:23:25+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 105A, 1
+2026-09-22T19:23:25+0000 INFO Notified: ID 21805 — Köpenicker Straße 105A, 10179 Mitte
+2026-09-22T19:23:25+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 107, 10
+2026-09-22T19:23:25+0000 INFO Notified: ID 21806 — Köpenicker Straße 107, 10179 Mitte
+2026-09-22T19:23:25+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 107, 10
+2026-09-22T19:23:25+0000 INFO Notified: ID 21807 — Köpenicker Straße 107, 10179 Mitte
+2026-09-22T19:23:26+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 In den Bauerngärten 8,
+2026-09-22T19:23:26+0000 INFO Notified: ID 21808 — In den Bauerngärten 8, 12349 Neukölln
