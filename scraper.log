@@ -15389,3 +15389,36 @@
 2026-09-22T11:52:12+0000 INFO Notified: ID 21774 — Feuchtwangerweg 9, 12353 Neukölln
 2026-09-22T11:52:12+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21776
 2026-09-22T11:52:12+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21777
+2026-09-22T15:52:22+0000 INFO Fetched page: 364 total IDs, 10 rendered details
+2026-09-22T15:52:22+0000 INFO 15 new offer(s) found
+2026-09-22T15:52:22+0000 WARNING ID 21780 not in top-10 details (>10 new in one window?)
+2026-09-22T15:52:23+0000 INFO Telegram sent: 🏠 New offer (ID 21780) — details not rendered, see site:
+🔗 h
+2026-09-22T15:52:23+0000 WARNING ID 21781 not in top-10 details (>10 new in one window?)
+2026-09-22T15:52:24+0000 INFO Telegram sent: 🏠 New offer (ID 21781) — details not rendered, see site:
+🔗 h
+2026-09-22T15:52:24+0000 WARNING ID 21782 not in top-10 details (>10 new in one window?)
+2026-09-22T15:52:24+0000 INFO Telegram sent: 🏠 New offer (ID 21782) — details not rendered, see site:
+🔗 h
+2026-09-22T15:52:24+0000 WARNING ID 21783 not in top-10 details (>10 new in one window?)
+2026-09-22T15:52:25+0000 INFO Telegram sent: 🏠 New offer (ID 21783) — details not rendered, see site:
+🔗 h
+2026-09-22T15:52:25+0000 WARNING ID 21785 not in top-10 details (>10 new in one window?)
+2026-09-22T15:52:26+0000 INFO Telegram sent: 🏠 New offer (ID 21785) — details not rendered, see site:
+🔗 h
+2026-09-22T15:52:26+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Koloniestraße 44A, 13359 
+2026-09-22T15:52:26+0000 INFO Notified: ID 21786 — Koloniestraße 44A, 13359 Mitte
+2026-09-22T15:52:26+0000 INFO Skipped (district Spandau not in allowlist): ID 21787
+2026-09-22T15:52:26+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21788
+2026-09-22T15:52:26+0000 INFO Skipped (district Spandau not in allowlist): ID 21790
+2026-09-22T15:52:26+0000 INFO Skipped (district Spandau not in allowlist): ID 21791
+2026-09-22T15:52:26+0000 INFO Skipped (district Spandau not in allowlist): ID 21792
+2026-09-22T15:52:26+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21793
+2026-09-22T15:52:27+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Bremer Straße 12, 10551 M
+2026-09-22T15:52:27+0000 INFO Notified: ID 21794 — Bremer Straße 12, 10551 Mitte
+2026-09-22T15:52:27+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21795
+2026-09-22T15:52:27+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21796
