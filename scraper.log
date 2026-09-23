@@ -15572,3 +15572,23 @@
 2026-09-23T14:56:25+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 21858
 2026-09-23T14:56:25+0000 INFO Skipped (district Spandau not in allowlist): ID 21859
 2026-09-23T14:56:25+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 21860
+2026-09-23T18:53:34+0000 INFO Fetched page: 372 total IDs, 10 rendered details
+2026-09-23T18:53:34+0000 INFO 6 new offer(s) found
+2026-09-23T18:53:34+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21861
+2026-09-23T18:53:35+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 An den Buckower Felder
+2026-09-23T18:53:35+0000 INFO Notified: ID 21862 — An den Buckower Feldern 17, 12349 Neukölln
+2026-09-23T18:53:35+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21863
+2026-09-23T18:53:35+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Badener Ri
+2026-09-23T18:53:35+0000 INFO Notified: ID 21864 — Badener Ring 40G, 12101 Tempelhof-Schöneberg
+2026-09-23T18:53:35+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Badener Ri
+2026-09-23T18:53:35+0000 INFO Notified: ID 21865 — Badener Ring 40G, 12101 Tempelhof-Schöneberg
+2026-09-23T18:53:36+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Badener Ri
+2026-09-23T18:53:36+0000 INFO Notified: ID 21866 — Badener Ring 40F, 12101 Tempelhof-Schöneberg
