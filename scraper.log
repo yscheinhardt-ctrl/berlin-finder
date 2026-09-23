@@ -15542,3 +15542,33 @@
 2026-09-23T10:03:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21838
 2026-09-23T10:03:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21839
 2026-09-23T10:03:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21840
+2026-09-23T14:56:22+0000 INFO Fetched page: 381 total IDs, 10 rendered details
+2026-09-23T14:56:22+0000 INFO 15 new offer(s) found
+2026-09-23T14:56:22+0000 WARNING ID 21843 not in top-10 details (>10 new in one window?)
+2026-09-23T14:56:23+0000 INFO Telegram sent: 🏠 New offer (ID 21843) — details not rendered, see site:
+🔗 h
+2026-09-23T14:56:23+0000 WARNING ID 21847 not in top-10 details (>10 new in one window?)
+2026-09-23T14:56:23+0000 INFO Telegram sent: 🏠 New offer (ID 21847) — details not rendered, see site:
+🔗 h
+2026-09-23T14:56:23+0000 WARNING ID 21848 not in top-10 details (>10 new in one window?)
+2026-09-23T14:56:24+0000 INFO Telegram sent: 🏠 New offer (ID 21848) — details not rendered, see site:
+🔗 h
+2026-09-23T14:56:24+0000 WARNING ID 21849 not in top-10 details (>10 new in one window?)
+2026-09-23T14:56:24+0000 INFO Telegram sent: 🏠 New offer (ID 21849) — details not rendered, see site:
+🔗 h
+2026-09-23T14:56:24+0000 WARNING ID 21850 not in top-10 details (>10 new in one window?)
+2026-09-23T14:56:24+0000 INFO Telegram sent: 🏠 New offer (ID 21850) — details not rendered, see site:
+🔗 h
+2026-09-23T14:56:24+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 21851
+2026-09-23T14:56:24+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21852
+2026-09-23T14:56:24+0000 INFO Skipped (district Spandau not in allowlist): ID 21853
+2026-09-23T14:56:25+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Oderst
+2026-09-23T14:56:25+0000 INFO Notified: ID 21854 — Oderstraße 17, 10247 Friedrichshain-Kreuzberg
+2026-09-23T14:56:25+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21855
+2026-09-23T14:56:25+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21856
+2026-09-23T14:56:25+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21857
+2026-09-23T14:56:25+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 21858
+2026-09-23T14:56:25+0000 INFO Skipped (district Spandau not in allowlist): ID 21859
+2026-09-23T14:56:25+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 21860
