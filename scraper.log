@@ -15702,3 +15702,20 @@
 
 📍 Dröpkeweg 9, 12353 Neu
 2026-09-24T14:37:33+0000 INFO Notified: ID 21917 — Dröpkeweg 9, 12353 Neukölln
+2026-09-24T18:39:12+0000 INFO Fetched page: 379 total IDs, 10 rendered details
+2026-09-24T18:39:12+0000 INFO 9 new offer(s) found
+2026-09-24T18:39:12+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21918
+2026-09-24T18:39:12+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21919
+2026-09-24T18:39:13+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 An den Buckower Felder
+2026-09-24T18:39:13+0000 INFO Notified: ID 21920 — An den Buckower Feldern 17, 12349 Neukölln
+2026-09-24T18:39:13+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21921
+2026-09-24T18:39:13+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21922
+2026-09-24T18:39:13+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21923
+2026-09-24T18:39:13+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21924
+2026-09-24T18:39:13+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Bornsdorfer Straße 37B
+2026-09-24T18:39:13+0000 INFO Notified: ID 21925 — Bornsdorfer Straße 37B, 12053 Neukölln
+2026-09-24T18:39:13+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21926
