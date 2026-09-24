@@ -15606,3 +15606,66 @@
 
 📍 Malchiner Straße 65, 1
 2026-09-24T05:03:02+0000 INFO Notified: ID 21871 — Malchiner Straße 65, 12359 Neukölln
+2026-09-24T09:54:55+0000 INFO Fetched page: 383 total IDs, 10 rendered details
+2026-09-24T09:54:55+0000 INFO 26 new offer(s) found
+2026-09-24T09:54:55+0000 WARNING ID 21872 not in top-10 details (>10 new in one window?)
+2026-09-24T09:54:56+0000 INFO Telegram sent: 🏠 New offer (ID 21872) — details not rendered, see site:
+🔗 h
+2026-09-24T09:54:56+0000 WARNING ID 21873 not in top-10 details (>10 new in one window?)
+2026-09-24T09:54:56+0000 INFO Telegram sent: 🏠 New offer (ID 21873) — details not rendered, see site:
+🔗 h
+2026-09-24T09:54:56+0000 WARNING ID 21874 not in top-10 details (>10 new in one window?)
+2026-09-24T09:54:56+0000 INFO Telegram sent: 🏠 New offer (ID 21874) — details not rendered, see site:
+🔗 h
+2026-09-24T09:54:56+0000 WARNING ID 21875 not in top-10 details (>10 new in one window?)
+2026-09-24T09:54:57+0000 INFO Telegram sent: 🏠 New offer (ID 21875) — details not rendered, see site:
+🔗 h
+2026-09-24T09:54:57+0000 WARNING ID 21876 not in top-10 details (>10 new in one window?)
+2026-09-24T09:54:57+0000 INFO Telegram sent: 🏠 New offer (ID 21876) — details not rendered, see site:
+🔗 h
+2026-09-24T09:54:57+0000 WARNING ID 21877 not in top-10 details (>10 new in one window?)
+2026-09-24T09:54:57+0000 INFO Telegram sent: 🏠 New offer (ID 21877) — details not rendered, see site:
+🔗 h
+2026-09-24T09:54:57+0000 WARNING ID 21878 not in top-10 details (>10 new in one window?)
+2026-09-24T09:54:58+0000 INFO Telegram sent: 🏠 New offer (ID 21878) — details not rendered, see site:
+🔗 h
+2026-09-24T09:54:58+0000 WARNING ID 21879 not in top-10 details (>10 new in one window?)
+2026-09-24T09:54:58+0000 INFO Telegram sent: 🏠 New offer (ID 21879) — details not rendered, see site:
+🔗 h
+2026-09-24T09:54:58+0000 WARNING ID 21880 not in top-10 details (>10 new in one window?)
+2026-09-24T09:54:58+0000 INFO Telegram sent: 🏠 New offer (ID 21880) — details not rendered, see site:
+🔗 h
+2026-09-24T09:54:58+0000 WARNING ID 21881 not in top-10 details (>10 new in one window?)
+2026-09-24T09:54:59+0000 INFO Telegram sent: 🏠 New offer (ID 21881) — details not rendered, see site:
+🔗 h
+2026-09-24T09:54:59+0000 WARNING ID 21882 not in top-10 details (>10 new in one window?)
+2026-09-24T09:54:59+0000 INFO Telegram sent: 🏠 New offer (ID 21882) — details not rendered, see site:
+🔗 h
+2026-09-24T09:54:59+0000 WARNING ID 21883 not in top-10 details (>10 new in one window?)
+2026-09-24T09:54:59+0000 INFO Telegram sent: 🏠 New offer (ID 21883) — details not rendered, see site:
+🔗 h
+2026-09-24T09:54:59+0000 WARNING ID 21884 not in top-10 details (>10 new in one window?)
+2026-09-24T09:55:00+0000 INFO Telegram sent: 🏠 New offer (ID 21884) — details not rendered, see site:
+🔗 h
+2026-09-24T09:55:00+0000 WARNING ID 21885 not in top-10 details (>10 new in one window?)
+2026-09-24T09:55:00+0000 INFO Telegram sent: 🏠 New offer (ID 21885) — details not rendered, see site:
+🔗 h
+2026-09-24T09:55:00+0000 WARNING ID 21886 not in top-10 details (>10 new in one window?)
+2026-09-24T09:55:00+0000 INFO Telegram sent: 🏠 New offer (ID 21886) — details not rendered, see site:
+🔗 h
+2026-09-24T09:55:00+0000 WARNING ID 21887 not in top-10 details (>10 new in one window?)
+2026-09-24T09:55:01+0000 INFO Telegram sent: 🏠 New offer (ID 21887) — details not rendered, see site:
+🔗 h
+2026-09-24T09:55:01+0000 INFO Skipped (district Spandau not in allowlist): ID 21888
+2026-09-24T09:55:01+0000 INFO Skipped (district Spandau not in allowlist): ID 21889
+2026-09-24T09:55:02+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Badener Ri
+2026-09-24T09:55:02+0000 INFO Notified: ID 21890 — Badener Ring 40G, 12101 Tempelhof-Schöneberg
+2026-09-24T09:55:02+0000 INFO Skipped (district Spandau not in allowlist): ID 21891
+2026-09-24T09:55:02+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21892
+2026-09-24T09:55:02+0000 INFO Skipped (district Spandau not in allowlist): ID 21893
+2026-09-24T09:55:02+0000 INFO Skipped (district Spandau not in allowlist): ID 21894
+2026-09-24T09:55:02+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21895
+2026-09-24T09:55:02+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 21896
+2026-09-24T09:55:02+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21897
