@@ -15753,3 +15753,10 @@
 2026-09-26T05:26:41+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21934
 2026-09-26T05:26:41+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21935
 2026-09-26T05:26:41+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21936
+2026-09-26T10:05:25+0000 INFO Fetched page: 357 total IDs, 10 rendered details
+2026-09-26T10:05:25+0000 INFO 2 new offer(s) found
+2026-09-26T10:05:25+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21937
+2026-09-26T10:05:25+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Neuköllnische Allee 14
+2026-09-26T10:05:25+0000 INFO Notified: ID 21939 — Neuköllnische Allee 149, 12057 Neukölln
