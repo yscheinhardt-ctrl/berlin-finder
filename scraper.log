@@ -15824,3 +15824,6 @@
 2026-09-28T15:54:50+0000 INFO Notified: ID 21960 — Fritz-Erler-Allee 166, 12353 Neukölln
 2026-09-28T15:54:50+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21961
 2026-09-28T15:54:50+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21962
+2026-09-28T21:34:11+0000 INFO Fetched page: 336 total IDs, 10 rendered details
+2026-09-28T21:34:11+0000 INFO 1 new offer(s) found
+2026-09-28T21:34:11+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21963
