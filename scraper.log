@@ -15794,3 +15794,33 @@
 
 📍 Soldiner Straße 71, 13359
 2026-09-28T07:34:51+0000 INFO Notified: ID 21944 — Soldiner Straße 71, 13359 Mitte
+2026-09-28T15:54:48+0000 INFO Fetched page: 337 total IDs, 10 rendered details
+2026-09-28T15:54:48+0000 INFO 13 new offer(s) found
+2026-09-28T15:54:48+0000 WARNING ID 21946 not in top-10 details (>10 new in one window?)
+2026-09-28T15:54:48+0000 INFO Telegram sent: 🏠 New offer (ID 21946) — details not rendered, see site:
+🔗 h
+2026-09-28T15:54:48+0000 WARNING ID 21949 not in top-10 details (>10 new in one window?)
+2026-09-28T15:54:48+0000 INFO Telegram sent: 🏠 New offer (ID 21949) — details not rendered, see site:
+🔗 h
+2026-09-28T15:54:48+0000 WARNING ID 21950 not in top-10 details (>10 new in one window?)
+2026-09-28T15:54:49+0000 INFO Telegram sent: 🏠 New offer (ID 21950) — details not rendered, see site:
+🔗 h
+2026-09-28T15:54:49+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21951
+2026-09-28T15:54:49+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Sandsteinweg 33, 12349
+2026-09-28T15:54:49+0000 INFO Notified: ID 21952 — Sandsteinweg 33, 12349 Neukölln
+2026-09-28T15:54:49+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21953
+2026-09-28T15:54:49+0000 INFO Skipped (district Spandau not in allowlist): ID 21955
+2026-09-28T15:54:49+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 21956
+2026-09-28T15:54:49+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21957
+2026-09-28T15:54:50+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Bayernring
+2026-09-28T15:54:50+0000 INFO Notified: ID 21959 — Bayernring 25C, 12101 Tempelhof-Schöneberg
+2026-09-28T15:54:50+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Fritz-Erler-Allee 166,
+2026-09-28T15:54:50+0000 INFO Notified: ID 21960 — Fritz-Erler-Allee 166, 12353 Neukölln
+2026-09-28T15:54:50+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21961
+2026-09-28T15:54:50+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21962
