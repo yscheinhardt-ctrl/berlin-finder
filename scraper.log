@@ -15783,3 +15783,14 @@
 2026-09-27T23:03:15+0000 INFO 0 new offer(s) found
 2026-09-28T01:34:21+0000 INFO Fetched page: 352 total IDs, 10 rendered details
 2026-09-28T01:34:21+0000 INFO 0 new offer(s) found
+2026-09-28T07:34:50+0000 INFO Fetched page: 350 total IDs, 10 rendered details
+2026-09-28T07:34:50+0000 INFO 3 new offer(s) found
+2026-09-28T07:34:50+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 21942
+2026-09-28T07:34:50+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Totilastra
+2026-09-28T07:34:50+0000 INFO Notified: ID 21943 — Totilastraße 38, 12103 Tempelhof-Schöneberg
+2026-09-28T07:34:51+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Soldiner Straße 71, 13359
+2026-09-28T07:34:51+0000 INFO Notified: ID 21944 — Soldiner Straße 71, 13359 Mitte
