@@ -15946,3 +15946,5 @@
 2026-09-29T19:12:01+0000 INFO Notified: ID 22007 — Franz-Klühs-Straße 7, 10969 Friedrichshain-Kreuzberg
 2026-09-29T19:12:01+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 22008
 2026-09-29T19:12:01+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 22009
+2026-09-29T22:58:33+0000 INFO Fetched page: 349 total IDs, 10 rendered details
+2026-09-29T22:58:33+0000 INFO 0 new offer(s) found
