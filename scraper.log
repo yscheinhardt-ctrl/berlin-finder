@@ -15827,3 +15827,15 @@
 2026-09-28T21:34:11+0000 INFO Fetched page: 336 total IDs, 10 rendered details
 2026-09-28T21:34:11+0000 INFO 1 new offer(s) found
 2026-09-28T21:34:11+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21963
+2026-09-29T01:13:53+0000 INFO Fetched page: 338 total IDs, 10 rendered details
+2026-09-29T01:13:53+0000 INFO 4 new offer(s) found
+2026-09-29T01:13:53+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Bayernring
+2026-09-29T01:13:53+0000 INFO Notified: ID 21964 — Bayernring 27, 12101 Tempelhof-Schöneberg
+2026-09-29T01:13:53+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21965
+2026-09-29T01:13:54+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Warthestraße 42C, 1205
+2026-09-29T01:13:54+0000 INFO Notified: ID 21966 — Warthestraße 42C, 12051 Neukölln
+2026-09-29T01:13:54+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21967
