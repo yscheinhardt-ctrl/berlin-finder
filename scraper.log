@@ -15839,3 +15839,23 @@
 📍 Warthestraße 42C, 1205
 2026-09-29T01:13:54+0000 INFO Notified: ID 21966 — Warthestraße 42C, 12051 Neukölln
 2026-09-29T01:13:54+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21967
+2026-09-29T06:58:38+0000 INFO Fetched page: 345 total IDs, 10 rendered details
+2026-09-29T06:58:38+0000 INFO 9 new offer(s) found
+2026-09-29T06:58:38+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 21968
+2026-09-29T06:58:38+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21969
+2026-09-29T06:58:38+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21970
+2026-09-29T06:58:38+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 21971
+2026-09-29T06:58:38+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 21972
+2026-09-29T06:58:38+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 21973
+2026-09-29T06:58:38+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Feuchtwangerweg 7, 123
+2026-09-29T06:58:38+0000 INFO Notified: ID 21974 — Feuchtwangerweg 7, 12353 Neukölln
+2026-09-29T06:58:39+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Fischerinsel 10,18.11, 10
+2026-09-29T06:58:39+0000 INFO Notified: ID 21975 — Fischerinsel 10,18.11, 10179 Mitte
+2026-09-29T06:58:39+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Dröpkeweg 9, 12353 Neu
+2026-09-29T06:58:39+0000 INFO Notified: ID 21976 — Dröpkeweg 9, 12353 Neukölln
