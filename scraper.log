@@ -15931,3 +15931,18 @@
 2026-09-29T13:57:14+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22000
 2026-09-29T13:57:14+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 22001
 2026-09-29T13:57:14+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 22002
+2026-09-29T19:12:01+0000 INFO Fetched page: 349 total IDs, 10 rendered details
+2026-09-29T19:12:01+0000 INFO 7 new offer(s) found
+2026-09-29T19:12:01+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 22003
+2026-09-29T19:12:01+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 22004
+2026-09-29T19:12:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Adalbe
+2026-09-29T19:12:01+0000 INFO Notified: ID 22005 — Adalbertstraße 96, 10999 Friedrichshain-Kreuzberg
+2026-09-29T19:12:01+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 22006
+2026-09-29T19:12:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Franz-
+2026-09-29T19:12:01+0000 INFO Notified: ID 22007 — Franz-Klühs-Straße 7, 10969 Friedrichshain-Kreuzberg
+2026-09-29T19:12:01+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 22008
+2026-09-29T19:12:01+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 22009
