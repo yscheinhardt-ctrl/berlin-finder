@@ -16013,3 +16013,66 @@
 📍 Gartenplatz 2, 13355 Mitt
 2026-09-30T08:18:31+0000 INFO Notified: ID 22027 — Gartenplatz 2, 13355 Mitte
 2026-09-30T08:18:31+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 22028
+2026-09-30T14:59:29+0000 INFO Fetched page: 368 total IDs, 10 rendered details
+2026-09-30T14:59:29+0000 INFO 24 new offer(s) found
+2026-09-30T14:59:29+0000 WARNING ID 22029 not in top-10 details (>10 new in one window?)
+2026-09-30T14:59:30+0000 INFO Telegram sent: 🏠 New offer (ID 22029) — details not rendered, see site:
+🔗 h
+2026-09-30T14:59:30+0000 WARNING ID 22030 not in top-10 details (>10 new in one window?)
+2026-09-30T14:59:30+0000 INFO Telegram sent: 🏠 New offer (ID 22030) — details not rendered, see site:
+🔗 h
+2026-09-30T14:59:30+0000 WARNING ID 22031 not in top-10 details (>10 new in one window?)
+2026-09-30T14:59:31+0000 INFO Telegram sent: 🏠 New offer (ID 22031) — details not rendered, see site:
+🔗 h
+2026-09-30T14:59:31+0000 WARNING ID 22032 not in top-10 details (>10 new in one window?)
+2026-09-30T14:59:31+0000 INFO Telegram sent: 🏠 New offer (ID 22032) — details not rendered, see site:
+🔗 h
+2026-09-30T14:59:31+0000 WARNING ID 22033 not in top-10 details (>10 new in one window?)
+2026-09-30T14:59:31+0000 INFO Telegram sent: 🏠 New offer (ID 22033) — details not rendered, see site:
+🔗 h
+2026-09-30T14:59:31+0000 WARNING ID 22035 not in top-10 details (>10 new in one window?)
+2026-09-30T14:59:32+0000 INFO Telegram sent: 🏠 New offer (ID 22035) — details not rendered, see site:
+🔗 h
+2026-09-30T14:59:32+0000 WARNING ID 22036 not in top-10 details (>10 new in one window?)
+2026-09-30T14:59:32+0000 INFO Telegram sent: 🏠 New offer (ID 22036) — details not rendered, see site:
+🔗 h
+2026-09-30T14:59:32+0000 WARNING ID 22037 not in top-10 details (>10 new in one window?)
+2026-09-30T14:59:33+0000 INFO Telegram sent: 🏠 New offer (ID 22037) — details not rendered, see site:
+🔗 h
+2026-09-30T14:59:33+0000 WARNING ID 22038 not in top-10 details (>10 new in one window?)
+2026-09-30T14:59:33+0000 INFO Telegram sent: 🏠 New offer (ID 22038) — details not rendered, see site:
+🔗 h
+2026-09-30T14:59:33+0000 WARNING ID 22039 not in top-10 details (>10 new in one window?)
+2026-09-30T14:59:33+0000 INFO Telegram sent: 🏠 New offer (ID 22039) — details not rendered, see site:
+🔗 h
+2026-09-30T14:59:33+0000 WARNING ID 22040 not in top-10 details (>10 new in one window?)
+2026-09-30T14:59:34+0000 INFO Telegram sent: 🏠 New offer (ID 22040) — details not rendered, see site:
+🔗 h
+2026-09-30T14:59:34+0000 WARNING ID 22041 not in top-10 details (>10 new in one window?)
+2026-09-30T14:59:34+0000 INFO Telegram sent: 🏠 New offer (ID 22041) — details not rendered, see site:
+🔗 h
+2026-09-30T14:59:34+0000 WARNING ID 22042 not in top-10 details (>10 new in one window?)
+2026-09-30T14:59:34+0000 INFO Telegram sent: 🏠 New offer (ID 22042) — details not rendered, see site:
+🔗 h
+2026-09-30T14:59:34+0000 WARNING ID 22044 not in top-10 details (>10 new in one window?)
+2026-09-30T14:59:35+0000 INFO Telegram sent: 🏠 New offer (ID 22044) — details not rendered, see site:
+🔗 h
+2026-09-30T14:59:35+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22045
+2026-09-30T14:59:35+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Ungarnstraße 85, 13349 Mi
+2026-09-30T14:59:35+0000 INFO Notified: ID 22046 — Ungarnstraße 85, 13349 Mitte
+2026-09-30T14:59:35+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22047
+2026-09-30T14:59:35+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22048
+2026-09-30T14:59:36+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Schwyzer Straße 26A, 1334
+2026-09-30T14:59:36+0000 INFO Notified: ID 22050 — Schwyzer Straße 26A, 13349 Mitte
+2026-09-30T14:59:36+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22051
+2026-09-30T14:59:36+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Armenische Straße 8, 1334
+2026-09-30T14:59:36+0000 INFO Notified: ID 22053 — Armenische Straße 8, 13349 Mitte
+2026-09-30T14:59:36+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 22054
+2026-09-30T14:59:36+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22055
+2026-09-30T14:59:36+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22056
