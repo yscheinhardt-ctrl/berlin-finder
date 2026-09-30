@@ -16079,3 +16079,6 @@
 2026-09-30T19:55:28+0000 INFO Fetched page: 364 total IDs, 10 rendered details
 2026-09-30T19:55:28+0000 INFO 1 new offer(s) found
 2026-09-30T19:55:28+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 22059
+2026-09-30T23:30:06+0000 INFO Fetched page: 362 total IDs, 10 rendered details
+2026-09-30T23:30:06+0000 INFO 1 new offer(s) found
+2026-09-30T23:30:06+0000 INFO Skipped (district Spandau not in allowlist): ID 22060
