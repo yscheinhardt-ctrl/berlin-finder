@@ -16084,3 +16084,36 @@
 2026-09-30T23:30:06+0000 INFO Skipped (district Spandau not in allowlist): ID 22060
 2026-10-01T02:20:01+0000 INFO Fetched page: 362 total IDs, 10 rendered details
 2026-10-01T02:20:01+0000 INFO 0 new offer(s) found
+2026-10-01T09:06:28+0000 INFO Fetched page: 368 total IDs, 10 rendered details
+2026-10-01T09:06:28+0000 INFO 15 new offer(s) found
+2026-10-01T09:06:28+0000 WARNING ID 22061 not in top-10 details (>10 new in one window?)
+2026-10-01T09:06:29+0000 INFO Telegram sent: 🏠 New offer (ID 22061) — details not rendered, see site:
+🔗 h
+2026-10-01T09:06:29+0000 WARNING ID 22063 not in top-10 details (>10 new in one window?)
+2026-10-01T09:06:29+0000 INFO Telegram sent: 🏠 New offer (ID 22063) — details not rendered, see site:
+🔗 h
+2026-10-01T09:06:29+0000 WARNING ID 22064 not in top-10 details (>10 new in one window?)
+2026-10-01T09:06:29+0000 INFO Telegram sent: 🏠 New offer (ID 22064) — details not rendered, see site:
+🔗 h
+2026-10-01T09:06:29+0000 WARNING ID 22065 not in top-10 details (>10 new in one window?)
+2026-10-01T09:06:30+0000 INFO Telegram sent: 🏠 New offer (ID 22065) — details not rendered, see site:
+🔗 h
+2026-10-01T09:06:30+0000 WARNING ID 22068 not in top-10 details (>10 new in one window?)
+2026-10-01T09:06:30+0000 INFO Telegram sent: 🏠 New offer (ID 22068) — details not rendered, see site:
+🔗 h
+2026-10-01T09:06:30+0000 INFO Skipped (district Spandau not in allowlist): ID 22069
+2026-10-01T09:06:30+0000 INFO Skipped (district Spandau not in allowlist): ID 22070
+2026-10-01T09:06:30+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 22071
+2026-10-01T09:06:30+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22072
+2026-10-01T09:06:30+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22073
+2026-10-01T09:06:30+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Dubliner Straße 7, 13349 
+2026-10-01T09:06:30+0000 INFO Notified: ID 22074 — Dubliner Straße 7, 13349 Mitte
+2026-10-01T09:06:31+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Dreysestraße 17, 10559 Mi
+2026-10-01T09:06:31+0000 INFO Notified: ID 22075 — Dreysestraße 17, 10559 Mitte
+2026-10-01T09:06:31+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 22076
+2026-10-01T09:06:31+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 22077
+2026-10-01T09:06:31+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22078
