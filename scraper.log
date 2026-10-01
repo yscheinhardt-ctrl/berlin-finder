@@ -16201,3 +16201,10 @@
 2026-10-01T16:22:44+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22115
 2026-10-01T16:22:44+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22116
 2026-10-01T16:22:44+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22117
+2026-10-01T21:08:59+0000 INFO Fetched page: 379 total IDs, 10 rendered details
+2026-10-01T21:08:59+0000 INFO 5 new offer(s) found
+2026-10-01T21:08:59+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22118
+2026-10-01T21:08:59+0000 INFO Skipped (district Spandau not in allowlist): ID 22119
+2026-10-01T21:08:59+0000 INFO Skipped (district Spandau not in allowlist): ID 22120
+2026-10-01T21:08:59+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22121
+2026-10-01T21:08:59+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22122
