@@ -16380,3 +16380,33 @@
 2026-10-02T12:50:26+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 22183
 2026-10-02T12:50:26+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 22184
 2026-10-02T12:50:26+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22185
+2026-10-02T18:04:43+0000 INFO Fetched page: 421 total IDs, 10 rendered details
+2026-10-02T18:04:43+0000 INFO 15 new offer(s) found
+2026-10-02T18:04:43+0000 WARNING ID 22186 not in top-10 details (>10 new in one window?)
+2026-10-02T18:04:43+0000 INFO Telegram sent: 🏠 New offer (ID 22186) — details not rendered, see site:
+🔗 h
+2026-10-02T18:04:43+0000 WARNING ID 22187 not in top-10 details (>10 new in one window?)
+2026-10-02T18:04:44+0000 INFO Telegram sent: 🏠 New offer (ID 22187) — details not rendered, see site:
+🔗 h
+2026-10-02T18:04:44+0000 WARNING ID 22188 not in top-10 details (>10 new in one window?)
+2026-10-02T18:04:44+0000 INFO Telegram sent: 🏠 New offer (ID 22188) — details not rendered, see site:
+🔗 h
+2026-10-02T18:04:44+0000 WARNING ID 22189 not in top-10 details (>10 new in one window?)
+2026-10-02T18:04:45+0000 INFO Telegram sent: 🏠 New offer (ID 22189) — details not rendered, see site:
+🔗 h
+2026-10-02T18:04:45+0000 WARNING ID 22190 not in top-10 details (>10 new in one window?)
+2026-10-02T18:04:45+0000 INFO Telegram sent: 🏠 New offer (ID 22190) — details not rendered, see site:
+🔗 h
+2026-10-02T18:04:45+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22192
+2026-10-02T18:04:45+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22193
+2026-10-02T18:04:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22194
+2026-10-02T18:04:45+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22196
+2026-10-02T18:04:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22197
+2026-10-02T18:04:45+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Potsdamer 
+2026-10-02T18:04:45+0000 INFO Notified: ID 22198 — Potsdamer Straße 130, 10783 Tempelhof-Schöneberg
+2026-10-02T18:04:45+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 22199
+2026-10-02T18:04:45+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 22200
+2026-10-02T18:04:45+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 22201
+2026-10-02T18:04:45+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 22202
