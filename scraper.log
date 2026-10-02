@@ -16410,3 +16410,5 @@
 2026-10-02T18:04:45+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 22200
 2026-10-02T18:04:45+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 22201
 2026-10-02T18:04:45+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 22202
+2026-10-02T22:08:14+0000 INFO Fetched page: 413 total IDs, 10 rendered details
+2026-10-02T22:08:14+0000 INFO 0 new offer(s) found
