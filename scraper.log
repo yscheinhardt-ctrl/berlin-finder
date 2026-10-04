@@ -16442,3 +16442,66 @@
 2026-10-04T20:00:51+0000 INFO Fetched page: 390 total IDs, 10 rendered details
 2026-10-04T20:00:51+0000 INFO 1 new offer(s) found
 2026-10-04T20:00:51+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22251
+2026-10-04T23:00:01+0000 INFO Fetched page: 410 total IDs, 10 rendered details
+2026-10-04T23:00:01+0000 INFO 22 new offer(s) found
+2026-10-04T23:00:01+0000 WARNING ID 22258 not in top-10 details (>10 new in one window?)
+2026-10-04T23:00:02+0000 INFO Telegram sent: 🏠 New offer (ID 22258) — details not rendered, see site:
+🔗 h
+2026-10-04T23:00:02+0000 WARNING ID 22259 not in top-10 details (>10 new in one window?)
+2026-10-04T23:00:03+0000 INFO Telegram sent: 🏠 New offer (ID 22259) — details not rendered, see site:
+🔗 h
+2026-10-04T23:00:03+0000 WARNING ID 22260 not in top-10 details (>10 new in one window?)
+2026-10-04T23:00:03+0000 INFO Telegram sent: 🏠 New offer (ID 22260) — details not rendered, see site:
+🔗 h
+2026-10-04T23:00:03+0000 WARNING ID 22261 not in top-10 details (>10 new in one window?)
+2026-10-04T23:00:04+0000 INFO Telegram sent: 🏠 New offer (ID 22261) — details not rendered, see site:
+🔗 h
+2026-10-04T23:00:04+0000 WARNING ID 22263 not in top-10 details (>10 new in one window?)
+2026-10-04T23:00:04+0000 INFO Telegram sent: 🏠 New offer (ID 22263) — details not rendered, see site:
+🔗 h
+2026-10-04T23:00:04+0000 WARNING ID 22264 not in top-10 details (>10 new in one window?)
+2026-10-04T23:00:05+0000 INFO Telegram sent: 🏠 New offer (ID 22264) — details not rendered, see site:
+🔗 h
+2026-10-04T23:00:05+0000 WARNING ID 22267 not in top-10 details (>10 new in one window?)
+2026-10-04T23:00:05+0000 INFO Telegram sent: 🏠 New offer (ID 22267) — details not rendered, see site:
+🔗 h
+2026-10-04T23:00:05+0000 WARNING ID 22272 not in top-10 details (>10 new in one window?)
+2026-10-04T23:00:06+0000 INFO Telegram sent: 🏠 New offer (ID 22272) — details not rendered, see site:
+🔗 h
+2026-10-04T23:00:06+0000 WARNING ID 22274 not in top-10 details (>10 new in one window?)
+2026-10-04T23:00:06+0000 INFO Telegram sent: 🏠 New offer (ID 22274) — details not rendered, see site:
+🔗 h
+2026-10-04T23:00:06+0000 WARNING ID 22280 not in top-10 details (>10 new in one window?)
+2026-10-04T23:00:07+0000 INFO Telegram sent: 🏠 New offer (ID 22280) — details not rendered, see site:
+🔗 h
+2026-10-04T23:00:07+0000 WARNING ID 22285 not in top-10 details (>10 new in one window?)
+2026-10-04T23:00:07+0000 INFO Telegram sent: 🏠 New offer (ID 22285) — details not rendered, see site:
+🔗 h
+2026-10-04T23:00:07+0000 WARNING ID 22286 not in top-10 details (>10 new in one window?)
+2026-10-04T23:00:08+0000 INFO Telegram sent: 🏠 New offer (ID 22286) — details not rendered, see site:
+🔗 h
+2026-10-04T23:00:08+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 105, 10
+2026-10-04T23:00:08+0000 INFO Notified: ID 22288 — Köpenicker Straße 105, 10179 Mitte
+2026-10-04T23:00:09+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 105A, 1
+2026-10-04T23:00:09+0000 INFO Notified: ID 22289 — Köpenicker Straße 105A, 10179 Mitte
+2026-10-04T23:00:09+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Colbes
+2026-10-04T23:00:09+0000 INFO Notified: ID 22290 — Colbestraße 5, 10247 Friedrichshain-Kreuzberg
+2026-10-04T23:00:10+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Straus
+2026-10-04T23:00:10+0000 INFO Notified: ID 22292 — Strausberger Straße 37, 10243 Friedrichshain-Kreuzberg
+2026-10-04T23:00:10+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 105A, 1
+2026-10-04T23:00:10+0000 INFO Notified: ID 22293 — Köpenicker Straße 105A, 10179 Mitte
+2026-10-04T23:00:10+0000 INFO Skipped (district Spandau not in allowlist): ID 22295
+2026-10-04T23:00:10+0000 INFO Skipped (district Spandau not in allowlist): ID 22296
+2026-10-04T23:00:10+0000 INFO Skipped (district Spandau not in allowlist): ID 22297
+2026-10-04T23:00:10+0000 INFO Skipped (district Spandau not in allowlist): ID 22298
+2026-10-04T23:00:10+0000 INFO Skipped (district Spandau not in allowlist): ID 22299
