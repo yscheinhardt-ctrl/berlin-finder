@@ -16507,3 +16507,18 @@
 2026-10-04T23:00:10+0000 INFO Skipped (district Spandau not in allowlist): ID 22299
 2026-10-05T01:48:38+0000 INFO Fetched page: 410 total IDs, 10 rendered details
 2026-10-05T01:48:38+0000 INFO 0 new offer(s) found
+2026-10-05T07:43:54+0000 INFO Fetched page: 393 total IDs, 10 rendered details
+2026-10-05T07:43:54+0000 INFO 7 new offer(s) found
+2026-10-05T07:43:54+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 22301
+2026-10-05T07:43:54+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22302
+2026-10-05T07:43:54+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Fritz-Erler-Allee 38, 
+2026-10-05T07:43:54+0000 INFO Notified: ID 22303 — Fritz-Erler-Allee 38, 12351 Neukölln
+2026-10-05T07:43:54+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22304
+2026-10-05T07:43:54+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22305
+2026-10-05T07:43:54+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Totilastra
+2026-10-05T07:43:54+0000 INFO Notified: ID 22306 — Totilastraße 24, 12103 Tempelhof-Schöneberg
+2026-10-05T07:43:54+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22307
