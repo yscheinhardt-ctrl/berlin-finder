@@ -16639,3 +16639,19 @@
 2026-10-05T16:25:04+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22348
 2026-10-05T16:25:04+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22349
 2026-10-05T16:25:04+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 22350
+2026-10-05T22:49:19+0000 INFO Fetched page: 390 total IDs, 10 rendered details
+2026-10-05T22:49:19+0000 INFO 5 new offer(s) found
+2026-10-05T22:49:19+0000 INFO Skipped (district Spandau not in allowlist): ID 22405
+2026-10-05T22:49:19+0000 INFO Skipped (district Spandau not in allowlist): ID 22406
+2026-10-05T22:49:19+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 105, 10
+2026-10-05T22:49:19+0000 INFO Notified: ID 22407 — Köpenicker Straße 105, 10179 Mitte
+2026-10-05T22:49:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 105A, 1
+2026-10-05T22:49:20+0000 INFO Notified: ID 22408 — Köpenicker Straße 105A, 10179 Mitte
+2026-10-05T22:49:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Colbes
+2026-10-05T22:49:20+0000 INFO Notified: ID 22409 — Colbestraße 7, 10247 Friedrichshain-Kreuzberg
