@@ -16688,3 +16688,39 @@
 
 📍 Mainze
 2026-10-06T02:32:43+0000 INFO Notified: ID 22444 — Mainzer Straße 25, 10247 Friedrichshain-Kreuzberg
+2026-10-06T09:21:56+0000 INFO Fetched page: 377 total IDs, 10 rendered details
+2026-10-06T09:21:56+0000 INFO 15 new offer(s) found
+2026-10-06T09:21:56+0000 WARNING ID 22449 not in top-10 details (>10 new in one window?)
+2026-10-06T09:21:56+0000 INFO Telegram sent: 🏠 New offer (ID 22449) — details not rendered, see site:
+🔗 h
+2026-10-06T09:21:56+0000 WARNING ID 22453 not in top-10 details (>10 new in one window?)
+2026-10-06T09:21:56+0000 INFO Telegram sent: 🏠 New offer (ID 22453) — details not rendered, see site:
+🔗 h
+2026-10-06T09:21:56+0000 WARNING ID 22454 not in top-10 details (>10 new in one window?)
+2026-10-06T09:21:57+0000 INFO Telegram sent: 🏠 New offer (ID 22454) — details not rendered, see site:
+🔗 h
+2026-10-06T09:21:57+0000 WARNING ID 22456 not in top-10 details (>10 new in one window?)
+2026-10-06T09:21:57+0000 INFO Telegram sent: 🏠 New offer (ID 22456) — details not rendered, see site:
+🔗 h
+2026-10-06T09:21:57+0000 WARNING ID 22457 not in top-10 details (>10 new in one window?)
+2026-10-06T09:21:58+0000 INFO Telegram sent: 🏠 New offer (ID 22457) — details not rendered, see site:
+🔗 h
+2026-10-06T09:21:58+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 John-Locke
+2026-10-06T09:21:58+0000 INFO Notified: ID 22463 — John-Locke-Straße 2, 12305 Tempelhof-Schöneberg
+2026-10-06T09:21:58+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22464
+2026-10-06T09:21:58+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22465
+2026-10-06T09:21:58+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22466
+2026-10-06T09:21:59+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Ahrensdorf
+2026-10-06T09:21:59+0000 INFO Notified: ID 22467 — Ahrensdorfer Straße 23, 12279 Tempelhof-Schöneberg
+2026-10-06T09:21:59+0000 INFO Skipped (district Pankow not in allowlist): ID 22468
+2026-10-06T09:21:59+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Dröpkeweg 9, 12353 Neu
+2026-10-06T09:21:59+0000 INFO Notified: ID 22469 — Dröpkeweg 9, 12353 Neukölln
+2026-10-06T09:21:59+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22470
+2026-10-06T09:21:59+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 22471
+2026-10-06T09:21:59+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 22472
