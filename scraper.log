@@ -16655,3 +16655,36 @@
 
 📍 Colbes
 2026-10-05T22:49:20+0000 INFO Notified: ID 22409 — Colbestraße 7, 10247 Friedrichshain-Kreuzberg
+2026-10-06T02:32:40+0000 INFO Fetched page: 385 total IDs, 10 rendered details
+2026-10-06T02:32:40+0000 INFO 13 new offer(s) found
+2026-10-06T02:32:40+0000 WARNING ID 22419 not in top-10 details (>10 new in one window?)
+2026-10-06T02:32:40+0000 INFO Telegram sent: 🏠 New offer (ID 22419) — details not rendered, see site:
+🔗 h
+2026-10-06T02:32:40+0000 WARNING ID 22420 not in top-10 details (>10 new in one window?)
+2026-10-06T02:32:41+0000 INFO Telegram sent: 🏠 New offer (ID 22420) — details not rendered, see site:
+🔗 h
+2026-10-06T02:32:41+0000 INFO Skipped (district Spandau not in allowlist): ID 22421
+2026-10-06T02:32:41+0000 WARNING ID 22422 not in top-10 details (>10 new in one window?)
+2026-10-06T02:32:41+0000 INFO Telegram sent: 🏠 New offer (ID 22422) — details not rendered, see site:
+🔗 h
+2026-10-06T02:32:41+0000 INFO Skipped (district Spandau not in allowlist): ID 22425
+2026-10-06T02:32:41+0000 INFO Skipped (district Pankow not in allowlist): ID 22429
+2026-10-06T02:32:41+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Friede
+2026-10-06T02:32:41+0000 INFO Notified: ID 22432 — Friedenstraße 87, 10249 Friedrichshain-Kreuzberg
+2026-10-06T02:32:41+0000 INFO Skipped (district Spandau not in allowlist): ID 22435
+2026-10-06T02:32:41+0000 INFO Skipped (district Spandau not in allowlist): ID 22436
+2026-10-06T02:32:42+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Krauts
+2026-10-06T02:32:42+0000 INFO Notified: ID 22439 — Krautstraße 7, 10243 Friedrichshain-Kreuzberg
+2026-10-06T02:32:42+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Scharn
+2026-10-06T02:32:42+0000 INFO Notified: ID 22442 — Scharnweberstraße 36, 10247 Friedrichshain-Kreuzberg
+2026-10-06T02:32:42+0000 INFO Skipped (district Spandau not in allowlist): ID 22443
+2026-10-06T02:32:43+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Mainze
+2026-10-06T02:32:43+0000 INFO Notified: ID 22444 — Mainzer Straße 25, 10247 Friedrichshain-Kreuzberg
