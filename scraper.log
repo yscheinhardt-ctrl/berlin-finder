@@ -16916,3 +16916,5 @@
 2026-10-06T20:55:18+0000 INFO Fetched page: 420 total IDs, 10 rendered details
 2026-10-06T20:55:18+0000 INFO 1 new offer(s) found
 2026-10-06T20:55:18+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22551
+2026-10-07T00:22:07+0000 INFO Fetched page: 418 total IDs, 10 rendered details
+2026-10-07T00:22:07+0000 INFO 0 new offer(s) found
