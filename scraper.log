@@ -17033,3 +17033,36 @@
 2026-10-07T13:31:01+0000 INFO Notified: ID 22599 — Schlangenbader Straße 25, 14197 Charlottenburg-Wilmersdorf
 2026-10-07T13:31:01+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 22600
 2026-10-07T13:31:01+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22601
+2026-10-07T19:28:39+0000 INFO Fetched page: 435 total IDs, 10 rendered details
+2026-10-07T19:28:39+0000 INFO 17 new offer(s) found
+2026-10-07T19:28:39+0000 WARNING ID 22602 not in top-10 details (>10 new in one window?)
+2026-10-07T19:28:39+0000 INFO Telegram sent: 🏠 New offer (ID 22602) — details not rendered, see site:
+🔗 h
+2026-10-07T19:28:39+0000 WARNING ID 22604 not in top-10 details (>10 new in one window?)
+2026-10-07T19:28:40+0000 INFO Telegram sent: 🏠 New offer (ID 22604) — details not rendered, see site:
+🔗 h
+2026-10-07T19:28:40+0000 WARNING ID 22607 not in top-10 details (>10 new in one window?)
+2026-10-07T19:28:40+0000 INFO Telegram sent: 🏠 New offer (ID 22607) — details not rendered, see site:
+🔗 h
+2026-10-07T19:28:40+0000 WARNING ID 22608 not in top-10 details (>10 new in one window?)
+2026-10-07T19:28:41+0000 INFO Telegram sent: 🏠 New offer (ID 22608) — details not rendered, see site:
+🔗 h
+2026-10-07T19:28:41+0000 WARNING ID 22609 not in top-10 details (>10 new in one window?)
+2026-10-07T19:28:41+0000 INFO Telegram sent: 🏠 New offer (ID 22609) — details not rendered, see site:
+🔗 h
+2026-10-07T19:28:41+0000 WARNING ID 22610 not in top-10 details (>10 new in one window?)
+2026-10-07T19:28:42+0000 INFO Telegram sent: 🏠 New offer (ID 22610) — details not rendered, see site:
+🔗 h
+2026-10-07T19:28:42+0000 WARNING ID 22611 not in top-10 details (>10 new in one window?)
+2026-10-07T19:28:42+0000 INFO Telegram sent: 🏠 New offer (ID 22611) — details not rendered, see site:
+🔗 h
+2026-10-07T19:28:42+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 22612
+2026-10-07T19:28:42+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 22613
+2026-10-07T19:28:42+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 22614
+2026-10-07T19:28:42+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 22615
+2026-10-07T19:28:42+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22616
+2026-10-07T19:28:42+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 22617
+2026-10-07T19:28:42+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22618
+2026-10-07T19:28:42+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22619
+2026-10-07T19:28:42+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22620
+2026-10-07T19:28:42+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22621
