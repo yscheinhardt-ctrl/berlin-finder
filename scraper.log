@@ -17322,3 +17322,6 @@
 2026-10-08T17:27:54+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 22717
 2026-10-08T17:27:54+0000 INFO Skipped (district Pankow not in allowlist): ID 22718
 2026-10-08T17:27:54+0000 INFO Skipped (district Spandau not in allowlist): ID 22719
+2026-10-08T22:19:22+0000 INFO Fetched page: 467 total IDs, 10 rendered details
+2026-10-08T22:19:22+0000 INFO 1 new offer(s) found
+2026-10-08T22:19:22+0000 INFO Skipped (district Pankow not in allowlist): ID 22720
