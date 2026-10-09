@@ -17327,3 +17327,51 @@
 2026-10-08T22:19:22+0000 INFO Skipped (district Pankow not in allowlist): ID 22720
 2026-10-09T02:17:59+0000 INFO Fetched page: 467 total IDs, 10 rendered details
 2026-10-09T02:17:59+0000 INFO 0 new offer(s) found
+2026-10-09T09:16:20+0000 INFO Fetched page: 465 total IDs, 10 rendered details
+2026-10-09T09:16:20+0000 INFO 18 new offer(s) found
+2026-10-09T09:16:20+0000 WARNING ID 22721 not in top-10 details (>10 new in one window?)
+2026-10-09T09:16:21+0000 INFO Telegram sent: 🏠 New offer (ID 22721) — details not rendered, see site:
+🔗 h
+2026-10-09T09:16:21+0000 WARNING ID 22722 not in top-10 details (>10 new in one window?)
+2026-10-09T09:16:21+0000 INFO Telegram sent: 🏠 New offer (ID 22722) — details not rendered, see site:
+🔗 h
+2026-10-09T09:16:21+0000 WARNING ID 22723 not in top-10 details (>10 new in one window?)
+2026-10-09T09:16:21+0000 INFO Telegram sent: 🏠 New offer (ID 22723) — details not rendered, see site:
+🔗 h
+2026-10-09T09:16:21+0000 WARNING ID 22724 not in top-10 details (>10 new in one window?)
+2026-10-09T09:16:22+0000 INFO Telegram sent: 🏠 New offer (ID 22724) — details not rendered, see site:
+🔗 h
+2026-10-09T09:16:22+0000 WARNING ID 22725 not in top-10 details (>10 new in one window?)
+2026-10-09T09:16:22+0000 INFO Telegram sent: 🏠 New offer (ID 22725) — details not rendered, see site:
+🔗 h
+2026-10-09T09:16:22+0000 WARNING ID 22726 not in top-10 details (>10 new in one window?)
+2026-10-09T09:16:22+0000 INFO Telegram sent: 🏠 New offer (ID 22726) — details not rendered, see site:
+🔗 h
+2026-10-09T09:16:22+0000 WARNING ID 22727 not in top-10 details (>10 new in one window?)
+2026-10-09T09:16:23+0000 INFO Telegram sent: 🏠 New offer (ID 22727) — details not rendered, see site:
+🔗 h
+2026-10-09T09:16:23+0000 WARNING ID 22728 not in top-10 details (>10 new in one window?)
+2026-10-09T09:16:23+0000 INFO Telegram sent: 🏠 New offer (ID 22728) — details not rendered, see site:
+🔗 h
+2026-10-09T09:16:23+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 22729
+2026-10-09T09:16:23+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 22730
+2026-10-09T09:16:23+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Bülowstraß
+2026-10-09T09:16:23+0000 INFO Notified: ID 22731 — Bülowstraße 94, 10783 Tempelhof-Schöneberg
+2026-10-09T09:16:23+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 22732
+2026-10-09T09:16:23+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 22733
+2026-10-09T09:16:24+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Brunnenstraße 56, 13355 M
+2026-10-09T09:16:24+0000 INFO Notified: ID 22734 — Brunnenstraße 56, 13355 Mitte
+2026-10-09T09:16:24+0000 INFO Skipped (district Spandau not in allowlist): ID 22735
+2026-10-09T09:16:25+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Heinrich-Schlusnus-Str
+2026-10-09T09:16:25+0000 INFO Notified: ID 22736 — Heinrich-Schlusnus-Straße 12, 12057 Neukölln
+2026-10-09T09:16:25+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Heinrich-Schlusnus-Str
+2026-10-09T09:16:25+0000 INFO Notified: ID 22737 — Heinrich-Schlusnus-Straße 8, 12057 Neukölln
+2026-10-09T09:16:25+0000 INFO Skipped (district Spandau not in allowlist): ID 22738
