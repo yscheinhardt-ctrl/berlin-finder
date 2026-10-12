@@ -17441,3 +17441,42 @@
 2026-10-11T23:11:12+0000 INFO 0 new offer(s) found
 2026-10-12T02:24:34+0000 INFO Fetched page: 438 total IDs, 10 rendered details
 2026-10-12T02:24:34+0000 INFO 0 new offer(s) found
+2026-10-12T09:33:33+0000 INFO Fetched page: 442 total IDs, 10 rendered details
+2026-10-12T09:33:33+0000 INFO 18 new offer(s) found
+2026-10-12T09:33:33+0000 WARNING ID 22775 not in top-10 details (>10 new in one window?)
+2026-10-12T09:33:34+0000 INFO Telegram sent: 🏠 New offer (ID 22775) — details not rendered, see site:
+🔗 h
+2026-10-12T09:33:34+0000 WARNING ID 22776 not in top-10 details (>10 new in one window?)
+2026-10-12T09:33:34+0000 INFO Telegram sent: 🏠 New offer (ID 22776) — details not rendered, see site:
+🔗 h
+2026-10-12T09:33:34+0000 WARNING ID 22777 not in top-10 details (>10 new in one window?)
+2026-10-12T09:33:35+0000 INFO Telegram sent: 🏠 New offer (ID 22777) — details not rendered, see site:
+🔗 h
+2026-10-12T09:33:35+0000 WARNING ID 22778 not in top-10 details (>10 new in one window?)
+2026-10-12T09:33:35+0000 INFO Telegram sent: 🏠 New offer (ID 22778) — details not rendered, see site:
+🔗 h
+2026-10-12T09:33:35+0000 WARNING ID 22779 not in top-10 details (>10 new in one window?)
+2026-10-12T09:33:35+0000 INFO Telegram sent: 🏠 New offer (ID 22779) — details not rendered, see site:
+🔗 h
+2026-10-12T09:33:35+0000 WARNING ID 22780 not in top-10 details (>10 new in one window?)
+2026-10-12T09:33:36+0000 INFO Telegram sent: 🏠 New offer (ID 22780) — details not rendered, see site:
+🔗 h
+2026-10-12T09:33:36+0000 WARNING ID 22781 not in top-10 details (>10 new in one window?)
+2026-10-12T09:33:36+0000 INFO Telegram sent: 🏠 New offer (ID 22781) — details not rendered, see site:
+🔗 h
+2026-10-12T09:33:36+0000 WARNING ID 22782 not in top-10 details (>10 new in one window?)
+2026-10-12T09:33:37+0000 INFO Telegram sent: 🏠 New offer (ID 22782) — details not rendered, see site:
+🔗 h
+2026-10-12T09:33:37+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 22783
+2026-10-12T09:33:37+0000 INFO Skipped (district Pankow not in allowlist): ID 22784
+2026-10-12T09:33:37+0000 INFO Skipped (district Pankow not in allowlist): ID 22785
+2026-10-12T09:33:37+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22786
+2026-10-12T09:33:37+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22787
+2026-10-12T09:33:37+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22788
+2026-10-12T09:33:37+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22789
+2026-10-12T09:33:37+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22790
+2026-10-12T09:33:37+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22791
+2026-10-12T09:33:37+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Heinrich-Schlusnus-Str
+2026-10-12T09:33:37+0000 INFO Notified: ID 22792 — Heinrich-Schlusnus-Straße 12, 12057 Neukölln
