@@ -17551,3 +17551,33 @@
 2026-10-12T19:16:52+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22830
 2026-10-13T01:25:25+0000 INFO Fetched page: 442 total IDs, 10 rendered details
 2026-10-13T01:25:25+0000 INFO 0 new offer(s) found
+2026-10-13T08:07:42+0000 INFO Fetched page: 447 total IDs, 10 rendered details
+2026-10-13T08:07:42+0000 INFO 16 new offer(s) found
+2026-10-13T08:07:42+0000 WARNING ID 22831 not in top-10 details (>10 new in one window?)
+2026-10-13T08:07:42+0000 INFO Telegram sent: 🏠 New offer (ID 22831) — details not rendered, see site:
+🔗 h
+2026-10-13T08:07:42+0000 WARNING ID 22832 not in top-10 details (>10 new in one window?)
+2026-10-13T08:07:43+0000 INFO Telegram sent: 🏠 New offer (ID 22832) — details not rendered, see site:
+🔗 h
+2026-10-13T08:07:43+0000 WARNING ID 22833 not in top-10 details (>10 new in one window?)
+2026-10-13T08:07:43+0000 INFO Telegram sent: 🏠 New offer (ID 22833) — details not rendered, see site:
+🔗 h
+2026-10-13T08:07:43+0000 WARNING ID 22834 not in top-10 details (>10 new in one window?)
+2026-10-13T08:07:44+0000 INFO Telegram sent: 🏠 New offer (ID 22834) — details not rendered, see site:
+🔗 h
+2026-10-13T08:07:44+0000 WARNING ID 22835 not in top-10 details (>10 new in one window?)
+2026-10-13T08:07:44+0000 INFO Telegram sent: 🏠 New offer (ID 22835) — details not rendered, see site:
+🔗 h
+2026-10-13T08:07:44+0000 WARNING ID 22836 not in top-10 details (>10 new in one window?)
+2026-10-13T08:07:44+0000 INFO Telegram sent: 🏠 New offer (ID 22836) — details not rendered, see site:
+🔗 h
+2026-10-13T08:07:44+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22837
+2026-10-13T08:07:44+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22838
+2026-10-13T08:07:44+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22839
+2026-10-13T08:07:44+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22840
+2026-10-13T08:07:44+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22841
+2026-10-13T08:07:44+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22842
+2026-10-13T08:07:44+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22843
+2026-10-13T08:07:44+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22844
+2026-10-13T08:07:44+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22845
+2026-10-13T08:07:44+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22846
