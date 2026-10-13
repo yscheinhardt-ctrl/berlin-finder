@@ -17653,3 +17653,17 @@
 
 📍 Klau
 2026-10-13T15:54:54+0000 INFO Notified: ID 22887 — Klausingring 23, 13627 Charlottenburg-Wilmersdorf
+2026-10-13T20:58:08+0000 INFO Fetched page: 456 total IDs, 10 rendered details
+2026-10-13T20:58:08+0000 INFO 6 new offer(s) found
+2026-10-13T20:58:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22888
+2026-10-13T20:58:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22889
+2026-10-13T20:58:08+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22890
+2026-10-13T20:58:08+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Krauts
+2026-10-13T20:58:08+0000 INFO Notified: ID 22892 — Krautstraße 27, 10243 Friedrichshain-Kreuzberg
+2026-10-13T20:58:09+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Krauts
+2026-10-13T20:58:09+0000 INFO Notified: ID 22893 — Krautstraße 28, 10243 Friedrichshain-Kreuzberg
+2026-10-13T20:58:09+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22896
