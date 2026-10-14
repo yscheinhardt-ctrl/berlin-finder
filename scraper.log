@@ -17671,3 +17671,69 @@
 2026-10-14T00:13:15+0000 INFO 0 new offer(s) found
 2026-10-14T04:58:11+0000 INFO Fetched page: 455 total IDs, 10 rendered details
 2026-10-14T04:58:11+0000 INFO 0 new offer(s) found
+2026-10-14T10:00:43+0000 INFO Fetched page: 469 total IDs, 10 rendered details
+2026-10-14T10:00:43+0000 INFO 27 new offer(s) found
+2026-10-14T10:00:43+0000 WARNING ID 22897 not in top-10 details (>10 new in one window?)
+2026-10-14T10:00:43+0000 INFO Telegram sent: 🏠 New offer (ID 22897) — details not rendered, see site:
+🔗 h
+2026-10-14T10:00:43+0000 WARNING ID 22899 not in top-10 details (>10 new in one window?)
+2026-10-14T10:00:44+0000 INFO Telegram sent: 🏠 New offer (ID 22899) — details not rendered, see site:
+🔗 h
+2026-10-14T10:00:44+0000 WARNING ID 22900 not in top-10 details (>10 new in one window?)
+2026-10-14T10:00:44+0000 INFO Telegram sent: 🏠 New offer (ID 22900) — details not rendered, see site:
+🔗 h
+2026-10-14T10:00:44+0000 WARNING ID 22901 not in top-10 details (>10 new in one window?)
+2026-10-14T10:00:45+0000 INFO Telegram sent: 🏠 New offer (ID 22901) — details not rendered, see site:
+🔗 h
+2026-10-14T10:00:45+0000 WARNING ID 22903 not in top-10 details (>10 new in one window?)
+2026-10-14T10:00:45+0000 INFO Telegram sent: 🏠 New offer (ID 22903) — details not rendered, see site:
+🔗 h
+2026-10-14T10:00:45+0000 WARNING ID 22904 not in top-10 details (>10 new in one window?)
+2026-10-14T10:00:45+0000 INFO Telegram sent: 🏠 New offer (ID 22904) — details not rendered, see site:
+🔗 h
+2026-10-14T10:00:45+0000 WARNING ID 22905 not in top-10 details (>10 new in one window?)
+2026-10-14T10:00:46+0000 INFO Telegram sent: 🏠 New offer (ID 22905) — details not rendered, see site:
+🔗 h
+2026-10-14T10:00:46+0000 WARNING ID 22906 not in top-10 details (>10 new in one window?)
+2026-10-14T10:00:46+0000 INFO Telegram sent: 🏠 New offer (ID 22906) — details not rendered, see site:
+🔗 h
+2026-10-14T10:00:46+0000 WARNING ID 22907 not in top-10 details (>10 new in one window?)
+2026-10-14T10:00:47+0000 INFO Telegram sent: 🏠 New offer (ID 22907) — details not rendered, see site:
+🔗 h
+2026-10-14T10:00:47+0000 WARNING ID 22908 not in top-10 details (>10 new in one window?)
+2026-10-14T10:00:47+0000 INFO Telegram sent: 🏠 New offer (ID 22908) — details not rendered, see site:
+🔗 h
+2026-10-14T10:00:47+0000 WARNING ID 22909 not in top-10 details (>10 new in one window?)
+2026-10-14T10:00:48+0000 INFO Telegram sent: 🏠 New offer (ID 22909) — details not rendered, see site:
+🔗 h
+2026-10-14T10:00:48+0000 WARNING ID 22910 not in top-10 details (>10 new in one window?)
+2026-10-14T10:00:48+0000 INFO Telegram sent: 🏠 New offer (ID 22910) — details not rendered, see site:
+🔗 h
+2026-10-14T10:00:48+0000 WARNING ID 22911 not in top-10 details (>10 new in one window?)
+2026-10-14T10:00:48+0000 INFO Telegram sent: 🏠 New offer (ID 22911) — details not rendered, see site:
+🔗 h
+2026-10-14T10:00:48+0000 WARNING ID 22912 not in top-10 details (>10 new in one window?)
+2026-10-14T10:00:49+0000 INFO Telegram sent: 🏠 New offer (ID 22912) — details not rendered, see site:
+🔗 h
+2026-10-14T10:00:49+0000 WARNING ID 22913 not in top-10 details (>10 new in one window?)
+2026-10-14T10:00:49+0000 INFO Telegram sent: 🏠 New offer (ID 22913) — details not rendered, see site:
+🔗 h
+2026-10-14T10:00:49+0000 WARNING ID 22914 not in top-10 details (>10 new in one window?)
+2026-10-14T10:00:50+0000 INFO Telegram sent: 🏠 New offer (ID 22914) — details not rendered, see site:
+🔗 h
+2026-10-14T10:00:50+0000 WARNING ID 22915 not in top-10 details (>10 new in one window?)
+2026-10-14T10:00:50+0000 INFO Telegram sent: 🏠 New offer (ID 22915) — details not rendered, see site:
+🔗 h
+2026-10-14T10:00:50+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Bornhagenw
+2026-10-14T10:00:50+0000 INFO Notified: ID 22916 — Bornhagenweg 43, 12309 Tempelhof-Schöneberg
+2026-10-14T10:00:50+0000 INFO Skipped (district Spandau not in allowlist): ID 22917
+2026-10-14T10:00:50+0000 INFO Skipped (district Spandau not in allowlist): ID 22918
+2026-10-14T10:00:50+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22919
+2026-10-14T10:00:50+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22920
+2026-10-14T10:00:50+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22921
+2026-10-14T10:00:50+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 22922
+2026-10-14T10:00:50+0000 INFO Skipped (district Spandau not in allowlist): ID 22923
+2026-10-14T10:00:50+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 22924
+2026-10-14T10:00:50+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 22925
