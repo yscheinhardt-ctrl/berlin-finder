@@ -17809,3 +17809,13 @@
 📍 Weisba
 2026-10-14T15:00:23+0000 INFO Notified: ID 22963 — Weisbachstraße 1, 10249 Friedrichshain-Kreuzberg
 2026-10-14T15:00:23+0000 INFO Skipped (district Spandau not in allowlist): ID 22964
+2026-10-14T19:16:09+0000 INFO Fetched page: 474 total IDs, 10 rendered details
+2026-10-14T19:16:09+0000 INFO 5 new offer(s) found
+2026-10-14T19:16:09+0000 INFO Skipped (district Spandau not in allowlist): ID 22965
+2026-10-14T19:16:09+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Bremer Straße 11, 10551 M
+2026-10-14T19:16:09+0000 INFO Notified: ID 22966 — Bremer Straße 11, 10551 Mitte
+2026-10-14T19:16:09+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22967
+2026-10-14T19:16:09+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22968
+2026-10-14T19:16:09+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22969
