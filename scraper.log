@@ -17837,3 +17837,39 @@
 2026-10-15T09:55:17+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22978
 2026-10-15T09:55:17+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22979
 2026-10-15T09:55:17+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22980
+2026-10-15T14:40:18+0000 INFO Fetched page: 461 total IDs, 10 rendered details
+2026-10-15T14:40:18+0000 INFO 15 new offer(s) found
+2026-10-15T14:40:18+0000 WARNING ID 22981 not in top-10 details (>10 new in one window?)
+2026-10-15T14:40:18+0000 INFO Telegram sent: 🏠 New offer (ID 22981) — details not rendered, see site:
+🔗 h
+2026-10-15T14:40:18+0000 WARNING ID 22982 not in top-10 details (>10 new in one window?)
+2026-10-15T14:40:19+0000 INFO Telegram sent: 🏠 New offer (ID 22982) — details not rendered, see site:
+🔗 h
+2026-10-15T14:40:19+0000 WARNING ID 22983 not in top-10 details (>10 new in one window?)
+2026-10-15T14:40:19+0000 INFO Telegram sent: 🏠 New offer (ID 22983) — details not rendered, see site:
+🔗 h
+2026-10-15T14:40:19+0000 WARNING ID 22984 not in top-10 details (>10 new in one window?)
+2026-10-15T14:40:20+0000 INFO Telegram sent: 🏠 New offer (ID 22984) — details not rendered, see site:
+🔗 h
+2026-10-15T14:40:20+0000 WARNING ID 22985 not in top-10 details (>10 new in one window?)
+2026-10-15T14:40:20+0000 INFO Telegram sent: 🏠 New offer (ID 22985) — details not rendered, see site:
+🔗 h
+2026-10-15T14:40:20+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 22986
+2026-10-15T14:40:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22987
+2026-10-15T14:40:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22988
+2026-10-15T14:40:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22989
+2026-10-15T14:40:20+0000 INFO Skipped (district Spandau not in allowlist): ID 22990
+2026-10-15T14:40:20+0000 INFO Skipped (district Spandau not in allowlist): ID 22991
+2026-10-15T14:40:21+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Lichtburgring 5, 13355 Mi
+2026-10-15T14:40:21+0000 INFO Notified: ID 22992 — Lichtburgring 5, 13355 Mitte
+2026-10-15T14:40:21+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Reic
+2026-10-15T14:40:21+0000 INFO Notified: ID 22993 — Reichweindamm 31, 13627 Charlottenburg-Wilmersdorf
+2026-10-15T14:40:22+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Dora-Mendler-Straße 14
+2026-10-15T14:40:22+0000 INFO Notified: ID 22994 — Dora-Mendler-Straße 14, 12355 Neukölln
+2026-10-15T14:40:22+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 22995
