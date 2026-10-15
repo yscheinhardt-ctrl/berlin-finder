@@ -17825,3 +17825,15 @@
 2026-10-15T00:38:13+0000 INFO 0 new offer(s) found
 2026-10-15T05:11:17+0000 INFO Fetched page: 470 total IDs, 10 rendered details
 2026-10-15T05:11:17+0000 INFO 0 new offer(s) found
+2026-10-15T09:55:17+0000 INFO Fetched page: 463 total IDs, 10 rendered details
+2026-10-15T09:55:17+0000 INFO 10 new offer(s) found
+2026-10-15T09:55:17+0000 INFO Skipped (district Spandau not in allowlist): ID 22970
+2026-10-15T09:55:17+0000 INFO Skipped (district Pankow not in allowlist): ID 22972
+2026-10-15T09:55:17+0000 INFO Skipped (district Pankow not in allowlist): ID 22973
+2026-10-15T09:55:17+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22974
+2026-10-15T09:55:17+0000 INFO Skipped (district Pankow not in allowlist): ID 22975
+2026-10-15T09:55:17+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22976
+2026-10-15T09:55:17+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22977
+2026-10-15T09:55:17+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22978
+2026-10-15T09:55:17+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22979
+2026-10-15T09:55:17+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 22980
