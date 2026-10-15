@@ -17873,3 +17873,13 @@
 📍 Dora-Mendler-Straße 14
 2026-10-15T14:40:22+0000 INFO Notified: ID 22994 — Dora-Mendler-Straße 14, 12355 Neukölln
 2026-10-15T14:40:22+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 22995
+2026-10-15T18:39:48+0000 INFO Fetched page: 464 total IDs, 10 rendered details
+2026-10-15T18:39:48+0000 INFO 8 new offer(s) found
+2026-10-15T18:39:48+0000 INFO Skipped (district Spandau not in allowlist): ID 22996
+2026-10-15T18:39:48+0000 INFO Skipped (district Spandau not in allowlist): ID 22997
+2026-10-15T18:39:48+0000 INFO Skipped (district Spandau not in allowlist): ID 22998
+2026-10-15T18:39:48+0000 INFO Skipped (district Spandau not in allowlist): ID 22999
+2026-10-15T18:39:48+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23000
+2026-10-15T18:39:48+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23001
+2026-10-15T18:39:48+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23002
+2026-10-15T18:39:48+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23003
