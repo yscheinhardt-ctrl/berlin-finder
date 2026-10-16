@@ -18057,3 +18057,18 @@
 2026-10-16T13:16:30+0000 INFO Skipped (district Spandau not in allowlist): ID 23063
 2026-10-16T13:16:30+0000 INFO Skipped (district Spandau not in allowlist): ID 23064
 2026-10-16T13:16:30+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23065
+2026-10-16T17:30:33+0000 INFO Fetched page: 475 total IDs, 10 rendered details
+2026-10-16T17:30:33+0000 INFO 4 new offer(s) found
+2026-10-16T17:30:33+0000 INFO Skipped (district Pankow not in allowlist): ID 23066
+2026-10-16T17:30:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 105A, 1
+2026-10-16T17:30:34+0000 INFO Notified: ID 23071 — Köpenicker Straße 105A, 10179 Mitte
+2026-10-16T17:30:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 107, 10
+2026-10-16T17:30:34+0000 INFO Notified: ID 23072 — Köpenicker Straße 107, 10179 Mitte
+2026-10-16T17:30:35+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 111, 10
+2026-10-16T17:30:35+0000 INFO Notified: ID 23073 — Köpenicker Straße 111, 10179 Mitte
