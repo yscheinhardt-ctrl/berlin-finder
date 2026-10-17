@@ -18082,3 +18082,15 @@
 2026-10-17T05:03:53+0000 INFO 0 new offer(s) found
 2026-10-17T09:14:40+0000 INFO Fetched page: 468 total IDs, 10 rendered details
 2026-10-17T09:14:40+0000 INFO 0 new offer(s) found
+2026-10-17T13:00:19+0000 INFO Fetched page: 461 total IDs, 10 rendered details
+2026-10-17T13:00:19+0000 INFO 4 new offer(s) found
+2026-10-17T13:00:19+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 23074
+2026-10-17T13:00:19+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 23075
+2026-10-17T13:00:19+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Exerzierstraße 3, 13357 M
+2026-10-17T13:00:19+0000 INFO Notified: ID 23076 — Exerzierstraße 3, 13357 Mitte
+2026-10-17T13:00:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Steegerstraße 16A, 13359 
+2026-10-17T13:00:20+0000 INFO Notified: ID 23077 — Steegerstraße 16A, 13359 Mitte
