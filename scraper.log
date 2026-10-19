@@ -18120,3 +18120,11 @@
 2026-10-18T23:26:08+0000 INFO 0 new offer(s) found
 2026-10-19T01:31:12+0000 INFO Fetched page: 450 total IDs, 10 rendered details
 2026-10-19T01:31:12+0000 INFO 0 new offer(s) found
+2026-10-19T06:43:22+0000 INFO Fetched page: 450 total IDs, 10 rendered details
+2026-10-19T06:43:22+0000 INFO 3 new offer(s) found
+2026-10-19T06:43:22+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23078
+2026-10-19T06:43:22+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23079
+2026-10-19T06:43:22+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Theodor-Loos-Weg 24, 1
+2026-10-19T06:43:22+0000 INFO Notified: ID 23080 — Theodor-Loos-Weg 24, 12353 Neukölln
