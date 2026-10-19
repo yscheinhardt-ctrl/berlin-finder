@@ -18221,3 +18221,27 @@
 2026-10-19T14:00:04+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 23114
 2026-10-19T14:00:04+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23115
 2026-10-19T14:00:04+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 23116
+2026-10-19T19:46:49+0000 INFO Fetched page: 461 total IDs, 10 rendered details
+2026-10-19T19:46:49+0000 INFO 13 new offer(s) found
+2026-10-19T19:46:49+0000 WARNING ID 23118 not in top-10 details (>10 new in one window?)
+2026-10-19T19:46:50+0000 INFO Telegram sent: 🏠 New offer (ID 23118) — details not rendered, see site:
+🔗 h
+2026-10-19T19:46:50+0000 WARNING ID 23119 not in top-10 details (>10 new in one window?)
+2026-10-19T19:46:50+0000 INFO Telegram sent: 🏠 New offer (ID 23119) — details not rendered, see site:
+🔗 h
+2026-10-19T19:46:50+0000 WARNING ID 23120 not in top-10 details (>10 new in one window?)
+2026-10-19T19:46:50+0000 INFO Telegram sent: 🏠 New offer (ID 23120) — details not rendered, see site:
+🔗 h
+2026-10-19T19:46:50+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23121
+2026-10-19T19:46:51+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Dröpkeweg 9, 12353 Neu
+2026-10-19T19:46:51+0000 INFO Notified: ID 23122 — Dröpkeweg 9, 12353 Neukölln
+2026-10-19T19:46:51+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 23123
+2026-10-19T19:46:51+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23124
+2026-10-19T19:46:51+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23127
+2026-10-19T19:46:51+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 23128
+2026-10-19T19:46:51+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23129
+2026-10-19T19:46:51+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23130
+2026-10-19T19:46:51+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23132
+2026-10-19T19:46:51+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23133
