@@ -18371,3 +18371,5 @@
 2026-10-20T17:16:23+0000 INFO Notified: ID 23181 — Bahrfeldtstraße 33, 10245 Friedrichshain-Kreuzberg
 2026-10-20T17:16:23+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23182
 2026-10-20T17:16:23+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23183
+2026-10-20T20:40:33+0000 INFO Fetched page: 473 total IDs, 10 rendered details
+2026-10-20T20:40:33+0000 INFO 0 new offer(s) found
