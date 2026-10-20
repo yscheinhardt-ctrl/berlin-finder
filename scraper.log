@@ -18350,3 +18350,24 @@
 
 📍 Neuköllnische Allee 14
 2026-10-20T12:15:13+0000 INFO Notified: ID 23172 — Neuköllnische Allee 147, 12057 Neukölln
+2026-10-20T17:16:22+0000 INFO Fetched page: 475 total IDs, 10 rendered details
+2026-10-20T17:16:22+0000 INFO 7 new offer(s) found
+2026-10-20T17:16:22+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Dröpkeweg 9, 12353 Neu
+2026-10-20T17:16:22+0000 INFO Notified: ID 23176 — Dröpkeweg 9, 12353 Neukölln
+2026-10-20T17:16:23+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 John-Locke
+2026-10-20T17:16:23+0000 INFO Notified: ID 23178 — John-Locke-Straße 13, 12305 Tempelhof-Schöneberg
+2026-10-20T17:16:23+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Steinstraß
+2026-10-20T17:16:23+0000 INFO Notified: ID 23179 — Steinstraße 83, 12307 Tempelhof-Schöneberg
+2026-10-20T17:16:23+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 23180
+2026-10-20T17:16:23+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Bahrfe
+2026-10-20T17:16:23+0000 INFO Notified: ID 23181 — Bahrfeldtstraße 33, 10245 Friedrichshain-Kreuzberg
+2026-10-20T17:16:23+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23182
+2026-10-20T17:16:23+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23183
