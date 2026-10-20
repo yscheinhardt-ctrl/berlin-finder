@@ -18266,3 +18266,87 @@
 2026-10-20T06:42:26+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 23137
 2026-10-20T06:42:26+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 23138
 2026-10-20T06:42:26+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 23139
+2026-10-20T12:15:04+0000 INFO Fetched page: 479 total IDs, 10 rendered details
+2026-10-20T12:15:04+0000 INFO 29 new offer(s) found
+2026-10-20T12:15:04+0000 WARNING ID 23140 not in top-10 details (>10 new in one window?)
+2026-10-20T12:15:05+0000 INFO Telegram sent: 🏠 New offer (ID 23140) — details not rendered, see site:
+🔗 h
+2026-10-20T12:15:05+0000 WARNING ID 23141 not in top-10 details (>10 new in one window?)
+2026-10-20T12:15:05+0000 INFO Telegram sent: 🏠 New offer (ID 23141) — details not rendered, see site:
+🔗 h
+2026-10-20T12:15:05+0000 WARNING ID 23142 not in top-10 details (>10 new in one window?)
+2026-10-20T12:15:06+0000 INFO Telegram sent: 🏠 New offer (ID 23142) — details not rendered, see site:
+🔗 h
+2026-10-20T12:15:06+0000 WARNING ID 23143 not in top-10 details (>10 new in one window?)
+2026-10-20T12:15:06+0000 INFO Telegram sent: 🏠 New offer (ID 23143) — details not rendered, see site:
+🔗 h
+2026-10-20T12:15:06+0000 WARNING ID 23144 not in top-10 details (>10 new in one window?)
+2026-10-20T12:15:06+0000 INFO Telegram sent: 🏠 New offer (ID 23144) — details not rendered, see site:
+🔗 h
+2026-10-20T12:15:06+0000 WARNING ID 23145 not in top-10 details (>10 new in one window?)
+2026-10-20T12:15:07+0000 INFO Telegram sent: 🏠 New offer (ID 23145) — details not rendered, see site:
+🔗 h
+2026-10-20T12:15:07+0000 WARNING ID 23146 not in top-10 details (>10 new in one window?)
+2026-10-20T12:15:07+0000 INFO Telegram sent: 🏠 New offer (ID 23146) — details not rendered, see site:
+🔗 h
+2026-10-20T12:15:07+0000 WARNING ID 23147 not in top-10 details (>10 new in one window?)
+2026-10-20T12:15:08+0000 INFO Telegram sent: 🏠 New offer (ID 23147) — details not rendered, see site:
+🔗 h
+2026-10-20T12:15:08+0000 WARNING ID 23148 not in top-10 details (>10 new in one window?)
+2026-10-20T12:15:08+0000 INFO Telegram sent: 🏠 New offer (ID 23148) — details not rendered, see site:
+🔗 h
+2026-10-20T12:15:08+0000 WARNING ID 23149 not in top-10 details (>10 new in one window?)
+2026-10-20T12:15:08+0000 INFO Telegram sent: 🏠 New offer (ID 23149) — details not rendered, see site:
+🔗 h
+2026-10-20T12:15:08+0000 WARNING ID 23151 not in top-10 details (>10 new in one window?)
+2026-10-20T12:15:09+0000 INFO Telegram sent: 🏠 New offer (ID 23151) — details not rendered, see site:
+🔗 h
+2026-10-20T12:15:09+0000 WARNING ID 23153 not in top-10 details (>10 new in one window?)
+2026-10-20T12:15:09+0000 INFO Telegram sent: 🏠 New offer (ID 23153) — details not rendered, see site:
+🔗 h
+2026-10-20T12:15:09+0000 WARNING ID 23155 not in top-10 details (>10 new in one window?)
+2026-10-20T12:15:09+0000 INFO Telegram sent: 🏠 New offer (ID 23155) — details not rendered, see site:
+🔗 h
+2026-10-20T12:15:09+0000 WARNING ID 23156 not in top-10 details (>10 new in one window?)
+2026-10-20T12:15:10+0000 INFO Telegram sent: 🏠 New offer (ID 23156) — details not rendered, see site:
+🔗 h
+2026-10-20T12:15:10+0000 WARNING ID 23157 not in top-10 details (>10 new in one window?)
+2026-10-20T12:15:10+0000 INFO Telegram sent: 🏠 New offer (ID 23157) — details not rendered, see site:
+🔗 h
+2026-10-20T12:15:10+0000 WARNING ID 23158 not in top-10 details (>10 new in one window?)
+2026-10-20T12:15:10+0000 INFO Telegram sent: 🏠 New offer (ID 23158) — details not rendered, see site:
+🔗 h
+2026-10-20T12:15:10+0000 WARNING ID 23159 not in top-10 details (>10 new in one window?)
+2026-10-20T12:15:11+0000 INFO Telegram sent: 🏠 New offer (ID 23159) — details not rendered, see site:
+🔗 h
+2026-10-20T12:15:11+0000 WARNING ID 23160 not in top-10 details (>10 new in one window?)
+2026-10-20T12:15:11+0000 INFO Telegram sent: 🏠 New offer (ID 23160) — details not rendered, see site:
+🔗 h
+2026-10-20T12:15:11+0000 WARNING ID 23161 not in top-10 details (>10 new in one window?)
+2026-10-20T12:15:11+0000 INFO Telegram sent: 🏠 New offer (ID 23161) — details not rendered, see site:
+🔗 h
+2026-10-20T12:15:11+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23162
+2026-10-20T12:15:12+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Franz-Körner-Straße 11
+2026-10-20T12:15:12+0000 INFO Notified: ID 23163 — Franz-Körner-Straße 11, 12347 Neukölln
+2026-10-20T12:15:12+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 23165
+2026-10-20T12:15:12+0000 INFO Skipped (district Spandau not in allowlist): ID 23166
+2026-10-20T12:15:12+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Walter-Franck-Zeile 9,
+2026-10-20T12:15:12+0000 INFO Notified: ID 23167 — Walter-Franck-Zeile 9, 12353 Neukölln
+2026-10-20T12:15:12+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Joachim-Gottschalk-Weg
+2026-10-20T12:15:12+0000 INFO Notified: ID 23168 — Joachim-Gottschalk-Weg 1, 12353 Neukölln
+2026-10-20T12:15:13+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Neuköllner Straße 276A
+2026-10-20T12:15:13+0000 INFO Notified: ID 23169 — Neuköllner Straße 276A, 12357 Neukölln
+2026-10-20T12:15:13+0000 INFO Skipped (district Spandau not in allowlist): ID 23170
+2026-10-20T12:15:13+0000 INFO Skipped (district Spandau not in allowlist): ID 23171
+2026-10-20T12:15:13+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Neuköllnische Allee 14
+2026-10-20T12:15:13+0000 INFO Notified: ID 23172 — Neuköllnische Allee 147, 12057 Neukölln
