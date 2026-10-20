@@ -18249,3 +18249,20 @@
 2026-10-19T23:07:13+0000 INFO 0 new offer(s) found
 2026-10-20T01:46:51+0000 INFO Fetched page: 458 total IDs, 10 rendered details
 2026-10-20T01:46:51+0000 INFO 0 new offer(s) found
+2026-10-20T06:42:24+0000 INFO Fetched page: 460 total IDs, 10 rendered details
+2026-10-20T06:42:24+0000 INFO 6 new offer(s) found
+2026-10-20T06:42:25+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Bornsdorfer Straße 37B
+2026-10-20T06:42:25+0000 INFO Notified: ID 23134 — Bornsdorfer Straße 37B, 12053 Neukölln
+2026-10-20T06:42:25+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Bornsdorfer Straße 37B
+2026-10-20T06:42:25+0000 INFO Notified: ID 23135 — Bornsdorfer Straße 37B, 12053 Neukölln
+2026-10-20T06:42:26+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Bornsdorfer Straße 37,
+2026-10-20T06:42:26+0000 INFO Notified: ID 23136 — Bornsdorfer Straße 37, 12053 Neukölln
+2026-10-20T06:42:26+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 23137
+2026-10-20T06:42:26+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 23138
+2026-10-20T06:42:26+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 23139
