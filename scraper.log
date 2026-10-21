@@ -18377,3 +18377,25 @@
 2026-10-20T23:24:51+0000 INFO 0 new offer(s) found
 2026-10-21T01:49:47+0000 INFO Fetched page: 471 total IDs, 10 rendered details
 2026-10-21T01:49:47+0000 INFO 0 new offer(s) found
+2026-10-21T06:38:54+0000 INFO Fetched page: 472 total IDs, 10 rendered details
+2026-10-21T06:38:54+0000 INFO 5 new offer(s) found
+2026-10-21T06:38:55+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Greveweg 1
+2026-10-21T06:38:55+0000 INFO Notified: ID 23184 — Greveweg 12, 12103 Tempelhof-Schöneberg
+2026-10-21T06:38:55+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Wittekinds
+2026-10-21T06:38:55+0000 INFO Notified: ID 23185 — Wittekindstraße 46, 12103 Tempelhof-Schöneberg
+2026-10-21T06:38:56+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Fritz-Reuter-Allee 11,
+2026-10-21T06:38:56+0000 INFO Notified: ID 23186 — Fritz-Reuter-Allee 11, 12359 Neukölln
+2026-10-21T06:38:56+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Dröpkeweg 9, 12353 Neu
+2026-10-21T06:38:56+0000 INFO Notified: ID 23187 — Dröpkeweg 9, 12353 Neukölln
+2026-10-21T06:38:57+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Dröpkeweg 9, 12353 Neu
+2026-10-21T06:38:57+0000 INFO Notified: ID 23188 — Dröpkeweg 9, 12353 Neukölln
