@@ -18561,3 +18561,42 @@
 2026-10-22T07:18:31+0000 INFO Skipped (district Spandau not in allowlist): ID 23250
 2026-10-22T07:18:31+0000 INFO Skipped (district Spandau not in allowlist): ID 23251
 2026-10-22T07:18:31+0000 INFO Skipped (district Spandau not in allowlist): ID 23252
+2026-10-22T13:02:13+0000 INFO Fetched page: 475 total IDs, 10 rendered details
+2026-10-22T13:02:13+0000 INFO 15 new offer(s) found
+2026-10-22T13:02:13+0000 WARNING ID 23253 not in top-10 details (>10 new in one window?)
+2026-10-22T13:02:13+0000 INFO Telegram sent: 🏠 New offer (ID 23253) — details not rendered, see site:
+🔗 h
+2026-10-22T13:02:13+0000 WARNING ID 23255 not in top-10 details (>10 new in one window?)
+2026-10-22T13:02:14+0000 INFO Telegram sent: 🏠 New offer (ID 23255) — details not rendered, see site:
+🔗 h
+2026-10-22T13:02:14+0000 WARNING ID 23258 not in top-10 details (>10 new in one window?)
+2026-10-22T13:02:14+0000 INFO Telegram sent: 🏠 New offer (ID 23258) — details not rendered, see site:
+🔗 h
+2026-10-22T13:02:14+0000 WARNING ID 23260 not in top-10 details (>10 new in one window?)
+2026-10-22T13:02:15+0000 INFO Telegram sent: 🏠 New offer (ID 23260) — details not rendered, see site:
+🔗 h
+2026-10-22T13:02:15+0000 WARNING ID 23264 not in top-10 details (>10 new in one window?)
+2026-10-22T13:02:16+0000 INFO Telegram sent: 🏠 New offer (ID 23264) — details not rendered, see site:
+🔗 h
+2026-10-22T13:02:16+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23265
+2026-10-22T13:02:16+0000 INFO Skipped (district Pankow not in allowlist): ID 23266
+2026-10-22T13:02:16+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23268
+2026-10-22T13:02:16+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Karl-M
+2026-10-22T13:02:16+0000 INFO Notified: ID 23271 — Karl-Marx-Allee 101, 10243 Friedrichshain-Kreuzberg
+2026-10-22T13:02:17+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Kienitzer Straße 26, 1
+2026-10-22T13:02:17+0000 INFO Notified: ID 23272 — Kienitzer Straße 26, 12053 Neukölln
+2026-10-22T13:02:17+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23273
+2026-10-22T13:02:17+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23274
+2026-10-22T13:02:17+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Cuno
+2026-10-22T13:02:17+0000 INFO Notified: ID 23275 — Cunostraße 7, 14199 Charlottenburg-Wilmersdorf
+2026-10-22T13:02:18+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Wier
+2026-10-22T13:02:18+0000 INFO Notified: ID 23276 — Wiersichweg 7, 13627 Charlottenburg-Wilmersdorf
+2026-10-22T13:02:18+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 23277
