@@ -18782,3 +18782,9 @@
 2026-10-23T14:22:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23346
 2026-10-23T14:22:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23347
 2026-10-23T14:22:10+0000 INFO Skipped (district Pankow not in allowlist): ID 23348
+2026-10-23T18:31:36+0000 INFO Fetched page: 475 total IDs, 10 rendered details
+2026-10-23T18:31:36+0000 INFO 4 new offer(s) found
+2026-10-23T18:31:36+0000 INFO Skipped (district Pankow not in allowlist): ID 23349
+2026-10-23T18:31:36+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 23350
+2026-10-23T18:31:36+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 23351
+2026-10-23T18:31:36+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 23355
