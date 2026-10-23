@@ -18719,3 +18719,66 @@
 2026-10-23T09:31:36+0000 INFO Notified: ID 23321 — Köpenicker Straße 109, 10179 Mitte
 2026-10-23T09:31:36+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23322
 2026-10-23T09:31:36+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23323
+2026-10-23T14:22:03+0000 INFO Fetched page: 473 total IDs, 10 rendered details
+2026-10-23T14:22:03+0000 INFO 24 new offer(s) found
+2026-10-23T14:22:03+0000 WARNING ID 23325 not in top-10 details (>10 new in one window?)
+2026-10-23T14:22:03+0000 INFO Telegram sent: 🏠 New offer (ID 23325) — details not rendered, see site:
+🔗 h
+2026-10-23T14:22:03+0000 WARNING ID 23326 not in top-10 details (>10 new in one window?)
+2026-10-23T14:22:03+0000 INFO Telegram sent: 🏠 New offer (ID 23326) — details not rendered, see site:
+🔗 h
+2026-10-23T14:22:03+0000 WARNING ID 23327 not in top-10 details (>10 new in one window?)
+2026-10-23T14:22:04+0000 INFO Telegram sent: 🏠 New offer (ID 23327) — details not rendered, see site:
+🔗 h
+2026-10-23T14:22:04+0000 WARNING ID 23328 not in top-10 details (>10 new in one window?)
+2026-10-23T14:22:04+0000 INFO Telegram sent: 🏠 New offer (ID 23328) — details not rendered, see site:
+🔗 h
+2026-10-23T14:22:04+0000 WARNING ID 23329 not in top-10 details (>10 new in one window?)
+2026-10-23T14:22:05+0000 INFO Telegram sent: 🏠 New offer (ID 23329) — details not rendered, see site:
+🔗 h
+2026-10-23T14:22:05+0000 WARNING ID 23330 not in top-10 details (>10 new in one window?)
+2026-10-23T14:22:05+0000 INFO Telegram sent: 🏠 New offer (ID 23330) — details not rendered, see site:
+🔗 h
+2026-10-23T14:22:05+0000 WARNING ID 23331 not in top-10 details (>10 new in one window?)
+2026-10-23T14:22:06+0000 INFO Telegram sent: 🏠 New offer (ID 23331) — details not rendered, see site:
+🔗 h
+2026-10-23T14:22:06+0000 WARNING ID 23332 not in top-10 details (>10 new in one window?)
+2026-10-23T14:22:06+0000 INFO Telegram sent: 🏠 New offer (ID 23332) — details not rendered, see site:
+🔗 h
+2026-10-23T14:22:06+0000 WARNING ID 23333 not in top-10 details (>10 new in one window?)
+2026-10-23T14:22:07+0000 INFO Telegram sent: 🏠 New offer (ID 23333) — details not rendered, see site:
+🔗 h
+2026-10-23T14:22:07+0000 WARNING ID 23334 not in top-10 details (>10 new in one window?)
+2026-10-23T14:22:07+0000 INFO Telegram sent: 🏠 New offer (ID 23334) — details not rendered, see site:
+🔗 h
+2026-10-23T14:22:07+0000 WARNING ID 23335 not in top-10 details (>10 new in one window?)
+2026-10-23T14:22:08+0000 INFO Telegram sent: 🏠 New offer (ID 23335) — details not rendered, see site:
+🔗 h
+2026-10-23T14:22:08+0000 WARNING ID 23336 not in top-10 details (>10 new in one window?)
+2026-10-23T14:22:08+0000 INFO Telegram sent: 🏠 New offer (ID 23336) — details not rendered, see site:
+🔗 h
+2026-10-23T14:22:08+0000 WARNING ID 23337 not in top-10 details (>10 new in one window?)
+2026-10-23T14:22:09+0000 INFO Telegram sent: 🏠 New offer (ID 23337) — details not rendered, see site:
+🔗 h
+2026-10-23T14:22:09+0000 WARNING ID 23338 not in top-10 details (>10 new in one window?)
+2026-10-23T14:22:09+0000 INFO Telegram sent: 🏠 New offer (ID 23338) — details not rendered, see site:
+🔗 h
+2026-10-23T14:22:09+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23339
+2026-10-23T14:22:09+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Bornsdorfer Straße 37B
+2026-10-23T14:22:09+0000 INFO Notified: ID 23340 — Bornsdorfer Straße 37B, 12053 Neukölln
+2026-10-23T14:22:09+0000 INFO Skipped (district Pankow not in allowlist): ID 23341
+2026-10-23T14:22:10+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Bornsdorfer Straße 37B
+2026-10-23T14:22:10+0000 INFO Notified: ID 23342 — Bornsdorfer Straße 37B, 12053 Neukölln
+2026-10-23T14:22:10+0000 INFO Skipped (district Spandau not in allowlist): ID 23343
+2026-10-23T14:22:10+0000 INFO Skipped (district Spandau not in allowlist): ID 23344
+2026-10-23T14:22:10+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Land
+2026-10-23T14:22:10+0000 INFO Notified: ID 23345 — Landecker Straße 5A, 14199 Charlottenburg-Wilmersdorf
+2026-10-23T14:22:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23346
+2026-10-23T14:22:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23347
+2026-10-23T14:22:10+0000 INFO Skipped (district Pankow not in allowlist): ID 23348
