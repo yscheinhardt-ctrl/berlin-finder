@@ -18940,3 +18940,5 @@
 2026-10-26T19:47:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23413
 2026-10-26T19:47:45+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23414
 2026-10-26T19:47:45+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23415
+2026-10-26T23:23:19+0000 INFO Fetched page: 467 total IDs, 10 rendered details
+2026-10-26T23:23:19+0000 INFO 0 new offer(s) found
