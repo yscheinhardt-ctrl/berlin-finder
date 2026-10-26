@@ -18922,3 +18922,21 @@
 
 📍 Mainze
 2026-10-26T13:57:30+0000 INFO Notified: ID 23397 — Mainzer Straße 25, 10247 Friedrichshain-Kreuzberg
+2026-10-26T19:47:45+0000 INFO Fetched page: 467 total IDs, 10 rendered details
+2026-10-26T19:47:45+0000 INFO 12 new offer(s) found
+2026-10-26T19:47:45+0000 WARNING ID 23398 not in top-10 details (>10 new in one window?)
+2026-10-26T19:47:45+0000 INFO Telegram sent: 🏠 New offer (ID 23398) — details not rendered, see site:
+🔗 h
+2026-10-26T19:47:45+0000 WARNING ID 23399 not in top-10 details (>10 new in one window?)
+2026-10-26T19:47:45+0000 INFO Telegram sent: 🏠 New offer (ID 23399) — details not rendered, see site:
+🔗 h
+2026-10-26T19:47:45+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23405
+2026-10-26T19:47:45+0000 INFO Skipped (district Spandau not in allowlist): ID 23406
+2026-10-26T19:47:45+0000 INFO Skipped (district Spandau not in allowlist): ID 23408
+2026-10-26T19:47:45+0000 INFO Skipped (district Spandau not in allowlist): ID 23409
+2026-10-26T19:47:45+0000 INFO Skipped (district Spandau not in allowlist): ID 23410
+2026-10-26T19:47:45+0000 INFO Skipped (district Spandau not in allowlist): ID 23411
+2026-10-26T19:47:45+0000 INFO Skipped (district Spandau not in allowlist): ID 23412
+2026-10-26T19:47:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23413
+2026-10-26T19:47:45+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23414
+2026-10-26T19:47:45+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23415
