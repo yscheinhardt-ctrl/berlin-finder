@@ -18948,3 +18948,57 @@
 2026-10-27T07:57:43+0000 INFO 2 new offer(s) found
 2026-10-27T07:57:43+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 23416
 2026-10-27T07:57:43+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 23417
+2026-10-27T14:14:28+0000 INFO Fetched page: 456 total IDs, 10 rendered details
+2026-10-27T14:14:28+0000 INFO 23 new offer(s) found
+2026-10-27T14:14:28+0000 WARNING ID 23418 not in top-10 details (>10 new in one window?)
+2026-10-27T14:14:29+0000 INFO Telegram sent: 🏠 New offer (ID 23418) — details not rendered, see site:
+🔗 h
+2026-10-27T14:14:29+0000 WARNING ID 23419 not in top-10 details (>10 new in one window?)
+2026-10-27T14:14:30+0000 INFO Telegram sent: 🏠 New offer (ID 23419) — details not rendered, see site:
+🔗 h
+2026-10-27T14:14:30+0000 WARNING ID 23424 not in top-10 details (>10 new in one window?)
+2026-10-27T14:14:30+0000 INFO Telegram sent: 🏠 New offer (ID 23424) — details not rendered, see site:
+🔗 h
+2026-10-27T14:14:30+0000 WARNING ID 23426 not in top-10 details (>10 new in one window?)
+2026-10-27T14:14:30+0000 INFO Telegram sent: 🏠 New offer (ID 23426) — details not rendered, see site:
+🔗 h
+2026-10-27T14:14:30+0000 WARNING ID 23427 not in top-10 details (>10 new in one window?)
+2026-10-27T14:14:31+0000 INFO Telegram sent: 🏠 New offer (ID 23427) — details not rendered, see site:
+🔗 h
+2026-10-27T14:14:31+0000 WARNING ID 23428 not in top-10 details (>10 new in one window?)
+2026-10-27T14:14:32+0000 INFO Telegram sent: 🏠 New offer (ID 23428) — details not rendered, see site:
+🔗 h
+2026-10-27T14:14:32+0000 WARNING ID 23429 not in top-10 details (>10 new in one window?)
+2026-10-27T14:14:32+0000 INFO Telegram sent: 🏠 New offer (ID 23429) — details not rendered, see site:
+🔗 h
+2026-10-27T14:14:32+0000 WARNING ID 23430 not in top-10 details (>10 new in one window?)
+2026-10-27T14:14:33+0000 INFO Telegram sent: 🏠 New offer (ID 23430) — details not rendered, see site:
+🔗 h
+2026-10-27T14:14:33+0000 WARNING ID 23431 not in top-10 details (>10 new in one window?)
+2026-10-27T14:14:33+0000 INFO Telegram sent: 🏠 New offer (ID 23431) — details not rendered, see site:
+🔗 h
+2026-10-27T14:14:33+0000 WARNING ID 23432 not in top-10 details (>10 new in one window?)
+2026-10-27T14:14:34+0000 INFO Telegram sent: 🏠 New offer (ID 23432) — details not rendered, see site:
+🔗 h
+2026-10-27T14:14:34+0000 WARNING ID 23433 not in top-10 details (>10 new in one window?)
+2026-10-27T14:14:34+0000 INFO Telegram sent: 🏠 New offer (ID 23433) — details not rendered, see site:
+🔗 h
+2026-10-27T14:14:34+0000 WARNING ID 23434 not in top-10 details (>10 new in one window?)
+2026-10-27T14:14:34+0000 INFO Telegram sent: 🏠 New offer (ID 23434) — details not rendered, see site:
+🔗 h
+2026-10-27T14:14:34+0000 WARNING ID 23435 not in top-10 details (>10 new in one window?)
+2026-10-27T14:14:35+0000 INFO Telegram sent: 🏠 New offer (ID 23435) — details not rendered, see site:
+🔗 h
+2026-10-27T14:14:35+0000 INFO Skipped (district Spandau not in allowlist): ID 23436
+2026-10-27T14:14:35+0000 INFO Skipped (district Spandau not in allowlist): ID 23437
+2026-10-27T14:14:35+0000 INFO Skipped (district Spandau not in allowlist): ID 23438
+2026-10-27T14:14:35+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23439
+2026-10-27T14:14:35+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 23440
+2026-10-27T14:14:35+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 23441
+2026-10-27T14:14:35+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23442
+2026-10-27T14:14:35+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Dröpkeweg 9, 12353 Neu
+2026-10-27T14:14:35+0000 INFO Notified: ID 23443 — Dröpkeweg 9, 12353 Neukölln
+2026-10-27T14:14:35+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 23444
+2026-10-27T14:14:35+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 23445
