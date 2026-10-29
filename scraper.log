@@ -19208,3 +19208,72 @@
 
 📍 Käthe-Dorsch-Ring 7, 1
 2026-10-29T11:45:33+0000 INFO Notified: ID 23552 — Käthe-Dorsch-Ring 7, 12353 Neukölln
+2026-10-29T17:34:54+0000 INFO Fetched page: 472 total IDs, 10 rendered details
+2026-10-29T17:34:54+0000 INFO 26 new offer(s) found
+2026-10-29T17:34:54+0000 WARNING ID 23553 not in top-10 details (>10 new in one window?)
+2026-10-29T17:34:54+0000 INFO Telegram sent: 🏠 New offer (ID 23553) — details not rendered, see site:
+🔗 h
+2026-10-29T17:34:54+0000 WARNING ID 23554 not in top-10 details (>10 new in one window?)
+2026-10-29T17:34:55+0000 INFO Telegram sent: 🏠 New offer (ID 23554) — details not rendered, see site:
+🔗 h
+2026-10-29T17:34:55+0000 WARNING ID 23555 not in top-10 details (>10 new in one window?)
+2026-10-29T17:34:55+0000 INFO Telegram sent: 🏠 New offer (ID 23555) — details not rendered, see site:
+🔗 h
+2026-10-29T17:34:55+0000 WARNING ID 23556 not in top-10 details (>10 new in one window?)
+2026-10-29T17:34:55+0000 INFO Telegram sent: 🏠 New offer (ID 23556) — details not rendered, see site:
+🔗 h
+2026-10-29T17:34:55+0000 WARNING ID 23557 not in top-10 details (>10 new in one window?)
+2026-10-29T17:34:56+0000 INFO Telegram sent: 🏠 New offer (ID 23557) — details not rendered, see site:
+🔗 h
+2026-10-29T17:34:56+0000 WARNING ID 23558 not in top-10 details (>10 new in one window?)
+2026-10-29T17:34:56+0000 INFO Telegram sent: 🏠 New offer (ID 23558) — details not rendered, see site:
+🔗 h
+2026-10-29T17:34:56+0000 WARNING ID 23559 not in top-10 details (>10 new in one window?)
+2026-10-29T17:34:56+0000 INFO Telegram sent: 🏠 New offer (ID 23559) — details not rendered, see site:
+🔗 h
+2026-10-29T17:34:56+0000 WARNING ID 23560 not in top-10 details (>10 new in one window?)
+2026-10-29T17:34:57+0000 INFO Telegram sent: 🏠 New offer (ID 23560) — details not rendered, see site:
+🔗 h
+2026-10-29T17:34:57+0000 WARNING ID 23561 not in top-10 details (>10 new in one window?)
+2026-10-29T17:34:57+0000 INFO Telegram sent: 🏠 New offer (ID 23561) — details not rendered, see site:
+🔗 h
+2026-10-29T17:34:57+0000 WARNING ID 23562 not in top-10 details (>10 new in one window?)
+2026-10-29T17:34:57+0000 INFO Telegram sent: 🏠 New offer (ID 23562) — details not rendered, see site:
+🔗 h
+2026-10-29T17:34:57+0000 WARNING ID 23563 not in top-10 details (>10 new in one window?)
+2026-10-29T17:34:58+0000 INFO Telegram sent: 🏠 New offer (ID 23563) — details not rendered, see site:
+🔗 h
+2026-10-29T17:34:58+0000 WARNING ID 23566 not in top-10 details (>10 new in one window?)
+2026-10-29T17:34:58+0000 INFO Telegram sent: 🏠 New offer (ID 23566) — details not rendered, see site:
+🔗 h
+2026-10-29T17:34:58+0000 WARNING ID 23567 not in top-10 details (>10 new in one window?)
+2026-10-29T17:34:59+0000 INFO Telegram sent: 🏠 New offer (ID 23567) — details not rendered, see site:
+🔗 h
+2026-10-29T17:34:59+0000 WARNING ID 23570 not in top-10 details (>10 new in one window?)
+2026-10-29T17:34:59+0000 INFO Telegram sent: 🏠 New offer (ID 23570) — details not rendered, see site:
+🔗 h
+2026-10-29T17:34:59+0000 WARNING ID 23571 not in top-10 details (>10 new in one window?)
+2026-10-29T17:34:59+0000 INFO Telegram sent: 🏠 New offer (ID 23571) — details not rendered, see site:
+🔗 h
+2026-10-29T17:34:59+0000 WARNING ID 23572 not in top-10 details (>10 new in one window?)
+2026-10-29T17:35:00+0000 INFO Telegram sent: 🏠 New offer (ID 23572) — details not rendered, see site:
+🔗 h
+2026-10-29T17:35:00+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Habersaathstraße 6, 10115
+2026-10-29T17:35:00+0000 INFO Notified: ID 23573 — Habersaathstraße 6, 10115 Mitte
+2026-10-29T17:35:00+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Habersaathstraße 6, 10115
+2026-10-29T17:35:00+0000 INFO Notified: ID 23574 — Habersaathstraße 6, 10115 Mitte
+2026-10-29T17:35:00+0000 INFO Skipped (district Spandau not in allowlist): ID 23576
+2026-10-29T17:35:00+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23577
+2026-10-29T17:35:00+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23578
+2026-10-29T17:35:01+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Habersaathstraße 1, 10115
+2026-10-29T17:35:01+0000 INFO Notified: ID 23579 — Habersaathstraße 1, 10115 Mitte
+2026-10-29T17:35:01+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23580
+2026-10-29T17:35:01+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23581
+2026-10-29T17:35:01+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23582
+2026-10-29T17:35:01+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23583
