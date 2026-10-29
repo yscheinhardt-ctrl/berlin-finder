@@ -19154,3 +19154,57 @@
 2026-10-29T00:05:50+0000 INFO 0 new offer(s) found
 2026-10-29T05:39:33+0000 INFO Fetched page: 461 total IDs, 10 rendered details
 2026-10-29T05:39:33+0000 INFO 0 new offer(s) found
+2026-10-29T11:45:27+0000 INFO Fetched page: 464 total IDs, 10 rendered details
+2026-10-29T11:45:27+0000 INFO 22 new offer(s) found
+2026-10-29T11:45:27+0000 WARNING ID 23522 not in top-10 details (>10 new in one window?)
+2026-10-29T11:45:27+0000 INFO Telegram sent: 🏠 New offer (ID 23522) — details not rendered, see site:
+🔗 h
+2026-10-29T11:45:27+0000 WARNING ID 23525 not in top-10 details (>10 new in one window?)
+2026-10-29T11:45:28+0000 INFO Telegram sent: 🏠 New offer (ID 23525) — details not rendered, see site:
+🔗 h
+2026-10-29T11:45:28+0000 WARNING ID 23526 not in top-10 details (>10 new in one window?)
+2026-10-29T11:45:28+0000 INFO Telegram sent: 🏠 New offer (ID 23526) — details not rendered, see site:
+🔗 h
+2026-10-29T11:45:28+0000 WARNING ID 23527 not in top-10 details (>10 new in one window?)
+2026-10-29T11:45:28+0000 INFO Telegram sent: 🏠 New offer (ID 23527) — details not rendered, see site:
+🔗 h
+2026-10-29T11:45:28+0000 WARNING ID 23528 not in top-10 details (>10 new in one window?)
+2026-10-29T11:45:29+0000 INFO Telegram sent: 🏠 New offer (ID 23528) — details not rendered, see site:
+🔗 h
+2026-10-29T11:45:29+0000 WARNING ID 23529 not in top-10 details (>10 new in one window?)
+2026-10-29T11:45:29+0000 INFO Telegram sent: 🏠 New offer (ID 23529) — details not rendered, see site:
+🔗 h
+2026-10-29T11:45:29+0000 WARNING ID 23530 not in top-10 details (>10 new in one window?)
+2026-10-29T11:45:30+0000 INFO Telegram sent: 🏠 New offer (ID 23530) — details not rendered, see site:
+🔗 h
+2026-10-29T11:45:30+0000 WARNING ID 23532 not in top-10 details (>10 new in one window?)
+2026-10-29T11:45:30+0000 INFO Telegram sent: 🏠 New offer (ID 23532) — details not rendered, see site:
+🔗 h
+2026-10-29T11:45:30+0000 WARNING ID 23534 not in top-10 details (>10 new in one window?)
+2026-10-29T11:45:31+0000 INFO Telegram sent: 🏠 New offer (ID 23534) — details not rendered, see site:
+🔗 h
+2026-10-29T11:45:31+0000 WARNING ID 23537 not in top-10 details (>10 new in one window?)
+2026-10-29T11:45:31+0000 INFO Telegram sent: 🏠 New offer (ID 23537) — details not rendered, see site:
+🔗 h
+2026-10-29T11:45:31+0000 WARNING ID 23540 not in top-10 details (>10 new in one window?)
+2026-10-29T11:45:31+0000 INFO Telegram sent: 🏠 New offer (ID 23540) — details not rendered, see site:
+🔗 h
+2026-10-29T11:45:31+0000 WARNING ID 23542 not in top-10 details (>10 new in one window?)
+2026-10-29T11:45:32+0000 INFO Telegram sent: 🏠 New offer (ID 23542) — details not rendered, see site:
+🔗 h
+2026-10-29T11:45:32+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23543
+2026-10-29T11:45:32+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23544
+2026-10-29T11:45:32+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23545
+2026-10-29T11:45:32+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 23546
+2026-10-29T11:45:32+0000 INFO Skipped (district Pankow not in allowlist): ID 23547
+2026-10-29T11:45:32+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Barnetstra
+2026-10-29T11:45:32+0000 INFO Notified: ID 23548 — Barnetstraße 68, 12305 Tempelhof-Schöneberg
+2026-10-29T11:45:32+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 23549
+2026-10-29T11:45:32+0000 INFO Skipped (district Spandau not in allowlist): ID 23550
+2026-10-29T11:45:32+0000 INFO Skipped (district Spandau not in allowlist): ID 23551
+2026-10-29T11:45:33+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Käthe-Dorsch-Ring 7, 1
+2026-10-29T11:45:33+0000 INFO Notified: ID 23552 — Käthe-Dorsch-Ring 7, 12353 Neukölln
