@@ -19303,3 +19303,77 @@
 
 📍 Karl-Marx-Allee 21, 10178
 2026-10-30T07:45:45+0000 INFO Notified: ID 23601 — Karl-Marx-Allee 21, 10178 Mitte
+2026-10-30T14:34:45+0000 INFO Fetched page: 492 total IDs, 9 rendered details
+2026-10-30T14:34:45+0000 INFO 28 new offer(s) found
+2026-10-30T14:34:45+0000 WARNING ID 23602 not in top-10 details (>10 new in one window?)
+2026-10-30T14:34:45+0000 INFO Telegram sent: 🏠 New offer (ID 23602) — details not rendered, see site:
+🔗 h
+2026-10-30T14:34:45+0000 WARNING ID 23603 not in top-10 details (>10 new in one window?)
+2026-10-30T14:34:46+0000 INFO Telegram sent: 🏠 New offer (ID 23603) — details not rendered, see site:
+🔗 h
+2026-10-30T14:34:46+0000 WARNING ID 23605 not in top-10 details (>10 new in one window?)
+2026-10-30T14:34:46+0000 INFO Telegram sent: 🏠 New offer (ID 23605) — details not rendered, see site:
+🔗 h
+2026-10-30T14:34:46+0000 WARNING ID 23606 not in top-10 details (>10 new in one window?)
+2026-10-30T14:34:47+0000 INFO Telegram sent: 🏠 New offer (ID 23606) — details not rendered, see site:
+🔗 h
+2026-10-30T14:34:47+0000 WARNING ID 23607 not in top-10 details (>10 new in one window?)
+2026-10-30T14:34:47+0000 INFO Telegram sent: 🏠 New offer (ID 23607) — details not rendered, see site:
+🔗 h
+2026-10-30T14:34:47+0000 WARNING ID 23609 not in top-10 details (>10 new in one window?)
+2026-10-30T14:34:47+0000 INFO Telegram sent: 🏠 New offer (ID 23609) — details not rendered, see site:
+🔗 h
+2026-10-30T14:34:47+0000 WARNING ID 23610 not in top-10 details (>10 new in one window?)
+2026-10-30T14:34:48+0000 INFO Telegram sent: 🏠 New offer (ID 23610) — details not rendered, see site:
+🔗 h
+2026-10-30T14:34:48+0000 WARNING ID 23611 not in top-10 details (>10 new in one window?)
+2026-10-30T14:34:48+0000 INFO Telegram sent: 🏠 New offer (ID 23611) — details not rendered, see site:
+🔗 h
+2026-10-30T14:34:48+0000 WARNING ID 23612 not in top-10 details (>10 new in one window?)
+2026-10-30T14:34:49+0000 INFO Telegram sent: 🏠 New offer (ID 23612) — details not rendered, see site:
+🔗 h
+2026-10-30T14:34:49+0000 WARNING ID 23613 not in top-10 details (>10 new in one window?)
+2026-10-30T14:34:49+0000 INFO Telegram sent: 🏠 New offer (ID 23613) — details not rendered, see site:
+🔗 h
+2026-10-30T14:34:49+0000 WARNING ID 23614 not in top-10 details (>10 new in one window?)
+2026-10-30T14:34:49+0000 INFO Telegram sent: 🏠 New offer (ID 23614) — details not rendered, see site:
+🔗 h
+2026-10-30T14:34:49+0000 WARNING ID 23615 not in top-10 details (>10 new in one window?)
+2026-10-30T14:34:50+0000 INFO Telegram sent: 🏠 New offer (ID 23615) — details not rendered, see site:
+🔗 h
+2026-10-30T14:34:50+0000 WARNING ID 23616 not in top-10 details (>10 new in one window?)
+2026-10-30T14:34:50+0000 INFO Telegram sent: 🏠 New offer (ID 23616) — details not rendered, see site:
+🔗 h
+2026-10-30T14:34:50+0000 WARNING ID 23617 not in top-10 details (>10 new in one window?)
+2026-10-30T14:34:51+0000 INFO Telegram sent: 🏠 New offer (ID 23617) — details not rendered, see site:
+🔗 h
+2026-10-30T14:34:51+0000 WARNING ID 23618 not in top-10 details (>10 new in one window?)
+2026-10-30T14:34:51+0000 INFO Telegram sent: 🏠 New offer (ID 23618) — details not rendered, see site:
+🔗 h
+2026-10-30T14:34:51+0000 WARNING ID 23619 not in top-10 details (>10 new in one window?)
+2026-10-30T14:34:51+0000 INFO Telegram sent: 🏠 New offer (ID 23619) — details not rendered, see site:
+🔗 h
+2026-10-30T14:34:51+0000 WARNING ID 23620 not in top-10 details (>10 new in one window?)
+2026-10-30T14:34:52+0000 INFO Telegram sent: 🏠 New offer (ID 23620) — details not rendered, see site:
+🔗 h
+2026-10-30T14:34:52+0000 WARNING ID 23621 not in top-10 details (>10 new in one window?)
+2026-10-30T14:34:52+0000 INFO Telegram sent: 🏠 New offer (ID 23621) — details not rendered, see site:
+🔗 h
+2026-10-30T14:34:53+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Frankf
+2026-10-30T14:34:53+0000 INFO Notified: ID 23623 — Frankfurter Allee 90, 10247 Friedrichshain-Kreuzberg
+2026-10-30T14:34:53+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23624
+2026-10-30T14:34:53+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23625
+2026-10-30T14:34:53+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23627
+2026-10-30T14:34:53+0000 WARNING ID 23628 not in top-10 details (>10 new in one window?)
+2026-10-30T14:34:53+0000 INFO Telegram sent: 🏠 New offer (ID 23628) — details not rendered, see site:
+🔗 h
+2026-10-30T14:34:53+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23629
+2026-10-30T14:34:53+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23630
+2026-10-30T14:34:53+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Land
+2026-10-30T14:34:53+0000 INFO Notified: ID 23631 — Landecker Straße 5, 14199 Charlottenburg-Wilmersdorf
+2026-10-30T14:34:53+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23632
+2026-10-30T14:34:53+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23633
