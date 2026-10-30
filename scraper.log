@@ -19377,3 +19377,6 @@
 2026-10-30T14:34:53+0000 INFO Notified: ID 23631 — Landecker Straße 5, 14199 Charlottenburg-Wilmersdorf
 2026-10-30T14:34:53+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23632
 2026-10-30T14:34:53+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23633
+2026-10-30T19:40:00+0000 INFO Fetched page: 483 total IDs, 10 rendered details
+2026-10-30T19:40:00+0000 INFO 1 new offer(s) found
+2026-10-30T19:40:00+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23634
