@@ -19409,3 +19409,7 @@
 2026-11-01T18:59:08+0000 INFO 0 new offer(s) found
 2026-11-01T22:41:50+0000 INFO Fetched page: 475 total IDs, 10 rendered details
 2026-11-01T22:41:50+0000 INFO 0 new offer(s) found
+2026-11-02T01:50:17+0000 INFO Fetched page: 477 total IDs, 10 rendered details
+2026-11-02T01:50:17+0000 INFO 2 new offer(s) found
+2026-11-02T01:50:17+0000 INFO Skipped (district Spandau not in allowlist): ID 23642
+2026-11-02T01:50:17+0000 INFO Skipped (district Spandau not in allowlist): ID 23643
