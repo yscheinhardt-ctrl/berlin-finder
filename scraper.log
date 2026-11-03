@@ -19524,3 +19524,8 @@
 2026-11-02T18:41:29+0000 INFO Notified: ID 23709 — Goldhähnchenweg 17, 12359 Neukölln
 2026-11-03T01:16:45+0000 INFO Fetched page: 476 total IDs, 10 rendered details
 2026-11-03T01:16:45+0000 INFO 0 new offer(s) found
+2026-11-03T07:59:17+0000 INFO Fetched page: 472 total IDs, 10 rendered details
+2026-11-03T07:59:17+0000 INFO 3 new offer(s) found
+2026-11-03T07:59:17+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 23711
+2026-11-03T07:59:17+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 23712
+2026-11-03T07:59:17+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23713
