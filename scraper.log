@@ -19661,3 +19661,51 @@
 📍 Britzer Damm 66, 12347
 2026-11-03T16:04:35+0000 INFO Notified: ID 23773 — Britzer Damm 66, 12347 Neukölln
 2026-11-03T16:04:35+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23774
+2026-11-03T21:41:57+0000 INFO Fetched page: 509 total IDs, 10 rendered details
+2026-11-03T21:41:57+0000 INFO 22 new offer(s) found
+2026-11-03T21:41:57+0000 WARNING ID 23775 not in top-10 details (>10 new in one window?)
+2026-11-03T21:41:58+0000 INFO Telegram sent: 🏠 New offer (ID 23775) — details not rendered, see site:
+🔗 h
+2026-11-03T21:41:58+0000 WARNING ID 23776 not in top-10 details (>10 new in one window?)
+2026-11-03T21:41:58+0000 INFO Telegram sent: 🏠 New offer (ID 23776) — details not rendered, see site:
+🔗 h
+2026-11-03T21:41:58+0000 WARNING ID 23777 not in top-10 details (>10 new in one window?)
+2026-11-03T21:41:58+0000 INFO Telegram sent: 🏠 New offer (ID 23777) — details not rendered, see site:
+🔗 h
+2026-11-03T21:41:58+0000 WARNING ID 23778 not in top-10 details (>10 new in one window?)
+2026-11-03T21:41:59+0000 INFO Telegram sent: 🏠 New offer (ID 23778) — details not rendered, see site:
+🔗 h
+2026-11-03T21:41:59+0000 WARNING ID 23779 not in top-10 details (>10 new in one window?)
+2026-11-03T21:41:59+0000 INFO Telegram sent: 🏠 New offer (ID 23779) — details not rendered, see site:
+🔗 h
+2026-11-03T21:41:59+0000 WARNING ID 23780 not in top-10 details (>10 new in one window?)
+2026-11-03T21:42:00+0000 INFO Telegram sent: 🏠 New offer (ID 23780) — details not rendered, see site:
+🔗 h
+2026-11-03T21:42:00+0000 WARNING ID 23781 not in top-10 details (>10 new in one window?)
+2026-11-03T21:42:00+0000 INFO Telegram sent: 🏠 New offer (ID 23781) — details not rendered, see site:
+🔗 h
+2026-11-03T21:42:00+0000 WARNING ID 23782 not in top-10 details (>10 new in one window?)
+2026-11-03T21:42:00+0000 INFO Telegram sent: 🏠 New offer (ID 23782) — details not rendered, see site:
+🔗 h
+2026-11-03T21:42:00+0000 WARNING ID 23783 not in top-10 details (>10 new in one window?)
+2026-11-03T21:42:01+0000 INFO Telegram sent: 🏠 New offer (ID 23783) — details not rendered, see site:
+🔗 h
+2026-11-03T21:42:01+0000 WARNING ID 23784 not in top-10 details (>10 new in one window?)
+2026-11-03T21:42:01+0000 INFO Telegram sent: 🏠 New offer (ID 23784) — details not rendered, see site:
+🔗 h
+2026-11-03T21:42:01+0000 WARNING ID 23785 not in top-10 details (>10 new in one window?)
+2026-11-03T21:42:01+0000 INFO Telegram sent: 🏠 New offer (ID 23785) — details not rendered, see site:
+🔗 h
+2026-11-03T21:42:01+0000 WARNING ID 23786 not in top-10 details (>10 new in one window?)
+2026-11-03T21:42:02+0000 INFO Telegram sent: 🏠 New offer (ID 23786) — details not rendered, see site:
+🔗 h
+2026-11-03T21:42:02+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23789
+2026-11-03T21:42:02+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23790
+2026-11-03T21:42:02+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23791
+2026-11-03T21:42:02+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 23792
+2026-11-03T21:42:02+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 23793
+2026-11-03T21:42:02+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 23794
+2026-11-03T21:42:02+0000 INFO Skipped (district Pankow not in allowlist): ID 23795
+2026-11-03T21:42:02+0000 INFO Skipped (district Pankow not in allowlist): ID 23796
+2026-11-03T21:42:02+0000 INFO Skipped (district Pankow not in allowlist): ID 23797
+2026-11-03T21:42:02+0000 INFO Skipped (district Pankow not in allowlist): ID 23798
