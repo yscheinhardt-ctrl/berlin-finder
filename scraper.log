@@ -19881,3 +19881,27 @@
 2026-11-04T16:10:35+0000 INFO Skipped (district Spandau not in allowlist): ID 23883
 2026-11-04T16:10:35+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 23884
 2026-11-04T16:10:35+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23885
+2026-11-04T21:52:02+0000 INFO Fetched page: 524 total IDs, 10 rendered details
+2026-11-04T21:52:02+0000 INFO 13 new offer(s) found
+2026-11-04T21:52:02+0000 WARNING ID 23886 not in top-10 details (>10 new in one window?)
+2026-11-04T21:52:03+0000 INFO Telegram sent: 🏠 New offer (ID 23886) — details not rendered, see site:
+🔗 h
+2026-11-04T21:52:03+0000 WARNING ID 23887 not in top-10 details (>10 new in one window?)
+2026-11-04T21:52:03+0000 INFO Telegram sent: 🏠 New offer (ID 23887) — details not rendered, see site:
+🔗 h
+2026-11-04T21:52:03+0000 WARNING ID 23889 not in top-10 details (>10 new in one window?)
+2026-11-04T21:52:04+0000 INFO Telegram sent: 🏠 New offer (ID 23889) — details not rendered, see site:
+🔗 h
+2026-11-04T21:52:04+0000 INFO Skipped (district Pankow not in allowlist): ID 23893
+2026-11-04T21:52:04+0000 INFO Skipped (district Pankow not in allowlist): ID 23894
+2026-11-04T21:52:04+0000 INFO Skipped (district Pankow not in allowlist): ID 23895
+2026-11-04T21:52:04+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23896
+2026-11-04T21:52:04+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23897
+2026-11-04T21:52:04+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 23898
+2026-11-04T21:52:04+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Heinrich-Schlusnus-Str
+2026-11-04T21:52:04+0000 INFO Notified: ID 23900 — Heinrich-Schlusnus-Straße 12, 12057 Neukölln
+2026-11-04T21:52:04+0000 INFO Skipped (district Pankow not in allowlist): ID 23901
+2026-11-04T21:52:04+0000 INFO Skipped (district Pankow not in allowlist): ID 23902
+2026-11-04T21:52:04+0000 INFO Skipped (district Pankow not in allowlist): ID 23903
