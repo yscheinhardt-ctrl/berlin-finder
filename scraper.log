@@ -19715,3 +19715,10 @@
 2026-11-04T01:40:30+0000 INFO Skipped (district Pankow not in allowlist): ID 23800
 2026-11-04T01:40:30+0000 INFO Skipped (district Pankow not in allowlist): ID 23801
 2026-11-04T01:40:30+0000 INFO Skipped (district Pankow not in allowlist): ID 23802
+2026-11-04T08:01:14+0000 INFO Fetched page: 509 total IDs, 10 rendered details
+2026-11-04T08:01:14+0000 INFO 5 new offer(s) found
+2026-11-04T08:01:14+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23803
+2026-11-04T08:01:14+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23804
+2026-11-04T08:01:14+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 23805
+2026-11-04T08:01:14+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 23806
+2026-11-04T08:01:14+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 23807
