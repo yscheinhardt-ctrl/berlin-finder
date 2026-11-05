@@ -20104,3 +20104,11 @@
 
 📍 Christoph-Ruden-Straße
 2026-11-05T16:53:41+0000 INFO Notified: ID 23986 — Christoph-Ruden-Straße 12, 12349 Neukölln
+2026-11-05T22:28:16+0000 INFO Fetched page: 542 total IDs, 10 rendered details
+2026-11-05T22:28:16+0000 INFO 6 new offer(s) found
+2026-11-05T22:28:16+0000 INFO Skipped (district Spandau not in allowlist): ID 23987
+2026-11-05T22:28:16+0000 INFO Skipped (district Spandau not in allowlist): ID 23988
+2026-11-05T22:28:16+0000 INFO Skipped (district Spandau not in allowlist): ID 23989
+2026-11-05T22:28:16+0000 INFO Skipped (district Spandau not in allowlist): ID 23990
+2026-11-05T22:28:16+0000 INFO Skipped (district Pankow not in allowlist): ID 23991
+2026-11-05T22:28:16+0000 INFO Skipped (district Pankow not in allowlist): ID 23992
