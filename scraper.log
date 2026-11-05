@@ -19907,3 +19907,26 @@
 2026-11-04T21:52:04+0000 INFO Skipped (district Pankow not in allowlist): ID 23903
 2026-11-05T01:53:13+0000 INFO Fetched page: 522 total IDs, 10 rendered details
 2026-11-05T01:53:13+0000 INFO 0 new offer(s) found
+2026-11-05T08:50:18+0000 INFO Fetched page: 520 total IDs, 10 rendered details
+2026-11-05T08:50:18+0000 INFO 9 new offer(s) found
+2026-11-05T08:50:18+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 23904
+2026-11-05T08:50:18+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 23905
+2026-11-05T08:50:18+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 23906
+2026-11-05T08:50:19+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Greveweg 3
+2026-11-05T08:50:19+0000 INFO Notified: ID 23907 — Greveweg 3, 12103 Tempelhof-Schöneberg
+2026-11-05T08:50:19+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Gutschmidtstraße 7, 12
+2026-11-05T08:50:19+0000 INFO Notified: ID 23908 — Gutschmidtstraße 7, 12359 Neukölln
+2026-11-05T08:50:19+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 23909
+2026-11-05T08:50:19+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Gradestraße 22, 12347 
+2026-11-05T08:50:19+0000 INFO Notified: ID 23910 — Gradestraße 22, 12347 Neukölln
+2026-11-05T08:50:19+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 23911
+2026-11-05T08:50:20+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Zwickauer Damm 12, 123
+2026-11-05T08:50:20+0000 INFO Notified: ID 23912 — Zwickauer Damm 12, 12353 Neukölln
