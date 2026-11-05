@@ -19905,3 +19905,5 @@
 2026-11-04T21:52:04+0000 INFO Skipped (district Pankow not in allowlist): ID 23901
 2026-11-04T21:52:04+0000 INFO Skipped (district Pankow not in allowlist): ID 23902
 2026-11-04T21:52:04+0000 INFO Skipped (district Pankow not in allowlist): ID 23903
+2026-11-05T01:53:13+0000 INFO Fetched page: 522 total IDs, 10 rendered details
+2026-11-05T01:53:13+0000 INFO 0 new offer(s) found
