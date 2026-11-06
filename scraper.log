@@ -20114,3 +20114,45 @@
 2026-11-05T22:28:16+0000 INFO Skipped (district Pankow not in allowlist): ID 23992
 2026-11-06T02:45:34+0000 INFO Fetched page: 542 total IDs, 10 rendered details
 2026-11-06T02:45:34+0000 INFO 0 new offer(s) found
+2026-11-06T09:55:49+0000 INFO Fetched page: 532 total IDs, 10 rendered details
+2026-11-06T09:55:49+0000 INFO 18 new offer(s) found
+2026-11-06T09:55:49+0000 WARNING ID 23993 not in top-10 details (>10 new in one window?)
+2026-11-06T09:55:49+0000 INFO Telegram sent: 🏠 New offer (ID 23993) — details not rendered, see site:
+🔗 h
+2026-11-06T09:55:49+0000 WARNING ID 23994 not in top-10 details (>10 new in one window?)
+2026-11-06T09:55:49+0000 INFO Telegram sent: 🏠 New offer (ID 23994) — details not rendered, see site:
+🔗 h
+2026-11-06T09:55:49+0000 WARNING ID 23995 not in top-10 details (>10 new in one window?)
+2026-11-06T09:55:50+0000 INFO Telegram sent: 🏠 New offer (ID 23995) — details not rendered, see site:
+🔗 h
+2026-11-06T09:55:50+0000 WARNING ID 23996 not in top-10 details (>10 new in one window?)
+2026-11-06T09:55:50+0000 INFO Telegram sent: 🏠 New offer (ID 23996) — details not rendered, see site:
+🔗 h
+2026-11-06T09:55:50+0000 WARNING ID 23997 not in top-10 details (>10 new in one window?)
+2026-11-06T09:55:52+0000 INFO Telegram sent: 🏠 New offer (ID 23997) — details not rendered, see site:
+🔗 h
+2026-11-06T09:55:52+0000 WARNING ID 23998 not in top-10 details (>10 new in one window?)
+2026-11-06T09:55:52+0000 INFO Telegram sent: 🏠 New offer (ID 23998) — details not rendered, see site:
+🔗 h
+2026-11-06T09:55:52+0000 WARNING ID 23999 not in top-10 details (>10 new in one window?)
+2026-11-06T09:55:53+0000 INFO Telegram sent: 🏠 New offer (ID 23999) — details not rendered, see site:
+🔗 h
+2026-11-06T09:55:53+0000 WARNING ID 24000 not in top-10 details (>10 new in one window?)
+2026-11-06T09:55:53+0000 INFO Telegram sent: 🏠 New offer (ID 24000) — details not rendered, see site:
+🔗 h
+2026-11-06T09:55:53+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Karl-M
+2026-11-06T09:55:53+0000 INFO Notified: ID 24001 — Karl-Marx-Allee 104, 10243 Friedrichshain-Kreuzberg
+2026-11-06T09:55:53+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24003
+2026-11-06T09:55:53+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24004
+2026-11-06T09:55:53+0000 INFO Skipped (district Spandau not in allowlist): ID 24005
+2026-11-06T09:55:53+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 24006
+2026-11-06T09:55:53+0000 INFO Skipped (district Pankow not in allowlist): ID 24007
+2026-11-06T09:55:53+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24008
+2026-11-06T09:55:53+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24009
+2026-11-06T09:55:54+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Rosenthaler Straße 17, 10
+2026-11-06T09:55:54+0000 INFO Notified: ID 24010 — Rosenthaler Straße 17, 10119 Mitte
+2026-11-06T09:55:54+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24011
