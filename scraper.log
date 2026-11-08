@@ -20260,3 +20260,10 @@
 
 📍 Lichtenrad
 2026-11-08T15:28:01+0000 INFO Notified: ID 24054 — Lichtenrader Damm 216, 12305 Tempelhof-Schöneberg
+2026-11-08T19:53:20+0000 INFO Fetched page: 523 total IDs, 10 rendered details
+2026-11-08T19:53:20+0000 INFO 5 new offer(s) found
+2026-11-08T19:53:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24055
+2026-11-08T19:53:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24056
+2026-11-08T19:53:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24057
+2026-11-08T19:53:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24058
+2026-11-08T19:53:20+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 24059
