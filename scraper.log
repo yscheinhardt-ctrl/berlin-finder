@@ -20504,3 +20504,63 @@
 2026-11-10T03:18:46+0000 INFO Fetched page: 557 total IDs, 10 rendered details
 2026-11-10T03:18:46+0000 INFO 1 new offer(s) found
 2026-11-10T03:18:46+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24156
+2026-11-10T11:24:46+0000 INFO Fetched page: 560 total IDs, 10 rendered details
+2026-11-10T11:24:46+0000 INFO 26 new offer(s) found
+2026-11-10T11:24:46+0000 WARNING ID 24157 not in top-10 details (>10 new in one window?)
+2026-11-10T11:24:46+0000 INFO Telegram sent: 🏠 New offer (ID 24157) — details not rendered, see site:
+🔗 h
+2026-11-10T11:24:46+0000 WARNING ID 24158 not in top-10 details (>10 new in one window?)
+2026-11-10T11:24:47+0000 INFO Telegram sent: 🏠 New offer (ID 24158) — details not rendered, see site:
+🔗 h
+2026-11-10T11:24:47+0000 WARNING ID 24159 not in top-10 details (>10 new in one window?)
+2026-11-10T11:24:47+0000 INFO Telegram sent: 🏠 New offer (ID 24159) — details not rendered, see site:
+🔗 h
+2026-11-10T11:24:47+0000 WARNING ID 24160 not in top-10 details (>10 new in one window?)
+2026-11-10T11:24:47+0000 INFO Telegram sent: 🏠 New offer (ID 24160) — details not rendered, see site:
+🔗 h
+2026-11-10T11:24:47+0000 WARNING ID 24161 not in top-10 details (>10 new in one window?)
+2026-11-10T11:24:48+0000 INFO Telegram sent: 🏠 New offer (ID 24161) — details not rendered, see site:
+🔗 h
+2026-11-10T11:24:48+0000 WARNING ID 24162 not in top-10 details (>10 new in one window?)
+2026-11-10T11:24:48+0000 INFO Telegram sent: 🏠 New offer (ID 24162) — details not rendered, see site:
+🔗 h
+2026-11-10T11:24:48+0000 WARNING ID 24163 not in top-10 details (>10 new in one window?)
+2026-11-10T11:24:48+0000 INFO Telegram sent: 🏠 New offer (ID 24163) — details not rendered, see site:
+🔗 h
+2026-11-10T11:24:48+0000 WARNING ID 24164 not in top-10 details (>10 new in one window?)
+2026-11-10T11:24:49+0000 INFO Telegram sent: 🏠 New offer (ID 24164) — details not rendered, see site:
+🔗 h
+2026-11-10T11:24:49+0000 WARNING ID 24165 not in top-10 details (>10 new in one window?)
+2026-11-10T11:24:49+0000 INFO Telegram sent: 🏠 New offer (ID 24165) — details not rendered, see site:
+🔗 h
+2026-11-10T11:24:49+0000 WARNING ID 24166 not in top-10 details (>10 new in one window?)
+2026-11-10T11:24:49+0000 INFO Telegram sent: 🏠 New offer (ID 24166) — details not rendered, see site:
+🔗 h
+2026-11-10T11:24:49+0000 WARNING ID 24167 not in top-10 details (>10 new in one window?)
+2026-11-10T11:24:50+0000 INFO Telegram sent: 🏠 New offer (ID 24167) — details not rendered, see site:
+🔗 h
+2026-11-10T11:24:50+0000 WARNING ID 24168 not in top-10 details (>10 new in one window?)
+2026-11-10T11:24:50+0000 INFO Telegram sent: 🏠 New offer (ID 24168) — details not rendered, see site:
+🔗 h
+2026-11-10T11:24:50+0000 WARNING ID 24169 not in top-10 details (>10 new in one window?)
+2026-11-10T11:24:51+0000 INFO Telegram sent: 🏠 New offer (ID 24169) — details not rendered, see site:
+🔗 h
+2026-11-10T11:24:51+0000 WARNING ID 24170 not in top-10 details (>10 new in one window?)
+2026-11-10T11:24:51+0000 INFO Telegram sent: 🏠 New offer (ID 24170) — details not rendered, see site:
+🔗 h
+2026-11-10T11:24:51+0000 WARNING ID 24171 not in top-10 details (>10 new in one window?)
+2026-11-10T11:24:51+0000 INFO Telegram sent: 🏠 New offer (ID 24171) — details not rendered, see site:
+🔗 h
+2026-11-10T11:24:51+0000 WARNING ID 24172 not in top-10 details (>10 new in one window?)
+2026-11-10T11:24:52+0000 INFO Telegram sent: 🏠 New offer (ID 24172) — details not rendered, see site:
+🔗 h
+2026-11-10T11:24:52+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24173
+2026-11-10T11:24:52+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24174
+2026-11-10T11:24:52+0000 INFO Skipped (district Pankow not in allowlist): ID 24175
+2026-11-10T11:24:52+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24176
+2026-11-10T11:24:52+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24179
+2026-11-10T11:24:52+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24180
+2026-11-10T11:24:52+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24181
+2026-11-10T11:24:52+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24182
+2026-11-10T11:24:52+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24183
+2026-11-10T11:24:52+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24184
