@@ -20988,3 +20988,51 @@
 
 📍 Lehrter Straße 43, 10557 
 2026-11-13T10:01:02+0000 INFO Notified: ID 24374 — Lehrter Straße 43, 10557 Mitte
+2026-11-13T17:38:06+0000 INFO Fetched page: 561 total IDs, 10 rendered details
+2026-11-13T17:38:06+0000 INFO 21 new offer(s) found
+2026-11-13T17:38:06+0000 WARNING ID 24378 not in top-10 details (>10 new in one window?)
+2026-11-13T17:38:06+0000 INFO Telegram sent: 🏠 New offer (ID 24378) — details not rendered, see site:
+🔗 h
+2026-11-13T17:38:06+0000 WARNING ID 24379 not in top-10 details (>10 new in one window?)
+2026-11-13T17:38:06+0000 INFO Telegram sent: 🏠 New offer (ID 24379) — details not rendered, see site:
+🔗 h
+2026-11-13T17:38:06+0000 WARNING ID 24384 not in top-10 details (>10 new in one window?)
+2026-11-13T17:38:07+0000 INFO Telegram sent: 🏠 New offer (ID 24384) — details not rendered, see site:
+🔗 h
+2026-11-13T17:38:07+0000 WARNING ID 24386 not in top-10 details (>10 new in one window?)
+2026-11-13T17:38:07+0000 INFO Telegram sent: 🏠 New offer (ID 24386) — details not rendered, see site:
+🔗 h
+2026-11-13T17:38:07+0000 WARNING ID 24387 not in top-10 details (>10 new in one window?)
+2026-11-13T17:38:07+0000 INFO Telegram sent: 🏠 New offer (ID 24387) — details not rendered, see site:
+🔗 h
+2026-11-13T17:38:07+0000 WARNING ID 24388 not in top-10 details (>10 new in one window?)
+2026-11-13T17:38:08+0000 INFO Telegram sent: 🏠 New offer (ID 24388) — details not rendered, see site:
+🔗 h
+2026-11-13T17:38:08+0000 WARNING ID 24389 not in top-10 details (>10 new in one window?)
+2026-11-13T17:38:08+0000 INFO Telegram sent: 🏠 New offer (ID 24389) — details not rendered, see site:
+🔗 h
+2026-11-13T17:38:08+0000 WARNING ID 24390 not in top-10 details (>10 new in one window?)
+2026-11-13T17:38:08+0000 INFO Telegram sent: 🏠 New offer (ID 24390) — details not rendered, see site:
+🔗 h
+2026-11-13T17:38:08+0000 WARNING ID 24391 not in top-10 details (>10 new in one window?)
+2026-11-13T17:38:09+0000 INFO Telegram sent: 🏠 New offer (ID 24391) — details not rendered, see site:
+🔗 h
+2026-11-13T17:38:09+0000 WARNING ID 24392 not in top-10 details (>10 new in one window?)
+2026-11-13T17:38:09+0000 INFO Telegram sent: 🏠 New offer (ID 24392) — details not rendered, see site:
+🔗 h
+2026-11-13T17:38:09+0000 WARNING ID 24393 not in top-10 details (>10 new in one window?)
+2026-11-13T17:38:09+0000 INFO Telegram sent: 🏠 New offer (ID 24393) — details not rendered, see site:
+🔗 h
+2026-11-13T17:38:09+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24394
+2026-11-13T17:38:10+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Zwickauer Damm 12, 123
+2026-11-13T17:38:10+0000 INFO Notified: ID 24397 — Zwickauer Damm 12, 12353 Neukölln
+2026-11-13T17:38:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24399
+2026-11-13T17:38:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24400
+2026-11-13T17:38:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24401
+2026-11-13T17:38:10+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24402
+2026-11-13T17:38:10+0000 INFO Skipped (district Spandau not in allowlist): ID 24404
+2026-11-13T17:38:10+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24405
+2026-11-13T17:38:10+0000 INFO Skipped (district Spandau not in allowlist): ID 24407
+2026-11-13T17:38:10+0000 INFO Skipped (district Spandau not in allowlist): ID 24408
