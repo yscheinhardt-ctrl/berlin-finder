@@ -20967,3 +20967,24 @@
 2026-11-13T02:41:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24358
 2026-11-13T02:41:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24359
 2026-11-13T02:41:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24360
+2026-11-13T10:01:00+0000 INFO Fetched page: 574 total IDs, 10 rendered details
+2026-11-13T10:01:00+0000 INFO 12 new offer(s) found
+2026-11-13T10:01:00+0000 WARNING ID 24361 not in top-10 details (>10 new in one window?)
+2026-11-13T10:01:01+0000 INFO Telegram sent: 🏠 New offer (ID 24361) — details not rendered, see site:
+🔗 h
+2026-11-13T10:01:01+0000 WARNING ID 24362 not in top-10 details (>10 new in one window?)
+2026-11-13T10:01:01+0000 INFO Telegram sent: 🏠 New offer (ID 24362) — details not rendered, see site:
+🔗 h
+2026-11-13T10:01:01+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24363
+2026-11-13T10:01:01+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24364
+2026-11-13T10:01:01+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24366
+2026-11-13T10:01:01+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 24367
+2026-11-13T10:01:01+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24368
+2026-11-13T10:01:01+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24369
+2026-11-13T10:01:01+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24370
+2026-11-13T10:01:01+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24371
+2026-11-13T10:01:01+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24373
+2026-11-13T10:01:02+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Lehrter Straße 43, 10557 
+2026-11-13T10:01:02+0000 INFO Notified: ID 24374 — Lehrter Straße 43, 10557 Mitte
