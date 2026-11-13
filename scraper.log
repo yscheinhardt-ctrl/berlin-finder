@@ -20958,3 +20958,12 @@
 2026-11-12T16:18:39+0000 INFO Notified: ID 24351 — Ella-Barowsky-Straße 29B, 10829 Tempelhof-Schöneberg
 2026-11-12T16:18:39+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 24352
 2026-11-12T16:18:39+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 24353
+2026-11-13T02:41:45+0000 INFO Fetched page: 580 total IDs, 10 rendered details
+2026-11-13T02:41:45+0000 INFO 7 new offer(s) found
+2026-11-13T02:41:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24354
+2026-11-13T02:41:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24355
+2026-11-13T02:41:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24356
+2026-11-13T02:41:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24357
+2026-11-13T02:41:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24358
+2026-11-13T02:41:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24359
+2026-11-13T02:41:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24360
