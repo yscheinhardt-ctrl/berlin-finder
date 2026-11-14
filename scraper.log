@@ -21040,3 +21040,7 @@
 2026-11-13T22:51:51+0000 INFO 0 new offer(s) found
 2026-11-14T02:47:20+0000 INFO Fetched page: 558 total IDs, 10 rendered details
 2026-11-14T02:47:20+0000 INFO 0 new offer(s) found
+2026-11-14T09:30:53+0000 INFO Fetched page: 558 total IDs, 10 rendered details
+2026-11-14T09:30:53+0000 INFO 2 new offer(s) found
+2026-11-14T09:30:53+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24409
+2026-11-14T09:30:53+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24410
