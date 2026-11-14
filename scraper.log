@@ -21048,3 +21048,7 @@
 2026-11-14T16:01:27+0000 INFO 2 new offer(s) found
 2026-11-14T16:01:27+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 24411
 2026-11-14T16:01:27+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24412
+2026-11-14T20:37:45+0000 INFO Fetched page: 557 total IDs, 10 rendered details
+2026-11-14T20:37:45+0000 INFO 2 new offer(s) found
+2026-11-14T20:37:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24413
+2026-11-14T20:37:45+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24415
