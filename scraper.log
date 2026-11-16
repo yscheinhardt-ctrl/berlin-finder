@@ -21123,3 +21123,42 @@
 2026-11-16T11:03:06+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24437
 2026-11-16T11:03:06+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24438
 2026-11-16T11:03:06+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24439
+2026-11-16T20:56:27+0000 INFO Fetched page: 544 total IDs, 10 rendered details
+2026-11-16T20:56:27+0000 INFO 16 new offer(s) found
+2026-11-16T20:56:27+0000 WARNING ID 24441 not in top-10 details (>10 new in one window?)
+2026-11-16T20:56:27+0000 INFO Telegram sent: 🏠 New offer (ID 24441) — details not rendered, see site:
+🔗 h
+2026-11-16T20:56:27+0000 WARNING ID 24442 not in top-10 details (>10 new in one window?)
+2026-11-16T20:56:28+0000 INFO Telegram sent: 🏠 New offer (ID 24442) — details not rendered, see site:
+🔗 h
+2026-11-16T20:56:28+0000 WARNING ID 24444 not in top-10 details (>10 new in one window?)
+2026-11-16T20:56:28+0000 INFO Telegram sent: 🏠 New offer (ID 24444) — details not rendered, see site:
+🔗 h
+2026-11-16T20:56:28+0000 WARNING ID 24446 not in top-10 details (>10 new in one window?)
+2026-11-16T20:56:29+0000 INFO Telegram sent: 🏠 New offer (ID 24446) — details not rendered, see site:
+🔗 h
+2026-11-16T20:56:29+0000 WARNING ID 24447 not in top-10 details (>10 new in one window?)
+2026-11-16T20:56:29+0000 INFO Telegram sent: 🏠 New offer (ID 24447) — details not rendered, see site:
+🔗 h
+2026-11-16T20:56:29+0000 WARNING ID 24448 not in top-10 details (>10 new in one window?)
+2026-11-16T20:56:29+0000 INFO Telegram sent: 🏠 New offer (ID 24448) — details not rendered, see site:
+🔗 h
+2026-11-16T20:56:30+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-11-16T20:56:30+0000 INFO Notified: ID 24450 — Tirschenreuther Ring 16, 12279 Tempelhof-Schöneberg
+2026-11-16T20:56:30+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Zwickauer Damm 12, 123
+2026-11-16T20:56:30+0000 INFO Notified: ID 24452 — Zwickauer Damm 12, 12353 Neukölln
+2026-11-16T20:56:30+0000 INFO Skipped (district Spandau not in allowlist): ID 24453
+2026-11-16T20:56:30+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24454
+2026-11-16T20:56:30+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 24456
+2026-11-16T20:56:30+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24457
+2026-11-16T20:56:30+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 24458
+2026-11-16T20:56:30+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24463
+2026-11-16T20:56:31+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Liebig
+2026-11-16T20:56:31+0000 INFO Notified: ID 24472 — Liebigstraße 10, 10247 Friedrichshain-Kreuzberg
+2026-11-16T20:56:31+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24473
