@@ -21066,3 +21066,60 @@
 2026-11-15T23:38:30+0000 INFO 0 new offer(s) found
 2026-11-16T03:06:46+0000 INFO Fetched page: 551 total IDs, 10 rendered details
 2026-11-16T03:06:46+0000 INFO 0 new offer(s) found
+2026-11-16T11:03:00+0000 INFO Fetched page: 550 total IDs, 10 rendered details
+2026-11-16T11:03:00+0000 INFO 21 new offer(s) found
+2026-11-16T11:03:00+0000 WARNING ID 24419 not in top-10 details (>10 new in one window?)
+2026-11-16T11:03:01+0000 INFO Telegram sent: 🏠 New offer (ID 24419) — details not rendered, see site:
+🔗 h
+2026-11-16T11:03:01+0000 WARNING ID 24420 not in top-10 details (>10 new in one window?)
+2026-11-16T11:03:01+0000 INFO Telegram sent: 🏠 New offer (ID 24420) — details not rendered, see site:
+🔗 h
+2026-11-16T11:03:01+0000 WARNING ID 24421 not in top-10 details (>10 new in one window?)
+2026-11-16T11:03:02+0000 INFO Telegram sent: 🏠 New offer (ID 24421) — details not rendered, see site:
+🔗 h
+2026-11-16T11:03:02+0000 WARNING ID 24422 not in top-10 details (>10 new in one window?)
+2026-11-16T11:03:02+0000 INFO Telegram sent: 🏠 New offer (ID 24422) — details not rendered, see site:
+🔗 h
+2026-11-16T11:03:02+0000 WARNING ID 24423 not in top-10 details (>10 new in one window?)
+2026-11-16T11:03:03+0000 INFO Telegram sent: 🏠 New offer (ID 24423) — details not rendered, see site:
+🔗 h
+2026-11-16T11:03:03+0000 WARNING ID 24424 not in top-10 details (>10 new in one window?)
+2026-11-16T11:03:03+0000 INFO Telegram sent: 🏠 New offer (ID 24424) — details not rendered, see site:
+🔗 h
+2026-11-16T11:03:03+0000 WARNING ID 24425 not in top-10 details (>10 new in one window?)
+2026-11-16T11:03:03+0000 INFO Telegram sent: 🏠 New offer (ID 24425) — details not rendered, see site:
+🔗 h
+2026-11-16T11:03:03+0000 WARNING ID 24426 not in top-10 details (>10 new in one window?)
+2026-11-16T11:03:04+0000 INFO Telegram sent: 🏠 New offer (ID 24426) — details not rendered, see site:
+🔗 h
+2026-11-16T11:03:04+0000 WARNING ID 24427 not in top-10 details (>10 new in one window?)
+2026-11-16T11:03:04+0000 INFO Telegram sent: 🏠 New offer (ID 24427) — details not rendered, see site:
+🔗 h
+2026-11-16T11:03:04+0000 WARNING ID 24428 not in top-10 details (>10 new in one window?)
+2026-11-16T11:03:04+0000 INFO Telegram sent: 🏠 New offer (ID 24428) — details not rendered, see site:
+🔗 h
+2026-11-16T11:03:04+0000 WARNING ID 24429 not in top-10 details (>10 new in one window?)
+2026-11-16T11:03:05+0000 INFO Telegram sent: 🏠 New offer (ID 24429) — details not rendered, see site:
+🔗 h
+2026-11-16T11:03:05+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Lichte
+2026-11-16T11:03:05+0000 INFO Notified: ID 24430 — Lichtenberger Straße 20, 10179 Friedrichshain-Kreuzberg
+2026-11-16T11:03:05+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 105A, 1
+2026-11-16T11:03:05+0000 INFO Notified: ID 24431 — Köpenicker Straße 105A, 10179 Mitte
+2026-11-16T11:03:06+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Köpenicker Straße 115, 10
+2026-11-16T11:03:06+0000 INFO Notified: ID 24432 — Köpenicker Straße 115, 10179 Mitte
+2026-11-16T11:03:06+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24433
+2026-11-16T11:03:06+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Alboinplat
+2026-11-16T11:03:06+0000 INFO Notified: ID 24434 — Alboinplatz 8, 12105 Tempelhof-Schöneberg
+2026-11-16T11:03:06+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24435
+2026-11-16T11:03:06+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24436
+2026-11-16T11:03:06+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24437
+2026-11-16T11:03:06+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24438
+2026-11-16T11:03:06+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24439
