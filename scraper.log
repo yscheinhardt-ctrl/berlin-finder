@@ -21162,3 +21162,5 @@
 📍 Liebig
 2026-11-16T20:56:31+0000 INFO Notified: ID 24472 — Liebigstraße 10, 10247 Friedrichshain-Kreuzberg
 2026-11-16T20:56:31+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24473
+2026-11-17T03:27:55+0000 INFO Fetched page: 540 total IDs, 10 rendered details
+2026-11-17T03:27:55+0000 INFO 0 new offer(s) found
