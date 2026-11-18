@@ -21314,3 +21314,6 @@
 2026-11-17T21:06:38+0000 INFO Notified: ID 24538 — Greizer Straße 9, 12279 Tempelhof-Schöneberg
 2026-11-17T21:06:38+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24539
 2026-11-17T21:06:38+0000 INFO Skipped (district Pankow not in allowlist): ID 24541
+2026-11-18T02:51:32+0000 INFO Fetched page: 543 total IDs, 10 rendered details
+2026-11-18T02:51:32+0000 INFO 1 new offer(s) found
+2026-11-18T02:51:32+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24542
