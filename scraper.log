@@ -21365,3 +21365,39 @@
 2026-11-18T10:50:20+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24560
 2026-11-18T10:50:20+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24561
 2026-11-18T10:50:20+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24562
+2026-11-18T19:09:00+0000 INFO Fetched page: 534 total IDs, 10 rendered details
+2026-11-18T19:09:00+0000 INFO 16 new offer(s) found
+2026-11-18T19:09:00+0000 WARNING ID 24566 not in top-10 details (>10 new in one window?)
+2026-11-18T19:09:00+0000 INFO Telegram sent: 🏠 New offer (ID 24566) — details not rendered, see site:
+🔗 h
+2026-11-18T19:09:00+0000 WARNING ID 24567 not in top-10 details (>10 new in one window?)
+2026-11-18T19:09:01+0000 INFO Telegram sent: 🏠 New offer (ID 24567) — details not rendered, see site:
+🔗 h
+2026-11-18T19:09:01+0000 WARNING ID 24568 not in top-10 details (>10 new in one window?)
+2026-11-18T19:09:01+0000 INFO Telegram sent: 🏠 New offer (ID 24568) — details not rendered, see site:
+🔗 h
+2026-11-18T19:09:01+0000 WARNING ID 24569 not in top-10 details (>10 new in one window?)
+2026-11-18T19:09:02+0000 INFO Telegram sent: 🏠 New offer (ID 24569) — details not rendered, see site:
+🔗 h
+2026-11-18T19:09:02+0000 WARNING ID 24570 not in top-10 details (>10 new in one window?)
+2026-11-18T19:09:02+0000 INFO Telegram sent: 🏠 New offer (ID 24570) — details not rendered, see site:
+🔗 h
+2026-11-18T19:09:02+0000 WARNING ID 24571 not in top-10 details (>10 new in one window?)
+2026-11-18T19:09:03+0000 INFO Telegram sent: 🏠 New offer (ID 24571) — details not rendered, see site:
+🔗 h
+2026-11-18T19:09:03+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24573
+2026-11-18T19:09:03+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Terw
+2026-11-18T19:09:03+0000 INFO Notified: ID 24575 — Terwielsteig 6, 13627 Charlottenburg-Wilmersdorf
+2026-11-18T19:09:03+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24577
+2026-11-18T19:09:03+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24579
+2026-11-18T19:09:04+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Walter-Franck-Zeile 3,
+2026-11-18T19:09:04+0000 INFO Notified: ID 24580 — Walter-Franck-Zeile 3, 12353 Neukölln
+2026-11-18T19:09:04+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24581
+2026-11-18T19:09:04+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24582
+2026-11-18T19:09:04+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24583
+2026-11-18T19:09:04+0000 INFO Skipped (district Pankow not in allowlist): ID 24587
+2026-11-18T19:09:04+0000 INFO Skipped (district Pankow not in allowlist): ID 24588
