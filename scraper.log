@@ -21506,3 +21506,10 @@
 2026-11-19T17:44:14+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24635
 2026-11-19T17:44:14+0000 INFO Skipped (district Spandau not in allowlist): ID 24638
 2026-11-19T17:44:14+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24639
+2026-11-19T23:53:33+0000 INFO Fetched page: 532 total IDs, 10 rendered details
+2026-11-19T23:53:33+0000 INFO 2 new offer(s) found
+2026-11-19T23:53:33+0000 INFO Skipped (district Pankow not in allowlist): ID 24640
+2026-11-19T23:53:34+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Dircksenstraße 50, 10178 
+2026-11-19T23:53:34+0000 INFO Notified: ID 24643 — Dircksenstraße 50, 10178 Mitte
