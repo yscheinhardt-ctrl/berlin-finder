@@ -21560,3 +21560,6 @@
 
 📍 Kulmer Str
 2026-11-20T14:09:23+0000 INFO Notified: ID 24668 — Kulmer Straße 16, 10783 Tempelhof-Schöneberg
+2026-11-20T21:48:01+0000 INFO Fetched page: 518 total IDs, 10 rendered details
+2026-11-20T21:48:01+0000 INFO 1 new offer(s) found
+2026-11-20T21:48:01+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24669
