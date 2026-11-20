@@ -21515,3 +21515,48 @@
 2026-11-19T23:53:34+0000 INFO Notified: ID 24643 — Dircksenstraße 50, 10178 Mitte
 2026-11-20T05:18:36+0000 INFO Fetched page: 531 total IDs, 10 rendered details
 2026-11-20T05:18:36+0000 INFO 0 new offer(s) found
+2026-11-20T14:09:19+0000 INFO Fetched page: 524 total IDs, 10 rendered details
+2026-11-20T14:09:19+0000 INFO 18 new offer(s) found
+2026-11-20T14:09:19+0000 WARNING ID 24645 not in top-10 details (>10 new in one window?)
+2026-11-20T14:09:20+0000 INFO Telegram sent: 🏠 New offer (ID 24645) — details not rendered, see site:
+🔗 h
+2026-11-20T14:09:20+0000 WARNING ID 24648 not in top-10 details (>10 new in one window?)
+2026-11-20T14:09:20+0000 INFO Telegram sent: 🏠 New offer (ID 24648) — details not rendered, see site:
+🔗 h
+2026-11-20T14:09:20+0000 WARNING ID 24651 not in top-10 details (>10 new in one window?)
+2026-11-20T14:09:21+0000 INFO Telegram sent: 🏠 New offer (ID 24651) — details not rendered, see site:
+🔗 h
+2026-11-20T14:09:21+0000 WARNING ID 24652 not in top-10 details (>10 new in one window?)
+2026-11-20T14:09:21+0000 INFO Telegram sent: 🏠 New offer (ID 24652) — details not rendered, see site:
+🔗 h
+2026-11-20T14:09:21+0000 WARNING ID 24653 not in top-10 details (>10 new in one window?)
+2026-11-20T14:09:21+0000 INFO Telegram sent: 🏠 New offer (ID 24653) — details not rendered, see site:
+🔗 h
+2026-11-20T14:09:21+0000 WARNING ID 24654 not in top-10 details (>10 new in one window?)
+2026-11-20T14:09:22+0000 INFO Telegram sent: 🏠 New offer (ID 24654) — details not rendered, see site:
+🔗 h
+2026-11-20T14:09:22+0000 WARNING ID 24655 not in top-10 details (>10 new in one window?)
+2026-11-20T14:09:22+0000 INFO Telegram sent: 🏠 New offer (ID 24655) — details not rendered, see site:
+🔗 h
+2026-11-20T14:09:22+0000 WARNING ID 24657 not in top-10 details (>10 new in one window?)
+2026-11-20T14:09:22+0000 INFO Telegram sent: 🏠 New offer (ID 24657) — details not rendered, see site:
+🔗 h
+2026-11-20T14:09:22+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24658
+2026-11-20T14:09:22+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24659
+2026-11-20T14:09:22+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24660
+2026-11-20T14:09:22+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24661
+2026-11-20T14:09:22+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24662
+2026-11-20T14:09:22+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24663
+2026-11-20T14:09:22+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24665
+2026-11-20T14:09:23+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Wier
+2026-11-20T14:09:23+0000 INFO Notified: ID 24666 — Wiersichweg 5, 13627 Charlottenburg-Wilmersdorf
+2026-11-20T14:09:23+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Wier
+2026-11-20T14:09:23+0000 INFO Notified: ID 24667 — Wiersichweg 7, 13627 Charlottenburg-Wilmersdorf
+2026-11-20T14:09:23+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Kulmer Str
+2026-11-20T14:09:23+0000 INFO Notified: ID 24668 — Kulmer Straße 16, 10783 Tempelhof-Schöneberg
