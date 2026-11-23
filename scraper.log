@@ -21582,3 +21582,45 @@
 2026-11-22T22:51:15+0000 INFO 0 new offer(s) found
 2026-11-23T03:18:19+0000 INFO Fetched page: 518 total IDs, 10 rendered details
 2026-11-23T03:18:19+0000 INFO 0 new offer(s) found
+2026-11-23T13:14:24+0000 INFO Fetched page: 515 total IDs, 10 rendered details
+2026-11-23T13:14:24+0000 INFO 13 new offer(s) found
+2026-11-23T13:14:24+0000 WARNING ID 24672 not in top-10 details (>10 new in one window?)
+2026-11-23T13:14:24+0000 INFO Telegram sent: 🏠 New offer (ID 24672) — details not rendered, see site:
+🔗 h
+2026-11-23T13:14:24+0000 WARNING ID 24673 not in top-10 details (>10 new in one window?)
+2026-11-23T13:14:25+0000 INFO Telegram sent: 🏠 New offer (ID 24673) — details not rendered, see site:
+🔗 h
+2026-11-23T13:14:25+0000 WARNING ID 24674 not in top-10 details (>10 new in one window?)
+2026-11-23T13:14:25+0000 INFO Telegram sent: 🏠 New offer (ID 24674) — details not rendered, see site:
+🔗 h
+2026-11-23T13:14:25+0000 INFO Skipped (district Pankow not in allowlist): ID 24675
+2026-11-23T13:14:26+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Horstwalde
+2026-11-23T13:14:26+0000 INFO Notified: ID 24676 — Horstwalder Straße 5A, 12307 Tempelhof-Schöneberg
+2026-11-23T13:14:26+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Iranische Straße 4B, 1334
+2026-11-23T13:14:26+0000 INFO Notified: ID 24677 — Iranische Straße 4B, 13347 Mitte
+2026-11-23T13:14:26+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Charlottenburg-Wilmersdorf
+
+📍 Wies
+2026-11-23T13:14:26+0000 INFO Notified: ID 24678 — Wiesbadener Straße 50C, 14197 Charlottenburg-Wilmersdorf
+2026-11-23T13:14:26+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24679
+2026-11-23T13:14:27+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-11-23T13:14:27+0000 INFO Notified: ID 24680 — Tirschenreuther Ring 20, 12279 Tempelhof-Schöneberg
+2026-11-23T13:14:27+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24681
+2026-11-23T13:14:27+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Tirschenre
+2026-11-23T13:14:27+0000 INFO Notified: ID 24682 — Tirschenreuther Ring 16, 12279 Tempelhof-Schöneberg
+2026-11-23T13:14:27+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Swinemünder Straße 86, 13
+2026-11-23T13:14:27+0000 INFO Notified: ID 24683 — Swinemünder Straße 86, 13355 Mitte
+2026-11-23T13:14:28+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Friedrichsgracht 57, 1017
+2026-11-23T13:14:28+0000 INFO Notified: ID 24684 — Friedrichsgracht 57, 10178 Mitte
