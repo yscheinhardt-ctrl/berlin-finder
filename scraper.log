@@ -21642,3 +21642,27 @@
 2026-11-24T00:58:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24694
 2026-11-24T00:58:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24695
 2026-11-24T00:58:33+0000 INFO Skipped (district Spandau not in allowlist): ID 24696
+2026-11-24T10:47:56+0000 INFO Fetched page: 525 total IDs, 10 rendered details
+2026-11-24T10:47:56+0000 INFO 11 new offer(s) found
+2026-11-24T10:47:56+0000 WARNING ID 24699 not in top-10 details (>10 new in one window?)
+2026-11-24T10:47:56+0000 INFO Telegram sent: 🏠 New offer (ID 24699) — details not rendered, see site:
+🔗 h
+2026-11-24T10:47:56+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Iranische Straße 4B, 1334
+2026-11-24T10:47:56+0000 INFO Notified: ID 24700 — Iranische Straße 4B, 13347 Mitte
+2026-11-24T10:47:56+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24701
+2026-11-24T10:47:56+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 24702
+2026-11-24T10:47:56+0000 INFO Skipped (district Spandau not in allowlist): ID 24703
+2026-11-24T10:47:56+0000 INFO Skipped (district Steglitz-Zehlendorf not in allowlist): ID 24704
+2026-11-24T10:47:56+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24705
+2026-11-24T10:47:57+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Mitte
+
+📍 Lichtenberger Straße 30, 
+2026-11-24T10:47:57+0000 INFO Notified: ID 24706 — Lichtenberger Straße 30, 10179 Mitte
+2026-11-24T10:47:57+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Stalls
+2026-11-24T10:47:57+0000 INFO Notified: ID 24707 — Stallschreiberstraße 8, 10969 Friedrichshain-Kreuzberg
+2026-11-24T10:47:57+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24708
+2026-11-24T10:47:57+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24709
