@@ -21624,3 +21624,21 @@
 
 📍 Friedrichsgracht 57, 1017
 2026-11-23T13:14:28+0000 INFO Notified: ID 24684 — Friedrichsgracht 57, 10178 Mitte
+2026-11-24T00:58:32+0000 INFO Fetched page: 521 total IDs, 10 rendered details
+2026-11-24T00:58:32+0000 INFO 11 new offer(s) found
+2026-11-24T00:58:32+0000 WARNING ID 24685 not in top-10 details (>10 new in one window?)
+2026-11-24T00:58:33+0000 INFO Telegram sent: 🏠 New offer (ID 24685) — details not rendered, see site:
+🔗 h
+2026-11-24T00:58:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24686
+2026-11-24T00:58:33+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24687
+2026-11-24T00:58:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24688
+2026-11-24T00:58:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24689
+2026-11-24T00:58:33+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Neukölln
+
+📍 Fritz-Erler-Allee 166,
+2026-11-24T00:58:33+0000 INFO Notified: ID 24690 — Fritz-Erler-Allee 166, 12353 Neukölln
+2026-11-24T00:58:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24691
+2026-11-24T00:58:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24693
+2026-11-24T00:58:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24694
+2026-11-24T00:58:33+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24695
+2026-11-24T00:58:33+0000 INFO Skipped (district Spandau not in allowlist): ID 24696
