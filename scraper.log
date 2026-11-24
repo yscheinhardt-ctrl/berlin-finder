@@ -21666,3 +21666,45 @@
 2026-11-24T10:47:57+0000 INFO Notified: ID 24707 — Stallschreiberstraße 8, 10969 Friedrichshain-Kreuzberg
 2026-11-24T10:47:57+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24708
 2026-11-24T10:47:57+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24709
+2026-11-24T20:53:34+0000 INFO Fetched page: 533 total IDs, 10 rendered details
+2026-11-24T20:53:34+0000 INFO 20 new offer(s) found
+2026-11-24T20:53:34+0000 WARNING ID 24710 not in top-10 details (>10 new in one window?)
+2026-11-24T20:53:35+0000 INFO Telegram sent: 🏠 New offer (ID 24710) — details not rendered, see site:
+🔗 h
+2026-11-24T20:53:35+0000 WARNING ID 24713 not in top-10 details (>10 new in one window?)
+2026-11-24T20:53:35+0000 INFO Telegram sent: 🏠 New offer (ID 24713) — details not rendered, see site:
+🔗 h
+2026-11-24T20:53:35+0000 WARNING ID 24714 not in top-10 details (>10 new in one window?)
+2026-11-24T20:53:35+0000 INFO Telegram sent: 🏠 New offer (ID 24714) — details not rendered, see site:
+🔗 h
+2026-11-24T20:53:35+0000 WARNING ID 24715 not in top-10 details (>10 new in one window?)
+2026-11-24T20:53:36+0000 INFO Telegram sent: 🏠 New offer (ID 24715) — details not rendered, see site:
+🔗 h
+2026-11-24T20:53:36+0000 WARNING ID 24717 not in top-10 details (>10 new in one window?)
+2026-11-24T20:53:36+0000 INFO Telegram sent: 🏠 New offer (ID 24717) — details not rendered, see site:
+🔗 h
+2026-11-24T20:53:36+0000 WARNING ID 24718 not in top-10 details (>10 new in one window?)
+2026-11-24T20:53:36+0000 INFO Telegram sent: 🏠 New offer (ID 24718) — details not rendered, see site:
+🔗 h
+2026-11-24T20:53:36+0000 WARNING ID 24721 not in top-10 details (>10 new in one window?)
+2026-11-24T20:53:37+0000 INFO Telegram sent: 🏠 New offer (ID 24721) — details not rendered, see site:
+🔗 h
+2026-11-24T20:53:37+0000 WARNING ID 24722 not in top-10 details (>10 new in one window?)
+2026-11-24T20:53:37+0000 INFO Telegram sent: 🏠 New offer (ID 24722) — details not rendered, see site:
+🔗 h
+2026-11-24T20:53:37+0000 WARNING ID 24723 not in top-10 details (>10 new in one window?)
+2026-11-24T20:53:37+0000 INFO Telegram sent: 🏠 New offer (ID 24723) — details not rendered, see site:
+🔗 h
+2026-11-24T20:53:37+0000 WARNING ID 24724 not in top-10 details (>10 new in one window?)
+2026-11-24T20:53:37+0000 INFO Telegram sent: 🏠 New offer (ID 24724) — details not rendered, see site:
+🔗 h
+2026-11-24T20:53:37+0000 INFO Skipped (district Spandau not in allowlist): ID 24725
+2026-11-24T20:53:37+0000 INFO Skipped (district Spandau not in allowlist): ID 24726
+2026-11-24T20:53:37+0000 INFO Skipped (district Spandau not in allowlist): ID 24728
+2026-11-24T20:53:37+0000 INFO Skipped (district Spandau not in allowlist): ID 24729
+2026-11-24T20:53:37+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24730
+2026-11-24T20:53:37+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24733
+2026-11-24T20:53:37+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24734
+2026-11-24T20:53:37+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24735
+2026-11-24T20:53:37+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24736
+2026-11-24T20:53:37+0000 INFO Skipped (district Spandau not in allowlist): ID 24737
