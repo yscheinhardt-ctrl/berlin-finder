@@ -21860,3 +21860,5 @@
 2026-11-25T22:50:55+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24815
 2026-11-25T22:50:55+0000 INFO Skipped (district Treptow-Köpenick not in allowlist): ID 24816
 2026-11-25T22:50:55+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24817
+2026-11-26T04:32:36+0000 INFO Fetched page: 553 total IDs, 10 rendered details
+2026-11-26T04:32:36+0000 INFO 0 new offer(s) found
