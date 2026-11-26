@@ -21997,3 +21997,33 @@
 2026-11-26T14:20:59+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24874
 2026-11-26T14:20:59+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24875
 2026-11-26T14:20:59+0000 INFO Skipped (district Pankow not in allowlist): ID 24876
+2026-11-26T23:06:26+0000 INFO Fetched page: 584 total IDs, 10 rendered details
+2026-11-26T23:06:26+0000 INFO 13 new offer(s) found
+2026-11-26T23:06:26+0000 WARNING ID 24878 not in top-10 details (>10 new in one window?)
+2026-11-26T23:06:27+0000 INFO Telegram sent: 🏠 New offer (ID 24878) — details not rendered, see site:
+🔗 h
+2026-11-26T23:06:27+0000 WARNING ID 24879 not in top-10 details (>10 new in one window?)
+2026-11-26T23:06:27+0000 INFO Telegram sent: 🏠 New offer (ID 24879) — details not rendered, see site:
+🔗 h
+2026-11-26T23:06:27+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24881
+2026-11-26T23:06:27+0000 WARNING ID 24882 not in top-10 details (>10 new in one window?)
+2026-11-26T23:06:27+0000 INFO Telegram sent: 🏠 New offer (ID 24882) — details not rendered, see site:
+🔗 h
+2026-11-26T23:06:27+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24883
+2026-11-26T23:06:28+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Friedrichshain-Kreuzberg
+
+📍 Rieman
+2026-11-26T23:06:28+0000 INFO Notified: ID 24884 — Riemannstraße 22, 10961 Friedrichshain-Kreuzberg
+2026-11-26T23:06:28+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 24886
+2026-11-26T23:06:28+0000 INFO Skipped (district Reinickendorf not in allowlist): ID 24888
+2026-11-26T23:06:28+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Barnetstra
+2026-11-26T23:06:28+0000 INFO Notified: ID 24889 — Barnetstraße 75, 12305 Tempelhof-Schöneberg
+2026-11-26T23:06:28+0000 INFO Telegram sent: 🏠 Neues Wohnungsangebot — Tempelhof-Schöneberg
+
+📍 Barnetstra
+2026-11-26T23:06:28+0000 INFO Notified: ID 24892 — Barnetstraße 69, 12305 Tempelhof-Schöneberg
+2026-11-26T23:06:28+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24897
+2026-11-26T23:06:28+0000 INFO Skipped (district Marzahn-Hellersdorf not in allowlist): ID 24898
+2026-11-26T23:06:28+0000 INFO Skipped (district Pankow not in allowlist): ID 24899
