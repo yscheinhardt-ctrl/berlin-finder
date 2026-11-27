@@ -22125,3 +22125,10 @@
 2026-11-27T14:51:21+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24942
 2026-11-27T14:51:21+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24943
 2026-11-27T14:51:21+0000 INFO Skipped (district Spandau not in allowlist): ID 24944
+2026-11-27T23:01:42+0000 INFO Fetched page: 591 total IDs, 10 rendered details
+2026-11-27T23:01:42+0000 INFO 5 new offer(s) found
+2026-11-27T23:01:42+0000 INFO Skipped (district Spandau not in allowlist): ID 24945
+2026-11-27T23:01:42+0000 INFO Skipped (district Spandau not in allowlist): ID 24946
+2026-11-27T23:01:42+0000 INFO Skipped (district Spandau not in allowlist): ID 24947
+2026-11-27T23:01:42+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24948
+2026-11-27T23:01:42+0000 INFO Skipped (district Lichtenberg not in allowlist): ID 24949
